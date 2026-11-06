@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="580" viewBox="0 0 1000 580" role="img" aria-labelledby="title desc">
+<title id="title">Quarterly unique-customer YoY within the cohort panel</title>
+<desc id="desc">Recent window: 2024Q1 to 2026Q2; supplied paired year-ago customer totals. n=10 quarterly comparisons per brand; n=2 periods per YoY, descriptive only. Audited CAL_QTR totals; calendar labels and additive checks pass; daily coverage unverified. Customers are not passengers. Cohort and Brand Tracker panels are not comparable in dollars. Full retained history, including restart comparisons, is in the source table.</desc>
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="24.00" y="32.00" font-family="Arial, sans-serif" font-size="23" text-anchor="start" fill="#111827">Quarterly unique-customer YoY within the cohort panel</text>
+<text x="24.00" y="58.00" font-family="Arial, sans-serif" font-size="14" text-anchor="start" fill="#111827">Recent window: 2024Q1 to 2026Q2; supplied paired year-ago customer totals</text>
+<line x1="100" x2="136" y1="86" y2="86" stroke="#0072B2" stroke-width="3" stroke-dasharray=""/>
+<text x="144.00" y="91.00" font-family="Arial, sans-serif" font-size="15" text-anchor="start" fill="#111827">Norwegian</text>
+<line x1="386" x2="422" y1="86" y2="86" stroke="#D55E00" stroke-width="3" stroke-dasharray="8 4"/>
+<text x="430.00" y="91.00" font-family="Arial, sans-serif" font-size="15" text-anchor="start" fill="#111827">Royal Caribbean</text>
+<line x1="672" x2="708" y1="86" y2="86" stroke="#00805A" stroke-width="3" stroke-dasharray="3 4"/>
+<text x="716.00" y="91.00" font-family="Arial, sans-serif" font-size="15" text-anchor="start" fill="#111827">Carnival</text>
+<text x="82.00" y="114.00" font-family="Arial, sans-serif" font-size="13" text-anchor="start" fill="#111827">Unique customers, year-over-year change (%)</text>
+<line x1="82" x2="956" y1="408.00" y2="408.00" stroke="#d1d5db" stroke-width="1"/>
+<text x="70.00" y="413.00" font-family="Arial, sans-serif" font-size="14" text-anchor="end" fill="#111827">-20</text>
+<line x1="82" x2="956" y1="337.00" y2="337.00" stroke="#d1d5db" stroke-width="1"/>
+<text x="70.00" y="342.00" font-family="Arial, sans-serif" font-size="14" text-anchor="end" fill="#111827">-10</text>
+<line x1="82" x2="956" y1="266.00" y2="266.00" stroke="#d1d5db" stroke-width="1"/>
+<text x="70.00" y="271.00" font-family="Arial, sans-serif" font-size="14" text-anchor="end" fill="#111827">0</text>
+<line x1="82" x2="956" y1="195.00" y2="195.00" stroke="#d1d5db" stroke-width="1"/>
+<text x="70.00" y="200.00" font-family="Arial, sans-serif" font-size="14" text-anchor="end" fill="#111827">10</text>
+<line x1="82" x2="956" y1="124.00" y2="124.00" stroke="#d1d5db" stroke-width="1"/>
+<text x="70.00" y="129.00" font-family="Arial, sans-serif" font-size="14" text-anchor="end" fill="#111827">20</text>
+<line x1="82" x2="956" y1="266.00" y2="266.00" stroke="#6b7280" stroke-width="1.5" stroke-dasharray="5 5"/>
+<text x="82.00" y="434.00" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#111827">2024Q1</text>
+<text x="179.11" y="434.00" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#111827">2024Q2</text>
+<text x="276.22" y="434.00" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#111827">2024Q3</text>
+<text x="373.33" y="434.00" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#111827">2024Q4</text>
+<text x="470.44" y="434.00" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#111827">2025Q1</text>
+<text x="567.56" y="434.00" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#111827">2025Q2</text>
+<text x="664.67" y="434.00" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#111827">2025Q3</text>
+<text x="761.78" y="434.00" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#111827">2025Q4</text>
+<text x="858.89" y="434.00" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#111827">2026Q1</text>
+<text x="956.00" y="434.00" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#111827">2026Q2</text>
+<polyline points="82.00,170.87 179.11,219.43 276.22,261.65 373.33,323.59 470.44,374.48 567.56,311.03 664.67,260.47 761.78,164.91 858.89,144.62 956.00,182.80" fill="none" stroke="#0072B2" stroke-width="3" stroke-dasharray=""/>
+<circle cx="82.00" cy="170.87" r="3.5" fill="#0072B2"><title>Norwegian, 2024Q1: 13.40</title></circle>
+<circle cx="179.11" cy="219.43" r="3.5" fill="#0072B2"><title>Norwegian, 2024Q2: 6.56</title></circle>
+<circle cx="276.22" cy="261.65" r="3.5" fill="#0072B2"><title>Norwegian, 2024Q3: 0.61</title></circle>
+<circle cx="373.33" cy="323.59" r="3.5" fill="#0072B2"><title>Norwegian, 2024Q4: -8.11</title></circle>
+<circle cx="470.44" cy="374.48" r="3.5" fill="#0072B2"><title>Norwegian, 2025Q1: -15.28</title></circle>
+<circle cx="567.56" cy="311.03" r="3.5" fill="#0072B2"><title>Norwegian, 2025Q2: -6.34</title></circle>
+<circle cx="664.67" cy="260.47" r="3.5" fill="#0072B2"><title>Norwegian, 2025Q3: 0.78</title></circle>
+<circle cx="761.78" cy="164.91" r="3.5" fill="#0072B2"><title>Norwegian, 2025Q4: 14.24</title></circle>
+<circle cx="858.89" cy="144.62" r="3.5" fill="#0072B2"><title>Norwegian, 2026Q1: 17.10</title></circle>
+<circle cx="956.00" cy="182.80" r="3.5" fill="#0072B2"><title>Norwegian, 2026Q2: 11.72</title></circle>
+<polyline points="82.00,236.00 179.11,230.68 276.22,212.23 373.33,234.31 470.44,282.31 567.56,252.87 664.67,233.17 761.78,230.93 858.89,206.53 956.00,236.35" fill="none" stroke="#D55E00" stroke-width="3" stroke-dasharray="8 4"/>
+<circle cx="82.00" cy="236.00" r="3.5" fill="#D55E00"><title>Royal Caribbean, 2024Q1: 4.23</title></circle>
+<circle cx="179.11" cy="230.68" r="3.5" fill="#D55E00"><title>Royal Caribbean, 2024Q2: 4.98</title></circle>
+<circle cx="276.22" cy="212.23" r="3.5" fill="#D55E00"><title>Royal Caribbean, 2024Q3: 7.57</title></circle>
+<circle cx="373.33" cy="234.31" r="3.5" fill="#D55E00"><title>Royal Caribbean, 2024Q4: 4.46</title></circle>
+<circle cx="470.44" cy="282.31" r="3.5" fill="#D55E00"><title>Royal Caribbean, 2025Q1: -2.30</title></circle>
+<circle cx="567.56" cy="252.87" r="3.5" fill="#D55E00"><title>Royal Caribbean, 2025Q2: 1.85</title></circle>
+<circle cx="664.67" cy="233.17" r="3.5" fill="#D55E00"><title>Royal Caribbean, 2025Q3: 4.62</title></circle>
+<circle cx="761.78" cy="230.93" r="3.5" fill="#D55E00"><title>Royal Caribbean, 2025Q4: 4.94</title></circle>
+<circle cx="858.89" cy="206.53" r="3.5" fill="#D55E00"><title>Royal Caribbean, 2026Q1: 8.38</title></circle>
+<circle cx="956.00" cy="236.35" r="3.5" fill="#D55E00"><title>Royal Caribbean, 2026Q2: 4.18</title></circle>
+<polyline points="82.00,296.15 179.11,280.23 276.22,279.26 373.33,271.02 470.44,306.47 567.56,317.22 664.67,328.93 761.78,341.26 858.89,352.60 956.00,340.66" fill="none" stroke="#00805A" stroke-width="3" stroke-dasharray="3 4"/>
+<circle cx="82.00" cy="296.15" r="3.5" fill="#00805A"><title>Carnival, 2024Q1: -4.25</title></circle>
+<circle cx="179.11" cy="280.23" r="3.5" fill="#00805A"><title>Carnival, 2024Q2: -2.00</title></circle>
+<circle cx="276.22" cy="279.26" r="3.5" fill="#00805A"><title>Carnival, 2024Q3: -1.87</title></circle>
+<circle cx="373.33" cy="271.02" r="3.5" fill="#00805A"><title>Carnival, 2024Q4: -0.71</title></circle>
+<circle cx="470.44" cy="306.47" r="3.5" fill="#00805A"><title>Carnival, 2025Q1: -5.70</title></circle>
+<circle cx="567.56" cy="317.22" r="3.5" fill="#00805A"><title>Carnival, 2025Q2: -7.21</title></circle>
+<circle cx="664.67" cy="328.93" r="3.5" fill="#00805A"><title>Carnival, 2025Q3: -8.86</title></circle>
+<circle cx="761.78" cy="341.26" r="3.5" fill="#00805A"><title>Carnival, 2025Q4: -10.60</title></circle>
+<circle cx="858.89" cy="352.60" r="3.5" fill="#00805A"><title>Carnival, 2026Q1: -12.20</title></circle>
+<circle cx="956.00" cy="340.66" r="3.5" fill="#00805A"><title>Carnival, 2026Q2: -10.52</title></circle>
+<text x="24.00" y="464.00" font-family="Arial, sans-serif" font-size="13" text-anchor="start" fill="#111827">n=10 quarterly comparisons per brand; n=2 periods per YoY, descriptive only.</text>
+<text x="24.00" y="487.00" font-family="Arial, sans-serif" font-size="13" text-anchor="start" fill="#111827">Audited CAL_QTR totals; calendar labels and additive checks pass; daily coverage unverified.</text>
+<text x="24.00" y="510.00" font-family="Arial, sans-serif" font-size="13" text-anchor="start" fill="#111827">Customers are not passengers. Cohort and Brand Tracker panels are not comparable in dollars.</text>
+<text x="24.00" y="533.00" font-family="Arial, sans-serif" font-size="13" text-anchor="start" fill="#111827">Full retained history, including restart comparisons, is in the source table.</text>
+<text x="24.00" y="558.00" font-family="Arial, sans-serif" font-size="13" text-anchor="start" fill="#111827">Source: data/cohort_quarterly.csv (reviewed card analysis; one accepted partition per quarter)</text>
+</svg>

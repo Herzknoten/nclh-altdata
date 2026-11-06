@@ -1,0 +1,7 @@
+sailing_id,line,ship,scraped_at,cabin,price,start_observation_date,end_observation_date,observation_date,export
+2026-11-08-cmj8k7dri092411zz5dzq792j,norwegian,aqua,2026-10-20T22:14:07.026Z,inside,58,2026-10-20,2026-11-04,2026-10-20,nclh-2026-11-04
+2026-11-08-cmj8k7dri092411zz5dzq792j,norwegian,aqua,2026-11-04T22:14:43.099Z,inside,58,2026-10-20,2026-11-04,2026-11-04,nclh-2026-11-04
+2026-11-30-cmj8lorp20ldlntq1n7b34gav,carnival,adventure,2026-10-20T19:17:47.828Z,inside,123,2026-10-20,2026-11-02,2026-10-20,peers-2026-11-04
+2026-11-30-cmj8lorp20ldlntq1n7b34gav,carnival,adventure,2026-11-02T19:14:28.682Z,inside,125,2026-10-20,2026-11-02,2026-11-02,peers-2026-11-04
+2026-11-07-cmj8lcuzt0ar4ntq1ppbcd4rb,royal-caribbean,adventure-of-the-seas,2026-10-20T22:11:56.426Z,inside,49,2026-10-20,2026-11-04,2026-10-20,peers-2026-11-04
+2026-11-07-cmj8lcuzt0ar4ntq1ppbcd4rb,royal-caribbean,adventure-of-the-seas,2026-11-04T22:12:58.721Z,inside,72,2026-10-20,2026-11-04,2026-11-04,peers-2026-11-04

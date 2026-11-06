@@ -1,0 +1,5 @@
+period,scope,calls,turnarounds,movements_100,movements_102,movements_104,vs_MAG_1_83M_at_102,matched_calls_in_our_dataset
+CY2027,Norwegian only,245,220,1608534,1640705,1672875,,211
+CY2027,All NCLH brands,300,265,1704218,1738302,1772387,,250
+FY2027 (Oct26-Sep27),Norwegian only,242,220,1570522,1601932,1633343,0.875,
+FY2027 (Oct26-Sep27),All NCLH brands,300,268,1675882,1709400,1742917,0.934,

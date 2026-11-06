@@ -1,0 +1,23 @@
+{
+  "as_of": "2026-11-04",
+  "observation_start": "2025-10-26",
+  "workers": 1,
+  "input_sha256": {
+    "/home/rich/devdata/nclh-ivy-refresh/cutearly/out/monthly_by_line.csv": "a4d2f3118e7a006317e8a73e99f1a0d153a0f4703cfb2a6632248c55334f8cb3",
+    "/home/rich/devdata/nclh-ivy-refresh/discipline/out/gap_windows.csv": "98e941bf0344f4a7675b0799ed649ee5ff2df6232485c95ed9ba8f955adf7be6",
+    "/home/rich/devdata/nclh-ivy-refresh/discipline/out/window_statistics.csv": "dee71f5e423df426c5b348319c633b48245584de7929dae48c1f1da56ca32b25",
+    "/home/rich/devdata/nclh-ivy-refresh/cohort/out/group_summary.csv": "3da439dfd865f4b43297d5fa8260bc1a2eb867accbbf5e2471095af72eec2db1",
+    "/home/rich/devdata/nclh-ivy-refresh/cohort/out/contrasts.csv": "9851f0e15e2f122f2bf558e3d75e772184e8a3dad96b77b3667dab7c6c954fbe"
+  },
+  "selection": {
+    "left": "Exact-kit published T-420 shares, Apr-Dec 2027 departures. Missing cells retained, never replaced by zero.",
+    "top_right": "Stored gap_windows G, W=15, X=5, all regions, population=0-60; window-end x axis. No recomputation needed.",
+    "bottom_right": "Stored equal-month means for newer Apr-Dec 2027 group. Only eligible months contribute, varying by line and lead band."
+  },
+  "n": {
+    "left_plotted_cabin_units": 7619,
+    "right_latest_sailings": 511,
+    "prize_main_cabin_units": 615,
+    "prize_secondary_cabin_units": 1765
+  }
+}

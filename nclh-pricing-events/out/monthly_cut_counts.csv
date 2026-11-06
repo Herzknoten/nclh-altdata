@@ -1,0 +1,13 @@
+line,period_start,period_end,n_calendar_days,n_days_in_panel_span,n_observed_days,n_gap_days,n_usable_price_days,n_pair_days,n_evaluable_days,n_below_min_n_days,n_pairs,n_cuts,n_broad_cut_days,observed_day_coverage,evaluable_day_coverage,n_evaluable_days_without_top_ship,n_broad_cut_days_without_top_ship,n_pairs_without_top_ship,n_cuts_without_top_ship,n_other_lines,control_status
+norwegian,2025-10-01,2025-10-31,31,26,26,0,26,25,25,0,4768,468,3,0.8387096774193549,0.8064516129032258,25,2,3899,273,0,no_control_line
+norwegian,2025-11-01,2025-11-30,30,30,30,0,30,30,30,0,5588,468,3,1.0,1.0,30,2,4875,306,0,no_control_line
+norwegian,2025-12-01,2025-12-31,31,31,31,0,31,31,31,0,7795,219,2,1.0,1.0,31,1,7158,116,0,no_control_line
+norwegian,2026-01-01,2026-01-31,31,31,31,0,31,31,31,0,8930,89,0,1.0,1.0,31,0,8594,49,0,no_control_line
+norwegian,2026-02-01,2026-02-28,28,28,28,0,28,28,28,0,4730,56,0,1.0,1.0,28,0,4554,13,0,no_control_line
+norwegian,2026-03-01,2026-03-31,31,31,31,0,31,31,31,0,5793,56,0,1.0,1.0,31,0,5562,19,0,no_control_line
+norwegian,2026-04-01,2026-04-30,30,30,30,0,30,30,30,0,30718,839,1,1.0,1.0,30,0,28263,414,0,no_control_line
+norwegian,2026-05-01,2026-05-31,31,31,31,0,31,31,31,0,33849,833,0,1.0,1.0,31,0,30896,537,0,no_control_line
+norwegian,2026-06-01,2026-06-30,30,30,30,0,30,30,30,0,43197,1158,0,1.0,1.0,30,0,39327,839,0,no_control_line
+norwegian,2026-07-01,2026-07-31,31,31,31,0,31,31,31,0,47460,1369,0,1.0,1.0,31,0,43206,995,0,no_control_line
+norwegian,2026-08-01,2026-08-31,31,31,31,0,31,31,31,0,47159,2020,1,1.0,1.0,31,0,42817,1367,0,no_control_line
+norwegian,2026-09-01,2026-09-30,30,12,12,0,12,12,12,0,17585,643,0,0.4,0.4,12,0,15513,459,0,no_control_line

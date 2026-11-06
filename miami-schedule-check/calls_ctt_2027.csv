@@ -1,0 +1,1340 @@
+date,line,ship,arrive,depart,passengers
+2027-01-02,Royal Caribbean Cruises,Icon Of The Seas,0600,1630,5610
+2027-01-02,MSC Cruises,MSC Meraviglia,0700,1600,4488
+2027-01-02,MSC Cruises,MSC World America,0700,1700,5252
+2027-01-02,Norwegian Cruise Line,Norwegian Luna,0700,1600,3570
+2027-01-02,Norwegian Cruise Line,Norwegian Sun,0700,1600,1936
+2027-01-02,Holland America Line,Zuiderdam,0700,1600,1964
+2027-01-03,Royal Caribbean Cruises,Allure Of The Seas,0600,1600,5400
+2027-01-03,Carnival Cruises,Carnival Celebration,0800,1530,5374
+2027-01-03,Carnival Cruises,Carnival Magic,0800,1530,3690
+2027-01-03,Celebrity Cruises,Celebrity Xcel,0700,1600,3260
+2027-01-03,Royal Caribbean Cruises,Independence Of The Seas,0600,1600,3858
+2027-01-03,MSC Cruises,MSC Poesia,0700,1700,2446
+2027-01-03,Norwegian Cruise Line,Norwegian Aqua,0700,1600,3571
+2027-01-03,Virgin Voyages,Resilient Lady,0630,1700,2700
+2027-01-04,Carnival Cruises,Carnival Conquest,0800,,2980
+2027-01-04,Carnival Cruises,Carnival Horizon,0800,1530,3974
+2027-01-04,Carnival Cruises,Carnival Sunrise,0800,1530,2984
+2027-01-04,Royal Caribbean Cruises,Freedom Of The Seas,0600,1630,3634
+2027-01-04,MSC Cruises,MSC Seaside,0700,1600,4132
+2027-01-04,Norwegian Cruise Line,Norwegian Jewel,0700,1600,2368
+2027-01-04,Norwegian Cruise Line,Norwegian Joy,0700,1600,3776
+2027-01-04,Virgin Voyages,Scarlet Lady,0630,1700,2860
+2027-01-04,Regent Seven Seas Cruises,Seven Seas Mariner,0700,1700,700
+2027-01-04,Royal Caribbean Cruises,Wonder Of The Seas,0600,1630,5734
+2027-01-05,Explora Journeys,Explora III,0800,1700,926
+2027-01-05,Oceania Cruises,Oceania Marina,0800,1700,1258
+2027-01-05,Seabourn,Seabourn Quest,0700,1600,450
+2027-01-05,Silversea Cruises,Silver Ray,0700,0000,728
+2027-01-06,Hapag Lloyd,Europa,0800,2400,408
+2027-01-06,Oceania Cruises,Oceania Vista,0800,1600,1200
+2027-01-06,Silversea Cruises,Silver Nova,0700,1900,728
+2027-01-07,Virgin Voyages,Brilliant Lady,0630,1700,2700
+2027-01-07,Oceania Cruises,Oceania Allura,0800,1600,1200
+2027-01-07,Cunard Line,Queen Elizabeth,,,2080
+2027-01-08,MSC Cruises,MSC Seaside,0700,1600,4132
+2027-01-08,Norwegian Cruise Line,Norwegian Joy,0700,1600,3776
+2027-01-08,Regent Seven Seas Cruises,Seven Seas Prestige,0700,,822
+2027-01-08,Royal Caribbean Cruises,Wonder Of The Seas,0600,1630,5734
+2027-01-09,Carnival Cruises,Carnival Magic,0800,1530,3690
+2027-01-09,Carnival Cruises,Carnival Sunrise,0800,,2984
+2027-01-09,Royal Caribbean Cruises,Freedom Of The Seas,0600,1630,3634
+2027-01-09,Royal Caribbean Cruises,Icon Of The Seas,0600,1630,5610
+2027-01-09,Margaritaville At Sea,Margaritaville At Sea Beachcomber,,1600,3470
+2027-01-09,MSC Cruises,MSC World America,0700,1800,5252
+2027-01-09,Norwegian Cruise Line,Norwegian Luna,0700,1600,3570
+2027-01-09,Virgin Voyages,Scarlet Lady,0630,1700,2860
+2027-01-10,Royal Caribbean Cruises,Allure Of The Seas,0600,1600,5400
+2027-01-10,Carnival Cruises,Carnival Celebration,0800,1530,5374
+2027-01-10,Carnival Cruises,Carnival Horizon,0800,1530,3974
+2027-01-10,Celebrity Cruises,Celebrity Xcel,0700,1600,3260
+2027-01-10,Royal Caribbean Cruises,Independence Of The Seas,0600,1600,3858
+2027-01-10,MSC Cruises,MSC Meraviglia,0700,1600,4488
+2027-01-10,Norwegian Cruise Line,Norwegian Aqua,0700,1600,3571
+2027-01-10,Virgin Voyages,Resilient Lady,0630,1700,2700
+2027-01-10,Regent Seven Seas Cruises,Seven Seas Prestige,,1600,822
+2027-01-11,Virgin Voyages,Brilliant Lady,0630,1700,2700
+2027-01-11,Carnival Cruises,Carnival Conquest,,1630,2980
+2027-01-11,Explora Journeys,Explora I,0800,1700,920
+2027-01-11,MSC Cruises,MSC Seaside,0700,1600,4132
+2027-01-11,Norwegian Cruise Line,Norwegian Joy,0700,1600,3776
+2027-01-11,Regent Seven Seas Cruises,Seven Seas Splendor,0700,,750
+2027-01-11,Royal Caribbean Cruises,Wonder Of The Seas,0630,1630,5734
+2027-01-12,Regent Seven Seas Cruises,Seven Seas Splendor,,1800,750
+2027-01-13,Norwegian Cruise Line,Norwegian Sun,0700,1600,1936
+2027-01-14,Royal Caribbean Cruises,Allure Of The Seas,0600,1600,5400
+2027-01-14,Azamara Cruises,Azamara Journey,0600,1700,690
+2027-01-14,Royal Caribbean Cruises,Freedom Of The Seas,0600,,3634
+2027-01-14,MSC Cruises,MSC Poesia,0700,1700,2446
+2027-01-14,Norwegian Cruise Line,Norwegian Jewel,0700,,2368
+2027-01-14,Virgin Voyages,Scarlet Lady,0630,1700,2860
+2027-01-15,MSC Cruises,MSC Seaside,0700,1600,4132
+2027-01-15,Norwegian Cruise Line,Norwegian Joy,0700,1600,3776
+2027-01-15,Royal Caribbean Cruises,Wonder Of The Seas,0600,1630,5734
+2027-01-16,Carnival Cruises,Carnival Horizon,0800,1530,3974
+2027-01-16,Royal Caribbean Cruises,Icon Of The Seas,0600,1630,5610
+2027-01-16,Margaritaville At Sea,Margaritaville At Sea Beachcomber,0700,1600,3470
+2027-01-16,MSC Cruises,MSC Meraviglia,0700,1600,4488
+2027-01-16,MSC Cruises,MSC World America,0700,1700,5252
+2027-01-16,Norwegian Cruise Line,Norwegian Luna,0700,1600,3570
+2027-01-16,Virgin Voyages,Resilient Lady,0630,1700,2700
+2027-01-16,Silversea Cruises,Silver Ray,0700,0000,728
+2027-01-17,Carnival Cruises,Carnival Celebration,0800,1530,5374
+2027-01-17,Carnival Cruises,Carnival Magic,0800,1530,3690
+2027-01-17,Celebrity Cruises,Celebrity Xcel,0700,1600,3260
+2027-01-17,Royal Caribbean Cruises,Independence Of The Seas,0600,1600,3858
+2027-01-17,Norwegian Cruise Line,Norwegian Aqua,0700,1600,3571
+2027-01-18,Royal Caribbean Cruises,Allure Of The Seas,0600,1600,5400
+2027-01-18,Royal Caribbean Cruises,Freedom Of The Seas,,1630,3634
+2027-01-18,MSC Cruises,MSC Seaside,0700,1600,4132
+2027-01-18,Norwegian Cruise Line,Norwegian Jewel,,1600,2368
+2027-01-18,Norwegian Cruise Line,Norwegian Joy,0700,1600,3776
+2027-01-18,Virgin Voyages,Scarlet Lady,0630,1700,2860
+2027-01-19,Royal Caribbean Cruises,Wonder Of The Seas,0600,,5734
+2027-01-20,Explora Journeys,Explora I,0800,1700,920
+2027-01-20,Oceania Cruises,Oceania Allura,0800,1600,1200
+2027-01-20,Regent Seven Seas Cruises,Seven Seas Prestige,0700,1700,822
+2027-01-21,Royal Caribbean Cruises,Allure Of The Seas,0600,,5400
+2027-01-21,Virgin Voyages,Brilliant Lady,0630,1700,2700
+2027-01-21,Explora Journeys,Explora III,0800,1700,926
+2027-01-22,Carnival Cruises,Carnival Conquest,0800,1530,2980
+2027-01-22,MSC Cruises,MSC Seaside,0700,1600,4132
+2027-01-22,Norwegian Cruise Line,Norwegian Jewel,0700,,2368
+2027-01-22,Norwegian Cruise Line,Norwegian Joy,0700,,3776
+2027-01-23,Carnival Cruises,Carnival Magic,0800,1530,3690
+2027-01-23,Royal Caribbean Cruises,Freedom Of The Seas,0600,,3634
+2027-01-23,Royal Caribbean Cruises,Icon Of The Seas,0600,1630,5610
+2027-01-23,Margaritaville At Sea,Margaritaville At Sea Beachcomber,0700,1600,3470
+2027-01-23,MSC Cruises,MSC World America,0700,1630,5252
+2027-01-23,Norwegian Cruise Line,Norwegian Luna,0700,1600,3570
+2027-01-23,Virgin Voyages,Scarlet Lady,0630,1700,2860
+2027-01-24,Carnival Cruises,Carnival Celebration,0800,1530,5374
+2027-01-24,Carnival Cruises,Carnival Horizon,0800,,3974
+2027-01-24,Celebrity Cruises,Celebrity Xcel,0700,1600,3260
+2027-01-24,Royal Caribbean Cruises,Independence Of The Seas,0600,1600,3858
+2027-01-24,MSC Cruises,MSC Meraviglia,0700,1600,4488
+2027-01-24,MSC Cruises,MSC Poesia,0700,1700,2446
+2027-01-24,Norwegian Cruise Line,Norwegian Aqua,0700,1600,3571
+2027-01-24,Virgin Voyages,Resilient Lady,0630,1700,2700
+2027-01-25,Royal Caribbean Cruises,Allure Of The Seas,,1600,5400
+2027-01-25,Virgin Voyages,Brilliant Lady,0630,1700,2700
+2027-01-25,Carnival Cruises,Carnival Conquest,0800,1530,2980
+2027-01-25,MSC Cruises,MSC Seaside,0700,1600,4132
+2027-01-25,Norwegian Cruise Line,Norwegian Jewel,,,2368
+2027-01-25,Norwegian Cruise Line,Norwegian Sun,0700,1600,1936
+2027-01-25,Oceania Cruises,Oceania Marina,0800,1700,1258
+2027-01-26,Norwegian Cruise Line,Norwegian Joy,,,3776
+2027-01-27,Carnival Cruises,Carnival Sunrise,,1730,2984
+2027-01-27,Oceania Cruises,Oceania Allura,0800,1600,1200
+2027-01-27,Silversea Cruises,Silver Ray,0700,0000,728
+2027-01-28,Royal Caribbean Cruises,Freedom Of The Seas,,1630,3634
+2027-01-28,Virgin Voyages,Scarlet Lady,0630,1700,2860
+2027-01-29,Royal Caribbean Cruises,Allure Of The Seas,0600,1600,5400
+2027-01-29,Carnival Cruises,Carnival Conquest,0800,1530,2980
+2027-01-29,Explora Journeys,Explora I,0800,1700,920
+2027-01-29,MSC Cruises,MSC Seaside,0700,1600,4132
+2027-01-29,Norwegian Cruise Line,Norwegian Jewel,,,2368
+2027-01-30,Carnival Cruises,Carnival Horizon,,1530,3974
+2027-01-30,Royal Caribbean Cruises,Icon Of The Seas,0600,1630,5610
+2027-01-30,Margaritaville At Sea,Margaritaville At Sea Beachcomber,0700,1600,3470
+2027-01-30,MSC Cruises,MSC Meraviglia,0700,1600,4488
+2027-01-30,MSC Cruises,MSC World America,0700,1700,5252
+2027-01-30,Norwegian Cruise Line,Norwegian Luna,0700,1600,3570
+2027-01-30,Virgin Voyages,Resilient Lady,0630,1700,2700
+2027-01-31,Carnival Cruises,Carnival Celebration,0800,1530,5374
+2027-01-31,Carnival Cruises,Carnival Magic,0800,1530,3690
+2027-01-31,Celebrity Cruises,Celebrity Xcel,0700,1600,3260
+2027-01-31,Royal Caribbean Cruises,Independence Of The Seas,0600,1600,3858
+2027-01-31,Norwegian Cruise Line,Norwegian Aqua,0700,1600,3571
+2027-01-31,Norwegian Cruise Line,Norwegian Joy,,1600,3776
+2027-02-01,Royal Caribbean Cruises,Allure Of The Seas,0600,1600,5400
+2027-02-01,Carnival Cruises,Carnival Conquest,0800,,2980
+2027-02-01,Carnival Cruises,Carnival Sunrise,0800,1530,2984
+2027-02-01,MSC Cruises,MSC Seaside,0700,1600,4132
+2027-02-01,Oceania Cruises,Oceania Marina,0800,1700,1258
+2027-02-01,Virgin Voyages,Scarlet Lady,0630,1700,2860
+2027-02-02,Norwegian Cruise Line,Norwegian Jewel,,,2368
+2027-02-04,Virgin Voyages,Brilliant Lady,0630,,2700
+2027-02-04,MSC Cruises,MSC Poesia,0700,,2446
+2027-02-05,Royal Caribbean Cruises,Allure Of The Seas,0600,1600,5400
+2027-02-05,Explora Journeys,Explora III,0800,1700,926
+2027-02-05,Margaritaville At Sea,Margaritaville At Sea Beachcomber,0700,1600,3470
+2027-02-05,MSC Cruises,MSC Seaside,0700,1600,4132
+2027-02-05,Norwegian Cruise Line,Norwegian Joy,0700,1600,3776
+2027-02-05,Oceania Cruises,Oceania Allura,0800,1600,1200
+2027-02-06,Carnival Cruises,Carnival Magic,0800,1530,3690
+2027-02-06,Carnival Cruises,Carnival Sunrise,0800,1530,2984
+2027-02-06,Royal Caribbean Cruises,Freedom Of The Seas,0600,1630,3634
+2027-02-06,Royal Caribbean Cruises,Icon Of The Seas,0600,1630,5610
+2027-02-06,MSC Cruises,MSC World America,0700,1800,5252
+2027-02-06,Norwegian Cruise Line,Norwegian Luna,0700,1600,3570
+2027-02-06,Norwegian Cruise Line,Norwegian Sun,0700,1600,1936
+2027-02-06,Virgin Voyages,Scarlet Lady,0630,1700,2860
+2027-02-06,Silversea Cruises,Silver Spirit,0700,1900,636
+2027-02-07,Carnival Cruises,Carnival Celebration,0800,1530,5374
+2027-02-07,Carnival Cruises,Carnival Horizon,0800,1530,3974
+2027-02-07,Celebrity Cruises,Celebrity Xcel,0700,1600,3260
+2027-02-07,Royal Caribbean Cruises,Independence Of The Seas,0600,1600,3858
+2027-02-07,MSC Cruises,MSC Meraviglia,0700,1600,4488
+2027-02-07,Norwegian Cruise Line,Norwegian Aqua,0700,1600,3571
+2027-02-07,Norwegian Cruise Line,Norwegian Jewel,,,2368
+2027-02-07,Virgin Voyages,Resilient Lady,0630,1700,2700
+2027-02-07,Silversea Cruises,Silver Ray,0700,0000,728
+2027-02-08,Royal Caribbean Cruises,Allure Of The Seas,0600,1600,5400
+2027-02-08,Virgin Voyages,Brilliant Lady,,1700,2700
+2027-02-08,Holland America Line,Eurodam,,,1850
+2027-02-08,MSC Cruises,MSC Seaside,0700,1600,4132
+2027-02-08,Norwegian Cruise Line,Norwegian Joy,0700,1600,3776
+2027-02-09,Margaritaville At Sea,Margaritaville At Sea Beachcomber,0700,1600,3470
+2027-02-09,Regent Seven Seas Cruises,Seven Seas Grandeur,0700,1700,746
+2027-02-10,MSC Cruises,MSC Poesia,,,2446
+2027-02-11,Carnival Cruises,Carnival Sunrise,0800,1530,2984
+2027-02-11,Royal Caribbean Cruises,Freedom Of The Seas,0600,1630,3634
+2027-02-11,Norwegian Cruise Line,Norwegian Jewel,,,2368
+2027-02-11,Virgin Voyages,Scarlet Lady,0630,1700,2860
+2027-02-12,Carnival Cruises,Carnival Conquest,,1530,2980
+2027-02-12,MSC Cruises,MSC Seaside,0700,1600,4132
+2027-02-12,Norwegian Cruise Line,Norwegian Joy,0700,1600,3776
+2027-02-12,Royal Caribbean Cruises,Wonder Of The Seas,,1630,5734
+2027-02-13,Carnival Cruises,Carnival Horizon,0800,1530,3974
+2027-02-13,Royal Caribbean Cruises,Icon Of The Seas,0600,1630,5610
+2027-02-13,Margaritaville At Sea,Margaritaville At Sea Beachcomber,0700,,3470
+2027-02-13,MSC Cruises,MSC Meraviglia,0700,1600,4488
+2027-02-13,MSC Cruises,MSC World America,0700,1700,5252
+2027-02-13,Norwegian Cruise Line,Norwegian Luna,0700,1600,3570
+2027-02-13,Oceania Cruises,Oceania Marina,0800,1700,1258
+2027-02-14,Royal Caribbean Cruises,Allure Of The Seas,0600,1600,5400
+2027-02-14,Carnival Cruises,Carnival Celebration,0800,1530,5374
+2027-02-14,Carnival Cruises,Carnival Magic,0800,1530,3690
+2027-02-14,Celebrity Cruises,Celebrity Xcel,0700,1600,3260
+2027-02-14,Royal Caribbean Cruises,Independence Of The Seas,0600,1600,3858
+2027-02-14,MSC Cruises,MSC Poesia,,1700,2446
+2027-02-14,Norwegian Cruise Line,Norwegian Aqua,0700,1600,3571
+2027-02-14,Virgin Voyages,Resilient Lady,0630,1700,2700
+2027-02-14,Holland America Line,Zuiderdam,0700,1700,1964
+2027-02-15,Carnival Cruises,Carnival Conquest,0800,1530,2980
+2027-02-15,Carnival Cruises,Carnival Sunrise,0800,1530,2984
+2027-02-15,Royal Caribbean Cruises,Freedom Of The Seas,0600,1630,3634
+2027-02-15,MSC Cruises,MSC Seaside,0700,1600,4132
+2027-02-15,Norwegian Cruise Line,Norwegian Jewel,,,2368
+2027-02-15,Norwegian Cruise Line,Norwegian Joy,0700,1600,3776
+2027-02-15,Virgin Voyages,Scarlet Lady,0630,1700,2860
+2027-02-15,Royal Caribbean Cruises,Wonder Of The Seas,0630,1630,5734
+2027-02-16,P & O Cruises,Aurora,,,1874
+2027-02-16,Regent Seven Seas Cruises,Seven Seas Grandeur,0700,1700,746
+2027-02-17,Norwegian Cruise Line,Norwegian Sun,0700,1600,1936
+2027-02-18,Virgin Voyages,Brilliant Lady,0630,1700,2700
+2027-02-18,Carnival Cruises,Carnival Firenze,0800,1530,4126
+2027-02-19,Carnival Cruises,Carnival Conquest,0800,1530,2980
+2027-02-19,Explora Journeys,Explora III,0800,1700,926
+2027-02-19,Margaritaville At Sea,Margaritaville At Sea Beachcomber,,1600,3470
+2027-02-19,MSC Cruises,MSC Seaside,0700,1600,4132
+2027-02-19,Norwegian Cruise Line,Norwegian Joy,0700,1600,3776
+2027-02-19,Royal Caribbean Cruises,Wonder Of The Seas,0600,1630,5734
+2027-02-20,Carnival Cruises,Carnival Magic,0800,1530,3690
+2027-02-20,Carnival Cruises,Carnival Sunrise,0800,1530,2984
+2027-02-20,Royal Caribbean Cruises,Freedom Of The Seas,0600,1630,3634
+2027-02-20,Royal Caribbean Cruises,Icon Of The Seas,0600,1630,5610
+2027-02-20,MSC Cruises,MSC World America,0700,1800,5252
+2027-02-20,Norwegian Cruise Line,Norwegian Luna,0700,1600,3570
+2027-02-20,Virgin Voyages,Scarlet Lady,0630,1700,2860
+2027-02-21,Royal Caribbean Cruises,Allure Of The Seas,0600,1600,5400
+2027-02-21,Carnival Cruises,Carnival Celebration,0800,1530,5374
+2027-02-21,Carnival Cruises,Carnival Horizon,0800,1530,3974
+2027-02-21,Celebrity Cruises,Celebrity Xcel,0700,1600,3260
+2027-02-21,Royal Caribbean Cruises,Independence Of The Seas,0600,,3858
+2027-02-21,MSC Cruises,MSC Meraviglia,0700,1600,4488
+2027-02-21,Norwegian Cruise Line,Norwegian Aqua,0700,1600,3571
+2027-02-21,Virgin Voyages,Resilient Lady,0630,1700,2700
+2027-02-22,Virgin Voyages,Brilliant Lady,0630,1700,2700
+2027-02-22,Carnival Cruises,Carnival Conquest,0800,1530,2980
+2027-02-22,MSC Cruises,MSC Seaside,0700,1600,4132
+2027-02-22,Norwegian Cruise Line,Norwegian Joy,0700,1600,3776
+2027-02-22,Royal Caribbean Cruises,Wonder Of The Seas,0630,1630,5734
+2027-02-23,Oceania Cruises,Oceania Marina,0800,1700,1258
+2027-02-23,Regent Seven Seas Cruises,Seven Seas Grandeur,0700,1700,746
+2027-02-25,Carnival Cruises,Carnival Sunrise,0800,1530,2984
+2027-02-25,Royal Caribbean Cruises,Freedom Of The Seas,0600,1630,3634
+2027-02-25,Royal Caribbean Cruises,Independence Of The Seas,,1600,3858
+2027-02-25,MSC Cruises,MSC Poesia,0700,1700,2446
+2027-02-25,Virgin Voyages,Scarlet Lady,0630,1700,2860
+2027-02-26,Carnival Cruises,Carnival Conquest,0800,1530,2980
+2027-02-26,Carnival Cruises,Carnival Firenze,0800,1530,4126
+2027-02-26,MSC Cruises,MSC Seaside,0700,1600,4132
+2027-02-26,Norwegian Cruise Line,Norwegian Jewel,,,2368
+2027-02-26,Norwegian Cruise Line,Norwegian Joy,0700,1600,3776
+2027-02-26,Royal Caribbean Cruises,Wonder Of The Seas,0600,1630,5734
+2027-02-27,Carnival Cruises,Carnival Horizon,0800,1530,3974
+2027-02-27,Royal Caribbean Cruises,Icon Of The Seas,0600,1630,5610
+2027-02-27,Margaritaville At Sea,Margaritaville At Sea Beachcomber,0700,1600,3470
+2027-02-27,MSC Cruises,MSC Meraviglia,0700,1600,4488
+2027-02-27,MSC Cruises,MSC World America,0700,1700,5252
+2027-02-27,Norwegian Cruise Line,Norwegian Luna,0700,1600,3570
+2027-02-27,Oceania Cruises,Oceania Allura,0800,1600,1200
+2027-02-28,Royal Caribbean Cruises,Allure Of The Seas,0600,1600,5400
+2027-02-28,Carnival Cruises,Carnival Celebration,0800,1530,5374
+2027-02-28,Carnival Cruises,Carnival Magic,0800,1530,3690
+2027-02-28,Celebrity Cruises,Celebrity Xcel,0700,1600,3260
+2027-02-28,Explora Journeys,Explora III,0800,1700,926
+2027-02-28,Norwegian Cruise Line,Norwegian Aqua,0700,1600,3571
+2027-02-28,Virgin Voyages,Resilient Lady,0630,1700,2700
+2027-03-01,Carnival Cruises,Carnival Conquest,0800,1530,2980
+2027-03-01,Carnival Cruises,Carnival Sunrise,0800,1530,2984
+2027-03-01,MSC Cruises,MSC Seaside,0700,1600,4132
+2027-03-01,Norwegian Cruise Line,Norwegian Joy,0700,1600,3776
+2027-03-01,Norwegian Cruise Line,Norwegian Star,0700,1600,2348
+2027-03-01,Norwegian Cruise Line,Norwegian Sun,0700,1600,1936
+2027-03-01,Virgin Voyages,Scarlet Lady,0630,1700,2860
+2027-03-01,Royal Caribbean Cruises,Wonder Of The Seas,0630,1630,5734
+2027-03-02,Royal Caribbean Cruises,Independence Of The Seas,0600,1600,3858
+2027-03-04,Virgin Voyages,Brilliant Lady,0630,1700,2700
+2027-03-05,Carnival Cruises,Carnival Conquest,0800,1530,2980
+2027-03-05,MSC Cruises,MSC Seaside,0700,1600,4132
+2027-03-05,Norwegian Cruise Line,Norwegian Jewel,,,2368
+2027-03-05,Norwegian Cruise Line,Norwegian Joy,0700,1600,3776
+2027-03-05,Oceania Cruises,Oceania Marina,0800,1700,1258
+2027-03-05,Regent Seven Seas Cruises,Seven Seas Prestige,0700,1700,822
+2027-03-05,Royal Caribbean Cruises,Wonder Of The Seas,0600,1630,5734
+2027-03-06,Carnival Cruises,Carnival Magic,0800,1530,3690
+2027-03-06,Carnival Cruises,Carnival Sunrise,0800,1530,2984
+2027-03-06,Royal Caribbean Cruises,Freedom Of The Seas,0600,1630,3634
+2027-03-06,Royal Caribbean Cruises,Icon Of The Seas,0600,1630,5610
+2027-03-06,Margaritaville At Sea,Margaritaville At Sea Beachcomber,0700,1600,3470
+2027-03-06,MSC Cruises,MSC World America,0700,1630,5252
+2027-03-06,Norwegian Cruise Line,Norwegian Luna,0700,1600,3570
+2027-03-06,Virgin Voyages,Scarlet Lady,0630,1700,2860
+2027-03-06,Holland America Line,Zuiderdam,0700,1600,1964
+2027-03-07,Royal Caribbean Cruises,Allure Of The Seas,0600,,5400
+2027-03-07,Carnival Cruises,Carnival Celebration,0800,1530,5374
+2027-03-07,Carnival Cruises,Carnival Horizon,0800,1530,3974
+2027-03-07,Celebrity Cruises,Celebrity Xcel,0700,1600,3260
+2027-03-07,Royal Caribbean Cruises,Independence Of The Seas,0600,1600,3858
+2027-03-07,MSC Cruises,MSC Meraviglia,0700,1600,4488
+2027-03-07,MSC Cruises,MSC Poesia,0700,1800,2446
+2027-03-07,Norwegian Cruise Line,Norwegian Aqua,0700,1600,3571
+2027-03-07,Virgin Voyages,Resilient Lady,0630,1700,2700
+2027-03-08,Virgin Voyages,Brilliant Lady,0630,1700,2700
+2027-03-08,Carnival Cruises,Carnival Conquest,0800,1530,2980
+2027-03-08,Carnival Cruises,Carnival Firenze,0800,1530,4126
+2027-03-08,Explora Journeys,Explora I,0800,1700,920
+2027-03-08,MSC Cruises,MSC Seaside,0700,1600,4132
+2027-03-08,Norwegian Cruise Line,Norwegian Joy,0700,1600,3776
+2027-03-08,Royal Caribbean Cruises,Wonder Of The Seas,0630,1630,5734
+2027-03-10,Norwegian Cruise Line,Norwegian Jewel,,,2368
+2027-03-10,Silversea Cruises,Silver Ray,0700,0000,728
+2027-03-11,Carnival Cruises,Carnival Sunrise,0800,1530,2984
+2027-03-11,Royal Caribbean Cruises,Freedom Of The Seas,0600,1630,3634
+2027-03-11,Margaritaville At Sea,Margaritaville At Sea Beachcomber,0700,1600,3470
+2027-03-11,Oceania Cruises,Oceania Allura,0800,1600,1200
+2027-03-11,Virgin Voyages,Scarlet Lady,0630,1700,2860
+2027-03-12,Carnival Cruises,Carnival Conquest,0800,1530,2980
+2027-03-12,MSC Cruises,MSC Seaside,0700,1600,4132
+2027-03-12,Norwegian Cruise Line,Norwegian Joy,0700,1600,3776
+2027-03-12,Royal Caribbean Cruises,Wonder Of The Seas,0600,1630,5734
+2027-03-13,Carnival Cruises,Carnival Horizon,0800,1530,3974
+2027-03-13,Royal Caribbean Cruises,Icon Of The Seas,0600,1630,5610
+2027-03-13,MSC Cruises,MSC Meraviglia,0700,1600,4488
+2027-03-13,MSC Cruises,MSC World America,0700,1700,5252
+2027-03-13,Norwegian Cruise Line,Norwegian Luna,0700,1600,3570
+2027-03-13,Norwegian Cruise Line,Norwegian Sun,0700,1600,1936
+2027-03-13,Virgin Voyages,Resilient Lady,0630,1700,2700
+2027-03-13,Holland America Line,Zuiderdam,0700,1600,1964
+2027-03-14,Royal Caribbean Cruises,Allure Of The Seas,,1600,5400
+2027-03-14,Carnival Cruises,Carnival Celebration,0800,1530,5374
+2027-03-14,Carnival Cruises,Carnival Magic,0800,1530,3690
+2027-03-14,Celebrity Cruises,Celebrity Xcel,0700,1600,3260
+2027-03-14,Explora Journeys,Explora III,0800,1700,926
+2027-03-14,Royal Caribbean Cruises,Independence Of The Seas,0600,1600,3858
+2027-03-14,Norwegian Cruise Line,Norwegian Aqua,0700,1600,3571
+2027-03-15,Carnival Cruises,Carnival Conquest,0800,1530,2980
+2027-03-15,Carnival Cruises,Carnival Sunrise,0800,1530,2984
+2027-03-15,Royal Caribbean Cruises,Freedom Of The Seas,0600,1630,3634
+2027-03-15,Margaritaville At Sea,Margaritaville At Sea Beachcomber,0700,1600,3470
+2027-03-15,MSC Cruises,MSC Seaside,0700,1600,4132
+2027-03-15,Norwegian Cruise Line,Norwegian Jewel,,,2368
+2027-03-15,Norwegian Cruise Line,Norwegian Joy,0700,1600,3776
+2027-03-15,Virgin Voyages,Scarlet Lady,0630,1700,2860
+2027-03-15,Royal Caribbean Cruises,Wonder Of The Seas,0630,1630,5734
+2027-03-16,Royal Caribbean Cruises,Rhapsody Of The Seas,0600,,1996
+2027-03-17,Regent Seven Seas Cruises,Seven Seas Prestige,0700,,822
+2027-03-18,Virgin Voyages,Brilliant Lady,0630,1700,2700
+2027-03-18,Carnival Cruises,Carnival Firenze,0800,1530,4126
+2027-03-18,MSC Cruises,MSC Poesia,0700,1700,2446
+2027-03-19,Carnival Cruises,Carnival Conquest,0800,1530,2980
+2027-03-19,MSC Cruises,MSC Seaside,0700,1600,4132
+2027-03-19,Norwegian Cruise Line,Norwegian Jewel,,1600,2368
+2027-03-19,Norwegian Cruise Line,Norwegian Joy,0700,1600,3776
+2027-03-19,Silversea Cruises,Silver Spirit,0700,1800,636
+2027-03-19,Royal Caribbean Cruises,Wonder Of The Seas,0600,1630,5734
+2027-03-20,Carnival Cruises,Carnival Magic,0800,1530,3690
+2027-03-20,Carnival Cruises,Carnival Sunrise,0800,1530,2984
+2027-03-20,Royal Caribbean Cruises,Freedom Of The Seas,0600,1630,3634
+2027-03-20,Royal Caribbean Cruises,Icon Of The Seas,0600,1630,5610
+2027-03-20,Margaritaville At Sea,Margaritaville At Sea Beachcomber,0700,1600,3470
+2027-03-20,MSC Cruises,MSC World America,0700,1630,5252
+2027-03-20,Norwegian Cruise Line,Norwegian Luna,0700,1600,3570
+2027-03-20,Virgin Voyages,Scarlet Lady,0630,1700,2860
+2027-03-20,Regent Seven Seas Cruises,Seven Seas Prestige,,1700,822
+2027-03-21,Royal Caribbean Cruises,Allure Of The Seas,0600,1600,5400
+2027-03-21,Carnival Cruises,Carnival Celebration,0800,1530,5374
+2027-03-21,Carnival Cruises,Carnival Horizon,0800,1530,3974
+2027-03-21,Celebrity Cruises,Celebrity Xcel,0700,1600,3260
+2027-03-21,Royal Caribbean Cruises,Independence Of The Seas,0600,1600,3858
+2027-03-21,MSC Cruises,MSC Meraviglia,0700,1600,4488
+2027-03-21,Norwegian Cruise Line,Norwegian Aqua,0700,1600,3571
+2027-03-21,Oceania Cruises,Oceania Allura,0800,1600,1200
+2027-03-21,Virgin Voyages,Resilient Lady,0630,1700,2700
+2027-03-22,Virgin Voyages,Brilliant Lady,0630,1700,2700
+2027-03-22,Carnival Cruises,Carnival Conquest,0800,1530,2980
+2027-03-22,Carnival Cruises,Carnival Firenze,0800,1630,4126
+2027-03-22,MSC Cruises,MSC Seaside,0700,1600,4132
+2027-03-22,Norwegian Cruise Line,Norwegian Joy,0700,1600,3776
+2027-03-22,Royal Caribbean Cruises,Wonder Of The Seas,0630,1630,5734
+2027-03-23,Silversea Cruises,Silver Nova,0700,1900,728
+2027-03-24,Norwegian Cruise Line,Norwegian Sun,0700,1600,1936
+2027-03-24,Holland America Line,Zuiderdam,0700,1600,1964
+2027-03-25,Carnival Cruises,Carnival Sunrise,0800,1530,2984
+2027-03-25,Royal Caribbean Cruises,Freedom Of The Seas,0600,1630,3634
+2027-03-25,Oceania Cruises,Oceania Marina,0800,1600,1258
+2027-03-25,Virgin Voyages,Scarlet Lady,0630,1700,2860
+2027-03-26,Virgin Voyages,Brilliant Lady,0630,1700,2700
+2027-03-26,Carnival Cruises,Carnival Conquest,0800,1530,2980
+2027-03-26,MSC Cruises,MSC Seaside,0700,1600,4132
+2027-03-26,Norwegian Cruise Line,Norwegian Joy,0700,1600,3776
+2027-03-26,Regent Seven Seas Cruises,Seven Seas Mariner,0700,1700,700
+2027-03-26,Royal Caribbean Cruises,Wonder Of The Seas,0600,1630,5734
+2027-03-27,Carnival Cruises,Carnival Horizon,0800,1530,3974
+2027-03-27,Royal Caribbean Cruises,Icon Of The Seas,0600,1630,5610
+2027-03-27,Margaritaville At Sea,Margaritaville At Sea Beachcomber,0700,1600,3470
+2027-03-27,MSC Cruises,MSC Meraviglia,0700,1600,4488
+2027-03-27,MSC Cruises,MSC World America,0700,1700,5252
+2027-03-27,Norwegian Cruise Line,Norwegian Luna,0700,1600,3570
+2027-03-27,Virgin Voyages,Resilient Lady,0630,1700,2700
+2027-03-28,Royal Caribbean Cruises,Allure Of The Seas,0600,1600,5400
+2027-03-28,Carnival Cruises,Carnival Celebration,0800,1530,5374
+2027-03-28,Carnival Cruises,Carnival Magic,0800,1530,3690
+2027-03-28,Celebrity Cruises,Celebrity Xcel,0700,1600,3260
+2027-03-28,Royal Caribbean Cruises,Independence Of The Seas,0600,1600,3858
+2027-03-28,MSC Cruises,MSC Poesia,0700,1700,2446
+2027-03-28,Norwegian Cruise Line,Norwegian Aqua,0700,1600,3571
+2027-03-28,Holland America Line,Zuiderdam,0700,1600,1964
+2027-03-29,Azamara Cruises,Azamara Journey,0600,1700,690
+2027-03-29,Carnival Cruises,Carnival Conquest,0800,1530,2980
+2027-03-29,Carnival Cruises,Carnival Sunrise,0800,1530,2984
+2027-03-29,Explora Journeys,Explora III,0800,1700,926
+2027-03-29,Royal Caribbean Cruises,Freedom Of The Seas,0600,1630,3634
+2027-03-29,MSC Cruises,MSC Seaside,0700,1600,4132
+2027-03-29,Norwegian Cruise Line,Norwegian Jewel,0700,1600,2368
+2027-03-29,Norwegian Cruise Line,Norwegian Joy,0700,1600,3776
+2027-03-29,Virgin Voyages,Scarlet Lady,0630,1700,2860
+2027-03-29,Royal Caribbean Cruises,Wonder Of The Seas,0630,1630,5734
+2027-03-31,Oceania Cruises,Oceania Allura,0800,1600,1200
+2027-04-02,Carnival Cruises,Carnival Conquest,0800,1530,2980
+2027-04-02,MSC Cruises,MSC Seaside,0700,1600,4132
+2027-04-02,Norwegian Cruise Line,Norwegian Jewel,0600,,2368
+2027-04-02,Norwegian Cruise Line,Norwegian Joy,0700,1600,3776
+2027-04-02,Royal Caribbean Cruises,Wonder Of The Seas,0600,1630,5734
+2027-04-03,Carnival Cruises,Carnival Magic,0800,1530,3690
+2027-04-03,Carnival Cruises,Carnival Sunrise,0800,1530,2984
+2027-04-03,Royal Caribbean Cruises,Freedom Of The Seas,0600,1630,3634
+2027-04-03,Royal Caribbean Cruises,Icon Of The Seas,0600,1630,5610
+2027-04-03,Margaritaville At Sea,Margaritaville At Sea Beachcomber,0700,1600,3470
+2027-04-03,MSC Cruises,MSC World America,0700,1630,5252
+2027-04-03,Norwegian Cruise Line,Norwegian Luna,0700,,3570
+2027-04-03,Virgin Voyages,Scarlet Lady,0630,1700,2860
+2027-04-04,Royal Caribbean Cruises,Allure Of The Seas,0600,1600,5400
+2027-04-04,Carnival Cruises,Carnival Firenze,0800,1530,4126
+2027-04-04,Carnival Cruises,Carnival Horizon,0800,1530,3974
+2027-04-04,Celebrity Cruises,Celebrity Xcel,0700,1600,3260
+2027-04-04,Royal Caribbean Cruises,Independence Of The Seas,0600,1600,3858
+2027-04-04,MSC Cruises,MSC Meraviglia,0700,1600,4488
+2027-04-04,Norwegian Cruise Line,Norwegian Aqua,0700,1600,3571
+2027-04-04,Virgin Voyages,Resilient Lady,0630,1700,2700
+2027-04-05,Carnival Cruises,Carnival Celebration,0800,,5374
+2027-04-05,Carnival Cruises,Carnival Conquest,0800,1530,2980
+2027-04-05,MSC Cruises,MSC Seaside,0700,1600,4132
+2027-04-05,Norwegian Cruise Line,Norwegian Joy,0700,1600,3776
+2027-04-05,Norwegian Cruise Line,Norwegian Sun,0700,1600,1936
+2027-04-05,Royal Caribbean Cruises,Wonder Of The Seas,0630,1630,5734
+2027-04-07,Holland America Line,Zuiderdam,0700,1600,1964
+2027-04-08,Carnival Cruises,Carnival Sunrise,0800,1530,2984
+2027-04-08,Royal Caribbean Cruises,Freedom Of The Seas,0600,1630,3634
+2027-04-08,MSC Cruises,MSC Poesia,0700,1800,2446
+2027-04-08,Norwegian Cruise Line,Norwegian Jewel,,,2368
+2027-04-08,Virgin Voyages,Scarlet Lady,0630,1700,2860
+2027-04-09,Carnival Cruises,Carnival Conquest,0800,1530,2980
+2027-04-09,MSC Cruises,MSC Seaside,0700,1600,4132
+2027-04-09,Norwegian Cruise Line,Norwegian Joy,0700,1600,3776
+2027-04-09,Oceania Cruises,Oceania Insignia,0800,1800,684
+2027-04-09,Regent Seven Seas Cruises,Seven Seas Prestige,0700,1700,822
+2027-04-09,Royal Caribbean Cruises,Wonder Of The Seas,0600,1630,5734
+2027-04-10,Carnival Cruises,Carnival Horizon,0800,1530,3974
+2027-04-10,Royal Caribbean Cruises,Icon Of The Seas,0600,1630,5610
+2027-04-10,Margaritaville At Sea,Margaritaville At Sea Beachcomber,0700,1600,3470
+2027-04-10,MSC Cruises,MSC Meraviglia,0700,1700,4488
+2027-04-10,MSC Cruises,MSC World America,0700,1630,5252
+2027-04-10,Norwegian Cruise Line,Norwegian Getaway,,1600,3903
+2027-04-10,Regent Seven Seas Cruises,Seven Seas Mariner,0700,,700
+2027-04-11,Royal Caribbean Cruises,Allure Of The Seas,0600,1600,5400
+2027-04-11,Carnival Cruises,Carnival Firenze,0800,1530,4126
+2027-04-11,Carnival Cruises,Carnival Magic,0800,1530,3690
+2027-04-11,Celebrity Cruises,Celebrity Xcel,0700,1600,3260
+2027-04-11,Royal Caribbean Cruises,Independence Of The Seas,0600,1600,3858
+2027-04-11,Norwegian Cruise Line,Norwegian Aqua,0700,1600,3571
+2027-04-11,Virgin Voyages,Resilient Lady,0630,1700,2700
+2027-04-12,Carnival Cruises,Carnival Conquest,0800,1530,2980
+2027-04-12,Carnival Cruises,Carnival Sunrise,0800,1530,2984
+2027-04-12,Explora Journeys,Explora III,0800,1700,926
+2027-04-12,Royal Caribbean Cruises,Freedom Of The Seas,0600,1630,3634
+2027-04-12,MSC Cruises,MSC Seaside,0700,1600,4132
+2027-04-12,Norwegian Cruise Line,Norwegian Getaway,0700,1600,3903
+2027-04-12,Norwegian Cruise Line,Norwegian Joy,0700,,3776
+2027-04-12,Virgin Voyages,Scarlet Lady,0630,1700,2860
+2027-04-12,Royal Caribbean Cruises,Wonder Of The Seas,0630,1630,5734
+2027-04-13,Norwegian Cruise Line,Norwegian Viva,,1600,3100
+2027-04-14,Regent Seven Seas Cruises,Seven Seas Grandeur,0700,2100,746
+2027-04-15,Norwegian Cruise Line,Norwegian Jewel,,,2368
+2027-04-15,Royal Caribbean Cruises,Rhapsody Of The Seas,,1600,1996
+2027-04-15,Regent Seven Seas Cruises,Seven Seas Mariner,,1600,700
+2027-04-15,Virgin Voyages,Valiant Lady,0630,1700,2860
+2027-04-16,Carnival Cruises,Carnival Conquest,0800,,2980
+2027-04-16,Margaritaville At Sea,Margaritaville At Sea Beachcomber,0700,1600,3470
+2027-04-16,MSC Cruises,MSC Seaside,0700,1600,4132
+2027-04-16,Norwegian Cruise Line,Norwegian Getaway,0700,1600,3903
+2027-04-16,Norwegian Cruise Line,Norwegian Sun,0700,1600,1936
+2027-04-16,Royal Caribbean Cruises,Wonder Of The Seas,0600,1630,5734
+2027-04-17,Carnival Cruises,Carnival Magic,0800,1530,3690
+2027-04-17,Carnival Cruises,Carnival Sunrise,0800,1530,2984
+2027-04-17,Royal Caribbean Cruises,Freedom Of The Seas,0600,1630,3634
+2027-04-17,Royal Caribbean Cruises,Icon Of The Seas,0600,1630,5610
+2027-04-17,MSC Cruises,MSC World America,0700,1630,5252
+2027-04-17,Norwegian Cruise Line,Norwegian Joy,,,3776
+2027-04-17,Virgin Voyages,Scarlet Lady,0630,1700,2860
+2027-04-17,Holland America Line,Zuiderdam,0700,1700,1964
+2027-04-18,Royal Caribbean Cruises,Allure Of The Seas,0600,1600,5400
+2027-04-18,Carnival Cruises,Carnival Firenze,0800,1530,4126
+2027-04-18,Carnival Cruises,Carnival Horizon,0800,1530,3974
+2027-04-18,Royal Caribbean Cruises,Independence Of The Seas,0600,1600,3858
+2027-04-18,Norwegian Cruise Line,Norwegian Aqua,0700,1600,3571
+2027-04-18,Norwegian Cruise Line,Norwegian Viva,0700,1600,3100
+2027-04-18,Virgin Voyages,Resilient Lady,0630,1700,2700
+2027-04-19,MSC Cruises,MSC Seaside,0700,1600,4132
+2027-04-19,Norwegian Cruise Line,Norwegian Getaway,0700,1600,3903
+2027-04-19,Royal Caribbean Cruises,Rhapsody Of The Seas,0700,1600,1996
+2027-04-19,Virgin Voyages,Valiant Lady,0630,,2860
+2027-04-19,Royal Caribbean Cruises,Wonder Of The Seas,0630,1630,5734
+2027-04-20,Norwegian Cruise Line,Norwegian Jewel,,,2368
+2027-04-21,Norwegian Cruise Line,Norwegian Joy,,1800,3776
+2027-04-22,Carnival Cruises,Carnival Sunrise,0800,1530,2984
+2027-04-22,Royal Caribbean Cruises,Freedom Of The Seas,0600,1630,3634
+2027-04-22,Virgin Voyages,Valiant Lady,,1700,2860
+2027-04-23,MSC Cruises,MSC Seaside,0700,1600,4132
+2027-04-23,Norwegian Cruise Line,Norwegian Getaway,0700,1600,3903
+2027-04-23,Virgin Voyages,Resilient Lady,0630,1700,2700
+2027-04-23,Royal Caribbean Cruises,Wonder Of The Seas,0600,1630,5734
+2027-04-24,Carnival Cruises,Carnival Celebration,,1730,5374
+2027-04-24,Carnival Cruises,Carnival Horizon,0800,,3974
+2027-04-24,Royal Caribbean Cruises,Icon Of The Seas,0600,1630,5610
+2027-04-24,Margaritaville At Sea,Margaritaville At Sea Beachcomber,0700,1600,3470
+2027-04-24,MSC Cruises,MSC World America,0700,1630,5252
+2027-04-24,Norwegian Cruise Line,Norwegian Aqua,0700,,3571
+2027-04-24,Norwegian Cruise Line,Norwegian Jewel,,,2368
+2027-04-24,Virgin Voyages,Scarlet Lady,0630,1700,2860
+2027-04-25,Royal Caribbean Cruises,Allure Of The Seas,0600,1600,5400
+2027-04-25,Carnival Cruises,Carnival Firenze,0800,1530,4126
+2027-04-25,Carnival Cruises,Carnival Magic,0800,1530,3690
+2027-04-25,Royal Caribbean Cruises,Independence Of The Seas,0600,1600,3858
+2027-04-25,Norwegian Cruise Line,Norwegian Viva,0700,1600,3100
+2027-04-26,Phoenix Reisen,Amera,0900,1800,834
+2027-04-26,Carnival Cruises,Carnival Sunrise,0800,1530,2984
+2027-04-26,MSC Cruises,MSC Seaside,0700,1600,4132
+2027-04-26,Norwegian Cruise Line,Norwegian Getaway,0700,1600,3903
+2027-04-26,Virgin Voyages,Valiant Lady,0630,1700,2860
+2027-04-26,Royal Caribbean Cruises,Wonder Of The Seas,0630,1630,5734
+2027-04-27,Hapag Lloyd,Europa,0800,2100,408
+2027-04-27,Royal Caribbean Cruises,Freedom Of The Seas,0600,1600,3634
+2027-04-27,Royal Caribbean Cruises,Mariner Of The Seas,0700,1600,3114
+2027-04-28,Norwegian Cruise Line,Norwegian Jewel,,,2368
+2027-04-28,Virgin Voyages,Resilient Lady,0630,1700,2700
+2027-04-30,MSC Cruises,MSC Seaside,0700,1600,4132
+2027-04-30,Norwegian Cruise Line,Norwegian Getaway,0700,1600,3903
+2027-04-30,Royal Caribbean Cruises,Wonder Of The Seas,0600,1630,5734
+2027-05-01,Carnival Cruises,Carnival Magic,0800,1530,3690
+2027-05-01,Carnival Cruises,Carnival Sunrise,0800,1530,2984
+2027-05-01,Royal Caribbean Cruises,Icon Of The Seas,0600,1630,5610
+2027-05-01,Margaritaville At Sea,Margaritaville At Sea Beachcomber,0700,1600,3470
+2027-05-01,MSC Cruises,MSC World America,0700,1630,5252
+2027-05-01,Virgin Voyages,Valiant Lady,0630,1700,2860
+2027-05-02,Royal Caribbean Cruises,Allure Of The Seas,0600,,5400
+2027-05-02,Carnival Cruises,Carnival Celebration,0800,1530,5374
+2027-05-02,Carnival Cruises,Carnival Firenze,0800,1530,4126
+2027-05-02,Celebrity Cruises,Celebrity Beyond,,2000,3260
+2027-05-02,Royal Caribbean Cruises,Independence Of The Seas,0600,1600,3858
+2027-05-02,Norwegian Cruise Line,Norwegian Jewel,,,2368
+2027-05-02,Norwegian Cruise Line,Norwegian Viva,0700,1600,3100
+2027-05-02,Virgin Voyages,Resilient Lady,0630,1700,2700
+2027-05-03,MSC Cruises,MSC Seaside,0700,1600,4132
+2027-05-03,Norwegian Cruise Line,Norwegian Getaway,0700,1600,3903
+2027-05-03,Royal Caribbean Cruises,Wonder Of The Seas,0630,1630,5734
+2027-05-06,Carnival Cruises,Carnival Sunrise,0800,1530,2984
+2027-05-06,Norwegian Cruise Line,Norwegian Jewel,,,2368
+2027-05-06,Virgin Voyages,Valiant Lady,0630,1700,2860
+2027-05-07,MSC Cruises,MSC Seaside,0700,1600,4132
+2027-05-07,Norwegian Cruise Line,Norwegian Getaway,0700,1600,3903
+2027-05-07,Royal Caribbean Cruises,Wonder Of The Seas,0600,1630,5734
+2027-05-08,Carnival Cruises,Carnival Firenze,0800,1530,4126
+2027-05-08,Celebrity Cruises,Celebrity Beyond,0700,1600,3260
+2027-05-08,Royal Caribbean Cruises,Icon Of The Seas,0600,1630,5610
+2027-05-08,Margaritaville At Sea,Margaritaville At Sea Beachcomber,0700,1600,3470
+2027-05-08,MSC Cruises,MSC World America,0700,1630,5252
+2027-05-09,Carnival Cruises,Carnival Celebration,0800,1530,5374
+2027-05-09,Carnival Cruises,Carnival Magic,0800,1530,3690
+2027-05-09,Norwegian Cruise Line,Norwegian Viva,0700,1600,3100
+2027-05-10,Carnival Cruises,Carnival Conquest,,1530,2980
+2027-05-10,Carnival Cruises,Carnival Sunrise,0800,1530,2984
+2027-05-10,Royal Caribbean Cruises,Independence Of The Seas,0600,1600,3858
+2027-05-10,MSC Cruises,MSC Seaside,0700,1600,4132
+2027-05-10,Norwegian Cruise Line,Norwegian Getaway,0700,1600,3903
+2027-05-10,Virgin Voyages,Valiant Lady,0630,1700,2860
+2027-05-10,Royal Caribbean Cruises,Wonder Of The Seas,0630,1630,5734
+2027-05-11,Norwegian Cruise Line,Norwegian Jewel,,,2368
+2027-05-14,Carnival Cruises,Carnival Conquest,0800,1530,2980
+2027-05-14,MSC Cruises,MSC Seaside,0700,1600,4132
+2027-05-14,Norwegian Cruise Line,Norwegian Getaway,0700,1600,3903
+2027-05-14,Royal Caribbean Cruises,Wonder Of The Seas,0600,1630,5734
+2027-05-15,Carnival Cruises,Carnival Magic,0800,1530,3690
+2027-05-15,Carnival Cruises,Carnival Sunrise,0800,1530,2984
+2027-05-15,Royal Caribbean Cruises,Icon Of The Seas,0600,1630,5610
+2027-05-15,Margaritaville At Sea,Margaritaville At Sea Beachcomber,0700,1600,3470
+2027-05-15,MSC Cruises,MSC World America,0700,1630,5252
+2027-05-15,Virgin Voyages,Valiant Lady,0630,1700,2860
+2027-05-16,Carnival Cruises,Carnival Celebration,0800,1530,5374
+2027-05-16,Carnival Cruises,Carnival Firenze,0800,1630,4126
+2027-05-16,Celebrity Cruises,Celebrity Beyond,0700,1600,3260
+2027-05-16,Norwegian Cruise Line,Norwegian Viva,0700,1600,3100
+2027-05-17,Carnival Cruises,Carnival Conquest,0800,1530,2980
+2027-05-17,MSC Cruises,MSC Seaside,0700,1600,4132
+2027-05-17,Norwegian Cruise Line,Norwegian Getaway,0700,1600,3903
+2027-05-17,Royal Caribbean Cruises,Wonder Of The Seas,0630,1630,5734
+2027-05-20,Carnival Cruises,Carnival Sunrise,0800,1530,2984
+2027-05-20,Virgin Voyages,Valiant Lady,0630,1700,2860
+2027-05-21,Carnival Cruises,Carnival Conquest,0800,1530,2980
+2027-05-21,MSC Cruises,MSC Seaside,0700,1600,4132
+2027-05-21,Norwegian Cruise Line,Norwegian Getaway,0700,1600,3903
+2027-05-21,Royal Caribbean Cruises,Wonder Of The Seas,0630,1630,5734
+2027-05-22,Carnival Cruises,Carnival Magic,0800,1530,3690
+2027-05-22,Carnival Cruises,Carnival Venezia,,1530,4090
+2027-05-22,Celebrity Cruises,Celebrity Beyond,0700,1600,3260
+2027-05-22,Royal Caribbean Cruises,Icon Of The Seas,0600,1630,5610
+2027-05-22,Margaritaville At Sea,Margaritaville At Sea Beachcomber,0700,1600,3470
+2027-05-22,MSC Cruises,MSC World America,0700,1630,5252
+2027-05-23,Carnival Cruises,Carnival Celebration,0800,1530,5374
+2027-05-23,Norwegian Cruise Line,Norwegian Viva,0700,1600,3100
+2027-05-24,Carnival Cruises,Carnival Conquest,0800,1530,2980
+2027-05-24,Carnival Cruises,Carnival Sunrise,0800,1530,2984
+2027-05-24,MSC Cruises,MSC Seaside,0700,1600,4132
+2027-05-24,Norwegian Cruise Line,Norwegian Getaway,0700,1600,3903
+2027-05-24,Virgin Voyages,Valiant Lady,0630,1700,2860
+2027-05-24,Royal Caribbean Cruises,Wonder Of The Seas,0630,1630,5734
+2027-05-28,Carnival Cruises,Carnival Conquest,0800,1530,2980
+2027-05-28,MSC Cruises,MSC Seaside,0700,1600,4132
+2027-05-28,Norwegian Cruise Line,Norwegian Getaway,0700,1600,3903
+2027-05-28,Royal Caribbean Cruises,Wonder Of The Seas,0600,1630,5734
+2027-05-29,Carnival Cruises,Carnival Sunrise,0800,1530,2984
+2027-05-29,Carnival Cruises,Carnival Venezia,0800,1530,4090
+2027-05-29,Celebrity Cruises,Celebrity Beyond,0700,1600,3260
+2027-05-29,Royal Caribbean Cruises,Icon Of The Seas,0600,1630,5610
+2027-05-29,Margaritaville At Sea,Margaritaville At Sea Beachcomber,0700,1600,3470
+2027-05-29,MSC Cruises,MSC World America,0700,1630,5252
+2027-05-29,Virgin Voyages,Valiant Lady,0630,1700,2860
+2027-05-30,Carnival Cruises,Carnival Celebration,0800,1530,5374
+2027-05-30,Carnival Cruises,Carnival Magic,0800,1530,3690
+2027-05-30,Seabourn,Seabourn Quest,0700,1600,450
+2027-05-31,Carnival Cruises,Carnival Conquest,0800,1530,2980
+2027-05-31,MSC Cruises,MSC Seaside,0700,1600,4132
+2027-05-31,Norwegian Cruise Line,Norwegian Getaway,0700,1600,3903
+2027-05-31,Royal Caribbean Cruises,Wonder Of The Seas,0630,1630,5734
+2027-06-03,Carnival Cruises,Carnival Sunrise,0800,1530,2984
+2027-06-03,Virgin Voyages,Valiant Lady,0630,1700,2860
+2027-06-04,Carnival Cruises,Carnival Conquest,0800,1530,2980
+2027-06-04,MSC Cruises,MSC Seaside,0700,1600,4132
+2027-06-04,Norwegian Cruise Line,Norwegian Getaway,0700,1600,3903
+2027-06-04,Royal Caribbean Cruises,Wonder Of The Seas,0600,1630,5734
+2027-06-05,Carnival Cruises,Carnival Magic,0800,1530,3690
+2027-06-05,Celebrity Cruises,Celebrity Beyond,0700,1600,3260
+2027-06-05,Royal Caribbean Cruises,Icon Of The Seas,0600,1630,5610
+2027-06-05,Margaritaville At Sea,Margaritaville At Sea Beachcomber,0700,1600,3470
+2027-06-05,MSC Cruises,MSC World America,0700,1630,5252
+2027-06-06,Carnival Cruises,Carnival Celebration,0800,1530,5374
+2027-06-06,Carnival Cruises,Carnival Venezia,0800,1530,4090
+2027-06-07,Carnival Cruises,Carnival Conquest,0800,1530,2980
+2027-06-07,Carnival Cruises,Carnival Sunrise,0800,1530,2984
+2027-06-07,MSC Cruises,MSC Seaside,0700,1600,4132
+2027-06-07,Norwegian Cruise Line,Norwegian Getaway,0700,1600,3903
+2027-06-07,Virgin Voyages,Valiant Lady,0630,1700,2860
+2027-06-07,Royal Caribbean Cruises,Wonder Of The Seas,0630,1630,5734
+2027-06-10,Azamara Cruises,Azamara Quest,0600,1800,698
+2027-06-10,Norwegian Cruise Line,Norwegian Aura,0700,,3835
+2027-06-11,Carnival Cruises,Carnival Conquest,0800,1530,2980
+2027-06-11,MSC Cruises,MSC Seaside,0700,1600,4132
+2027-06-11,Norwegian Cruise Line,Norwegian Getaway,0700,1600,3903
+2027-06-11,Royal Caribbean Cruises,Wonder Of The Seas,0600,1630,5734
+2027-06-12,Carnival Cruises,Carnival Sunrise,0800,1530,2984
+2027-06-12,Carnival Cruises,Carnival Venezia,0800,1530,4090
+2027-06-12,Royal Caribbean Cruises,Icon Of The Seas,0600,1630,5610
+2027-06-12,Margaritaville At Sea,Margaritaville At Sea Beachcomber,0700,1600,3470
+2027-06-12,MSC Cruises,MSC World America,0700,1630,5252
+2027-06-12,Virgin Voyages,Valiant Lady,0630,1700,2860
+2027-06-13,Carnival Cruises,Carnival Celebration,0800,1530,5374
+2027-06-13,Carnival Cruises,Carnival Magic,0800,1530,3690
+2027-06-13,Celebrity Cruises,Celebrity Beyond,0700,1600,3260
+2027-06-14,Carnival Cruises,Carnival Conquest,0800,1530,2980
+2027-06-14,MSC Cruises,MSC Seaside,0700,1600,4132
+2027-06-14,Norwegian Cruise Line,Norwegian Aura,,1600,3835
+2027-06-14,Norwegian Cruise Line,Norwegian Getaway,0700,1600,3903
+2027-06-14,Royal Caribbean Cruises,Wonder Of The Seas,0630,1630,5734
+2027-06-17,Carnival Cruises,Carnival Sunrise,0800,1530,2984
+2027-06-17,Virgin Voyages,Valiant Lady,0630,1700,2860
+2027-06-18,Carnival Cruises,Carnival Conquest,0800,1530,2980
+2027-06-18,MSC Cruises,MSC Seaside,0700,1600,4132
+2027-06-18,Norwegian Cruise Line,Norwegian Getaway,0700,1600,3903
+2027-06-18,Royal Caribbean Cruises,Wonder Of The Seas,0600,1630,5734
+2027-06-19,Carnival Cruises,Carnival Magic,0800,,3690
+2027-06-19,Celebrity Cruises,Celebrity Beyond,0700,1600,3260
+2027-06-19,Royal Caribbean Cruises,Icon Of The Seas,0600,1630,5610
+2027-06-19,Margaritaville At Sea,Margaritaville At Sea Beachcomber,0700,1600,3470
+2027-06-19,MSC Cruises,MSC World America,0700,1630,5252
+2027-06-19,Norwegian Cruise Line,Norwegian Aura,0700,1600,3835
+2027-06-20,Carnival Cruises,Carnival Celebration,0800,1530,5374
+2027-06-20,Carnival Cruises,Carnival Venezia,0800,1530,4090
+2027-06-21,Carnival Cruises,Carnival Conquest,0800,1530,2980
+2027-06-21,Carnival Cruises,Carnival Sunrise,0800,1530,2984
+2027-06-21,MSC Cruises,MSC Seaside,0700,1600,4132
+2027-06-21,Norwegian Cruise Line,Norwegian Getaway,0700,1600,3903
+2027-06-21,Virgin Voyages,Valiant Lady,0630,1700,2860
+2027-06-21,Royal Caribbean Cruises,Wonder Of The Seas,0630,1630,5734
+2027-06-25,Carnival Cruises,Carnival Conquest,0800,1530,2980
+2027-06-25,MSC Cruises,MSC Seaside,0700,1600,4132
+2027-06-25,Norwegian Cruise Line,Norwegian Getaway,0700,1600,3903
+2027-06-25,Royal Caribbean Cruises,Wonder Of The Seas,0600,1630,5734
+2027-06-26,Carnival Cruises,Carnival Sunrise,0800,1530,2984
+2027-06-26,Carnival Cruises,Carnival Venezia,0800,1530,4090
+2027-06-26,Royal Caribbean Cruises,Icon Of The Seas,0600,1630,5610
+2027-06-26,Margaritaville At Sea,Margaritaville At Sea Beachcomber,0700,1600,3470
+2027-06-26,MSC Cruises,MSC World America,0700,1630,5252
+2027-06-26,Norwegian Cruise Line,Norwegian Aura,0700,1600,3835
+2027-06-26,Virgin Voyages,Valiant Lady,0630,1700,2860
+2027-06-27,Carnival Cruises,Carnival Celebration,0800,1530,5374
+2027-06-27,Carnival Cruises,Carnival Magic,,1530,3690
+2027-06-27,Celebrity Cruises,Celebrity Beyond,0700,1600,3260
+2027-06-28,Carnival Cruises,Carnival Conquest,0800,1530,2980
+2027-06-28,MSC Cruises,MSC Seaside,0700,1600,4132
+2027-06-28,Norwegian Cruise Line,Norwegian Getaway,0700,1600,3903
+2027-06-28,Royal Caribbean Cruises,Wonder Of The Seas,0630,1630,5734
+2027-07-01,Carnival Cruises,Carnival Sunrise,0800,1530,2984
+2027-07-01,Virgin Voyages,Valiant Lady,0630,1700,2860
+2027-07-02,Carnival Cruises,Carnival Conquest,0800,1530,2980
+2027-07-02,MSC Cruises,MSC Seaside,0700,1600,4132
+2027-07-02,Norwegian Cruise Line,Norwegian Getaway,0700,1600,3903
+2027-07-02,Royal Caribbean Cruises,Wonder Of The Seas,0600,1630,5734
+2027-07-03,Carnival Cruises,Carnival Magic,0800,1530,3690
+2027-07-03,Celebrity Cruises,Celebrity Beyond,0700,1600,3260
+2027-07-03,Royal Caribbean Cruises,Icon Of The Seas,0600,1630,5610
+2027-07-03,Margaritaville At Sea,Margaritaville At Sea Beachcomber,0700,1600,3470
+2027-07-03,MSC Cruises,MSC World America,0700,1630,5252
+2027-07-03,Norwegian Cruise Line,Norwegian Aura,0700,1600,3835
+2027-07-04,Carnival Cruises,Carnival Celebration,0800,1530,5374
+2027-07-04,Carnival Cruises,Carnival Venezia,0800,1530,4090
+2027-07-05,Carnival Cruises,Carnival Conquest,0800,1530,2980
+2027-07-05,Carnival Cruises,Carnival Sunrise,0800,1530,2984
+2027-07-05,MSC Cruises,MSC Seaside,0700,1600,4132
+2027-07-05,Norwegian Cruise Line,Norwegian Getaway,0700,1600,3903
+2027-07-05,Virgin Voyages,Valiant Lady,0630,1700,2860
+2027-07-05,Royal Caribbean Cruises,Wonder Of The Seas,0630,1630,5734
+2027-07-09,Carnival Cruises,Carnival Conquest,0800,1530,2980
+2027-07-09,MSC Cruises,MSC Seaside,0700,1600,4132
+2027-07-09,Norwegian Cruise Line,Norwegian Getaway,0700,1600,3903
+2027-07-09,Royal Caribbean Cruises,Wonder Of The Seas,0600,1630,5734
+2027-07-10,Carnival Cruises,Carnival Sunrise,0800,1530,2984
+2027-07-10,Carnival Cruises,Carnival Venezia,0800,1530,4090
+2027-07-10,Royal Caribbean Cruises,Icon Of The Seas,0600,1630,5610
+2027-07-10,Margaritaville At Sea,Margaritaville At Sea Beachcomber,0700,1600,3470
+2027-07-10,MSC Cruises,MSC World America,0700,1630,5252
+2027-07-10,Norwegian Cruise Line,Norwegian Aura,0700,1600,3835
+2027-07-10,Virgin Voyages,Valiant Lady,0630,1700,2860
+2027-07-11,Carnival Cruises,Carnival Celebration,0800,1530,5374
+2027-07-11,Carnival Cruises,Carnival Magic,0800,1530,3690
+2027-07-11,Celebrity Cruises,Celebrity Beyond,0700,1600,3260
+2027-07-12,Carnival Cruises,Carnival Conquest,0800,1530,2980
+2027-07-12,MSC Cruises,MSC Seaside,0700,1600,4132
+2027-07-12,Norwegian Cruise Line,Norwegian Getaway,0700,1600,3903
+2027-07-12,Royal Caribbean Cruises,Wonder Of The Seas,0630,1630,5734
+2027-07-15,Carnival Cruises,Carnival Sunrise,0800,1530,2984
+2027-07-15,Virgin Voyages,Valiant Lady,0630,1700,2860
+2027-07-16,Carnival Cruises,Carnival Conquest,0800,1530,2980
+2027-07-16,MSC Cruises,MSC Seaside,0700,1600,4132
+2027-07-16,Norwegian Cruise Line,Norwegian Getaway,0700,1600,3903
+2027-07-16,Royal Caribbean Cruises,Wonder Of The Seas,0600,1630,5734
+2027-07-17,Carnival Cruises,Carnival Magic,0800,1530,3690
+2027-07-17,Celebrity Cruises,Celebrity Beyond,0700,1600,3260
+2027-07-17,Royal Caribbean Cruises,Icon Of The Seas,0600,1630,5610
+2027-07-17,Margaritaville At Sea,Margaritaville At Sea Beachcomber,0700,1600,3470
+2027-07-17,MSC Cruises,MSC World America,0700,1630,5252
+2027-07-17,Norwegian Cruise Line,Norwegian Aura,0700,1600,3835
+2027-07-18,Carnival Cruises,Carnival Celebration,0800,1530,5374
+2027-07-18,Carnival Cruises,Carnival Venezia,0800,1530,4090
+2027-07-19,Carnival Cruises,Carnival Conquest,0800,1530,2980
+2027-07-19,Carnival Cruises,Carnival Sunrise,0800,1530,2984
+2027-07-19,MSC Cruises,MSC Seaside,0700,1600,4132
+2027-07-19,Norwegian Cruise Line,Norwegian Getaway,0700,1600,3903
+2027-07-19,Virgin Voyages,Valiant Lady,0630,1700,2860
+2027-07-19,Royal Caribbean Cruises,Wonder Of The Seas,0630,1630,5734
+2027-07-23,Carnival Cruises,Carnival Conquest,0800,1530,2980
+2027-07-23,MSC Cruises,MSC Seaside,0700,1600,4132
+2027-07-23,Norwegian Cruise Line,Norwegian Getaway,0700,1600,3903
+2027-07-23,Royal Caribbean Cruises,Wonder Of The Seas,0600,1630,5734
+2027-07-24,Carnival Cruises,Carnival Sunrise,0800,1530,2984
+2027-07-24,Carnival Cruises,Carnival Venezia,0800,1530,4090
+2027-07-24,Royal Caribbean Cruises,Icon Of The Seas,0600,1630,5610
+2027-07-24,Margaritaville At Sea,Margaritaville At Sea Beachcomber,0700,1600,3470
+2027-07-24,MSC Cruises,MSC World America,0700,1630,5252
+2027-07-24,Norwegian Cruise Line,Norwegian Aura,0700,1600,3835
+2027-07-24,Virgin Voyages,Valiant Lady,0630,1700,2860
+2027-07-25,Carnival Cruises,Carnival Celebration,0800,1530,5374
+2027-07-25,Carnival Cruises,Carnival Magic,0800,1530,3690
+2027-07-25,Celebrity Cruises,Celebrity Beyond,0700,1600,3260
+2027-07-26,Carnival Cruises,Carnival Conquest,0800,1530,2980
+2027-07-26,MSC Cruises,MSC Seaside,0700,1600,4132
+2027-07-26,Norwegian Cruise Line,Norwegian Getaway,0700,1600,3903
+2027-07-26,Royal Caribbean Cruises,Wonder Of The Seas,0630,1630,5734
+2027-07-29,Carnival Cruises,Carnival Sunrise,0800,1530,2984
+2027-07-29,Virgin Voyages,Valiant Lady,0630,1700,2860
+2027-07-30,Carnival Cruises,Carnival Conquest,0800,1530,2980
+2027-07-30,MSC Cruises,MSC Seaside,0700,1600,4132
+2027-07-30,Norwegian Cruise Line,Norwegian Getaway,0700,1600,3903
+2027-07-30,Royal Caribbean Cruises,Wonder Of The Seas,0600,1630,5734
+2027-07-31,Carnival Cruises,Carnival Magic,0800,1530,3690
+2027-07-31,Celebrity Cruises,Celebrity Beyond,0700,1600,3260
+2027-07-31,Royal Caribbean Cruises,Icon Of The Seas,0600,1630,5610
+2027-07-31,Margaritaville At Sea,Margaritaville At Sea Beachcomber,0700,1600,3470
+2027-07-31,MSC Cruises,MSC World America,0700,1630,5252
+2027-07-31,Norwegian Cruise Line,Norwegian Aura,0700,1600,3835
+2027-08-01,Carnival Cruises,Carnival Celebration,0800,1530,5374
+2027-08-01,Carnival Cruises,Carnival Venezia,0800,1530,4090
+2027-08-02,Carnival Cruises,Carnival Conquest,0800,1530,2980
+2027-08-02,Carnival Cruises,Carnival Sunrise,0800,1530,2984
+2027-08-02,MSC Cruises,MSC Seaside,0700,1600,4132
+2027-08-02,Norwegian Cruise Line,Norwegian Getaway,0700,1600,3903
+2027-08-02,Virgin Voyages,Valiant Lady,0630,1700,2860
+2027-08-02,Royal Caribbean Cruises,Wonder Of The Seas,0630,1630,5734
+2027-08-06,Carnival Cruises,Carnival Conquest,0800,1530,2980
+2027-08-06,MSC Cruises,MSC Seaside,0700,1600,4132
+2027-08-06,Norwegian Cruise Line,Norwegian Getaway,0700,1600,3903
+2027-08-06,Royal Caribbean Cruises,Wonder Of The Seas,0600,1630,5734
+2027-08-07,Carnival Cruises,Carnival Sunrise,0800,1530,2984
+2027-08-07,Carnival Cruises,Carnival Venezia,0800,1530,4090
+2027-08-07,Royal Caribbean Cruises,Icon Of The Seas,0600,1630,5610
+2027-08-07,Margaritaville At Sea,Margaritaville At Sea Beachcomber,0700,1600,3470
+2027-08-07,MSC Cruises,MSC World America,0700,1630,5252
+2027-08-07,Norwegian Cruise Line,Norwegian Aura,0700,1600,3835
+2027-08-07,Virgin Voyages,Valiant Lady,0630,1700,2860
+2027-08-08,Carnival Cruises,Carnival Celebration,0800,1530,5374
+2027-08-08,Carnival Cruises,Carnival Magic,0800,1530,3690
+2027-08-08,Celebrity Cruises,Celebrity Beyond,0700,1600,3260
+2027-08-09,Carnival Cruises,Carnival Conquest,0800,,2980
+2027-08-09,MSC Cruises,MSC Seaside,0700,1600,4132
+2027-08-09,Norwegian Cruise Line,Norwegian Getaway,0700,1600,3903
+2027-08-09,Royal Caribbean Cruises,Wonder Of The Seas,0630,1630,5734
+2027-08-11,Royal Caribbean Cruises,Hero Of The Seas,,1630,5610
+2027-08-12,Carnival Cruises,Carnival Sunrise,0800,1530,2984
+2027-08-12,Virgin Voyages,Valiant Lady,0630,1700,2860
+2027-08-13,Carnival Cruises,Carnival Conquest,,1530,2980
+2027-08-13,MSC Cruises,MSC Seaside,0700,1600,4132
+2027-08-13,Norwegian Cruise Line,Norwegian Getaway,0700,1600,3903
+2027-08-13,Royal Caribbean Cruises,Wonder Of The Seas,0600,1630,5734
+2027-08-14,Carnival Cruises,Carnival Magic,0800,1530,3690
+2027-08-14,Celebrity Cruises,Celebrity Beyond,0700,1600,3260
+2027-08-14,Royal Caribbean Cruises,Hero Of The Seas,0600,1630,5610
+2027-08-14,Margaritaville At Sea,Margaritaville At Sea Beachcomber,0700,1600,3470
+2027-08-14,MSC Cruises,MSC World America,0700,1630,5252
+2027-08-14,Norwegian Cruise Line,Norwegian Aura,0700,1600,3835
+2027-08-15,Carnival Cruises,Carnival Celebration,0800,1530,5374
+2027-08-15,Carnival Cruises,Carnival Venezia,0800,1530,4090
+2027-08-16,Carnival Cruises,Carnival Conquest,0800,1530,2980
+2027-08-16,Carnival Cruises,Carnival Sunrise,0800,1530,2984
+2027-08-16,Norwegian Cruise Line,Norwegian Getaway,0700,1600,3903
+2027-08-16,Virgin Voyages,Valiant Lady,0630,1700,2860
+2027-08-16,Royal Caribbean Cruises,Wonder Of The Seas,0630,1630,5734
+2027-08-18,MSC Cruises,MSC Seaside,0700,,4132
+2027-08-20,Carnival Cruises,Carnival Conquest,0800,1530,2980
+2027-08-20,Norwegian Cruise Line,Norwegian Getaway,0700,1600,3903
+2027-08-20,Royal Caribbean Cruises,Wonder Of The Seas,0600,1630,5734
+2027-08-21,Carnival Cruises,Carnival Sunrise,0800,1530,2984
+2027-08-21,Carnival Cruises,Carnival Venezia,0800,1530,4090
+2027-08-21,Royal Caribbean Cruises,Hero Of The Seas,0600,1630,5610
+2027-08-21,Margaritaville At Sea,Margaritaville At Sea Beachcomber,0700,1600,3470
+2027-08-21,MSC Cruises,MSC World America,0700,1630,5252
+2027-08-21,Norwegian Cruise Line,Norwegian Aura,0700,1600,3835
+2027-08-21,Virgin Voyages,Valiant Lady,0630,1700,2860
+2027-08-22,Carnival Cruises,Carnival Celebration,0800,1530,5374
+2027-08-22,Carnival Cruises,Carnival Magic,0800,1530,3690
+2027-08-22,Celebrity Cruises,Celebrity Beyond,0700,1600,3260
+2027-08-23,Carnival Cruises,Carnival Conquest,0800,,2980
+2027-08-23,Norwegian Cruise Line,Norwegian Getaway,0700,1600,3903
+2027-08-23,Royal Caribbean Cruises,Wonder Of The Seas,0630,1630,5734
+2027-08-26,Carnival Cruises,Carnival Sunrise,0800,1530,2984
+2027-08-26,Virgin Voyages,Valiant Lady,0630,1700,2860
+2027-08-27,Norwegian Cruise Line,Norwegian Getaway,0700,1600,3903
+2027-08-27,Royal Caribbean Cruises,Wonder Of The Seas,0600,1630,5734
+2027-08-28,Carnival Cruises,Carnival Magic,0800,1530,3690
+2027-08-28,Celebrity Cruises,Celebrity Beyond,0700,1600,3260
+2027-08-28,Royal Caribbean Cruises,Hero Of The Seas,0600,1630,5610
+2027-08-28,Margaritaville At Sea,Margaritaville At Sea Beachcomber,0700,1600,3470
+2027-08-28,MSC Cruises,MSC World America,0700,1630,5252
+2027-08-28,Norwegian Cruise Line,Norwegian Aura,0700,1600,3835
+2027-08-29,Carnival Cruises,Carnival Celebration,0800,1530,5374
+2027-08-29,Carnival Cruises,Carnival Venezia,0800,1530,4090
+2027-08-29,Crystal Cruises,Crystal Serenity,0700,1800,740
+2027-08-30,Carnival Cruises,Carnival Sunrise,0800,1530,2984
+2027-08-30,Norwegian Cruise Line,Norwegian Getaway,0700,1600,3903
+2027-08-30,Virgin Voyages,Valiant Lady,0630,1700,2860
+2027-08-30,Royal Caribbean Cruises,Wonder Of The Seas,0630,1630,5734
+2027-09-03,Carnival Cruises,Carnival Conquest,,1530,2980
+2027-09-03,Norwegian Cruise Line,Norwegian Getaway,0700,1600,3903
+2027-09-03,Royal Caribbean Cruises,Wonder Of The Seas,0600,1630,5734
+2027-09-04,Carnival Cruises,Carnival Sunrise,0800,1530,2984
+2027-09-04,Carnival Cruises,Carnival Venezia,0800,1530,4090
+2027-09-04,Royal Caribbean Cruises,Hero Of The Seas,0600,1630,5610
+2027-09-04,Margaritaville At Sea,Margaritaville At Sea Beachcomber,0700,1530,3470
+2027-09-04,MSC Cruises,MSC World America,0700,1630,5252
+2027-09-04,Norwegian Cruise Line,Norwegian Aura,0700,1600,3835
+2027-09-04,Virgin Voyages,Valiant Lady,0630,1700,2860
+2027-09-05,Carnival Cruises,Carnival Celebration,0800,1530,5374
+2027-09-05,Carnival Cruises,Carnival Magic,0800,1530,3690
+2027-09-05,Celebrity Cruises,Celebrity Beyond,0700,1600,3260
+2027-09-06,Carnival Cruises,Carnival Conquest,0800,1530,2980
+2027-09-06,Norwegian Cruise Line,Norwegian Getaway,0700,1600,3903
+2027-09-06,Royal Caribbean Cruises,Wonder Of The Seas,0630,1630,5734
+2027-09-09,Carnival Cruises,Carnival Sunrise,0800,1530,2984
+2027-09-09,Margaritaville At Sea,Margaritaville At Sea Beachcomber,0700,,3470
+2027-09-09,Virgin Voyages,Valiant Lady,0630,1700,2860
+2027-09-10,Carnival Cruises,Carnival Conquest,0800,1530,2980
+2027-09-10,Norwegian Cruise Line,Norwegian Getaway,0700,1600,3903
+2027-09-10,Royal Caribbean Cruises,Wonder Of The Seas,0600,1630,5734
+2027-09-11,Carnival Cruises,Carnival Magic,0800,1530,3690
+2027-09-11,Celebrity Cruises,Celebrity Beyond,0700,1600,3260
+2027-09-11,Royal Caribbean Cruises,Hero Of The Seas,0600,1630,5610
+2027-09-11,MSC Cruises,MSC World America,0700,1630,5252
+2027-09-11,Norwegian Cruise Line,Norwegian Aura,0700,1600,3835
+2027-09-12,Carnival Cruises,Carnival Celebration,0800,1530,5374
+2027-09-12,Carnival Cruises,Carnival Venezia,0800,1530,4090
+2027-09-13,Carnival Cruises,Carnival Conquest,0800,1530,2980
+2027-09-13,Carnival Cruises,Carnival Sunrise,0800,1530,2984
+2027-09-13,Margaritaville At Sea,Margaritaville At Sea Beachcomber,,1530,3470
+2027-09-13,Norwegian Cruise Line,Norwegian Getaway,0700,1600,3903
+2027-09-13,Virgin Voyages,Valiant Lady,0630,1700,2860
+2027-09-13,Royal Caribbean Cruises,Wonder Of The Seas,0630,1630,5734
+2027-09-17,Carnival Cruises,Carnival Conquest,0800,1530,2980
+2027-09-17,Norwegian Cruise Line,Norwegian Getaway,0700,1600,3903
+2027-09-17,Royal Caribbean Cruises,Wonder Of The Seas,0600,1630,5734
+2027-09-18,Carnival Cruises,Carnival Sunrise,0800,1530,2984
+2027-09-18,Carnival Cruises,Carnival Venezia,0800,1530,4090
+2027-09-18,Royal Caribbean Cruises,Hero Of The Seas,0600,1630,5610
+2027-09-18,Margaritaville At Sea,Margaritaville At Sea Beachcomber,0700,1600,3470
+2027-09-18,MSC Cruises,MSC World America,0700,1630,5252
+2027-09-18,Norwegian Cruise Line,Norwegian Aura,0700,1600,3835
+2027-09-18,Virgin Voyages,Valiant Lady,0630,1700,2860
+2027-09-19,Carnival Cruises,Carnival Celebration,0800,1530,5374
+2027-09-19,Carnival Cruises,Carnival Magic,0800,1530,3690
+2027-09-19,Celebrity Cruises,Celebrity Beyond,0700,1600,3260
+2027-09-20,Carnival Cruises,Carnival Conquest,0800,1530,2980
+2027-09-20,Norwegian Cruise Line,Norwegian Getaway,0700,1600,3903
+2027-09-20,Royal Caribbean Cruises,Wonder Of The Seas,0630,1630,5734
+2027-09-23,Carnival Cruises,Carnival Sunrise,0800,1530,2984
+2027-09-23,Virgin Voyages,Valiant Lady,0630,1700,2860
+2027-09-24,Carnival Cruises,Carnival Conquest,0800,1530,2980
+2027-09-24,Norwegian Cruise Line,Norwegian Getaway,0700,1600,3903
+2027-09-24,Royal Caribbean Cruises,Wonder Of The Seas,0600,1630,5734
+2027-09-25,Carnival Cruises,Carnival Magic,0800,1530,3690
+2027-09-25,Celebrity Cruises,Celebrity Beyond,0700,1600,3260
+2027-09-25,Royal Caribbean Cruises,Hero Of The Seas,0600,1630,5610
+2027-09-25,Margaritaville At Sea,Margaritaville At Sea Beachcomber,0700,,3470
+2027-09-25,MSC Cruises,MSC World America,0700,1630,5252
+2027-09-25,Norwegian Cruise Line,Norwegian Aura,0700,1600,3835
+2027-09-26,Carnival Cruises,Carnival Celebration,0800,1530,5374
+2027-09-26,Carnival Cruises,Carnival Venezia,0800,1530,4090
+2027-09-27,Carnival Cruises,Carnival Conquest,0800,1530,2980
+2027-09-27,Carnival Cruises,Carnival Sunrise,0800,1530,2984
+2027-09-27,Norwegian Cruise Line,Norwegian Getaway,0700,1600,3903
+2027-09-27,Virgin Voyages,Valiant Lady,0630,1700,2860
+2027-09-27,Royal Caribbean Cruises,Wonder Of The Seas,0630,1630,5734
+2027-10-01,Carnival Cruises,Carnival Conquest,0800,1530,2980
+2027-10-01,Norwegian Cruise Line,Norwegian Getaway,0700,1600,3903
+2027-10-01,Royal Caribbean Cruises,Wonder Of The Seas,0600,1630,5734
+2027-10-02,Carnival Cruises,Carnival Sunrise,0800,1530,2984
+2027-10-02,Carnival Cruises,Carnival Venezia,0800,1530,4090
+2027-10-02,Royal Caribbean Cruises,Hero Of The Seas,0600,1630,5610
+2027-10-02,MSC Cruises,MSC World America,0700,1630,5252
+2027-10-02,Norwegian Cruise Line,Norwegian Aura,0700,1600,3835
+2027-10-02,Virgin Voyages,Valiant Lady,0630,1700,2860
+2027-10-03,Carnival Cruises,Carnival Celebration,0800,1530,5374
+2027-10-03,Carnival Cruises,Carnival Magic,0800,1530,3690
+2027-10-03,Celebrity Cruises,Celebrity Beyond,0700,1600,3260
+2027-10-04,Carnival Cruises,Carnival Conquest,0800,1530,2980
+2027-10-04,TUI Cruises,Mein Schiff 1,0730,1830,2894
+2027-10-04,Norwegian Cruise Line,Norwegian Getaway,0700,1600,3903
+2027-10-04,Royal Caribbean Cruises,Wonder Of The Seas,0630,1630,5734
+2027-10-07,Carnival Cruises,Carnival Sunrise,0800,1530,2984
+2027-10-07,Virgin Voyages,Valiant Lady,0630,1700,2860
+2027-10-08,Carnival Cruises,Carnival Conquest,0800,,2980
+2027-10-08,Norwegian Cruise Line,Norwegian Getaway,0700,1600,3903
+2027-10-08,Norwegian Cruise Line,Norwegian Jewel,0700,,2368
+2027-10-08,Royal Caribbean Cruises,Wonder Of The Seas,0600,1630,5734
+2027-10-09,AIDA,AIDAluna,0900,,2050
+2027-10-09,Carnival Cruises,Carnival Magic,0800,1530,3690
+2027-10-09,Celebrity Cruises,Celebrity Beyond,0700,1600,3260
+2027-10-09,Royal Caribbean Cruises,Hero Of The Seas,0600,1630,5610
+2027-10-09,MSC Cruises,MSC World America,0700,1630,5252
+2027-10-09,Norwegian Cruise Line,Norwegian Aura,0700,1600,3835
+2027-10-10,AIDA,AIDAluna,,1900,2050
+2027-10-10,Carnival Cruises,Carnival Celebration,0800,1530,5374
+2027-10-10,Carnival Cruises,Carnival Venezia,0800,1530,4090
+2027-10-11,Carnival Cruises,Carnival Sunrise,0800,1530,2984
+2027-10-11,Norwegian Cruise Line,Norwegian Getaway,0700,1600,3903
+2027-10-11,Virgin Voyages,Valiant Lady,0630,1700,2860
+2027-10-11,Royal Caribbean Cruises,Wonder Of The Seas,0630,1630,5734
+2027-10-15,Norwegian Cruise Line,Norwegian Getaway,0700,1600,3903
+2027-10-15,Norwegian Cruise Line,Norwegian Luna,,1600,3570
+2027-10-15,Royal Caribbean Cruises,Wonder Of The Seas,0600,1630,5734
+2027-10-16,Carnival Cruises,Carnival Sunrise,0800,1530,2984
+2027-10-16,Carnival Cruises,Carnival Venezia,0800,1530,4090
+2027-10-16,Royal Caribbean Cruises,Hero Of The Seas,0600,1630,5610
+2027-10-16,MSC Cruises,MSC Poesia,0700,1700,2446
+2027-10-16,MSC Cruises,MSC World America,0700,1630,5252
+2027-10-16,Norwegian Cruise Line,Norwegian Aura,0700,1600,3835
+2027-10-16,Virgin Voyages,Valiant Lady,0630,1700,2860
+2027-10-17,Carnival Cruises,Carnival Celebration,0800,1530,5374
+2027-10-17,Carnival Cruises,Carnival Magic,0800,1530,3690
+2027-10-17,Celebrity Cruises,Celebrity Beyond,0700,1600,3260
+2027-10-17,Norwegian Cruise Line,Norwegian Joy,0700,1600,3776
+2027-10-17,Norwegian Cruise Line,Norwegian Luna,0700,1600,3570
+2027-10-18,Norwegian Cruise Line,Norwegian Getaway,0700,1600,3903
+2027-10-18,Royal Caribbean Cruises,Wonder Of The Seas,0630,1630,5734
+2027-10-21,Carnival Cruises,Carnival Sunrise,0800,1530,2984
+2027-10-21,MSC Cruises,MSC Poesia,0700,1700,2446
+2027-10-21,Virgin Voyages,Valiant Lady,0630,1700,2860
+2027-10-22,Norwegian Cruise Line,Norwegian Getaway,0700,1600,3903
+2027-10-22,Norwegian Cruise Line,Norwegian Joy,0700,1600,3776
+2027-10-22,Royal Caribbean Cruises,Wonder Of The Seas,0600,1630,5734
+2027-10-23,Carnival Cruises,Carnival Magic,0800,1530,3690
+2027-10-23,Celebrity Cruises,Celebrity Beyond,0700,1600,3260
+2027-10-23,Royal Caribbean Cruises,Hero Of The Seas,0600,1630,5610
+2027-10-23,MSC Cruises,MSC World America,0700,1630,5252
+2027-10-23,Norwegian Cruise Line,Norwegian Aura,0700,1600,3835
+2027-10-24,Carnival Cruises,Carnival Celebration,0800,1530,5374
+2027-10-24,Carnival Cruises,Carnival Venezia,0800,1530,4090
+2027-10-24,Norwegian Cruise Line,Norwegian Luna,0700,1600,3570
+2027-10-24,Oceania Cruises,Oceania Vista,0700,1700,1200
+2027-10-25,Carnival Cruises,Carnival Sunrise,0800,1530,2984
+2027-10-25,TUI Cruises,Mein Schiff 1,0730,1830,2894
+2027-10-25,Norwegian Cruise Line,Norwegian Getaway,0700,1600,3903
+2027-10-25,Virgin Voyages,Valiant Lady,0630,1700,2860
+2027-10-25,Royal Caribbean Cruises,Wonder Of The Seas,0630,1630,5734
+2027-10-27,Norwegian Cruise Line,Norwegian Joy,0700,,3776
+2027-10-29,AIDA,AIDAluna,0900,,2050
+2027-10-29,Carnival Cruises,Carnival Conquest,,1530,2980
+2027-10-29,Carnival Cruises,Carnival Sunshine,0800,,3002
+2027-10-29,Norwegian Cruise Line,Norwegian Getaway,0700,1600,3903
+2027-10-29,Royal Caribbean Cruises,Wonder Of The Seas,0600,1630,5734
+2027-10-30,AIDA,AIDAluna,,1900,2050
+2027-10-30,Carnival Cruises,Carnival Sunrise,0800,1530,2984
+2027-10-30,Carnival Cruises,Carnival Venezia,0800,1530,4090
+2027-10-30,Royal Caribbean Cruises,Freedom Of The Seas,0700,1630,3634
+2027-10-30,Royal Caribbean Cruises,Hero Of The Seas,0600,1630,5610
+2027-10-30,MSC Cruises,MSC World America,0700,1630,5252
+2027-10-30,Norwegian Cruise Line,Norwegian Aura,0700,1600,3835
+2027-10-30,Virgin Voyages,Valiant Lady,0630,1700,2860
+2027-10-30,Holland America Line,Zuiderdam,0700,1600,1964
+2027-10-31,Carnival Cruises,Carnival Celebration,0800,1530,5374
+2027-10-31,Carnival Cruises,Carnival Magic,0800,1530,3690
+2027-10-31,Celebrity Cruises,Celebrity Beyond,0700,,3260
+2027-10-31,MSC Cruises,MSC Poesia,0700,1700,2446
+2027-10-31,Norwegian Cruise Line,Norwegian Luna,0700,1600,3570
+2027-11-01,Carnival Cruises,Carnival Conquest,0800,1630,2980
+2027-11-01,Norwegian Cruise Line,Norwegian Getaway,0700,1600,3903
+2027-11-01,Norwegian Cruise Line,Norwegian Joy,,1600,3776
+2027-11-01,Royal Caribbean Cruises,Wonder Of The Seas,0630,1630,5734
+2027-11-03,TUI Cruises,Mein Schiff 1,0730,1830,2894
+2027-11-04,Carnival Cruises,Carnival Sunrise,0800,1530,2984
+2027-11-04,Royal Caribbean Cruises,Freedom Of The Seas,0600,1630,3634
+2027-11-04,Norwegian Cruise Line,Norwegian Getaway,0700,,3903
+2027-11-04,Virgin Voyages,Valiant Lady,0630,1700,2860
+2027-11-05,Explora Journeys,Explora IV,0800,1700,914
+2027-11-05,MSC Cruises,MSC Seashore,,1600,4540
+2027-11-05,Norwegian Cruise Line,Norwegian Bliss,0700,1700,4010
+2027-11-05,Norwegian Cruise Line,Norwegian Joy,0700,1600,3776
+2027-11-05,Royal Caribbean Cruises,Wonder Of The Seas,0600,1630,5734
+2027-11-06,Carnival Cruises,Carnival Magic,0800,1530,3690
+2027-11-06,Royal Caribbean Cruises,Hero Of The Seas,0600,1630,5610
+2027-11-06,Royal Caribbean Cruises,Independence Of The Seas,0700,1600,3858
+2027-11-06,MSC Cruises,MSC World America,0700,1630,5252
+2027-11-06,Norwegian Cruise Line,Norwegian Aura,0700,1600,3835
+2027-11-07,Royal Caribbean Cruises,Allure Of The Seas,,2000,5400
+2027-11-07,Carnival Cruises,Carnival Celebration,0800,1530,5374
+2027-11-07,Carnival Cruises,Carnival Venezia,0800,1530,4090
+2027-11-07,Norwegian Cruise Line,Norwegian Luna,0700,1600,3570
+2027-11-07,Virgin Voyages,Resilient Lady,0630,1700,2700
+2027-11-08,Carnival Cruises,Carnival Sunrise,0800,1530,2984
+2027-11-08,Norwegian Cruise Line,Norwegian Joy,0700,,3776
+2027-11-08,Virgin Voyages,Valiant Lady,0630,1700,2860
+2027-11-08,Royal Caribbean Cruises,Wonder Of The Seas,0630,,5734
+2027-11-09,Norwegian Cruise Line,Norwegian Gem,0700,1600,2382
+2027-11-11,AIDA,AIDAdiva,0800,1800,2030
+2027-11-11,MSC Cruises,MSC Poesia,0700,1700,2446
+2027-11-11,Cunard Line,Queen Elizabeth,,,2080
+2027-11-12,Carnival Cruises,Carnival Conquest,0800,1530,2980
+2027-11-12,Silversea Cruises,Silver Shadow,0700,0000,388
+2027-11-13,Carnival Cruises,Carnival Sunrise,0800,1530,2984
+2027-11-13,Carnival Cruises,Carnival Venezia,0800,1530,4090
+2027-11-13,Royal Caribbean Cruises,Freedom Of The Seas,0600,1630,3634
+2027-11-13,Royal Caribbean Cruises,Hero Of The Seas,0600,1630,5610
+2027-11-13,MSC Cruises,MSC World America,0700,1630,5252
+2027-11-13,Norwegian Cruise Line,Norwegian Aura,0700,1600,3835
+2027-11-13,Seabourn,Seabourn Quest,0700,1600,450
+2027-11-13,Virgin Voyages,Valiant Lady,0630,1700,2860
+2027-11-14,AIDA,AIDAluna,0900,,2050
+2027-11-14,Royal Caribbean Cruises,Allure Of The Seas,0600,1600,5400
+2027-11-14,Carnival Cruises,Carnival Celebration,0800,1530,5374
+2027-11-14,Carnival Cruises,Carnival Magic,0800,1530,3690
+2027-11-14,MSC Cruises,MSC Seashore,0700,1600,4540
+2027-11-14,Norwegian Cruise Line,Norwegian Luna,0700,1600,3570
+2027-11-14,Virgin Voyages,Resilient Lady,0630,1700,2700
+2027-11-15,AIDA,AIDAluna,,2000,2050
+2027-11-15,Carnival Cruises,Carnival Conquest,0800,1530,2980
+2027-11-15,Royal Caribbean Cruises,Independence Of The Seas,0600,1600,3858
+2027-11-15,MSC Cruises,MSC Seaside,,1600,4132
+2027-11-15,Norwegian Cruise Line,Norwegian Viva,0700,1600,3100
+2027-11-15,Royal Caribbean Cruises,Wonder Of The Seas,,1630,5734
+2027-11-18,Carnival Cruises,Carnival Sunrise,0800,1530,2984
+2027-11-18,Royal Caribbean Cruises,Freedom Of The Seas,0600,1630,3634
+2027-11-18,Norwegian Cruise Line,Norwegian Joy,,1600,3776
+2027-11-18,Regent Seven Seas Cruises,Seven Seas Grandeur,0700,1700,746
+2027-11-18,Virgin Voyages,Valiant Lady,0630,1700,2860
+2027-11-19,Carnival Cruises,Carnival Conquest,0800,1530,2980
+2027-11-19,MSC Cruises,MSC Seaside,0700,1600,4132
+2027-11-19,Norwegian Cruise Line,Norwegian Gem,0700,1600,2382
+2027-11-19,Norwegian Cruise Line,Norwegian Jewel,,1600,2368
+2027-11-19,Norwegian Cruise Line,Norwegian Viva,0700,1600,3100
+2027-11-19,Royal Caribbean Cruises,Wonder Of The Seas,0600,1630,5734
+2027-11-20,Carnival Cruises,Carnival Magic,0800,1530,3690
+2027-11-20,Explora Journeys,Explora IV,0800,1700,914
+2027-11-20,Royal Caribbean Cruises,Hero Of The Seas,0600,1630,5610
+2027-11-20,MSC Cruises,MSC Seashore,0700,1600,4540
+2027-11-20,MSC Cruises,MSC World America,0700,1630,5252
+2027-11-20,Norwegian Cruise Line,Norwegian Aura,0700,1600,3835
+2027-11-20,Princess Cruises,Regal Princess,0600,1500,3560
+2027-11-20,Virgin Voyages,Resilient Lady,0630,1700,2700
+2027-11-20,Regent Seven Seas Cruises,Seven Seas Prestige,0700,1600,822
+2027-11-21,Royal Caribbean Cruises,Allure Of The Seas,0600,1600,5400
+2027-11-21,Carnival Cruises,Carnival Celebration,0800,1530,5374
+2027-11-21,Carnival Cruises,Carnival Venezia,0800,1530,4090
+2027-11-21,Royal Caribbean Cruises,Independence Of The Seas,0600,1600,3858
+2027-11-21,MSC Cruises,MSC Poesia,0700,1700,2446
+2027-11-21,Norwegian Cruise Line,Norwegian Luna,0700,1600,3570
+2027-11-21,Oceania Cruises,Oceania Sirena,0800,1700,684
+2027-11-22,Carnival Cruises,Carnival Conquest,0800,1530,2980
+2027-11-22,Carnival Cruises,Carnival Sunrise,0800,1530,2984
+2027-11-22,Explora Journeys,Explora II,0800,1700,920
+2027-11-22,MSC Cruises,MSC Seaside,0700,1600,4132
+2027-11-22,Norwegian Cruise Line,Norwegian Viva,0700,1600,3100
+2027-11-22,Virgin Voyages,Valiant Lady,0630,1700,2860
+2027-11-22,Royal Caribbean Cruises,Wonder Of The Seas,0630,1630,5734
+2027-11-23,Seabourn,Seabourn Quest,0700,1600,450
+2027-11-25,Cunard Line,Queen Elizabeth,,,2080
+2027-11-26,Carnival Cruises,Carnival Conquest,0800,1530,2980
+2027-11-26,MSC Cruises,MSC Seaside,0700,1600,4132
+2027-11-26,Norwegian Cruise Line,Norwegian Viva,0700,1600,3100
+2027-11-26,Silversea Cruises,Silver Shadow,,1700,388
+2027-11-26,Royal Caribbean Cruises,Wonder Of The Seas,0600,1630,5734
+2027-11-27,Carnival Cruises,Carnival Venezia,0800,1530,4090
+2027-11-27,Royal Caribbean Cruises,Freedom Of The Seas,0600,1630,3634
+2027-11-27,Royal Caribbean Cruises,Hero Of The Seas,0600,1630,5610
+2027-11-27,MSC Cruises,MSC World America,0700,1630,5252
+2027-11-27,Norwegian Cruise Line,Norwegian Aura,0700,1600,3835
+2027-11-27,Norwegian Cruise Line,Norwegian Joy,0700,1600,3776
+2027-11-27,Princess Cruises,Regal Princess,0600,1500,3560
+2027-11-27,Regent Seven Seas Cruises,Seven Seas Prestige,0700,1600,822
+2027-11-27,Virgin Voyages,Valiant Lady,0630,1700,2860
+2027-11-27,Holland America Line,Zuiderdam,0700,1600,1964
+2027-11-28,Royal Caribbean Cruises,Allure Of The Seas,0600,1600,5400
+2027-11-28,Carnival Cruises,Carnival Celebration,0800,1530,5374
+2027-11-28,Carnival Cruises,Carnival Magic,0800,1530,3690
+2027-11-28,Carnival Cruises,Carnival Sunrise,0800,1530,2984
+2027-11-28,Royal Caribbean Cruises,Independence Of The Seas,0600,1600,3858
+2027-11-28,MSC Cruises,MSC Seashore,0700,1600,4540
+2027-11-28,Norwegian Cruise Line,Norwegian Luna,0700,1600,3570
+2027-11-28,Oceania Cruises,Oceania Sirena,0800,1700,684
+2027-11-28,Virgin Voyages,Resilient Lady,0630,1700,2700
+2027-11-28,Regent Seven Seas Cruises,Seven Seas Grandeur,0700,1700,746
+2027-11-29,Carnival Cruises,Carnival Conquest,0800,1630,2980
+2027-11-29,MSC Cruises,MSC Seaside,0700,1600,4132
+2027-11-29,Norwegian Cruise Line,Norwegian Jewel,0700,1600,2368
+2027-11-29,Norwegian Cruise Line,Norwegian Viva,0700,1600,3100
+2027-11-29,Royal Caribbean Cruises,Wonder Of The Seas,0630,1630,5734
+2027-11-30,Norwegian Cruise Line,Norwegian Gem,0700,,2382
+2027-12-02,Carnival Cruises,Carnival Sunrise,0800,1530,2984
+2027-12-02,Explora Journeys,Explora II,0800,1700,920
+2027-12-02,Royal Caribbean Cruises,Freedom Of The Seas,0600,1630,3634
+2027-12-02,MSC Cruises,MSC Poesia,0700,1700,2446
+2027-12-02,Oceania Cruises,Oceania Sonata,0800,,1390
+2027-12-02,Virgin Voyages,Valiant Lady,0630,1700,2860
+2027-12-03,MSC Cruises,MSC Seaside,0700,1600,4132
+2027-12-03,Norwegian Cruise Line,Norwegian Viva,0700,1600,3100
+2027-12-03,Silversea Cruises,Silver Shadow,0700,1700,388
+2027-12-03,Royal Caribbean Cruises,Wonder Of The Seas,0600,1630,5734
+2027-12-04,Carnival Cruises,Carnival Magic,0800,1530,3690
+2027-12-04,Explora Journeys,Explora IV,0800,1700,914
+2027-12-04,Royal Caribbean Cruises,Hero Of The Seas,0600,1630,5610
+2027-12-04,MSC Cruises,MSC World America,0700,1630,5252
+2027-12-04,Norwegian Cruise Line,Norwegian Aura,0700,1600,3835
+2027-12-04,Virgin Voyages,Resilient Lady,0630,1700,2700
+2027-12-04,Seabourn,Seabourn Quest,0700,1600,450
+2027-12-04,Holland America Line,Zuiderdam,0700,1500,1964
+2027-12-05,Royal Caribbean Cruises,Allure Of The Seas,0600,1600,5400
+2027-12-05,Carnival Cruises,Carnival Celebration,0800,1530,5374
+2027-12-05,Carnival Cruises,Carnival Venezia,0800,1530,4090
+2027-12-05,Royal Caribbean Cruises,Independence Of The Seas,0600,1600,3858
+2027-12-05,MSC Cruises,MSC Seashore,0700,1600,4540
+2027-12-05,Norwegian Cruise Line,Norwegian Luna,0700,1600,3570
+2027-12-05,Princess Cruises,Regal Princess,0600,1500,3560
+2027-12-06,Carnival Cruises,Carnival Sunrise,0800,1530,2984
+2027-12-06,Hapag Lloyd,Europa 2,1200,,516
+2027-12-06,MSC Cruises,MSC Seaside,0700,1600,4132
+2027-12-06,Norwegian Cruise Line,Norwegian Viva,0700,1600,3100
+2027-12-06,Oceania Cruises,Oceania Sonata,,1700,1390
+2027-12-06,Virgin Voyages,Valiant Lady,0630,1700,2860
+2027-12-06,Royal Caribbean Cruises,Wonder Of The Seas,0630,1630,5734
+2027-12-07,Hapag Lloyd,Europa 2,,2100,516
+2027-12-07,Norwegian Cruise Line,Norwegian Joy,0700,1600,3776
+2027-12-07,Regent Seven Seas Cruises,Seven Seas Prestige,0700,1600,822
+2027-12-08,Regent Seven Seas Cruises,Seven Seas Grandeur,0700,1700,746
+2027-12-09,Norwegian Cruise Line,Norwegian Jewel,0700,1600,2368
+2027-12-09,Cunard Line,Queen Elizabeth,,,2080
+2027-12-10,Carnival Cruises,Carnival Conquest,0800,1530,2980
+2027-12-10,Royal Caribbean Cruises,Independence Of The Seas,0600,1600,3858
+2027-12-10,MSC Cruises,MSC Seaside,0700,1600,4132
+2027-12-10,Norwegian Cruise Line,Norwegian Viva,0700,1600,3100
+2027-12-10,Oceania Cruises,Oceania Sirena,0700,1700,684
+2027-12-10,Silversea Cruises,Silver Shadow,0700,1700,388
+2027-12-10,Royal Caribbean Cruises,Wonder Of The Seas,0600,1630,5734
+2027-12-11,Carnival Cruises,Carnival Sunrise,0800,1530,2984
+2027-12-11,Carnival Cruises,Carnival Venezia,0800,1530,4090
+2027-12-11,Royal Caribbean Cruises,Freedom Of The Seas,0600,1630,3634
+2027-12-11,Royal Caribbean Cruises,Hero Of The Seas,0600,1630,5610
+2027-12-11,MSC Cruises,MSC World America,0700,1630,5252
+2027-12-11,Norwegian Cruise Line,Norwegian Aura,0700,1600,3835
+2027-12-11,Norwegian Cruise Line,Norwegian Gem,,1600,2382
+2027-12-11,Virgin Voyages,Valiant Lady,0630,1700,2860
+2027-12-11,Holland America Line,Zuiderdam,0600,,1964
+2027-12-12,Royal Caribbean Cruises,Allure Of The Seas,0600,1600,5400
+2027-12-12,Carnival Cruises,Carnival Celebration,0800,1530,5374
+2027-12-12,Carnival Cruises,Carnival Magic,0800,1530,3690
+2027-12-12,Explora Journeys,Explora II,0800,1700,920
+2027-12-12,MSC Cruises,MSC Poesia,0700,1700,2446
+2027-12-12,MSC Cruises,MSC Seashore,0700,1600,4540
+2027-12-12,Norwegian Cruise Line,Norwegian Luna,0700,1600,3570
+2027-12-12,Princess Cruises,Regal Princess,0600,1500,3560
+2027-12-12,Virgin Voyages,Resilient Lady,0630,1700,2700
+2027-12-13,Carnival Cruises,Carnival Conquest,0800,1530,2980
+2027-12-13,Explora Journeys,Explora IV,0800,1700,914
+2027-12-13,MSC Cruises,MSC Seaside,0700,1600,4132
+2027-12-13,Norwegian Cruise Line,Norwegian Viva,0700,1600,3100
+2027-12-13,Royal Caribbean Cruises,Wonder Of The Seas,0630,1630,5734
+2027-12-14,Virgin Voyages,Brilliant Lady,0630,1700,2700
+2027-12-16,Carnival Cruises,Carnival Sunrise,0800,1530,2984
+2027-12-16,Royal Caribbean Cruises,Freedom Of The Seas,0600,1630,3634
+2027-12-16,Norwegian Cruise Line,Norwegian Joy,0700,1600,3776
+2027-12-16,Virgin Voyages,Valiant Lady,0630,1700,2860
+2027-12-17,Carnival Cruises,Carnival Conquest,0800,1530,2980
+2027-12-17,MSC Cruises,MSC Seaside,0700,1600,4132
+2027-12-17,Norwegian Cruise Line,Norwegian Viva,0700,1600,3100
+2027-12-17,Silversea Cruises,Silver Shadow,0700,1700,388
+2027-12-17,Royal Caribbean Cruises,Wonder Of The Seas,0600,1630,5734
+2027-12-18,Carnival Cruises,Carnival Magic,0800,1530,3690
+2027-12-18,Royal Caribbean Cruises,Hero Of The Seas,0600,1630,5610
+2027-12-18,MSC Cruises,MSC Seashore,0700,1600,4540
+2027-12-18,MSC Cruises,MSC World America,0700,1630,5252
+2027-12-18,Norwegian Cruise Line,Norwegian Aura,0700,1600,3835
+2027-12-18,Seabourn,Seabourn Quest,0700,1600,450
+2027-12-18,Regent Seven Seas Cruises,Seven Seas Prestige,0700,1600,822
+2027-12-18,Silversea Cruises,Silver Nova,0700,1900,728
+2027-12-19,Royal Caribbean Cruises,Allure Of The Seas,0600,1600,5400
+2027-12-19,Carnival Cruises,Carnival Celebration,0800,1530,5374
+2027-12-19,Carnival Cruises,Carnival Venezia,0800,1530,4090
+2027-12-19,Royal Caribbean Cruises,Independence Of The Seas,0600,1600,3858
+2027-12-19,Norwegian Cruise Line,Norwegian Luna,0700,1600,3570
+2027-12-19,Oceania Cruises,Oceania Sonata,0700,1600,1390
+2027-12-19,Princess Cruises,Regal Princess,0600,1500,3560
+2027-12-19,Virgin Voyages,Resilient Lady,0630,1700,2700
+2027-12-19,Regent Seven Seas Cruises,Seven Seas Voyager,0700,1600,708
+2027-12-20,Carnival Cruises,Carnival Conquest,0800,1530,2980
+2027-12-20,Carnival Cruises,Carnival Sunrise,0800,1530,2984
+2027-12-20,MSC Cruises,MSC Seaside,0700,1600,4132
+2027-12-20,Norwegian Cruise Line,Norwegian Jewel,0700,1600,2368
+2027-12-20,Norwegian Cruise Line,Norwegian Viva,0700,1600,3100
+2027-12-20,Oceania Cruises,Oceania Marina,0800,1700,1258
+2027-12-20,Regent Seven Seas Cruises,Seven Seas Splendor,0700,1600,750
+2027-12-20,Virgin Voyages,Valiant Lady,0630,1700,2860
+2027-12-20,Royal Caribbean Cruises,Wonder Of The Seas,0630,1630,5734
+2027-12-21,Hapag Lloyd,Europa 2,0800,2200,516
+2027-12-21,Norwegian Cruise Line,Norwegian Gem,0700,1600,2382
+2027-12-21,Norwegian Cruise Line,Norwegian Joy,0700,1600,3776
+2027-12-22,Azamara Cruises,Azamara Onward,0600,1800,670
+2027-12-22,Oceania Cruises,Oceania Sirena,0800,1700,684
+2027-12-22,Regent Seven Seas Cruises,Seven Seas Grandeur,0700,1700,746
+2027-12-23,Virgin Voyages,Brilliant Lady,0630,1700,2700
+2027-12-23,Carnival Cruises,Carnival Conquest,0800,1530,2980
+2027-12-23,Explora Journeys,Explora IV,0800,1700,914
+2027-12-23,Royal Caribbean Cruises,Freedom Of The Seas,0600,1630,3634
+2027-12-23,Royal Caribbean Cruises,Hero Of The Seas,0600,1630,5610
+2027-12-23,MSC Cruises,MSC Poesia,0700,1700,2446
+2027-12-23,Cunard Line,Queen Elizabeth,,,2080
+2027-12-24,MSC Cruises,MSC Seaside,0700,1600,4132
+2027-12-24,MSC Cruises,MSC World America,0700,1630,5252
+2027-12-24,Norwegian Cruise Line,Norwegian Viva,0700,1600,3100
+2027-12-24,Silversea Cruises,Silver Shadow,0700,0000,388
+2027-12-24,Royal Caribbean Cruises,Wonder Of The Seas,0600,1630,5734
+2027-12-25,Norwegian Cruise Line,Norwegian Aura,0700,1600,3835
+2027-12-26,Royal Caribbean Cruises,Allure Of The Seas,0600,1600,5400
+2027-12-26,Carnival Cruises,Carnival Celebration,0800,1530,5374
+2027-12-26,Carnival Cruises,Carnival Magic,0800,1530,3690
+2027-12-26,Carnival Cruises,Carnival Sunrise,0800,1530,2984
+2027-12-26,Explora Journeys,Explora II,0800,1700,920
+2027-12-26,MSC Cruises,MSC Seashore,0700,1600,4540
+2027-12-26,Norwegian Cruise Line,Norwegian Luna,0700,1600,3570
+2027-12-26,Virgin Voyages,Resilient Lady,0630,1700,2700
+2027-12-27,Carnival Cruises,Carnival Conquest,0800,1530,2980
+2027-12-27,Carnival Cruises,Carnival Venezia,0800,1530,4090
+2027-12-27,Royal Caribbean Cruises,Independence Of The Seas,0600,1600,3858
+2027-12-27,MSC Cruises,MSC Seaside,0700,1600,4132
+2027-12-27,Norwegian Cruise Line,Norwegian Viva,0700,1600,3100
+2027-12-27,Oceania Cruises,Oceania Marina,0700,1700,1258
+2027-12-27,Princess Cruises,Regal Princess,0600,1500,3560
+2027-12-27,Virgin Voyages,Valiant Lady,0630,1700,2860
+2027-12-27,Royal Caribbean Cruises,Wonder Of The Seas,0630,1630,5734
+2027-12-28,Virgin Voyages,Brilliant Lady,0630,1700,2700
+2027-12-28,Seabourn,Seabourn Quest,0700,1600,450
+2027-12-28,Regent Seven Seas Cruises,Seven Seas Prestige,0700,1600,822
+2027-12-29,Silversea Cruises,Silver Nova,0700,0000,728
+2027-12-30,Carnival Cruises,Carnival Conquest,0800,1530,2980
+2027-12-30,Carnival Cruises,Carnival Sunrise,0800,1530,2984
+2027-12-30,Royal Caribbean Cruises,Freedom Of The Seas,0600,1630,3634
+2027-12-30,Royal Caribbean Cruises,Hero Of The Seas,0600,1630,5610
+2027-12-30,Norwegian Cruise Line,Norwegian Jewel,0700,1600,2368
+2027-12-30,Norwegian Cruise Line,Norwegian Joy,0700,1600,3776
+2027-12-30,Virgin Voyages,Valiant Lady,0630,1700,2860
+2027-12-31,MSC Cruises,MSC Seaside,0700,1600,4132
+2027-12-31,MSC Cruises,MSC World America,0700,1630,5252
+2027-12-31,Norwegian Cruise Line,Norwegian Viva,0700,1600,3100
+2027-12-31,Royal Caribbean Cruises,Wonder Of The Seas,0600,1630,5734

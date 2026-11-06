@@ -1,0 +1,175 @@
+{
+  "corpus_version": "v1_public_salt_superseded",
+  "coverage_verified": false,
+  "created_utc": "2026-10-02T08:42:28.701188+00:00",
+  "end_exclusive": "2026-10-01",
+  "excluded_sources": [
+    "CarnivalCruiseLine"
+  ],
+  "files": [
+    {
+      "bytes": 7742519,
+      "conflicting_duplicate_id_count": 0,
+      "duplicate_id_count": 0,
+      "identity_regimes": {
+        "legacy_public_v0:legacy": 10043
+      },
+      "invalid_rows": 0,
+      "kind": "posts",
+      "known_bot_count": 22,
+      "line_count": 10043,
+      "max_created_utc": "2026-10-01T19:22:20+00:00",
+      "min_created_utc": "2025-01-01T05:02:32+00:00",
+      "outside_window_count": 11,
+      "path": "/home/rich/devdata/nclh-sentiment/raw_v1/NCL_posts.jsonl",
+      "present": true,
+      "sha256": "852b28c016593d829804c18c9e13d0b417770b154166106b72c5409a95c4acb9",
+      "subreddit": "NCL",
+      "unique_id_count": 10043,
+      "unique_in_window_ids": 10032,
+      "unknown_author_count": 38,
+      "unknown_author_definition": "unique valid rows, excluding recognized bots, before text eligibility",
+      "unterminated_lines": 0
+    },
+    {
+      "bytes": 76391315,
+      "conflicting_duplicate_id_count": 0,
+      "duplicate_id_count": 0,
+      "identity_regimes": {
+        "legacy_public_v0:legacy": 182999
+      },
+      "invalid_rows": 0,
+      "kind": "comments",
+      "known_bot_count": 10133,
+      "line_count": 182999,
+      "max_created_utc": "2026-10-01T20:41:50+00:00",
+      "min_created_utc": "2025-01-01T00:07:04+00:00",
+      "outside_window_count": 238,
+      "path": "/home/rich/devdata/nclh-sentiment/raw_v1/NCL_comments.jsonl",
+      "present": true,
+      "sha256": "e1679f216c04b10ab693adb0ffaea56750daecb2be5189160a145ff454625112",
+      "subreddit": "NCL",
+      "unique_id_count": 182999,
+      "unique_in_window_ids": 182761,
+      "unknown_author_count": 1041,
+      "unknown_author_definition": "unique valid rows, excluding recognized bots, before text eligibility",
+      "unterminated_lines": 0
+    },
+    {
+      "bytes": 15774724,
+      "conflicting_duplicate_id_count": 0,
+      "duplicate_id_count": 0,
+      "identity_regimes": {
+        "legacy_public_v0:legacy": 24307
+      },
+      "invalid_rows": 0,
+      "kind": "posts",
+      "known_bot_count": 0,
+      "line_count": 24307,
+      "max_created_utc": "2026-10-01T18:46:24+00:00",
+      "min_created_utc": "2025-01-01T00:39:15+00:00",
+      "outside_window_count": 24,
+      "path": "/home/rich/devdata/nclh-sentiment/raw_v1/royalcaribbean_posts.jsonl",
+      "present": true,
+      "sha256": "03d9b95514e9bbe45200f4f39f625bd36a5c383f9ec03e5012d21b2e8b597327",
+      "subreddit": "royalcaribbean",
+      "unique_id_count": 24307,
+      "unique_in_window_ids": 24283,
+      "unknown_author_count": 85,
+      "unknown_author_definition": "unique valid rows, excluding recognized bots, before text eligibility",
+      "unterminated_lines": 0
+    },
+    {
+      "bytes": 161227962,
+      "conflicting_duplicate_id_count": 0,
+      "duplicate_id_count": 0,
+      "identity_regimes": {
+        "legacy_public_v0:legacy": 446115
+      },
+      "invalid_rows": 0,
+      "kind": "comments",
+      "known_bot_count": 0,
+      "line_count": 446115,
+      "max_created_utc": "2026-10-02T00:12:30+00:00",
+      "min_created_utc": "2025-01-01T00:00:04+00:00",
+      "outside_window_count": 631,
+      "path": "/home/rich/devdata/nclh-sentiment/raw_v1/royalcaribbean_comments.jsonl",
+      "present": true,
+      "sha256": "113c464e9ec3b9cbdd5244a9a5f5990a205176ebd3f8fe6a933d6addf5b387b8",
+      "subreddit": "royalcaribbean",
+      "unique_id_count": 446115,
+      "unique_in_window_ids": 445484,
+      "unknown_author_count": 22492,
+      "unknown_author_definition": "unique valid rows, excluding recognized bots, before text eligibility",
+      "unterminated_lines": 0
+    },
+    {
+      "bytes": 8897886,
+      "conflicting_duplicate_id_count": 0,
+      "duplicate_id_count": 0,
+      "identity_regimes": {
+        "legacy_public_v0:legacy": 14128
+      },
+      "invalid_rows": 0,
+      "kind": "posts",
+      "known_bot_count": 1,
+      "line_count": 14128,
+      "max_created_utc": "2026-10-01T23:55:41+00:00",
+      "min_created_utc": "2025-01-01T00:26:43+00:00",
+      "outside_window_count": 8,
+      "path": "/home/rich/devdata/nclh-sentiment/raw_v1/CarnivalCruiseFans_posts.jsonl",
+      "present": true,
+      "sha256": "c64f7ab3de6123110a2adb1eed2c72ffe771905cb50237c7275fe0480eb9563d",
+      "subreddit": "CarnivalCruiseFans",
+      "unique_id_count": 14128,
+      "unique_in_window_ids": 14120,
+      "unknown_author_count": 89,
+      "unknown_author_definition": "unique valid rows, excluding recognized bots, before text eligibility",
+      "unterminated_lines": 0
+    },
+    {
+      "bytes": 78195646,
+      "conflicting_duplicate_id_count": 0,
+      "duplicate_id_count": 0,
+      "identity_regimes": {
+        "legacy_public_v0:legacy": 197388
+      },
+      "invalid_rows": 0,
+      "kind": "comments",
+      "known_bot_count": 4810,
+      "line_count": 197388,
+      "max_created_utc": "2026-10-02T01:39:40+00:00",
+      "min_created_utc": "2025-01-01T00:01:48+00:00",
+      "outside_window_count": 150,
+      "path": "/home/rich/devdata/nclh-sentiment/raw_v1/CarnivalCruiseFans_comments.jsonl",
+      "present": true,
+      "sha256": "8e35900301d77c1cf21b94d2a65bc320393add6c1e528597292d832f4a3e6178",
+      "subreddit": "CarnivalCruiseFans",
+      "unique_id_count": 197388,
+      "unique_in_window_ids": 197238,
+      "unknown_author_count": 1128,
+      "unknown_author_definition": "unique valid rows, excluding recognized bots, before text eligibility",
+      "unterminated_lines": 0
+    }
+  ],
+  "purpose": "ID/count reconciliation only; never author linkage",
+  "raw_dir": "/home/rich/devdata/nclh-sentiment/raw_v1",
+  "source_registry": [
+    "NCL",
+    "royalcaribbean",
+    "CarnivalCruiseFans"
+  ],
+  "source_sha256": {
+    "analyze.py": "a43b6a6b2c0a0664e6490383843f8fb3cfc34ce900800ca5416bea3d16a434e4",
+    "build_codebook.py": "9ccddfb6c8461f91d0da426f0717553e16fae326507091e6a80d4e294ab26129",
+    "collect.py": "0bc2e4d54e85c557df2834db10b3af64db84e3e83f0dfa0604579914764ebd6f",
+    "freeze_corpus.py": "90ea360f796658a164e51a296381d47804b58a1a639b1f95e87cb6aa5acd486f",
+    "label_schema.py": "402f0b842e8cee1f968d7fcfdd31005d02b7f52355630c0187ef93b2ab938c58",
+    "lexicon_index.py": "89291aaba47475be551690d4f173d5ea187f34efde23384b43dbbec72f602efb",
+    "make_sample.py": "287dca868cfeb5fd9ea2583d43064769852b5ac12c19f910f34aa0fcf4e0c8b6",
+    "selection_adjust.py": "590caf193b637e5fea005d7a867398d059df1fa44b1c142392f242e5cd790370",
+    "study_common.py": "3af17c3c78031569ad8687417e591e8d8b5e57681d503e5ddbd53b2feaa87389"
+  },
+  "start_inclusive": "2025-01-01",
+  "version": 2
+}

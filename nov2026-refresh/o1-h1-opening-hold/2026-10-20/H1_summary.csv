@@ -1,0 +1,21 @@
+cohort,line,n_sailings,n_ships,n_cabin_pairs,median_change_pct,n_down_ge_5pct,share_down_ge_5pct,departure_months,history_label,status,new_minus_old_pp
+new_Oct2027_Dec2028,norwegian,218,19,870,-1.211697447,39,17.88990826,2027-10|2027-11|2027-12,provider history retrieved Oct 2026,observed,2.91521316
+new_Oct2027_Dec2028,royal-caribbean,477,31,1908,0,14,2.935010482,2027-10|2027-11|2027-12,provider history retrieved Oct 2026,observed,0
+new_Oct2027_Dec2028,carnival,441,30,1764,0,5,1.133786848,2027-10|2027-11|2027-12,provider history retrieved Oct 2026,observed,0.9973529968
+new_Oct2027_Dec2028,oceania,43,8,140,0,2,4.651162791,2027-10|2027-11|2027-12,provider history retrieved Oct 2026,observed,0
+new_Oct2027_Dec2028,regent-seven-seas,47,7,47,0,1,2.127659574,2027-10|2027-11|2027-12,provider history retrieved Oct 2026,observed,0
+old_JanJun2027,norwegian,445,19,1771,-4.126910607,204,45.84269663,2027-01|2027-02|2027-03|2027-04|2027-05|2027-06,provider history retrieved Oct 2026,observed,
+old_JanJun2027,royal-caribbean,923,30,3691,0,194,21.0184182,2027-01|2027-02|2027-03|2027-04|2027-05|2027-06,provider history retrieved Oct 2026,observed,
+old_JanJun2027,carnival,807,30,3227,-0.9973529968,157,19.45477076,2027-01|2027-02|2027-03|2027-04|2027-05|2027-06,provider history retrieved Oct 2026,observed,
+old_JanJun2027,oceania,73,7,267,0,14,19.17808219,2027-01|2027-02|2027-03|2027-04|2027-05|2027-06,provider history retrieved Oct 2026,observed,
+old_JanJun2027,regent-seven-seas,49,7,49,0,3,6.12244898,2027-01|2027-02|2027-03|2027-04|2027-05|2027-06,provider history retrieved Oct 2026,observed,
+2027Q4,norwegian,218,19,870,-1.211697447,39,17.88990826,2027-10|2027-11|2027-12,provider history retrieved Oct 2026,observed,2.91521316
+2027Q4,royal-caribbean,477,31,1908,0,14,2.935010482,2027-10|2027-11|2027-12,provider history retrieved Oct 2026,observed,0
+2027Q4,carnival,441,30,1764,0,5,1.133786848,2027-10|2027-11|2027-12,provider history retrieved Oct 2026,observed,0.9973529968
+2027Q4,oceania,43,8,140,0,2,4.651162791,2027-10|2027-11|2027-12,provider history retrieved Oct 2026,observed,0
+2027Q4,regent-seven-seas,47,7,47,0,1,2.127659574,2027-10|2027-11|2027-12,provider history retrieved Oct 2026,observed,0
+2028,norwegian,0,0,0,,0,,,provider history retrieved Oct 2026,no fresh endpoint pairs,
+2028,royal-caribbean,0,0,0,,0,,,provider history retrieved Oct 2026,no fresh endpoint pairs,
+2028,carnival,0,0,0,,0,,,provider history retrieved Oct 2026,no fresh endpoint pairs,
+2028,oceania,0,0,0,,0,,,provider history retrieved Oct 2026,no fresh endpoint pairs,
+2028,regent-seven-seas,0,0,0,,0,,,provider history retrieved Oct 2026,no fresh endpoint pairs,

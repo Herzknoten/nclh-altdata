@@ -1,0 +1,2 @@
+rows,sailings,lines,ships,ship_slugs,cabin_categories,observation_start_utc,observation_end_utc,observation_start_date,observation_end_date,departure_start,departure_end,lead_days_min,lead_days_max,after_departure_rows
+10760269,29201,17,228,227,4,2025-10-06 13:06:51.977+00,2026-09-13 22:25:59.818+00,2025-10-06,2026-09-13,2025-10-12,2028-12-30,-13,906,2987

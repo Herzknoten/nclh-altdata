@@ -1,0 +1,135 @@
+{
+  "cutoff": "2026-10-20",
+  "start_endpoint": "2026-10-05",
+  "invocation": [
+    "opening_hold.py",
+    "--nclh-export",
+    "/home/rich/devdata/allaboard-parser/out/nclh-2026-10-20",
+    "--peers-export",
+    "/home/rich/devdata/allaboard-parser/out/peers-2026-10-20",
+    "--history-export",
+    "/home/rich/devdata/allaboard-parser/out/full-2026-09-14",
+    "--history-export",
+    "/home/rich/devdata/allaboard-parser/out/full-2026-09-28",
+    "--cutoff",
+    "2026-10-20",
+    "--out",
+    "/home/rich/devdata/nclh-ivy-refresh/tests2/out/2026-10-20"
+  ],
+  "source_priority_low_to_high": [
+    "/home/rich/devdata/allaboard-parser/out/full-2026-09-14",
+    "/home/rich/devdata/allaboard-parser/out/full-2026-09-28",
+    "/home/rich/devdata/allaboard-parser/out/nclh-2026-10-20",
+    "/home/rich/devdata/allaboard-parser/out/peers-2026-10-20"
+  ],
+  "history_label": "provider history retrieved Oct 2026",
+  "dry_run": true,
+  "seed": 20261104,
+  "draws": 10000,
+  "code_and_rules_before_price_read": [
+    {
+      "path": "/home/rich/devdata/nclh-ivy-refresh/tests2/opening_hold.py",
+      "bytes": 48496,
+      "mtime_ns": 1793855905346240529,
+      "sha256": "3ba1c3859d23af53f7fac84838d9810126eda7b391cde5ad4cd32d07256644f6"
+    },
+    {
+      "path": "/home/rich/devdata/nclh-ivy-refresh/tests2/DEFINITIONS.md",
+      "bytes": 6941,
+      "mtime_ns": 1793855610907866801,
+      "sha256": "66fd587dec1eade97571eb401e669d2fc40c69b7ff4a376af1b1bbaaace1a66d"
+    },
+    {
+      "path": "/home/rich/devdata/nclh-ivy-refresh/reconcile/reconcile.py",
+      "bytes": 34268,
+      "mtime_ns": 1793853722342487475,
+      "sha256": "5a968eb178a5e39c11d21d1e5e4434176b09ecafcbb577ea7b85eb0438edcf86"
+    },
+    {
+      "path": "/home/rich/devdata/nclh-repo-staging/asp/regions.py",
+      "bytes": 9873,
+      "mtime_ns": 1790898739247772470,
+      "sha256": "2bffac6ab233bf8d55a0e866341da3fddf225548b67e5e5ab3994449fface46f"
+    },
+    {
+      "path": "/home/rich/devdata/nclh-ivy-refresh/tests/common.py",
+      "bytes": 13680,
+      "mtime_ns": 1793853456939145163,
+      "sha256": "9ee0b19e56886a240cc31a1709aa12e5b32315fe80d2476e1123ba941ed52eb5"
+    },
+    {
+      "path": "/home/rich/share/outbox/nclh-superday-2026-10-08/deck-materials/06-long-1.1/make_final.py",
+      "bytes": 11537,
+      "mtime_ns": 1792603555177993072,
+      "sha256": "15d9cdde00e53d18806e557514ba9795ac82694de6b149f3e248dbb9de4b8888"
+    },
+    {
+      "path": "/home/rich/.local/share/fonts/Inter.ttf",
+      "bytes": 876576,
+      "mtime_ns": 1792584725665958318,
+      "sha256": "29160a80ff49ddcab2c97711247e08b1fab27a484a329ce8b813d820dc559031"
+    }
+  ],
+  "inputs": [
+    {
+      "path": "/home/rich/devdata/allaboard-parser/out/full-2026-09-14/sailings.csv",
+      "bytes": 16292740,
+      "mtime_ns": 1789369425613793135
+    },
+    {
+      "path": "/home/rich/devdata/allaboard-parser/out/full-2026-09-14/price_history.csv",
+      "bytes": 1223612747,
+      "mtime_ns": 1789369425613793135
+    },
+    {
+      "path": "/home/rich/devdata/allaboard-parser/out/full-2026-09-14/verify_report.json",
+      "bytes": 1251,
+      "mtime_ns": 1789372991611613028
+    },
+    {
+      "path": "/home/rich/devdata/allaboard-parser/out/full-2026-09-28/sailings.csv",
+      "bytes": 12193445,
+      "mtime_ns": 1790884020734705034
+    },
+    {
+      "path": "/home/rich/devdata/allaboard-parser/out/full-2026-09-28/price_history.csv",
+      "bytes": 1078663256,
+      "mtime_ns": 1790884020734705034
+    },
+    {
+      "path": "/home/rich/devdata/allaboard-parser/out/full-2026-09-28/verify_report.json",
+      "bytes": 1705,
+      "mtime_ns": 1790886280005002262
+    },
+    {
+      "path": "/home/rich/devdata/allaboard-parser/out/nclh-2026-10-20/sailings.csv",
+      "bytes": 811273,
+      "mtime_ns": 1792518840807921322
+    },
+    {
+      "path": "/home/rich/devdata/allaboard-parser/out/nclh-2026-10-20/price_history.csv",
+      "bytes": 106900282,
+      "mtime_ns": 1792518840805921238
+    },
+    {
+      "path": "/home/rich/devdata/allaboard-parser/out/nclh-2026-10-20/verify_report.json",
+      "bytes": 5928,
+      "mtime_ns": 1792519031283954325
+    },
+    {
+      "path": "/home/rich/devdata/allaboard-parser/out/peers-2026-10-20/sailings.csv",
+      "bytes": 2386271,
+      "mtime_ns": 1792536451748879529
+    },
+    {
+      "path": "/home/rich/devdata/allaboard-parser/out/peers-2026-10-20/price_history.csv",
+      "bytes": 379153530,
+      "mtime_ns": 1792536451748879529
+    },
+    {
+      "path": "/home/rich/devdata/allaboard-parser/out/peers-2026-10-20/verify_report.json",
+      "bytes": 1253,
+      "mtime_ns": 1792537042015770419
+    }
+  ]
+}

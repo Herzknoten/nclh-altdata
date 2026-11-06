@@ -1,0 +1,326 @@
+{
+  "checks": [
+    {
+      "check": "all original aggregate reproductions",
+      "passed": true
+    },
+    {
+      "check": "all source lines disposed",
+      "passed": true
+    },
+    {
+      "check": "no unexpected windows or analytic conflicts",
+      "passed": true
+    },
+    {
+      "check": "dedup unique equals monthly and daily sums",
+      "passed": true
+    },
+    {
+      "check": "raw eligibility disjoint partition",
+      "passed": true
+    },
+    {
+      "check": "eligible count equals eligible frame",
+      "passed": true
+    },
+    {
+      "check": "old raw total 873962",
+      "passed": true
+    },
+    {
+      "check": "old eligible total 834395",
+      "passed": true
+    },
+    {
+      "check": "refresh total matches COLLECT.md 35365",
+      "passed": true
+    },
+    {
+      "check": "complete months exclude November",
+      "passed": true
+    },
+    {
+      "check": "November four-day partial total",
+      "passed": true
+    },
+    {
+      "check": "NCL source/monthly/daily reconcile",
+      "passed": true
+    },
+    {
+      "check": "royalcaribbean source/monthly/daily reconcile",
+      "passed": true
+    },
+    {
+      "check": "CarnivalCruiseFans source/monthly/daily reconcile",
+      "passed": true
+    },
+    {
+      "check": "gsc_tender bounded by GSC",
+      "passed": true
+    },
+    {
+      "check": "gsc_tender share arithmetic",
+      "passed": true
+    },
+    {
+      "check": "gsc_pier bounded by GSC",
+      "passed": true
+    },
+    {
+      "check": "gsc_pier share arithmetic",
+      "passed": true
+    },
+    {
+      "check": "gsc_waterpark bounded by GSC",
+      "passed": true
+    },
+    {
+      "check": "gsc_waterpark share arithmetic",
+      "passed": true
+    },
+    {
+      "check": "gsc_pier_dock bounded by GSC",
+      "passed": true
+    },
+    {
+      "check": "gsc_pier_dock share arithmetic",
+      "passed": true
+    },
+    {
+      "check": "gsc_crowd_lines bounded by GSC",
+      "passed": true
+    },
+    {
+      "check": "gsc_crowd_lines share arithmetic",
+      "passed": true
+    },
+    {
+      "check": "GSC bounded by all items",
+      "passed": true
+    },
+    {
+      "check": "N4 ends October, has 22 complete months",
+      "passed": true
+    },
+    {
+      "check": "gsc_tender pooled three-month calculation",
+      "passed": true
+    },
+    {
+      "check": "gsc_waterpark pooled three-month calculation",
+      "passed": true
+    },
+    {
+      "check": "raw/items post window partition",
+      "passed": true
+    },
+    {
+      "check": "raw/gsc post window partition",
+      "passed": true
+    },
+    {
+      "check": "raw/gsc_tender post window partition",
+      "passed": true
+    },
+    {
+      "check": "raw/gsc_waterpark post window partition",
+      "passed": true
+    },
+    {
+      "check": "raw/gsc_pier_dock post window partition",
+      "passed": true
+    },
+    {
+      "check": "raw/gsc_crowd_lines post window partition",
+      "passed": true
+    },
+    {
+      "check": "eligible/items post window partition",
+      "passed": true
+    },
+    {
+      "check": "eligible/gsc post window partition",
+      "passed": true
+    },
+    {
+      "check": "eligible/gsc_tender post window partition",
+      "passed": true
+    },
+    {
+      "check": "eligible/gsc_waterpark post window partition",
+      "passed": true
+    },
+    {
+      "check": "eligible/gsc_pier_dock post window partition",
+      "passed": true
+    },
+    {
+      "check": "eligible/gsc_crowd_lines post window partition",
+      "passed": true
+    },
+    {
+      "check": "premium rate arithmetic 2025",
+      "passed": true
+    },
+    {
+      "check": "premium rate arithmetic 2026",
+      "passed": true
+    },
+    {
+      "check": "premium growth arithmetic",
+      "passed": true
+    },
+    {
+      "check": "premium windows same complete months only",
+      "passed": true
+    },
+    {
+      "check": "authoritative N4 source syntax used",
+      "passed": true
+    },
+    {
+      "check": "definition fingerprint: METHOD.md",
+      "passed": true
+    },
+    {
+      "check": "definition fingerprint: extend_reddit.py",
+      "passed": true
+    },
+    {
+      "check": "definition fingerprint: reconstruct_n4.py",
+      "passed": true
+    },
+    {
+      "check": "definition fingerprint: regenerate.py",
+      "passed": true
+    },
+    {
+      "check": "definition fingerprint: make_appendix.py",
+      "passed": true
+    },
+    {
+      "check": "definition fingerprint: reddit_daily_counts.csv",
+      "passed": true
+    },
+    {
+      "check": "definition fingerprint: gsc_topics_monthly.csv",
+      "passed": true
+    },
+    {
+      "check": "definition fingerprint: frame_monthly_volume.csv",
+      "passed": true
+    },
+    {
+      "check": "definition fingerprint: study_common.py",
+      "passed": true
+    },
+    {
+      "check": "definition fingerprint: analyze_reddit.py",
+      "passed": true
+    },
+    {
+      "check": "definition fingerprint: COLLECT.md",
+      "passed": true
+    },
+    {
+      "check": "one CPU worker recorded",
+      "passed": true
+    },
+    {
+      "check": "aggregate schema: reproduction_summary.csv",
+      "passed": true
+    },
+    {
+      "check": "aggregate schema: n4_initial_candidates.csv",
+      "passed": true
+    },
+    {
+      "check": "aggregate schema: activity_monthly.csv",
+      "passed": true
+    },
+    {
+      "check": "aggregate schema: n4_reconstruction_candidates.csv",
+      "passed": true
+    },
+    {
+      "check": "aggregate schema: gsc_monthly.csv",
+      "passed": true
+    },
+    {
+      "check": "aggregate schema: monthly_counts.csv",
+      "passed": true
+    },
+    {
+      "check": "aggregate schema: premium_monthly.csv",
+      "passed": true
+    },
+    {
+      "check": "aggregate schema: gsc_event_windows.csv",
+      "passed": true
+    },
+    {
+      "check": "aggregate schema: source_audit.csv",
+      "passed": true
+    },
+    {
+      "check": "aggregate schema: gsc_topics_november_partial.csv",
+      "passed": true
+    },
+    {
+      "check": "aggregate schema: reproduction_checks.csv",
+      "passed": true
+    },
+    {
+      "check": "aggregate schema: reddit_daily_counts.csv",
+      "passed": true
+    },
+    {
+      "check": "aggregate schema: premium_yoy.csv",
+      "passed": true
+    },
+    {
+      "check": "aggregate schema: gsc_topics_monthly.csv",
+      "passed": true
+    },
+    {
+      "check": "aggregate schema: n4_chart_data.csv",
+      "passed": true
+    },
+    {
+      "check": "PNG renders: 1_conversation_volume",
+      "passed": true
+    },
+    {
+      "check": "PNG renders: 3_community_activity",
+      "passed": true
+    },
+    {
+      "check": "PNG renders: N4_gsc_tendering_to_waterpark",
+      "passed": true
+    },
+    {
+      "check": "PNG renders: N6_gsc_after_opening",
+      "passed": true
+    },
+    {
+      "check": "Inter house font",
+      "passed": true
+    },
+    {
+      "check": "no em or en dashes: RESULTS.md",
+      "passed": true
+    },
+    {
+      "check": "no em or en dashes: result.md",
+      "passed": true
+    },
+    {
+      "check": "no em or en dashes: METHOD.md",
+      "passed": true
+    }
+  ],
+  "passed": 80,
+  "failed": 0
+}

@@ -1,0 +1,64 @@
+{
+  "asof": "2026-09-12",
+  "first_observation": "2025-10-06",
+  "last_observation": "2026-09-12",
+  "verify_status": "PASS",
+  "counts": {
+    "history_rows": 10760269,
+    "retained_timestamp_rows": 6757313,
+    "excluded_post_departure": 2273,
+    "excluded_after_asof": 9758,
+    "daily_medians": 6757313,
+    "close_in_daily_medians": 728811,
+    "early_days_in_any_model": 5265530
+  },
+  "cpu_workers": 1,
+  "sqlite_auxiliary_threads": 0,
+  "python": "3.14.4 (main, Aug 20 2026, 10:41:58) [GCC 15.2.0]",
+  "min_close_in_days": 5,
+  "min_anchor_cell_days": 5,
+  "monthly_cutoff": "departure month first day minus 60 days; observed strictly before cutoff",
+  "strict_close_in_identified": false,
+  "inputs_sha256": {
+    "/home/rich/devdata/allaboard-parser/out/full-2026-09-14/verify_report.json": "ac5d0e65ae2c5bef1e09a4dff6e26790d532d020df094571bcedb12953284995",
+    "/home/rich/devdata/allaboard-parser/out/full-2026-09-14/sailings.csv": "e7db6fe83e13ba6e34e5d3ebb96b2fe64e1a80903ce83eb20b8be9fdc1b40e46",
+    "/home/rich/devdata/allaboard-parser/out/full-2026-09-14/price_history.csv": "47a4ba5dc7b4b7afbbef513a5adaf51e581adb443a80c357e6c8d567de24d3a4",
+    "/home/rich/devdata/nclh-2027-momentum/analyze.py": "e10699e09b6912e09d42396f34e20e917839a8d27427aa884202da3c4052081d",
+    "/home/rich/devdata/nclh-promo-events/out/promotion_calendar.csv": "af6122fa8c29e31343b07c9d28037005adedf4cdc792bcde4fdc7758e55b93e3",
+    "/home/rich/devdata/nclh-loadfactor-model/out/nclh_reported.csv": "cd6573be19855e1bf70f7b3e34a9be8e378f5c191e6b6867d5d11491ed7d3a27",
+    "/home/rich/devdata/nclh-loadfactor-web/occupancy_facts.md": "6bfec2e2144c4eac3128963c24236f22662dd1008c8517d67fb673a47be10587",
+    "/home/rich/devdata/nclh-deposits/out/nclh_deposit_metrics.csv": "cfbdcc7773a5aa73986965043cc0013409ce14c6ffc4fea5776fe8f52c337468",
+    "/home/rich/devdata/nclh-ramp/data/fmp_earnings_RCL.csv": "488d9249548491acc37e4247d52c37d1ce16053e177322854325e6398d2418fd",
+    "/home/rich/devdata/nclh-ramp/data/fmp_earnings_CCL.csv": "3dbff18bf4f6cb5092a8a40a5aa1009a0f32a69bc739c6beba32506cf022047a",
+    "/home/rich/devdata/nclh-loadfactor-literature/notes.md": "984039e8116f125b7940931213775b4d6dbb7cd0304db147ef674e01c2a80fab",
+    "/home/rich/devdata/nclh-promo-events/README.md": "ce4868dc813014fe1ed7fd5b15915e9edb40382735b43f91a560c242cdced613",
+    "/home/rich/devdata/nclh-availability-signals/RESULTS.md": "659b2961b7f226643d5520d086ec6364ca3fd18712bb556b98059259f65cdda8",
+    "/home/rich/devdata/allaboard-accuracy/FIX-RESULTS.md": "c944afa0bc480c7390caa10d47a8367df831fb831673812c17a4e6dd212700b2",
+    "/home/rich/devdata/allaboard-parser/README.md": "741f9abd59e4d361db4b797dbfb7bd3b419d6a92f450ecced0adeef7c69e5179"
+  },
+  "script_sha256": "799d5c81cb4cef4f39546c9347045e0d894a921aab3620379d9d00ff0f97db54",
+  "calculation_code_sha256": {
+    "analyze_pressure.py": "799d5c81cb4cef4f39546c9347045e0d894a921aab3620379d9d00ff0f97db54",
+    "/home/rich/devdata/nclh-2027-momentum/analyze.py": "e10699e09b6912e09d42396f34e20e917839a8d27427aa884202da3c4052081d"
+  },
+  "report_rendering": {
+    "entrypoint": "logs/refresh_report.py",
+    "code_sha256": {
+      "render_report.py": "1c4ec34d72c6c8f3003238b09975e726cdd98e3d66331a047b810b7cece85033",
+      "logs/refresh_report.py": "a4ecae1dbeec7243c59fdfbca04dfcda35aa44e79710332e755906bf128574d0"
+    }
+  },
+  "outputs_sha256": {
+    "out/close_in_observations.csv": "e391eb3294e02e74e105ed70593989dcf46bb138adfa9ce2bfcdb880c570c876",
+    "out/deposit_context.csv": "68486ede9aa0bea66251395d1cd3e8ca83cfde3fd1f2b9a8495a9d3f1ee94cb8",
+    "out/lead_effects.csv": "fa5dc1bfddcdd91d52d95df23d4df2c77e18d065d1a6cb71b4c5b01135b29116",
+    "out/model_diagnostics.csv": "f3cc4b2521e95c9e97de4ce6f670a7ff0a2e021fa10790ab4548f008c17f2d38",
+    "out/monthly_by_cabin.csv": "ba706a762e9e1fb18cafc2377a394644fc33683a0c93f0e05569911250a10d12",
+    "out/monthly_index.csv": "41722a14d330ce8ab4067b02146309b5614c572ad44a86da922049dbefbf3bf6",
+    "out/promotion_calendar.csv": "af6122fa8c29e31343b07c9d28037005adedf4cdc792bcde4fdc7758e55b93e3",
+    "out/unit_residuals.csv": "e83d92285abadc9420ebc0f0d8d3162cc9badd55ebcc45e6fd336c291b7cff65",
+    "out/validation.csv": "dd0ed6d1b432e5c7d467be5c57b0b59910c9d1a8865cc53979fd4bbc503a23b9",
+    "RESULTS.md": "a8d18584471f49c27afca5c74f7dfec49db74a27ab51c7b2489e22c76f3f2053"
+  },
+  "report_refresh": "Rendered existing CSVs; no recalculation. Calculation provenance preserved."
+}

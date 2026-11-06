@@ -1,0 +1,11 @@
+phase,start,end,confidence,source_ids,local_source
+semi_loyalty,2026-07-08,2026-07-09,high_reported,S34,/home/rich/devdata/nclh-promo-events/out/promotion_calendar.csv
+semi_public,2026-07-10,2026-07-16,high_reported,S34,/home/rich/devdata/nclh-promo-events/out/promotion_calendar.csv
+weekend_flash,2026-07-31,2026-08-03,low_start_medium_end,S37,/home/rich/devdata/nclh-promo-events/out/promotion_calendar.csv
+end_summer,2026-08-11,2026-08-18,unknown_start_medium_end,S35;S38,/home/rich/devdata/nclh-promo-events/out/promotion_calendar.csv
+end_summer_aug10,2026-08-10,2026-08-18,low_assumed_start,S35;S38,/home/rich/devdata/nclh-promo-events/out/promotion_calendar.csv
+flash_48h,2026-08-26,2026-08-27,medium_reported,S40,/home/rich/devdata/nclh-promo-events/out/promotion_calendar.csv
+labor_aug31,2026-08-28,2026-08-31,medium_conflicting,S41,/home/rich/devdata/nclh-promo-events/out/promotion_calendar.csv
+labor_sep02,2026-08-28,2026-09-02,medium_conflicting,S41,/home/rich/devdata/nclh-promo-events/out/promotion_calendar.csv
+labor_sep07,2026-08-28,2026-09-07,low_snippet_only,S41,/home/rich/devdata/nclh-promo-events/out/promotion_calendar.csv
+labor_sep10,2026-08-28,2026-09-10,low_snippet_only,S41,/home/rich/devdata/nclh-promo-events/out/promotion_calendar.csv

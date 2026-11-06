@@ -1,0 +1,4 @@
+line,source,raw_rows,positive_rows,nonpositive_or_missing_rows,lead_mismatch_rows,units_with_departure_variants,units_with_ship_variants,conflicting_same_timestamp_prices,first_observation,last_observation,daily_rows,cabin_units
+norwegian,/home/rich/devdata/allaboard-parser/out/nclh-2026-11-04/price_history.csv,1054374,1054374,0,0,0,0,0,2025-10-26,2026-11-04,1054374,5765
+royal-caribbean,/home/rich/devdata/allaboard-parser/out/peers-2026-11-04/price_history.csv,2217554,2217554,0,0,0,0,0,2025-10-26,2026-11-04,2217554,12276
+carnival,/home/rich/devdata/allaboard-parser/out/peers-2026-11-04/price_history.csv,1807773,1807773,0,0,0,0,0,2025-10-26,2026-11-04,1807773,10814

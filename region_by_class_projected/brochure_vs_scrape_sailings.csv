@@ -1,0 +1,251 @@
+Quarter,Departure,Ship key,Ship,Nights,Itinerary,Brochure page,In scrape,Inside rooms,Oceanview rooms,Balcony rooms,Suite rooms,Total rooms
+2026-Q1,2026-01-02,pearl,Norwegian Pearl,11,Panama Canal RT Miami,23,Yes,412.0,243.0,360.0,182.0,1197.0
+2026-Q1,2026-01-03,jade,Norwegian Jade,7,Mexican Riviera RT San Diego,23,Yes,417.0,243.0,360.0,181.0,1201.0
+2026-Q1,2026-01-03,pride-of-america,Pride of America,7,Hawaii RT Honolulu (every Saturday),18,Yes,226.0,178.0,613.0,90.0,1107.0
+2026-Q1,2026-01-05,getaway,Norwegian Getaway,10,Caribbean RT Miami,22,Yes,478.5,156.0,998.0,346.0,1978.5
+2026-Q1,2026-01-10,jade,Norwegian Jade,7,Mexican Riviera RT San Diego,23,Yes,417.0,243.0,360.0,181.0,1201.0
+2026-Q1,2026-01-10,pride-of-america,Pride of America,7,Hawaii RT Honolulu (every Saturday),18,Yes,226.0,178.0,613.0,90.0,1107.0
+2026-Q1,2026-01-17,jade,Norwegian Jade,7,Mexican Riviera RT San Diego,23,Yes,417.0,243.0,360.0,181.0,1201.0
+2026-Q1,2026-01-17,spirit,Norwegian Spirit,11,Sydney-Auckland,17,Yes,384.0,222.0,382.0,18.0,1006.0
+2026-Q1,2026-01-17,pride-of-america,Pride of America,7,Hawaii RT Honolulu (every Saturday),18,Yes,226.0,178.0,613.0,90.0,1107.0
+2026-Q1,2026-01-19,getaway,Norwegian Getaway,10,Caribbean RT Miami,22,Yes,478.5,156.0,998.0,346.0,1978.5
+2026-Q1,2026-01-24,jade,Norwegian Jade,7,Mexican Riviera RT San Diego,23,Yes,417.0,243.0,360.0,181.0,1201.0
+2026-Q1,2026-01-24,pride-of-america,Pride of America,7,Hawaii RT Honolulu (every Saturday),18,Yes,226.0,178.0,613.0,90.0,1107.0
+2026-Q1,2026-01-28,spirit,Norwegian Spirit,12,Auckland-Sydney,17,Yes,384.0,222.0,382.0,18.0,1006.0
+2026-Q1,2026-01-31,jade,Norwegian Jade,7,Mexican Riviera RT San Diego,23,Yes,417.0,243.0,360.0,181.0,1201.0
+2026-Q1,2026-01-31,pride-of-america,Pride of America,7,Hawaii RT Honolulu (every Saturday),18,Yes,226.0,178.0,613.0,90.0,1107.0
+2026-Q1,2026-02-02,getaway,Norwegian Getaway,10,Caribbean RT Miami,22,Yes,478.5,156.0,998.0,346.0,1978.5
+2026-Q1,2026-02-07,pride-of-america,Pride of America,7,Hawaii RT Honolulu (every Saturday),18,Yes,226.0,178.0,613.0,90.0,1107.0
+2026-Q1,2026-02-10,sun,Norwegian Sun,14,Singapore-Taipei,16,No - ship not scraped,,,,,
+2026-Q1,2026-02-14,pride-of-america,Pride of America,7,Hawaii RT Honolulu (every Saturday),18,Yes,226.0,178.0,613.0,90.0,1107.0
+2026-Q1,2026-02-20,getaway,Norwegian Getaway,10,Caribbean RT Miami,22,Yes,478.5,156.0,998.0,346.0,1978.5
+2026-Q1,2026-02-21,pride-of-america,Pride of America,7,Hawaii RT Honolulu (every Saturday),18,Yes,226.0,178.0,613.0,90.0,1107.0
+2026-Q1,2026-02-22,breakaway,Norwegian Breakaway,12,Caribbean RT New York,22,Yes,478.5,156.0,998.0,309.0,1941.5
+2026-Q1,2026-02-27,jade,Norwegian Jade,12,Miami-Lima,23,Yes,417.0,243.0,360.0,181.0,1201.0
+2026-Q1,2026-02-28,pride-of-america,Pride of America,7,Hawaii RT Honolulu (every Saturday),18,Yes,226.0,178.0,613.0,90.0,1107.0
+2026-Q1,2026-03-05,spirit,Norwegian Spirit,12,Sydney-Auckland,17,Yes,384.0,222.0,382.0,18.0,1006.0
+2026-Q1,2026-03-07,pride-of-america,Pride of America,7,Hawaii RT Honolulu (every Saturday),18,No,226.0,178.0,613.0,90.0,1107.0
+2026-Q1,2026-03-11,jade,Norwegian Jade,17,Lima-San Diego,23,Yes,417.0,243.0,360.0,181.0,1201.0
+2026-Q1,2026-03-14,pride-of-america,Pride of America,7,Hawaii RT Honolulu (every Saturday),18,Yes,226.0,178.0,613.0,90.0,1107.0
+2026-Q1,2026-03-21,pride-of-america,Pride of America,7,Hawaii RT Honolulu (every Saturday),18,Yes,226.0,178.0,613.0,90.0,1107.0
+2026-Q1,2026-03-22,sun,Norwegian Sun,11,Bangkok-Singapore,16,No - ship not scraped,,,,,
+2026-Q1,2026-03-28,jade,Norwegian Jade,7,Mexican Riviera RT San Diego,23,Yes,417.0,243.0,360.0,181.0,1201.0
+2026-Q1,2026-03-28,pride-of-america,Pride of America,7,Hawaii RT Honolulu (every Saturday),18,Yes,226.0,178.0,613.0,90.0,1107.0
+2026-Q2,2026-04-04,jade,Norwegian Jade,7,Mexican Riviera RT San Diego,23,Yes,417.0,243.0,360.0,181.0,1201.0
+2026-Q2,2026-04-04,luna,Norwegian Luna,7,Caribbean RT Miami,22,Yes,421.5,124.0,1030.0,157.0,1732.5
+2026-Q2,2026-04-04,pride-of-america,Pride of America,7,Hawaii RT Honolulu (every Saturday),18,Yes,226.0,178.0,613.0,90.0,1107.0
+2026-Q2,2026-04-11,pride-of-america,Pride of America,7,Hawaii RT Honolulu (every Saturday),18,Yes,226.0,178.0,613.0,90.0,1107.0
+2026-Q2,2026-04-18,pride-of-america,Pride of America,7,Hawaii RT Honolulu (every Saturday),18,Yes,226.0,178.0,613.0,90.0,1107.0
+2026-Q2,2026-04-19,sky,Norwegian Sky,7,Le Havre-Copenhagen,15,No - ship not scraped,,,,,
+2026-Q2,2026-04-22,spirit,Norwegian Spirit,11,Sydney-Lautoka,17,Yes,384.0,222.0,382.0,18.0,1006.0
+2026-Q2,2026-04-25,bliss,Norwegian Bliss,7,Alaska RT Seattle (every Saturday),19,Yes,415.0,111.0,1114.0,403.0,2043.0
+2026-Q2,2026-04-25,pride-of-america,Pride of America,7,Hawaii RT Honolulu (every Saturday),18,Yes,226.0,178.0,613.0,90.0,1107.0
+2026-Q2,2026-04-26,dawn,Norwegian Dawn,7,Barcelona-Lisbon,13,Yes,383.0,250.0,364.0,173.0,1170.0
+2026-Q2,2026-04-29,viva,Norwegian Viva,9,Barcelona-Venice (Ravenna),13,Yes,421.5,124.0,1030.0,107.0,1682.5
+2026-Q2,2026-05-02,bliss,Norwegian Bliss,7,Alaska RT Seattle (every Saturday),19,Yes,415.0,111.0,1114.0,403.0,2043.0
+2026-Q2,2026-05-02,pride-of-america,Pride of America,7,Hawaii RT Honolulu (every Saturday),18,Yes,226.0,178.0,613.0,90.0,1107.0
+2026-Q2,2026-05-03,encore,Norwegian Encore,7,Alaska RT Seattle (every Sunday),19,Yes,415.0,111.0,1118.0,388.0,2032.0
+2026-Q2,2026-05-03,sky,Norwegian Sky,7,Le Havre-Copenhagen,15,No - ship not scraped,,,,,
+2026-Q2,2026-05-03,spirit,Norwegian Spirit,12,Lautoka-Papeete,17,Yes,384.0,222.0,382.0,18.0,1006.0
+2026-Q2,2026-05-09,bliss,Norwegian Bliss,7,Alaska RT Seattle (every Saturday),19,Yes,415.0,111.0,1114.0,403.0,2043.0
+2026-Q2,2026-05-09,pride-of-america,Pride of America,7,Hawaii RT Honolulu (every Saturday),18,Yes,226.0,178.0,613.0,90.0,1107.0
+2026-Q2,2026-05-10,dawn,Norwegian Dawn,7,Barcelona-Lisbon,13,Yes,383.0,250.0,364.0,173.0,1170.0
+2026-Q2,2026-05-10,encore,Norwegian Encore,7,Alaska RT Seattle (every Sunday),19,Yes,415.0,111.0,1118.0,388.0,2032.0
+2026-Q2,2026-05-10,epic,Norwegian Epic,7,Rome-Barcelona,13,Yes,624.0,2.0,1086.0,340.0,2052.0
+2026-Q2,2026-05-11,jade,Norwegian Jade,7,Whittier-Vancouver,19,Yes,417.0,243.0,360.0,181.0,1201.0
+2026-Q2,2026-05-13,joy,Norwegian Joy,9,Alaska RT Seattle,19,Yes,363.0,111.0,1024.0,403.0,1901.0
+2026-Q2,2026-05-16,bliss,Norwegian Bliss,7,Alaska RT Seattle (every Saturday),19,Yes,415.0,111.0,1114.0,403.0,2043.0
+2026-Q2,2026-05-16,pride-of-america,Pride of America,7,Hawaii RT Honolulu (every Saturday),18,Yes,226.0,178.0,613.0,90.0,1107.0
+2026-Q2,2026-05-17,encore,Norwegian Encore,7,Alaska RT Seattle (every Sunday),19,Yes,415.0,111.0,1118.0,388.0,2032.0
+2026-Q2,2026-05-21,star,Norwegian Star,10,Reykjavik-Southampton,15,No - ship not scraped,,,,,
+2026-Q2,2026-05-22,joy,Norwegian Joy,10,Alaska RT Seattle,19,Yes,363.0,111.0,1024.0,403.0,1901.0
+2026-Q2,2026-05-23,bliss,Norwegian Bliss,7,Alaska RT Seattle (every Saturday),19,Yes,415.0,111.0,1114.0,403.0,2043.0
+2026-Q2,2026-05-23,pride-of-america,Pride of America,7,Hawaii RT Honolulu (every Saturday),18,Yes,226.0,178.0,613.0,90.0,1107.0
+2026-Q2,2026-05-24,dawn,Norwegian Dawn,7,Barcelona-Lisbon,13,Yes,383.0,250.0,364.0,173.0,1170.0
+2026-Q2,2026-05-24,encore,Norwegian Encore,7,Alaska RT Seattle (every Sunday),19,Yes,415.0,111.0,1118.0,388.0,2032.0
+2026-Q2,2026-05-24,epic,Norwegian Epic,7,Rome-Barcelona,13,Yes,624.0,2.0,1086.0,340.0,2052.0
+2026-Q2,2026-05-24,gem,Norwegian Gem,7,Venice (Ravenna)-Rome,13,Yes,412.0,243.0,360.0,182.0,1197.0
+2026-Q2,2026-05-25,jade,Norwegian Jade,7,Whittier-Vancouver,19,Yes,417.0,243.0,360.0,181.0,1201.0
+2026-Q2,2026-05-27,viva,Norwegian Viva,9,Rome-Istanbul,13,Yes,421.5,124.0,1030.0,107.0,1682.5
+2026-Q2,2026-05-28,sky,Norwegian Sky,10,British Isles RT Southampton,15,No - ship not scraped,,,,,
+2026-Q2,2026-05-30,bliss,Norwegian Bliss,7,Alaska RT Seattle (every Saturday),19,Yes,415.0,111.0,1114.0,403.0,2043.0
+2026-Q2,2026-05-30,pride-of-america,Pride of America,7,Hawaii RT Honolulu (every Saturday),18,Yes,226.0,178.0,613.0,90.0,1107.0
+2026-Q2,2026-05-31,encore,Norwegian Encore,7,Alaska RT Seattle (every Sunday),19,Yes,415.0,111.0,1118.0,388.0,2032.0
+2026-Q2,2026-06-06,bliss,Norwegian Bliss,7,Alaska RT Seattle (every Saturday),19,Yes,415.0,111.0,1114.0,403.0,2043.0
+2026-Q2,2026-06-06,pride-of-america,Pride of America,7,Hawaii RT Honolulu (every Saturday),18,Yes,226.0,178.0,613.0,90.0,1107.0
+2026-Q2,2026-06-07,dawn,Norwegian Dawn,7,Barcelona-Lisbon,13,Yes,383.0,250.0,364.0,173.0,1170.0
+2026-Q2,2026-06-07,encore,Norwegian Encore,7,Alaska RT Seattle (every Sunday),19,Yes,415.0,111.0,1118.0,388.0,2032.0
+2026-Q2,2026-06-07,epic,Norwegian Epic,7,Rome-Barcelona,13,Yes,624.0,2.0,1086.0,340.0,2052.0
+2026-Q2,2026-06-07,gem,Norwegian Gem,7,Venice (Ravenna)-Rome,13,Yes,412.0,243.0,360.0,182.0,1197.0
+2026-Q2,2026-06-08,jade,Norwegian Jade,7,Whittier-Vancouver,19,Yes,417.0,243.0,360.0,181.0,1201.0
+2026-Q2,2026-06-10,joy,Norwegian Joy,9,Alaska RT Seattle,19,Yes,363.0,111.0,1024.0,403.0,1901.0
+2026-Q2,2026-06-13,bliss,Norwegian Bliss,7,Alaska RT Seattle (every Saturday),19,Yes,415.0,111.0,1114.0,403.0,2043.0
+2026-Q2,2026-06-13,pride-of-america,Pride of America,7,Hawaii RT Honolulu (every Saturday),18,Yes,226.0,178.0,613.0,90.0,1107.0
+2026-Q2,2026-06-14,encore,Norwegian Encore,7,Alaska RT Seattle (every Sunday),19,Yes,415.0,111.0,1118.0,388.0,2032.0
+2026-Q2,2026-06-15,sun,Norwegian Sun,9,Copenhagen-Helsinki,15,No - ship not scraped,,,,,
+2026-Q2,2026-06-18,sky,Norwegian Sky,10,British Isles RT Southampton,15,No - ship not scraped,,,,,
+2026-Q2,2026-06-19,joy,Norwegian Joy,10,Alaska RT Seattle,19,Yes,363.0,111.0,1024.0,403.0,1901.0
+2026-Q2,2026-06-20,bliss,Norwegian Bliss,7,Alaska RT Seattle (every Saturday),19,Yes,415.0,111.0,1114.0,403.0,2043.0
+2026-Q2,2026-06-20,pride-of-america,Pride of America,7,Hawaii RT Honolulu (every Saturday),18,Yes,226.0,178.0,613.0,90.0,1107.0
+2026-Q2,2026-06-21,dawn,Norwegian Dawn,7,Barcelona-Lisbon,13,Yes,383.0,250.0,364.0,173.0,1170.0
+2026-Q2,2026-06-21,encore,Norwegian Encore,7,Alaska RT Seattle (every Sunday),19,Yes,415.0,111.0,1118.0,388.0,2032.0
+2026-Q2,2026-06-21,epic,Norwegian Epic,7,Rome-Barcelona,13,Yes,624.0,2.0,1086.0,340.0,2052.0
+2026-Q2,2026-06-21,gem,Norwegian Gem,7,Venice (Ravenna)-Rome,13,Yes,412.0,243.0,360.0,182.0,1197.0
+2026-Q2,2026-06-21,spirit,Norwegian Spirit,12,Lautoka-Papeete,17,Yes,384.0,222.0,382.0,18.0,1006.0
+2026-Q2,2026-06-22,jade,Norwegian Jade,7,Whittier-Vancouver,19,Yes,417.0,243.0,360.0,181.0,1201.0
+2026-Q2,2026-06-24,sun,Norwegian Sun,9,Helsinki-Copenhagen,15,No - ship not scraped,,,,,
+2026-Q2,2026-06-24,viva,Norwegian Viva,9,Barcelona-Venice (Ravenna),13,Yes,421.5,124.0,1030.0,107.0,1682.5
+2026-Q2,2026-06-27,bliss,Norwegian Bliss,7,Alaska RT Seattle (every Saturday),19,Yes,415.0,111.0,1114.0,403.0,2043.0
+2026-Q2,2026-06-27,pride-of-america,Pride of America,7,Hawaii RT Honolulu (every Saturday),18,Yes,226.0,178.0,613.0,90.0,1107.0
+2026-Q2,2026-06-28,encore,Norwegian Encore,7,Alaska RT Seattle (every Sunday),19,Yes,415.0,111.0,1118.0,388.0,2032.0
+2026-Q2,2026-06-29,joy,Norwegian Joy,9,Alaska RT Seattle,19,Yes,363.0,111.0,1024.0,403.0,1901.0
+2026-Q3,2026-07-02,star,Norwegian Star,10,Reykjavik-Southampton,15,No - ship not scraped,,,,,
+2026-Q3,2026-07-03,sun,Norwegian Sun,9,Copenhagen-Helsinki,15,No - ship not scraped,,,,,
+2026-Q3,2026-07-04,bliss,Norwegian Bliss,7,Alaska RT Seattle (every Saturday),19,Yes,415.0,111.0,1114.0,403.0,2043.0
+2026-Q3,2026-07-04,pride-of-america,Pride of America,7,Hawaii RT Honolulu (every Saturday),18,Yes,226.0,178.0,613.0,90.0,1107.0
+2026-Q3,2026-07-05,dawn,Norwegian Dawn,7,Barcelona-Lisbon,13,Yes,383.0,250.0,364.0,173.0,1170.0
+2026-Q3,2026-07-05,encore,Norwegian Encore,7,Alaska RT Seattle (every Sunday),19,Yes,415.0,111.0,1118.0,388.0,2032.0
+2026-Q3,2026-07-05,epic,Norwegian Epic,7,Rome-Barcelona,13,Yes,624.0,2.0,1086.0,340.0,2052.0
+2026-Q3,2026-07-05,gem,Norwegian Gem,7,Venice (Ravenna)-Rome,13,Yes,412.0,243.0,360.0,182.0,1197.0
+2026-Q3,2026-07-06,jade,Norwegian Jade,7,Whittier-Vancouver,19,Yes,417.0,243.0,360.0,181.0,1201.0
+2026-Q3,2026-07-08,joy,Norwegian Joy,9,Alaska RT Seattle,19,Yes,363.0,111.0,1024.0,403.0,1901.0
+2026-Q3,2026-07-09,sky,Norwegian Sky,10,British Isles RT Southampton,15,No - ship not scraped,,,,,
+2026-Q3,2026-07-11,bliss,Norwegian Bliss,7,Alaska RT Seattle (every Saturday),19,Yes,415.0,111.0,1114.0,403.0,2043.0
+2026-Q3,2026-07-11,pride-of-america,Pride of America,7,Hawaii RT Honolulu (every Saturday),18,Yes,226.0,178.0,613.0,90.0,1107.0
+2026-Q3,2026-07-12,encore,Norwegian Encore,7,Alaska RT Seattle (every Sunday),19,Yes,415.0,111.0,1118.0,388.0,2032.0
+2026-Q3,2026-07-17,joy,Norwegian Joy,10,Alaska RT Seattle,19,Yes,363.0,111.0,1024.0,403.0,1901.0
+2026-Q3,2026-07-18,bliss,Norwegian Bliss,7,Alaska RT Seattle (every Saturday),19,Yes,415.0,111.0,1114.0,403.0,2043.0
+2026-Q3,2026-07-18,pride-of-america,Pride of America,7,Hawaii RT Honolulu (every Saturday),18,Yes,226.0,178.0,613.0,90.0,1107.0
+2026-Q3,2026-07-19,dawn,Norwegian Dawn,7,Barcelona-Lisbon,13,Yes,383.0,250.0,364.0,173.0,1170.0
+2026-Q3,2026-07-19,encore,Norwegian Encore,7,Alaska RT Seattle (every Sunday),19,Yes,415.0,111.0,1118.0,388.0,2032.0
+2026-Q3,2026-07-19,epic,Norwegian Epic,7,Rome-Barcelona,13,Yes,624.0,2.0,1086.0,340.0,2052.0
+2026-Q3,2026-07-19,gem,Norwegian Gem,7,Venice (Ravenna)-Rome,13,Yes,412.0,243.0,360.0,182.0,1197.0
+2026-Q3,2026-07-20,jade,Norwegian Jade,7,Whittier-Vancouver,19,Yes,417.0,243.0,360.0,181.0,1201.0
+2026-Q3,2026-07-22,viva,Norwegian Viva,9,Rome-Istanbul,13,Yes,421.5,124.0,1030.0,107.0,1682.5
+2026-Q3,2026-07-23,star,Norwegian Star,10,Reykjavik-Southampton,15,No - ship not scraped,,,,,
+2026-Q3,2026-07-25,bliss,Norwegian Bliss,7,Alaska RT Seattle (every Saturday),19,Yes,415.0,111.0,1114.0,403.0,2043.0
+2026-Q3,2026-07-25,pride-of-america,Pride of America,7,Hawaii RT Honolulu (every Saturday),18,Yes,226.0,178.0,613.0,90.0,1107.0
+2026-Q3,2026-07-26,encore,Norwegian Encore,7,Alaska RT Seattle (every Sunday),19,Yes,415.0,111.0,1118.0,388.0,2032.0
+2026-Q3,2026-07-26,sun,Norwegian Sun,9,Helsinki-Copenhagen,15,No - ship not scraped,,,,,
+2026-Q3,2026-07-27,joy,Norwegian Joy,9,Alaska RT Seattle,19,Yes,363.0,111.0,1024.0,403.0,1901.0
+2026-Q3,2026-07-30,sky,Norwegian Sky,10,British Isles RT Southampton,15,No - ship not scraped,,,,,
+2026-Q3,2026-08-01,bliss,Norwegian Bliss,7,Alaska RT Seattle (every Saturday),19,Yes,415.0,111.0,1114.0,403.0,2043.0
+2026-Q3,2026-08-01,pride-of-america,Pride of America,7,Hawaii RT Honolulu (every Saturday),18,Yes,226.0,178.0,613.0,90.0,1107.0
+2026-Q3,2026-08-02,dawn,Norwegian Dawn,7,Barcelona-Lisbon,13,Yes,383.0,250.0,364.0,173.0,1170.0
+2026-Q3,2026-08-02,encore,Norwegian Encore,7,Alaska RT Seattle (every Sunday),19,Yes,415.0,111.0,1118.0,388.0,2032.0
+2026-Q3,2026-08-02,epic,Norwegian Epic,7,Rome-Barcelona,13,Yes,624.0,2.0,1086.0,340.0,2052.0
+2026-Q3,2026-08-02,gem,Norwegian Gem,7,Venice (Ravenna)-Rome,13,Yes,412.0,243.0,360.0,182.0,1197.0
+2026-Q3,2026-08-03,jade,Norwegian Jade,7,Whittier-Vancouver,19,Yes,417.0,243.0,360.0,181.0,1201.0
+2026-Q3,2026-08-04,sun,Norwegian Sun,9,Copenhagen-Helsinki,15,No - ship not scraped,,,,,
+2026-Q3,2026-08-05,joy,Norwegian Joy,9,Alaska RT Seattle,19,Yes,363.0,111.0,1024.0,403.0,1901.0
+2026-Q3,2026-08-08,bliss,Norwegian Bliss,7,Alaska RT Seattle (every Saturday),19,Yes,415.0,111.0,1114.0,403.0,2043.0
+2026-Q3,2026-08-08,pride-of-america,Pride of America,7,Hawaii RT Honolulu (every Saturday),18,Yes,226.0,178.0,613.0,90.0,1107.0
+2026-Q3,2026-08-09,encore,Norwegian Encore,7,Alaska RT Seattle (every Sunday),19,Yes,415.0,111.0,1118.0,388.0,2032.0
+2026-Q3,2026-08-13,sun,Norwegian Sun,9,Helsinki-Copenhagen,15,No - ship not scraped,,,,,
+2026-Q3,2026-08-14,joy,Norwegian Joy,10,Alaska RT Seattle,19,Yes,363.0,111.0,1024.0,403.0,1901.0
+2026-Q3,2026-08-15,bliss,Norwegian Bliss,7,Alaska RT Seattle (every Saturday),19,Yes,415.0,111.0,1114.0,403.0,2043.0
+2026-Q3,2026-08-15,pride-of-america,Pride of America,7,Hawaii RT Honolulu (every Saturday),18,Yes,226.0,178.0,613.0,90.0,1107.0
+2026-Q3,2026-08-16,dawn,Norwegian Dawn,7,Barcelona-Lisbon,13,Yes,383.0,250.0,364.0,173.0,1170.0
+2026-Q3,2026-08-16,encore,Norwegian Encore,7,Alaska RT Seattle (every Sunday),19,Yes,415.0,111.0,1118.0,388.0,2032.0
+2026-Q3,2026-08-16,epic,Norwegian Epic,7,Rome-Barcelona,13,Yes,624.0,2.0,1086.0,340.0,2052.0
+2026-Q3,2026-08-16,gem,Norwegian Gem,7,Venice (Ravenna)-Rome,13,Yes,412.0,243.0,360.0,182.0,1197.0
+2026-Q3,2026-08-17,jade,Norwegian Jade,7,Whittier-Vancouver,19,Yes,417.0,243.0,360.0,181.0,1201.0
+2026-Q3,2026-08-19,viva,Norwegian Viva,9,Barcelona-Venice (Ravenna),13,Yes,421.5,124.0,1030.0,107.0,1682.5
+2026-Q3,2026-08-20,sky,Norwegian Sky,10,British Isles RT Southampton,15,No - ship not scraped,,,,,
+2026-Q3,2026-08-22,bliss,Norwegian Bliss,7,Alaska RT Seattle (every Saturday),19,Yes,415.0,111.0,1114.0,403.0,2043.0
+2026-Q3,2026-08-22,pride-of-america,Pride of America,7,Hawaii RT Honolulu (every Saturday),18,Yes,226.0,178.0,613.0,90.0,1107.0
+2026-Q3,2026-08-23,encore,Norwegian Encore,7,Alaska RT Seattle (every Sunday),19,Yes,415.0,111.0,1118.0,388.0,2032.0
+2026-Q3,2026-08-24,joy,Norwegian Joy,9,Alaska RT Seattle,19,Yes,363.0,111.0,1024.0,403.0,1901.0
+2026-Q3,2026-08-29,bliss,Norwegian Bliss,7,Alaska RT Seattle (every Saturday),19,Yes,415.0,111.0,1114.0,403.0,2043.0
+2026-Q3,2026-08-29,pride-of-america,Pride of America,7,Hawaii RT Honolulu (every Saturday),18,Yes,226.0,178.0,613.0,90.0,1107.0
+2026-Q3,2026-08-30,dawn,Norwegian Dawn,7,Barcelona-Lisbon,13,Yes,383.0,250.0,364.0,173.0,1170.0
+2026-Q3,2026-08-30,encore,Norwegian Encore,7,Alaska RT Seattle (every Sunday),19,Yes,415.0,111.0,1118.0,388.0,2032.0
+2026-Q3,2026-08-30,epic,Norwegian Epic,7,Rome-Barcelona,13,Yes,624.0,2.0,1086.0,340.0,2052.0
+2026-Q3,2026-08-30,gem,Norwegian Gem,7,Venice (Ravenna)-Rome,13,Yes,412.0,243.0,360.0,182.0,1197.0
+2026-Q3,2026-08-31,jade,Norwegian Jade,7,Whittier-Vancouver,19,Yes,417.0,243.0,360.0,181.0,1201.0
+2026-Q3,2026-09-05,bliss,Norwegian Bliss,7,Alaska RT Seattle (every Saturday),19,Yes,415.0,111.0,1114.0,403.0,2043.0
+2026-Q3,2026-09-05,jewel,Norwegian Jewel,11,Philadelphia-Quebec,22,Yes,405.0,243.0,360.0,182.0,1190.0
+2026-Q3,2026-09-05,sun,Norwegian Sun,9,Copenhagen-Helsinki,15,No - ship not scraped,,,,,
+2026-Q3,2026-09-05,pride-of-america,Pride of America,7,Hawaii RT Honolulu (every Saturday),18,Yes,226.0,178.0,613.0,90.0,1107.0
+2026-Q3,2026-09-06,encore,Norwegian Encore,7,Alaska RT Seattle (every Sunday),19,Yes,415.0,111.0,1118.0,388.0,2032.0
+2026-Q3,2026-09-10,sky,Norwegian Sky,10,British Isles RT Southampton,15,No - ship not scraped,,,,,
+2026-Q3,2026-09-12,bliss,Norwegian Bliss,7,Alaska RT Seattle (every Saturday),19,Yes,415.0,111.0,1114.0,403.0,2043.0
+2026-Q3,2026-09-12,pride-of-america,Pride of America,7,Hawaii RT Honolulu (every Saturday),18,Yes,226.0,178.0,613.0,90.0,1107.0
+2026-Q3,2026-09-13,dawn,Norwegian Dawn,7,Barcelona-Lisbon,13,Yes,383.0,250.0,364.0,173.0,1170.0
+2026-Q3,2026-09-13,encore,Norwegian Encore,7,Alaska RT Seattle (every Sunday),19,Yes,415.0,111.0,1118.0,388.0,2032.0
+2026-Q3,2026-09-13,epic,Norwegian Epic,7,Rome-Barcelona,13,Yes,624.0,2.0,1086.0,340.0,2052.0
+2026-Q3,2026-09-13,gem,Norwegian Gem,7,Venice (Ravenna)-Rome,13,Yes,412.0,243.0,360.0,182.0,1197.0
+2026-Q3,2026-09-14,jade,Norwegian Jade,7,Whittier-Vancouver,19,Yes,417.0,243.0,360.0,181.0,1201.0
+2026-Q3,2026-09-14,sun,Norwegian Sun,9,Helsinki-Copenhagen,15,No - ship not scraped,,,,,
+2026-Q3,2026-09-16,jewel,Norwegian Jewel,10,Quebec-Philadelphia,22,Yes,405.0,243.0,360.0,182.0,1190.0
+2026-Q3,2026-09-17,spirit,Norwegian Spirit,12,Honolulu-Papeete,17,Yes,384.0,222.0,382.0,18.0,1006.0
+2026-Q3,2026-09-19,bliss,Norwegian Bliss,7,Alaska RT Seattle (every Saturday),19,Yes,415.0,111.0,1114.0,403.0,2043.0
+2026-Q3,2026-09-19,pride-of-america,Pride of America,7,Hawaii RT Honolulu (every Saturday),18,Yes,226.0,178.0,613.0,90.0,1107.0
+2026-Q3,2026-09-20,encore,Norwegian Encore,7,Alaska RT Seattle (every Sunday),19,Yes,415.0,111.0,1118.0,388.0,2032.0
+2026-Q3,2026-09-23,sun,Norwegian Sun,9,Copenhagen-Helsinki,15,No - ship not scraped,,,,,
+2026-Q3,2026-09-26,escape,Norwegian Escape,16,New York-Barcelona,23,Yes,448.0,114.0,1168.0,95.0,1825.0
+2026-Q3,2026-09-26,jewel,Norwegian Jewel,11,Philadelphia-Quebec,22,Yes,405.0,243.0,360.0,182.0,1190.0
+2026-Q3,2026-09-26,pride-of-america,Pride of America,7,Hawaii RT Honolulu (every Saturday),18,Yes,226.0,178.0,613.0,90.0,1107.0
+2026-Q3,2026-09-27,dawn,Norwegian Dawn,7,Barcelona-Lisbon,13,Yes,383.0,250.0,364.0,173.0,1170.0
+2026-Q3,2026-09-27,encore,Norwegian Encore,7,Alaska RT Seattle (every Sunday),19,Yes,415.0,111.0,1118.0,388.0,2032.0
+2026-Q3,2026-09-27,epic,Norwegian Epic,7,Rome-Barcelona,13,Yes,624.0,2.0,1086.0,340.0,2052.0
+2026-Q3,2026-09-27,gem,Norwegian Gem,7,Venice (Ravenna)-Rome,13,Yes,412.0,243.0,360.0,182.0,1197.0
+2026-Q3,2026-09-27,star,Norwegian Star,7,Southampton-Lisbon,15,No - ship not scraped,,,,,
+2026-Q3,2026-09-28,jade,Norwegian Jade,7,Whittier-Vancouver,19,No,417.0,243.0,360.0,181.0,1201.0
+2026-Q4,2026-10-03,pride-of-america,Pride of America,7,Hawaii RT Honolulu (every Saturday),18,Yes,226.0,178.0,613.0,90.0,1107.0
+2026-Q4,2026-10-04,encore,Norwegian Encore,7,Alaska RT Seattle (every Sunday),19,Yes,415.0,111.0,1118.0,388.0,2032.0
+2026-Q4,2026-10-04,star,Norwegian Star,13,Round-trip Lisbon,13,No - ship not scraped,,,,,
+2026-Q4,2026-10-07,jewel,Norwegian Jewel,10,Quebec-Philadelphia,22,Yes,405.0,243.0,360.0,182.0,1190.0
+2026-Q4,2026-10-10,pride-of-america,Pride of America,7,Hawaii RT Honolulu (every Saturday),18,Yes,226.0,178.0,613.0,90.0,1107.0
+2026-Q4,2026-10-11,dawn,Norwegian Dawn,7,Barcelona-Lisbon,13,Yes,383.0,250.0,364.0,173.0,1170.0
+2026-Q4,2026-10-11,epic,Norwegian Epic,7,Rome-Barcelona,13,Yes,624.0,2.0,1086.0,340.0,2052.0
+2026-Q4,2026-10-11,gem,Norwegian Gem,7,Venice (Ravenna)-Rome,13,Yes,412.0,243.0,360.0,182.0,1197.0
+2026-Q4,2026-10-12,spirit,Norwegian Spirit,12,Lautoka-Papeete,17,Yes,384.0,222.0,382.0,18.0,1006.0
+2026-Q4,2026-10-13,bliss,Norwegian Bliss,16,Panama Canal LA-Miami,23,Yes,415.0,111.0,1114.0,403.0,2043.0
+2026-Q4,2026-10-17,pride-of-america,Pride of America,7,Hawaii RT Honolulu (every Saturday),18,Yes,226.0,178.0,613.0,90.0,1107.0
+2026-Q4,2026-10-24,pride-of-america,Pride of America,7,Hawaii RT Honolulu (every Saturday),18,Yes,226.0,178.0,613.0,90.0,1107.0
+2026-Q4,2026-10-25,dawn,Norwegian Dawn,7,Barcelona-Lisbon,13,Yes,383.0,250.0,364.0,173.0,1170.0
+2026-Q4,2026-10-25,epic,Norwegian Epic,7,Rome-Barcelona,13,Yes,624.0,2.0,1086.0,340.0,2052.0
+2026-Q4,2026-10-25,gem,Norwegian Gem,7,Venice (Ravenna)-Rome,13,Yes,412.0,243.0,360.0,182.0,1197.0
+2026-Q4,2026-10-29,jade,Norwegian Jade,14,Japan RT Tokyo,16,Yes,417.0,243.0,360.0,181.0,1201.0
+2026-Q4,2026-10-31,pride-of-america,Pride of America,7,Hawaii RT Honolulu (every Saturday),18,Yes,226.0,178.0,613.0,90.0,1107.0
+2026-Q4,2026-11-07,luna,Norwegian Luna,7,Caribbean RT Miami,22,Yes,421.5,124.0,1030.0,157.0,1732.5
+2026-Q4,2026-11-07,pride-of-america,Pride of America,7,Hawaii RT Honolulu (every Saturday),18,Yes,226.0,178.0,613.0,90.0,1107.0
+2026-Q4,2026-11-14,luna,Norwegian Luna,7,Caribbean RT Miami,22,Yes,421.5,124.0,1030.0,157.0,1732.5
+2026-Q4,2026-11-14,pride-of-america,Pride of America,7,Hawaii RT Honolulu (every Saturday),18,Yes,226.0,178.0,613.0,90.0,1107.0
+2026-Q4,2026-11-21,jade,Norwegian Jade,9,Seoul-Tokyo,16,Yes,417.0,243.0,360.0,181.0,1201.0
+2026-Q4,2026-11-21,luna,Norwegian Luna,7,Caribbean RT Miami,22,Yes,421.5,124.0,1030.0,157.0,1732.5
+2026-Q4,2026-11-21,pride-of-america,Pride of America,7,Hawaii RT Honolulu (every Saturday),18,Yes,226.0,178.0,613.0,90.0,1107.0
+2026-Q4,2026-11-28,luna,Norwegian Luna,7,Caribbean RT Miami,22,No,421.5,124.0,1030.0,157.0,1732.5
+2026-Q4,2026-11-28,pride-of-america,Pride of America,7,Hawaii RT Honolulu (every Saturday),18,Yes,226.0,178.0,613.0,90.0,1107.0
+2026-Q4,2026-11-30,sky,Norwegian Sky,11,Panama Canal RT Tampa,23,No - ship not scraped,,,,,
+2026-Q4,2026-12-05,luna,Norwegian Luna,7,Caribbean RT Miami,22,Yes,421.5,124.0,1030.0,157.0,1732.5
+2026-Q4,2026-12-05,pride-of-america,Pride of America,7,Hawaii RT Honolulu (every Saturday),18,Yes,226.0,178.0,613.0,90.0,1107.0
+2026-Q4,2026-12-12,luna,Norwegian Luna,7,Caribbean RT Miami,22,Yes,421.5,124.0,1030.0,157.0,1732.5
+2026-Q4,2026-12-12,pride-of-america,Pride of America,7,Hawaii RT Honolulu (every Saturday),18,Yes,226.0,178.0,613.0,90.0,1107.0
+2026-Q4,2026-12-19,luna,Norwegian Luna,7,Caribbean RT Miami,22,Yes,421.5,124.0,1030.0,157.0,1732.5
+2026-Q4,2026-12-19,pride-of-america,Pride of America,7,Hawaii RT Honolulu (every Saturday),18,Yes,226.0,178.0,613.0,90.0,1107.0
+2026-Q4,2026-12-21,jade,Norwegian Jade,13,Singapore-Hong Kong,16,No,417.0,243.0,360.0,181.0,1201.0
+2026-Q4,2026-12-26,luna,Norwegian Luna,7,Caribbean RT Miami,22,Yes,421.5,124.0,1030.0,157.0,1732.5
+2026-Q4,2026-12-26,pride-of-america,Pride of America,7,Hawaii RT Honolulu (every Saturday),18,Yes,226.0,178.0,613.0,90.0,1107.0
+2027-Q1,2027-01-02,luna,Norwegian Luna,7,Caribbean RT Miami,22,Yes,421.5,124.0,1030.0,157.0,1732.5
+2027-Q1,2027-01-09,luna,Norwegian Luna,7,Caribbean RT Miami,22,Yes,421.5,124.0,1030.0,157.0,1732.5
+2027-Q1,2027-01-15,jade,Norwegian Jade,13,Singapore-Hong Kong,16,No,417.0,243.0,360.0,181.0,1201.0
+2027-Q1,2027-01-16,luna,Norwegian Luna,7,Caribbean RT Miami,22,Yes,421.5,124.0,1030.0,157.0,1732.5
+2027-Q1,2027-01-23,luna,Norwegian Luna,7,Caribbean RT Miami,22,Yes,421.5,124.0,1030.0,157.0,1732.5
+2027-Q1,2027-01-30,luna,Norwegian Luna,7,Caribbean RT Miami,22,Yes,421.5,124.0,1030.0,157.0,1732.5
+2027-Q1,2027-02-06,luna,Norwegian Luna,7,Caribbean RT Miami,22,Yes,421.5,124.0,1030.0,157.0,1732.5
+2027-Q1,2027-02-09,jade,Norwegian Jade,13,Singapore-Hong Kong,16,No,417.0,243.0,360.0,181.0,1201.0
+2027-Q1,2027-02-13,luna,Norwegian Luna,7,Caribbean RT Miami,22,Yes,421.5,124.0,1030.0,157.0,1732.5
+2027-Q1,2027-02-20,luna,Norwegian Luna,7,Caribbean RT Miami,22,Yes,421.5,124.0,1030.0,157.0,1732.5
+2027-Q1,2027-02-27,luna,Norwegian Luna,7,Caribbean RT Miami,22,Yes,421.5,124.0,1030.0,157.0,1732.5
+2027-Q1,2027-03-06,luna,Norwegian Luna,7,Caribbean RT Miami,22,Yes,421.5,124.0,1030.0,157.0,1732.5
+2027-Q1,2027-03-08,sky,Norwegian Sky,11,Panama Canal RT Tampa,23,No - ship not scraped,,,,,
+2027-Q1,2027-03-13,luna,Norwegian Luna,7,Caribbean RT Miami,22,Yes,421.5,124.0,1030.0,157.0,1732.5
+2027-Q1,2027-03-14,jade,Norwegian Jade,9,Seoul-Tokyo,16,Yes,417.0,243.0,360.0,181.0,1201.0
+2027-Q1,2027-03-20,luna,Norwegian Luna,7,Caribbean RT Miami,22,Yes,421.5,124.0,1030.0,157.0,1732.5
+2027-Q1,2027-03-27,luna,Norwegian Luna,7,Caribbean RT Miami,22,Yes,421.5,124.0,1030.0,157.0,1732.5
+2027-Q2,2027-04-01,jade,Norwegian Jade,9,Seoul-Tokyo,16,Yes,417.0,243.0,360.0,181.0,1201.0
+2027-Q2,2027-04-10,jade,Norwegian Jade,14,Japan RT Tokyo,16,No,417.0,243.0,360.0,181.0,1201.0
+2027-Q3,2027-09-06,spirit,Norwegian Spirit,4,Sydney RT (Hobart),17,No,384.0,222.0,382.0,18.0,1006.0
+2027-Q3,2027-09-21,spirit,Norwegian Spirit,4,Sydney RT (Hobart),17,Yes (+-1 day),384.0,222.0,382.0,18.0,1006.0

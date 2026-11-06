@@ -1,0 +1,296 @@
+{
+  "format_version": 1,
+  "rows": 4025327,
+  "target_bytes": 20000000,
+  "max_part_bytes": 40000000,
+  "parts": [
+    {
+      "path": "line=carnival/depart_month=2026-09/part-0000.parquet",
+      "rows": 59648,
+      "size_bytes": 339085,
+      "line": "carnival",
+      "depart_month": "2026-09"
+    },
+    {
+      "path": "line=carnival/depart_month=2026-10/part-0000.parquet",
+      "rows": 111715,
+      "size_bytes": 618670,
+      "line": "carnival",
+      "depart_month": "2026-10"
+    },
+    {
+      "path": "line=carnival/depart_month=2026-11/part-0000.parquet",
+      "rows": 107472,
+      "size_bytes": 596710,
+      "line": "carnival",
+      "depart_month": "2026-11"
+    },
+    {
+      "path": "line=carnival/depart_month=2026-12/part-0000.parquet",
+      "rows": 128598,
+      "size_bytes": 724869,
+      "line": "carnival",
+      "depart_month": "2026-12"
+    },
+    {
+      "path": "line=carnival/depart_month=2027-01/part-0000.parquet",
+      "rows": 107714,
+      "size_bytes": 601652,
+      "line": "carnival",
+      "depart_month": "2027-01"
+    },
+    {
+      "path": "line=carnival/depart_month=2027-02/part-0000.parquet",
+      "rows": 100767,
+      "size_bytes": 557775,
+      "line": "carnival",
+      "depart_month": "2027-02"
+    },
+    {
+      "path": "line=carnival/depart_month=2027-03/part-0000.parquet",
+      "rows": 108542,
+      "size_bytes": 587742,
+      "line": "carnival",
+      "depart_month": "2027-03"
+    },
+    {
+      "path": "line=carnival/depart_month=2027-04/part-0000.parquet",
+      "rows": 98312,
+      "size_bytes": 526637,
+      "line": "carnival",
+      "depart_month": "2027-04"
+    },
+    {
+      "path": "line=carnival/depart_month=2027-05/part-0000.parquet",
+      "rows": 116389,
+      "size_bytes": 615952,
+      "line": "carnival",
+      "depart_month": "2027-05"
+    },
+    {
+      "path": "line=carnival/depart_month=2027-06/part-0000.parquet",
+      "rows": 108257,
+      "size_bytes": 550806,
+      "line": "carnival",
+      "depart_month": "2027-06"
+    },
+    {
+      "path": "line=carnival/depart_month=2027-07/part-0000.parquet",
+      "rows": 118755,
+      "size_bytes": 596549,
+      "line": "carnival",
+      "depart_month": "2027-07"
+    },
+    {
+      "path": "line=carnival/depart_month=2027-08/part-0000.parquet",
+      "rows": 114064,
+      "size_bytes": 572564,
+      "line": "carnival",
+      "depart_month": "2027-08"
+    },
+    {
+      "path": "line=carnival/depart_month=2027-09/part-0000.parquet",
+      "rows": 100462,
+      "size_bytes": 501402,
+      "line": "carnival",
+      "depart_month": "2027-09"
+    },
+    {
+      "path": "line=carnival/depart_month=2027-10/part-0000.parquet",
+      "rows": 107925,
+      "size_bytes": 538419,
+      "line": "carnival",
+      "depart_month": "2027-10"
+    },
+    {
+      "path": "line=carnival/depart_month=2027-11/part-0000.parquet",
+      "rows": 91480,
+      "size_bytes": 471256,
+      "line": "carnival",
+      "depart_month": "2027-11"
+    },
+    {
+      "path": "line=carnival/depart_month=2027-12/part-0000.parquet",
+      "rows": 80837,
+      "size_bytes": 420259,
+      "line": "carnival",
+      "depart_month": "2027-12"
+    },
+    {
+      "path": "line=carnival/depart_month=2028-01/part-0000.parquet",
+      "rows": 65325,
+      "size_bytes": 311254,
+      "line": "carnival",
+      "depart_month": "2028-01"
+    },
+    {
+      "path": "line=carnival/depart_month=2028-02/part-0000.parquet",
+      "rows": 42315,
+      "size_bytes": 189180,
+      "line": "carnival",
+      "depart_month": "2028-02"
+    },
+    {
+      "path": "line=carnival/depart_month=2028-03/part-0000.parquet",
+      "rows": 29160,
+      "size_bytes": 129876,
+      "line": "carnival",
+      "depart_month": "2028-03"
+    },
+    {
+      "path": "line=carnival/depart_month=2028-04/part-0000.parquet",
+      "rows": 9996,
+      "size_bytes": 42770,
+      "line": "carnival",
+      "depart_month": "2028-04"
+    },
+    {
+      "path": "line=carnival/depart_month=2028-05/part-0000.parquet",
+      "rows": 40,
+      "size_bytes": 3764,
+      "line": "carnival",
+      "depart_month": "2028-05"
+    },
+    {
+      "path": "line=royal-caribbean/depart_month=2026-09/part-0000.parquet",
+      "rows": 81906,
+      "size_bytes": 456328,
+      "line": "royal-caribbean",
+      "depart_month": "2026-09"
+    },
+    {
+      "path": "line=royal-caribbean/depart_month=2026-10/part-0000.parquet",
+      "rows": 153226,
+      "size_bytes": 831530,
+      "line": "royal-caribbean",
+      "depart_month": "2026-10"
+    },
+    {
+      "path": "line=royal-caribbean/depart_month=2026-11/part-0000.parquet",
+      "rows": 167361,
+      "size_bytes": 888756,
+      "line": "royal-caribbean",
+      "depart_month": "2026-11"
+    },
+    {
+      "path": "line=royal-caribbean/depart_month=2026-12/part-0000.parquet",
+      "rows": 146951,
+      "size_bytes": 786476,
+      "line": "royal-caribbean",
+      "depart_month": "2026-12"
+    },
+    {
+      "path": "line=royal-caribbean/depart_month=2027-01/part-0000.parquet",
+      "rows": 160407,
+      "size_bytes": 864510,
+      "line": "royal-caribbean",
+      "depart_month": "2027-01"
+    },
+    {
+      "path": "line=royal-caribbean/depart_month=2027-02/part-0000.parquet",
+      "rows": 138281,
+      "size_bytes": 745445,
+      "line": "royal-caribbean",
+      "depart_month": "2027-02"
+    },
+    {
+      "path": "line=royal-caribbean/depart_month=2027-03/part-0000.parquet",
+      "rows": 141535,
+      "size_bytes": 759190,
+      "line": "royal-caribbean",
+      "depart_month": "2027-03"
+    },
+    {
+      "path": "line=royal-caribbean/depart_month=2027-04/part-0000.parquet",
+      "rows": 123734,
+      "size_bytes": 655119,
+      "line": "royal-caribbean",
+      "depart_month": "2027-04"
+    },
+    {
+      "path": "line=royal-caribbean/depart_month=2027-05/part-0000.parquet",
+      "rows": 123808,
+      "size_bytes": 652087,
+      "line": "royal-caribbean",
+      "depart_month": "2027-05"
+    },
+    {
+      "path": "line=royal-caribbean/depart_month=2027-06/part-0000.parquet",
+      "rows": 117094,
+      "size_bytes": 599403,
+      "line": "royal-caribbean",
+      "depart_month": "2027-06"
+    },
+    {
+      "path": "line=royal-caribbean/depart_month=2027-07/part-0000.parquet",
+      "rows": 131003,
+      "size_bytes": 666669,
+      "line": "royal-caribbean",
+      "depart_month": "2027-07"
+    },
+    {
+      "path": "line=royal-caribbean/depart_month=2027-08/part-0000.parquet",
+      "rows": 131447,
+      "size_bytes": 676766,
+      "line": "royal-caribbean",
+      "depart_month": "2027-08"
+    },
+    {
+      "path": "line=royal-caribbean/depart_month=2027-09/part-0000.parquet",
+      "rows": 120823,
+      "size_bytes": 595819,
+      "line": "royal-caribbean",
+      "depart_month": "2027-09"
+    },
+    {
+      "path": "line=royal-caribbean/depart_month=2027-10/part-0000.parquet",
+      "rows": 120696,
+      "size_bytes": 601994,
+      "line": "royal-caribbean",
+      "depart_month": "2027-10"
+    },
+    {
+      "path": "line=royal-caribbean/depart_month=2027-11/part-0000.parquet",
+      "rows": 97553,
+      "size_bytes": 486190,
+      "line": "royal-caribbean",
+      "depart_month": "2027-11"
+    },
+    {
+      "path": "line=royal-caribbean/depart_month=2027-12/part-0000.parquet",
+      "rows": 94795,
+      "size_bytes": 475914,
+      "line": "royal-caribbean",
+      "depart_month": "2027-12"
+    },
+    {
+      "path": "line=royal-caribbean/depart_month=2028-01/part-0000.parquet",
+      "rows": 75811,
+      "size_bytes": 375676,
+      "line": "royal-caribbean",
+      "depart_month": "2028-01"
+    },
+    {
+      "path": "line=royal-caribbean/depart_month=2028-02/part-0000.parquet",
+      "rows": 47769,
+      "size_bytes": 225992,
+      "line": "royal-caribbean",
+      "depart_month": "2028-02"
+    },
+    {
+      "path": "line=royal-caribbean/depart_month=2028-03/part-0000.parquet",
+      "rows": 32623,
+      "size_bytes": 155993,
+      "line": "royal-caribbean",
+      "depart_month": "2028-03"
+    },
+    {
+      "path": "line=royal-caribbean/depart_month=2028-04/part-0000.parquet",
+      "rows": 10731,
+      "size_bytes": 50380,
+      "line": "royal-caribbean",
+      "depart_month": "2028-04"
+    }
+  ],
+  "schema_base64": "/////5gCAAAQAAAAAAAKAAwABgAFAAgACgAAAAABBAAMAAAACAAIAAAABAAIAAAABAAAAAsAAAA0AgAA+AEAAMwBAACQAQAAVAEAAAwBAADgAAAArAAAAGgAAAA0AAAABAAAAAj+//8AAAEFEAAAABwAAAAEAAAAAAAAAAkAAABwcmljZV9yYXcAAAD4/f//NP7//wAAAQUQAAAAIAAAAAQAAAAAAAAADgAAAHNjcmFwZWRfYXRfcmF3AAAo/v//ZP7//wAAAQIQAAAAKAAAAAQAAAAAAAAAFQAAAGRheXNfYmVmb3JlX2RlcGFydHVyZQAAADT///8AAAABIAAAAKT+//8AAAECEAAAABgAAAAEAAAAAAAAAAUAAABwcmljZQAAAGT///8AAAABIAAAANT+//8AAAEFEAAAABgAAAAEAAAAAAAAAAUAAABjYWJpbgAAAMD+///8/v//AAABChAAAAAkAAAABAAAAAAAAAAKAAAAc2NyYXBlZF9hdAAACAAMAAYACAAIAAAAAAABAAQAAAADAAAAVVRDAED///8AAAECEAAAACAAAAAEAAAAAAAAAAYAAABuaWdodHMAAAgADAAIAAcACAAAAAAAAAEQAAAAeP///wAAAQgQAAAAJAAAAAQAAAAAAAAACwAAAGRlcGFydF9kYXRlAAAABgAIAAYABgAAAAAAAACw////AAABBRAAAAAYAAAABAAAAAAAAAAEAAAAc2hpcAAAAACc////2P///wAAAQUQAAAAGAAAAAQAAAAAAAAABAAAAGxpbmUAAAAAxP///xAAFAAIAAYABwAMAAAAEAAQAAAAAAABBRAAAAAgAAAABAAAAAAAAAAKAAAAc2FpbGluZ19pZAAABAAEAAQAAAAAAAAA"
+}

@@ -1,0 +1,10 @@
+quarter,listed_capacity_days,company_capacity_days,listed_share,benchmark_kind,source,thin_note
+2025Q4,2362710.0,6263064.0,0.3772450672705883,reported,/home/rich/devdata/nclh-kpis/quarterly_kpis.csv:19,Partial listed calendar; not expanded to observed company capacity
+2026Q1,4609331.0,6392969.0,0.7210000549040673,reported,/home/rich/devdata/nclh-kpis/quarterly_kpis.csv:20,Partial listed calendar; not expanded to observed company capacity
+2026Q2,5426993.0,6589740.0,0.8235519155535727,reported,/home/rich/devdata/nclh-kpis/quarterly_kpis.csv:21,Partial listed calendar; not expanded to observed company capacity
+2026Q3,5941138.0,6800000.0,0.8736967647058823,guidance,/home/rich/devdata/nclh-kpis/guidance.csv:987,Partial listed calendar; not expanded to observed company capacity
+2026Q4,5252295.0,6467291.0,0.812132158580772,FY_less_Q1_Q2_actual_Q3_guidance_residual,/home/rich/devdata/nclh-kpis/guidance.csv:988; Q1/Q2 reported; Q3 guidance,Partial listed calendar; not expanded to observed company capacity
+2027Q1,5284638.0,,,unavailable,,Unlisted inventory is not zero; no company denominator
+2027Q2,5242057.0,,,unavailable,,Unlisted inventory is not zero; no company denominator
+2027Q3,5762890.0,,,unavailable,,Unlisted inventory is not zero; no company denominator
+2027Q4,5841410.0,,,unavailable,,Unlisted inventory is not zero; no company denominator

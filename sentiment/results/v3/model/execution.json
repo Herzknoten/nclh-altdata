@@ -1,0 +1,21 @@
+{
+  "author_replicates": 2000,
+  "bootstrap_seed": 20261002,
+  "capacity_adjusted_points": 0,
+  "classification_groups": 21,
+  "code_sha256": {
+    "analyze_model_labels.py": "dee17912e6a966ccea2ad99caaad8a96322810605cf19b8b8d8451556e1f9f6a",
+    "model_agreement.py": "3c45f4184299a25c06e0e0a6886ba80c727fa82d51cfb7f7e742bd3a18396927"
+  },
+  "codebook_sha256": "897902fb3fe1a30895a79b484b310e4383ff8eb11408095fc90c080c833ef139",
+  "exploratory_rows": 60,
+  "full_bounds_required": true,
+  "human_gold_count": 0,
+  "hypothesis_rows": 369,
+  "imported_per_rater": 1800,
+  "method_sha256": "2f617e982e4ceeaee7f5767a50310e12b8753ebf6b9bfda71f71658d48c222cb",
+  "prepared_rows": 20033,
+  "root_thread_replicates": 2000,
+  "status": "completed_diagnostic_tier",
+  "tier": "model-labelled, unvalidated; human confirmation pending"
+}

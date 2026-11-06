@@ -1,0 +1,5 @@
+metric,quarter,prior_quarter,yoy_pct,display_pct,revenue_musd,prior_revenue_musd,passenger_days,prior_passenger_days,revenue_per_day,prior_revenue_per_day,source,source_field
+Onboard & other,2026Q2,2025Q2,5.006488491775474,+5.0%,910.706,808.512,6745954,6288800,135.00032760377553,128.56379595471313,/home/rich/share/outbox/nclh-ivy-2026-11/07-long-2.2/data/nclh_quarterly_revenue_pcd.csv,onboard_and_other_revenue_musd
+Ticket,2026Q2,2025Q2,-5.639205234488431,-5.6%,1729.838,1708.985,6745954,6288800,256.42599994011226,271.75057244625367,/home/rich/share/outbox/nclh-ivy-2026-11/07-long-2.2/data/nclh_quarterly_revenue_pcd.csv,passenger_ticket_revenue_musd
+Onboard & other,2026Q3,2025Q3,6.820283226387769,+6.8%,1001.1,888.183,7204938,6828243,138.94637261278308,130.0748962800533,/home/rich/share/outbox/nclh-ivy-2026-11/07-long-2.2/data/nclh_quarterly_revenue_pcd.csv,onboard_and_other_revenue_musd
+Ticket,2026Q3,2025Q3,-10.052913055275026,-10.1%,1945.6,2049.959,7204938,6828243,270.03702183141615,300.2176401747858,/home/rich/share/outbox/nclh-ivy-2026-11/07-long-2.2/data/nclh_quarterly_revenue_pcd.csv,passenger_ticket_revenue_musd

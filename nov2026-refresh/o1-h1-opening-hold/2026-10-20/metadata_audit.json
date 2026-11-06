@@ -1,0 +1,26 @@
+[
+  {
+    "export": "/home/rich/devdata/allaboard-parser/out/full-2026-09-14",
+    "selected_metadata": 11650,
+    "invalid_identity": 0,
+    "explicit_packages": 519
+  },
+  {
+    "export": "/home/rich/devdata/allaboard-parser/out/full-2026-09-28",
+    "selected_metadata": 8065,
+    "invalid_identity": 0,
+    "explicit_packages": 435
+  },
+  {
+    "export": "/home/rich/devdata/allaboard-parser/out/nclh-2026-10-20",
+    "selected_metadata": 1472,
+    "invalid_identity": 0,
+    "explicit_packages": 1
+  },
+  {
+    "export": "/home/rich/devdata/allaboard-parser/out/peers-2026-10-20",
+    "selected_metadata": 4339,
+    "invalid_identity": 0,
+    "explicit_packages": 0
+  }
+]

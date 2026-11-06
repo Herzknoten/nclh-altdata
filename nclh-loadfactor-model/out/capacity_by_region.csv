@@ -1,0 +1,127 @@
+brand,region,quarter,ship_days,capacity_days,known_berth_capacity_days,missing_berth_ship_days,placeholder_capacity_days,ship_count,listing_count,brand_capacity_days,share_of_brand_capacity,input_source
+norwegian,Caribbean/Bahamas/Gulf,2026Q3,332,1217204,1217204,0,327980,4,63,5252464,0.23173962,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:2
+norwegian,Alaska,2026Q3,367,1297656,1297656,0,0,4,51,5252464,0.24705662,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:3
+norwegian,US Northeast/Bermuda/Canada,2026Q3,227,840800,840800,0,0,4,36,5252464,0.16007725,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:4
+norwegian,Europe,2026Q3,460,1324156,1324156,0,0,5,67,5252464,0.25210187,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:5
+norwegian,Hawaii,2026Q3,136,289904,289904,0,0,2,17,5252464,0.05519391,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:6
+norwegian,other,2026Q3,121,282744,282744,0,0,3,17,5252464,0.05383074,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:7
+norwegian,unmapped,2026Q3,0,0,0,0,0,0,0,5252464,0.00000000,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:8
+norwegian,Caribbean/Bahamas/Gulf,2026Q4,816,2800405,2800405,0,303025,14,131,4935785,0.56736770,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:9
+norwegian,Alaska,2026Q4,25,90082,90082,0,0,3,5,4935785,0.01825079,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:10
+norwegian,US Northeast/Bermuda/Canada,2026Q4,85,274596,274596,0,0,4,14,4935785,0.05563370,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:11
+norwegian,Europe,2026Q4,226,667248,667248,0,0,6,28,4935785,0.13518579,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:12
+norwegian,Hawaii,2026Q4,104,225328,225328,0,0,2,15,4935785,0.04565191,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:13
+norwegian,other,2026Q4,276,847856,847856,0,0,6,30,4935785,0.17177734,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:14
+norwegian,unmapped,2026Q4,15,30270,30270,0,0,1,2,4935785,0.00613276,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:15
+norwegian,Caribbean/Bahamas/Gulf,2027Q1,1176,3991130,3991130,0,320850,14,199,4930722,0.80944129,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:16
+norwegian,Alaska,2027Q1,0,0,0,0,0,0,0,4930722,0.00000000,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:17
+norwegian,US Northeast/Bermuda/Canada,2027Q1,11,44110,44110,0,0,1,2,4930722,0.00894595,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:18
+norwegian,Europe,2027Q1,0,0,0,0,0,0,0,4930722,0.00000000,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:19
+norwegian,Hawaii,2027Q1,90,196740,196740,0,0,1,14,4930722,0.03990085,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:20
+norwegian,other,2027Q1,247,698742,698742,0,0,4,32,4930722,0.14171190,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:21
+norwegian,unmapped,2027Q1,0,0,0,0,0,0,0,4930722,0.00000000,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:22
+norwegian,Caribbean/Bahamas/Gulf,2027Q2,496,1811178,1811178,0,73090,14,92,4797601,0.37751743,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:23
+norwegian,Alaska,2027Q2,186,657356,657356,0,0,4,28,4797601,0.13701765,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:24
+norwegian,US Northeast/Bermuda/Canada,2027Q2,252,828588,828588,0,306590,4,38,4797601,0.17270882,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:25
+norwegian,Europe,2027Q2,306,912461,912461,0,77600,7,41,4797601,0.19019110,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:26
+norwegian,Hawaii,2027Q2,105,227178,227178,0,0,2,16,4797601,0.04735242,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:27
+norwegian,other,2027Q2,141,360840,360840,0,0,6,15,4797601,0.07521259,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:28
+norwegian,unmapped,2027Q2,0,0,0,0,0,0,0,4797601,0.00000000,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:29
+norwegian,Caribbean/Bahamas/Gulf,2027Q3,368,1432072,1432072,0,356960,4,76,5170924,0.27694702,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:30
+norwegian,Alaska,2027Q3,311,1106810,1106810,0,0,4,48,5170924,0.21404492,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:31
+norwegian,US Northeast/Bermuda/Canada,2027Q3,276,907304,907304,0,327980,3,43,5170924,0.17546264,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:32
+norwegian,Europe,2027Q3,468,1348060,1348060,0,0,6,62,5170924,0.26070002,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:33
+norwegian,Hawaii,2027Q3,126,269724,269724,0,0,2,17,5170924,0.05216166,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:34
+norwegian,other,2027Q3,53,106954,106954,0,0,1,6,5170924,0.02068373,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:35
+norwegian,unmapped,2027Q3,0,0,0,0,0,0,0,5170924,0.00000000,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:36
+norwegian,Caribbean/Bahamas/Gulf,2027Q4,924,3226786,3226786,0,627900,16,148,5169554,0.62419040,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:37
+norwegian,Alaska,2027Q4,43,152302,152302,0,0,3,7,5169554,0.02946134,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:38
+norwegian,US Northeast/Bermuda/Canada,2027Q4,110,332054,332054,0,39215,3,17,5169554,0.06423262,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:39
+norwegian,Europe,2027Q4,177,537078,537078,0,0,6,22,5169554,0.10389252,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:40
+norwegian,Hawaii,2027Q4,103,223310,223310,0,0,2,15,5169554,0.04319715,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:41
+norwegian,other,2027Q4,233,698024,698024,0,0,5,25,5169554,0.13502596,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:42
+norwegian,unmapped,2027Q4,0,0,0,0,0,0,0,5169554,0.00000000,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:43
+oceania,Caribbean/Bahamas/Gulf,2026Q3,0,0,0,0,0,0,0,482180,0.00000000,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:44
+oceania,Alaska,2026Q3,80,100000,100000,0,0,1,10,482180,0.20739143,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:45
+oceania,US Northeast/Bermuda/Canada,2026Q3,0,0,0,0,0,0,0,482180,0.00000000,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:46
+oceania,Europe,2026Q3,446,365380,365380,0,0,7,43,482180,0.75776681,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:47
+oceania,Hawaii,2026Q3,0,0,0,0,0,0,0,482180,0.00000000,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:48
+oceania,other,2026Q3,14,16800,16800,0,0,1,1,482180,0.03484176,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:49
+oceania,unmapped,2026Q3,0,0,0,0,0,0,0,482180,0.00000000,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:50
+oceania,Caribbean/Bahamas/Gulf,2026Q4,127,132860,132860,0,0,4,12,296850,0.44756611,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:51
+oceania,Alaska,2026Q4,0,0,0,0,0,0,0,296850,0.00000000,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:52
+oceania,US Northeast/Bermuda/Canada,2026Q4,0,0,0,0,0,0,0,296850,0.00000000,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:53
+oceania,Europe,2026Q4,139,116160,116160,0,0,4,15,296850,0.39130874,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:54
+oceania,Hawaii,2026Q4,0,0,0,0,0,0,0,296850,0.00000000,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:55
+oceania,other,2026Q4,61,47830,47830,0,0,2,5,296850,0.16112515,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:56
+oceania,unmapped,2026Q4,0,0,0,0,0,0,0,296850,0.00000000,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:57
+oceania,Caribbean/Bahamas/Gulf,2027Q1,93,113740,113740,0,0,4,12,264490,0.43003516,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:58
+oceania,Alaska,2027Q1,0,0,0,0,0,0,0,264490,0.00000000,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:59
+oceania,US Northeast/Bermuda/Canada,2027Q1,0,0,0,0,0,0,0,264490,0.00000000,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:60
+oceania,Europe,2027Q1,24,16080,16080,0,0,1,4,264490,0.06079625,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:61
+oceania,Hawaii,2027Q1,0,0,0,0,0,0,0,264490,0.00000000,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:62
+oceania,other,2027Q1,201,134670,134670,0,0,3,14,264490,0.50916859,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:63
+oceania,unmapped,2027Q1,0,0,0,0,0,0,0,264490,0.00000000,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:64
+oceania,Caribbean/Bahamas/Gulf,2027Q2,24,21300,21300,0,0,2,2,322850,0.06597491,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:65
+oceania,Alaska,2027Q2,39,48750,48750,0,0,1,4,322850,0.15099892,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:66
+oceania,US Northeast/Bermuda/Canada,2027Q2,0,0,0,0,0,0,0,322850,0.00000000,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:67
+oceania,Europe,2027Q2,252,211930,211930,0,0,6,29,322850,0.65643488,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:68
+oceania,Hawaii,2027Q2,0,0,0,0,0,0,0,322850,0.00000000,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:69
+oceania,other,2027Q2,61,40870,40870,0,0,2,4,322850,0.12659130,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:70
+oceania,unmapped,2027Q2,0,0,0,0,0,0,0,322850,0.00000000,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:71
+oceania,Caribbean/Bahamas/Gulf,2027Q3,0,0,0,0,0,0,0,365130,0.00000000,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:72
+oceania,Alaska,2027Q3,63,78750,78750,0,0,1,8,365130,0.21567661,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:73
+oceania,US Northeast/Bermuda/Canada,2027Q3,12,8040,8040,0,0,1,1,365130,0.02201955,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:74
+oceania,Europe,2027Q3,327,278340,278340,0,26410,6,37,365130,0.76230384,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:75
+oceania,Hawaii,2027Q3,0,0,0,0,0,0,0,365130,0.00000000,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:76
+oceania,other,2027Q3,0,0,0,0,0,0,0,365130,0.00000000,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:77
+oceania,unmapped,2027Q3,0,0,0,0,0,0,0,365130,0.00000000,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:78
+oceania,Caribbean/Bahamas/Gulf,2027Q4,68,52520,52520,0,0,2,7,372680,0.14092519,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:79
+oceania,Alaska,2027Q4,0,0,0,0,0,0,0,372680,0.00000000,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:80
+oceania,US Northeast/Bermuda/Canada,2027Q4,24,16080,16080,0,0,1,2,372680,0.04314694,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:81
+oceania,Europe,2027Q4,233,259790,259790,0,77840,5,26,372680,0.69708597,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:82
+oceania,Hawaii,2027Q4,0,0,0,0,0,0,0,372680,0.00000000,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:83
+oceania,other,2027Q4,41,44290,44290,0,0,2,4,372680,0.11884190,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:84
+oceania,unmapped,2027Q4,0,0,0,0,0,0,0,372680,0.00000000,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:85
+regent-seven-seas,Caribbean/Bahamas/Gulf,2026Q3,0,0,0,0,0,0,0,206494,0.00000000,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:86
+regent-seven-seas,Alaska,2026Q3,79,58934,58934,0,58934,1,11,206494,0.28540297,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:87
+regent-seven-seas,US Northeast/Bermuda/Canada,2026Q3,11,8206,8206,0,8206,1,1,206494,0.03973965,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:88
+regent-seven-seas,Europe,2026Q3,216,137402,137402,0,137402,5,22,206494,0.66540432,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:89
+regent-seven-seas,Hawaii,2026Q3,0,0,0,0,0,0,0,206494,0.00000000,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:90
+regent-seven-seas,other,2026Q3,4,1952,1952,0,1952,1,1,206494,0.00945306,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:91
+regent-seven-seas,unmapped,2026Q3,0,0,0,0,0,0,0,206494,0.00000000,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:92
+regent-seven-seas,Caribbean/Bahamas/Gulf,2026Q4,0,0,0,0,0,0,0,19660,0.00000000,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:93
+regent-seven-seas,Alaska,2026Q4,0,0,0,0,0,0,0,19660,0.00000000,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:94
+regent-seven-seas,US Northeast/Bermuda/Canada,2026Q4,0,0,0,0,0,0,0,19660,0.00000000,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:95
+regent-seven-seas,Europe,2026Q4,25,12200,12200,0,12200,1,2,19660,0.62054934,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:96
+regent-seven-seas,Hawaii,2026Q4,0,0,0,0,0,0,0,19660,0.00000000,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:97
+regent-seven-seas,other,2026Q4,10,7460,7460,0,7460,1,1,19660,0.37945066,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:98
+regent-seven-seas,unmapped,2026Q4,0,0,0,0,0,0,0,19660,0.00000000,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:99
+regent-seven-seas,Caribbean/Bahamas/Gulf,2027Q1,36,28500,28500,0,28500,2,5,89426,0.31869926,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:100
+regent-seven-seas,Alaska,2027Q1,0,0,0,0,0,0,0,89426,0.00000000,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:101
+regent-seven-seas,US Northeast/Bermuda/Canada,2027Q1,0,0,0,0,0,0,0,89426,0.00000000,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:102
+regent-seven-seas,Europe,2027Q1,42,20496,20496,0,20496,1,4,89426,0.22919509,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:103
+regent-seven-seas,Hawaii,2027Q1,0,0,0,0,0,0,0,89426,0.00000000,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:104
+regent-seven-seas,other,2027Q1,53,40430,40430,0,40430,3,5,89426,0.45210565,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:105
+regent-seven-seas,unmapped,2027Q1,0,0,0,0,0,0,0,89426,0.00000000,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:106
+regent-seven-seas,Caribbean/Bahamas/Gulf,2027Q2,36,28500,28500,0,28500,2,3,121606,0.23436344,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:107
+regent-seven-seas,Alaska,2027Q2,36,26856,26856,0,26856,1,6,121606,0.22084437,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:108
+regent-seven-seas,US Northeast/Bermuda/Canada,2027Q2,0,0,0,0,0,0,0,121606,0.00000000,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:109
+regent-seven-seas,Europe,2027Q2,30,23022,23022,0,23022,2,4,121606,0.18931632,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:110
+regent-seven-seas,Hawaii,2027Q2,0,0,0,0,0,0,0,121606,0.00000000,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:111
+regent-seven-seas,other,2027Q2,79,43228,43228,0,43228,2,7,121606,0.35547588,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:112
+regent-seven-seas,unmapped,2027Q2,0,0,0,0,0,0,0,121606,0.00000000,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:113
+regent-seven-seas,Caribbean/Bahamas/Gulf,2027Q3,0,0,0,0,0,0,0,226836,0.00000000,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:114
+regent-seven-seas,Alaska,2027Q3,92,68632,68632,0,68632,1,12,226836,0.30256220,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:115
+regent-seven-seas,US Northeast/Bermuda/Canada,2027Q3,11,8184,8184,0,8184,1,1,226836,0.03607893,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:116
+regent-seven-seas,Europe,2027Q3,132,105124,105124,0,105124,3,17,226836,0.46343614,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:117
+regent-seven-seas,Hawaii,2027Q3,0,0,0,0,0,0,0,226836,0.00000000,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:118
+regent-seven-seas,other,2027Q3,92,44896,44896,0,44896,1,8,226836,0.19792273,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:119
+regent-seven-seas,unmapped,2027Q3,0,0,0,0,0,0,0,226836,0.00000000,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:120
+regent-seven-seas,Caribbean/Bahamas/Gulf,2027Q4,102,79188,79188,0,79188,3,10,299176,0.26468701,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:121
+regent-seven-seas,Alaska,2027Q4,3,2238,2238,0,2238,1,1,299176,0.00748055,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:122
+regent-seven-seas,US Northeast/Bermuda/Canada,2027Q4,0,0,0,0,0,0,0,299176,0.00000000,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:123
+regent-seven-seas,Europe,2027Q4,144,109496,109496,0,109496,3,15,299176,0.36599192,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:124
+regent-seven-seas,Hawaii,2027Q4,0,0,0,0,0,0,0,299176,0.00000000,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:125
+regent-seven-seas,other,2027Q4,170,108254,108254,0,108254,3,14,299176,0.36184052,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:126
+regent-seven-seas,unmapped,2027Q4,0,0,0,0,0,0,0,299176,0.00000000,/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv:127

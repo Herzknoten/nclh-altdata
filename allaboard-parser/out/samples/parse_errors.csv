@@ -1,0 +1,3 @@
+page_file,reason
+/home/rich/devdata/allaboard/samples/norwegian__luna__7-night-eastern-caribbean-from-miami.html,skipped: itinerary/non-sailing page: no sailing payload
+/home/rich/devdata/allaboard/samples/oceania__oceania-allura__2026-12-21-cmmox4g1f020rvdq7kqk7xri5.html,"warning: cabin history count mismatch: cabin=suite, non_null_points=156, pricesTracked=153"

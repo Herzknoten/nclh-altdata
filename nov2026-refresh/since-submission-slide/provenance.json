@@ -1,0 +1,27 @@
+{
+  "method": "Frozen aggregate selections; P3 per-day YoY recomputed from four quarter rows; no raw histories rerun",
+  "sources_sha256": {
+    "/home/rich/devdata/nclh-ivy-refresh/cutearly/out/contrasts.csv": "b2d29aea091fe76117d27894ecc328b4b4f134e62d60a27824d4db1a677ef452",
+    "/home/rich/devdata/nclh-ivy-refresh/cutearly/out/monthly_by_line.csv": "a4d2f3118e7a006317e8a73e99f1a0d153a0f4703cfb2a6632248c55334f8cb3",
+    "/home/rich/devdata/nclh-ivy-refresh/cutearly/out/verdicts.csv": "e9e6cf13a8f3681f29ecbd19253bd2326721fcf0d0b31473ef85a9676451993b",
+    "/home/rich/devdata/nclh-ivy-refresh/slide13/data/R13_latest_shares.csv": "5e63272f06b69887506dcf52f5159a8a14fe5c5873de313711fffaba74aca1cc",
+    "/home/rich/devdata/nclh-ivy-refresh/slide13/data/R13_closein_discipline.csv": "7a10193d4d609fb5c705fc6312cfa08f6604e3aec48d7d87f36d7f0346d08452",
+    "/home/rich/share/outbox/nclh-ivy-2026-11/07-long-2.2/data/nclh_quarterly_revenue_pcd.csv": "6ec402d22b3256ecbbb7322ea7487ef9a0821b951c6fc1a137e2d38ae149f0d9",
+    "/home/rich/devdata/nclh-ivy-refresh/web/q3-print.md": "248a8909304705449c01ca62d310bd8e92c39184ff3c38dc14d232585fbe6464",
+    "/home/rich/devdata/nclh-ivy-refresh/web/street.md": "2b3a9584b5c5d43400f870a57813096b85526d4d55e706cfa2a87c959a9dc3be",
+    "/home/rich/devdata/nclh-ivy-refresh/mac/msg1-summary-B1-B3.md": "51e9bd69ed65ae313ddb0d5f18349f42c16f157e780293bccf1f31eda8817281",
+    "/home/rich/devdata/nclh-ivy-refresh/audit-1105/CONTEXT.md": "0edf39b656b722e6774f261b3070e40ddc66ff3f2c6817c32c49e9fd6116fc74",
+    "/home/rich/devdata/nclh-ivy-refresh/audit-1105/briefs/B2-since-submission-revise.md": "68c75f9ea71c25f5bb474fa39b6fb3b6cc965dd765e5f77954677248bcae8854",
+    "/home/rich/devdata/nclh-ivy-refresh/mac/A1-q3-call-quotes.md": "bdde6bc2059836d63cfcb64553fd8948dfdc9774046e9cde7f8689b7666b76b2",
+    "/home/rich/devdata/nclh-ivy-refresh/cutearly/RESULTS.md": "27fa64cdf39d7aadbdcd607157db206a8911afdc7b7e5a0cb50727bdfe3b48f2",
+    "/home/rich/devdata/nclh-ivy-refresh/discipline/RESULTS.md": "89c690f0208d0697561b873d83cdfd628465909fb23f919250503351d0988700",
+    "/home/rich/devdata/nclh-ivy-refresh/discipline/DEFINITIONS.md": "45997dbc646aa24d48c3c3a51cf6cbe698c56431a72d378f0b7e55acf1fe7fdb",
+    "/home/rich/devdata/nclh-ivy-refresh/slide13/README.md": "c36fd1a77199ee7fee797d9835fb900d21b0f62cf24e43b65791a595efcb7d4f"
+  },
+  "comparisons": {
+    "P1": "May-Aug vs Sep-Dec 2027 departure groups within Nov 4 history",
+    "P2": "Oct 20-Nov 4 2026 endpoint window and 51 earlier-ending rolling windows",
+    "P3": "Q2 2026 at submission vs Q3 2026 new print; each vs prior-year quarter"
+  },
+  "same_lead_timing": "Mid-Dec / about Dec 15 2026 supplied by Richard in B2 brief; not independently derived here; absent from current CONTEXT traps"
+}

@@ -1,0 +1,6 @@
+line,lead_bucket,reference_mix,n_pooled_pairs,n_line_pooled_pairs,reference_weight,n_other_lines,control_status
+norwegian,0-30,pooled,13333,257572,0.0517641669125526,0,no_control_line
+norwegian,31-90,pooled,20829,257572,0.08086670911434472,0,no_control_line
+norwegian,91-180,pooled,23728,257572,0.0921218144829407,0,no_control_line
+norwegian,181-365,pooled,97171,257572,0.37725762117000294,0,no_control_line
+norwegian,366+,pooled,102511,257572,0.397989688320159,0,no_control_line

@@ -1,0 +1,58 @@
+{
+  "crawl": "samples",
+  "pages_directory": "/home/rich/devdata/allaboard/samples",
+  "pages_checked": 4,
+  "pages_decoded": 3,
+  "pages_undecodable": 1,
+  "pages_skipped_by_parser_that_verifier_can_decode": 0,
+  "unaccounted_undecodable_pages": 0,
+  "source_pages_after_snapshot": 0,
+  "manifest": null,
+  "coverage": "directory traversal",
+  "previous_export": {
+    "sailings": {
+      "previous_rows": 3,
+      "unchanged_rows": 3,
+      "changed_rows": 0,
+      "removed_rows": 0,
+      "added_rows": 0
+    },
+    "price_history": {
+      "previous_rows": 1095,
+      "unchanged_rows": 1095,
+      "changed_rows": 0,
+      "removed_rows": 0,
+      "added_rows": 0
+    }
+  },
+  "tables": {
+    "sailings": {
+      "rows_matched": 3,
+      "rows_missing_from_export": 0,
+      "rows_not_found_in_page": 0,
+      "value_mismatches": 0
+    },
+    "price_history": {
+      "rows_matched": 1095,
+      "rows_missing_from_export": 0,
+      "rows_not_found_in_page": 0,
+      "value_mismatches": 0
+    }
+  },
+  "rows_matched": 1098,
+  "rows_missing_from_export": 0,
+  "rows_not_found_in_page": 0,
+  "value_mismatches": 0,
+  "issue_count": 0,
+  "examples": {
+    "pages_undecodable": [
+      {
+        "page": "/home/rich/devdata/allaboard/samples/norwegian__luna__7-night-eastern-caribbean-from-miami.html",
+        "reason": "expected one owned sailing panel, found 0",
+        "parser_skipped": true
+      }
+    ]
+  },
+  "example_limit_per_category": 20,
+  "status": "PASS"
+}

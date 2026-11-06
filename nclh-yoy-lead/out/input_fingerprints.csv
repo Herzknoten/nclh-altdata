@@ -1,0 +1,5 @@
+path,bytes,sha256
+/home/rich/devdata/allaboard-parser/out/full-2026-09-14/verify_report.json,1251,ac5d0e65ae2c5bef1e09a4dff6e26790d532d020df094571bcedb12953284995
+/home/rich/devdata/allaboard-parser/out/full-2026-09-14/sailings.csv,16292740,e7db6fe83e13ba6e34e5d3ebb96b2fe64e1a80903ce83eb20b8be9fdc1b40e46
+/home/rich/devdata/allaboard-parser/out/full-2026-09-14/price_history.csv,1223612747,47a4ba5dc7b4b7afbbef513a5adaf51e581adb443a80c357e6c8d567de24d3a4
+/home/rich/devdata/nclh-2027-momentum/analyze.py,76937,e10699e09b6912e09d42396f34e20e917839a8d27427aa884202da3c4052081d

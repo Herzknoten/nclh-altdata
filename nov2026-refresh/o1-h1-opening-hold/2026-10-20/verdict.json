@@ -1,0 +1,118 @@
+{
+  "analysis": "C5",
+  "cutoff": "2026-10-20",
+  "start_endpoint": "2026-10-05",
+  "dry_run": true,
+  "use": "code check only",
+  "history_label": "provider history retrieved Oct 2026",
+  "O1": {
+    "cohort": "2028",
+    "region": "all",
+    "target_status": "no targets",
+    "target_status_detail": "no fresh target observations at cutoff",
+    "metadata_sailings": 211,
+    "current_export_sailings": 0,
+    "norwegian_sailings": 0,
+    "norwegian_ships": 0,
+    "verdict": "insufficient",
+    "reason": "Norwegian support below 20 sailings on 4 ships"
+  },
+  "O1_components": [
+    {
+      "cohort": "2028",
+      "region": "all",
+      "target_status": "no targets",
+      "target_status_detail": "no fresh target observations at cutoff",
+      "metadata_sailings": 211,
+      "current_export_sailings": 0,
+      "norwegian_sailings": 0,
+      "norwegian_ships": 0,
+      "verdict": "insufficient",
+      "reason": "Norwegian support below 20 sailings on 4 ships"
+    },
+    {
+      "cohort": "2028",
+      "region": "Caribbean",
+      "target_status": "no targets",
+      "target_status_detail": "no fresh target observations at cutoff",
+      "metadata_sailings": 175,
+      "current_export_sailings": 0,
+      "norwegian_sailings": 0,
+      "norwegian_ships": 0,
+      "verdict": "insufficient",
+      "reason": "Norwegian support below 20 sailings on 4 ships"
+    },
+    {
+      "cohort": "2027Q4",
+      "region": "all",
+      "target_status": "observed",
+      "target_status_detail": "",
+      "metadata_sailings": 220,
+      "current_export_sailings": 220,
+      "norwegian_sailings": 16,
+      "norwegian_ships": 3,
+      "verdict": "insufficient",
+      "reason": "Norwegian support below 20 sailings on 4 ships"
+    },
+    {
+      "cohort": "2027Q4",
+      "region": "Caribbean",
+      "target_status": "observed",
+      "target_status_detail": "",
+      "metadata_sailings": 146,
+      "current_export_sailings": 146,
+      "norwegian_sailings": 7,
+      "norwegian_ships": 2,
+      "verdict": "insufficient",
+      "reason": "Norwegian support below 20 sailings on 4 ships"
+    },
+    {
+      "cohort": "2027Q3",
+      "region": "all",
+      "target_status": "observed",
+      "target_status_detail": "",
+      "metadata_sailings": 247,
+      "current_export_sailings": 247,
+      "norwegian_sailings": 11,
+      "norwegian_ships": 3,
+      "verdict": "insufficient",
+      "reason": "Norwegian support below 20 sailings on 4 ships"
+    },
+    {
+      "cohort": "2027Q3",
+      "region": "Caribbean",
+      "target_status": "no matched pairs",
+      "target_status_detail": "no accepted near-lead cabin pairs",
+      "metadata_sailings": 72,
+      "current_export_sailings": 72,
+      "norwegian_sailings": 0,
+      "norwegian_ships": 0,
+      "verdict": "insufficient",
+      "reason": "Norwegian support below 20 sailings on 4 ships"
+    }
+  ],
+  "H1": {
+    "verdict": "fails",
+    "reason": "One or more frozen H1 thresholds failed",
+    "cohort": "new_Oct2027_Dec2028",
+    "norwegian_new_median_pct": -1.2116974468082158,
+    "norwegian_old_median_pct": -4.12691060676239,
+    "norwegian_share_down_ge_5pct": 17.889908256880734,
+    "new_minus_old_pp": 2.9152131599541744,
+    "new_median_ge_minus2": true,
+    "share_down_le_25pct": true,
+    "contrast_ge_3pp": false,
+    "observed_new_departure_months": "2027-10|2027-11|2027-12",
+    "calendar_2028_norwegian_sailings": 0
+  },
+  "overall": "does not support",
+  "definitions_sha256": "66fd587dec1eade97571eb401e669d2fc40c69b7ff4a376af1b1bbaaace1a66d",
+  "bootstrap": {
+    "draws": 10000,
+    "seed": 20261104,
+    "cluster": "ships within line",
+    "interval": "5th/95th percentile",
+    "differences": "within-draw percentage points"
+  },
+  "scope_note": "O1 all-region calendar 2028 decides; H1 pools October 2027-December 2028; brands never pooled"
+}

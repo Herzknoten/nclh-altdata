@@ -1,0 +1,53 @@
+{
+  "validation": {
+    "labels": [
+      "Norwegian (our scrape)",
+      "Norwegian (FT / Barclays)",
+      "Royal Caribbean (FT / Barclays)",
+      "Carnival (FT / Barclays)"
+    ],
+    "values": [
+      -22,
+      -21,
+      -8,
+      -7
+    ]
+  },
+  "peer_refresh": {
+    "brands": [
+      "Norwegian",
+      "Royal Caribbean",
+      "Carnival"
+    ],
+    "q1_27": [
+      -10.31,
+      2.43,
+      -2.56
+    ],
+    "q2_27": [
+      -7.6,
+      -2.08,
+      -2.91
+    ]
+  },
+  "cut_waves": {
+    "scopes": [
+      "All 2026-27 departures",
+      "Q1 2027",
+      "Q2 2027",
+      "2027 Caribbean"
+    ],
+    "oct9": [
+      19.0,
+      30.5,
+      23.0,
+      41.1
+    ],
+    "oct16": [
+      14.1,
+      17.8,
+      21.5,
+      20.8
+    ]
+  }
+}

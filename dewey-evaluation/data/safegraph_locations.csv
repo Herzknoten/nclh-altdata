@@ -1,0 +1,26 @@
+dataset,location_name,city,ping_rows,distinct_devices,distinct_placekeys
+norwegian_fleet,Norwegian Cruise Line,kahului,64,42,1
+norwegian_fleet,Norwegian Cruise Line - Outbound Sales,sunrise,16,12,1
+norwegian_fleet,Norwegian Cruise Lines - Escape,miami,1122,797,1
+norwegian_fleet,Norwegian Cruiseline,valrico,502,243,1
+port_terminal,Cape Liberty Cruise Terminal New Jersey,bayonne,18,8,1
+port_terminal,Florida Cruise Ports,merritt island,1,1,1
+port_terminal,Half Moone Cruise Terminal,norfolk,158,79,1
+port_terminal,Julia Street Cruise Terminal,new orleans,53,35,1
+port_terminal,Kauai Cruise Ship Terminal,lihue,599,310,1
+port_terminal,Norwegian Cruise Line,kahului,66,44,1
+port_terminal,Norwegian Cruise Lines - Escape,miami,870,614,1
+port_terminal,Pan American Pier,not_found,646,380,1
+port_terminal,Pier 27- Cruise Terminal,san francisco,297,198,1
+port_terminal,Pier 3,norfolk,5,4,1
+port_terminal,Port Everglades Cruise Terminal 25,fort lauderdale,406,283,1
+port_terminal,Port Everglades Cruise Terminal 4,fort lauderdale,1595,722,1
+port_terminal,Port of Galveston,galveston,65951,27564,1
+port_terminal,Port of Miami,miami,197932,79766,1
+port_terminal,Port of New Orleans,new orleans,2791,1677,1
+port_terminal,Port of Tampa,tampa,53,23,1
+port_terminal,Port of Tampa Bay-Berths 263-265,tampa,196,136,1
+port_terminal,Port of miami,miami,184,157,2
+port_terminal,Royal Caribbean Port Canaveral,cape canaveral,459,308,1
+port_terminal,Tampa Port Authority,tampa,23066,8499,1
+port_terminal,The Port Of Miami- South Beach,miami,1230,705,1

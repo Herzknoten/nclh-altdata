@@ -1,0 +1,49 @@
+{
+  "status": "PASS",
+  "input": "/home/rich/devdata/allaboard-parser/out/full-2026-09-14",
+  "output": "/home/rich/devdata/nclh-rm-cohort/out",
+  "cpu_allowance": 1,
+  "cutoffs": [
+    "2026-05-01",
+    "2026-06-01",
+    "2026-07-01"
+  ],
+  "primary_cutoff": "2026-06-01",
+  "censor_end": "2025-11-01",
+  "min_sailings": 5,
+  "retention": 0.25,
+  "replicates": 2000,
+  "seed": 20260914,
+  "diagnostics": {
+    "verified_sailings": 29201,
+    "history_rows": 10760269,
+    "history_after_asof": 36791,
+    "history_after_departure": 2987,
+    "nonpositive_history_prices": 0,
+    "first_history_date": "2025-10-06",
+    "last_history_date": "2026-09-13",
+    "sailings_without_history": 0,
+    "left_censored_sailings": 1608
+  },
+  "supported_bootstrap_cells": 410,
+  "source_sha256": {
+    "/home/rich/devdata/nclh-rm-cohort/analyze_cohorts.py": "980957a75f758e8661cd3639190f7df4b38c2d921d0893788505bbf2f0552baa",
+    "/home/rich/devdata/nclh-2027-momentum/analyze.py": "e10699e09b6912e09d42396f34e20e917839a8d27427aa884202da3c4052081d",
+    "/home/rich/devdata/allaboard-parser/out/full-2026-09-14/verify_report.json": "ac5d0e65ae2c5bef1e09a4dff6e26790d532d020df094571bcedb12953284995",
+    "/home/rich/devdata/nclh-rm-cohort/README.md": "f9f0bbab3ea166a9e320577a367b411c896e0ee584bdd97673fc71d7be5b19fe"
+  },
+  "input_files": {
+    "sailings.csv": {
+      "bytes": 16292740,
+      "mtime_ns": 1789369425613793135
+    },
+    "price_history.csv": {
+      "bytes": 1223612747,
+      "mtime_ns": 1789369425613793135
+    },
+    "verify_report.json": {
+      "bytes": 1251,
+      "mtime_ns": 1789372991611613028
+    }
+  }
+}

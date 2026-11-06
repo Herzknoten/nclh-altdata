@@ -1,0 +1,44 @@
+{
+  "format_version": 1,
+  "verdict": "PASS",
+  "errors": [],
+  "canonical_encoding": "UTF-8 compact JSON array plus LF; empty equals null; original timestamp/price text",
+  "csv": {
+    "path": "/home/rich/devdata/allaboard-parser/out/peers-2026-09-12/price_history.csv",
+    "size_bytes": 283283541,
+    "mtime_ns": 1789279275390187284,
+    "ctime_ns": 1789279275390187284,
+    "sha256": "331b319dde17333848b8f5b8d6530c3929c593be2615807c7e39820dcd4dd5ca"
+  },
+  "parquet": {
+    "path": "/home/rich/devdata/allaboard-parquet/out/peers-2026-09-12/price_history.parquet",
+    "size_bytes": 12522457,
+    "mtime_ns": 1789657080444053318,
+    "ctime_ns": 1789657080459053952,
+    "sha256": "2967522abdcac5bf391d01872d9fe7bb365f973bd8462445a021c412c2f3888e"
+  },
+  "csv_rows": 2502953,
+  "csv_per_line_rows": {
+    "carnival": 323809,
+    "celebrity": 141008,
+    "norwegian": 1265216,
+    "oceania": 111922,
+    "princess": 159879,
+    "regent-seven-seas": 18148,
+    "royal-caribbean": 482971
+  },
+  "csv_canonical_sha256": "46e12dc3d702f437348956c899a73cf57ca709bca0d1dd00d7169e3327ae2227",
+  "parquet_rows": 2502953,
+  "parquet_per_line_rows": {
+    "carnival": 323809,
+    "celebrity": 141008,
+    "norwegian": 1265216,
+    "oceania": 111922,
+    "princess": 159879,
+    "regent-seven-seas": 18148,
+    "royal-caribbean": 482971
+  },
+  "parquet_canonical_sha256": "46e12dc3d702f437348956c899a73cf57ca709bca0d1dd00d7169e3327ae2227",
+  "seconds": 77.37922174599953,
+  "peak_rss_bytes": 218075136
+}

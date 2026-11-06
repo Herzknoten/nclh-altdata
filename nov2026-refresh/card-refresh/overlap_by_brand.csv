@@ -1,0 +1,75 @@
+table,change,brand_id,brand_name,rows,operator_allowlist
+spend,missing_from_new,13790,VIKING PROPANE CO.,166,False
+spend,missing_from_new,16508,PRINCESS HOUSE,2991,False
+spend,missing_from_new,16872,PRINCESS POLLY,3009,False
+spend,missing_from_new,22747,MSC INDUSTRIAL SUPPLY,2990,False
+spend,missing_from_new,28200,HAPPY VIKING,1259,False
+spend,added_to_new,10077,AIDA CRUISES,7,True
+spend,added_to_new,10216,AVALON RIVER CRUISE,86,True
+spend,added_to_new,10222,AZAMARA CRUISES,100,True
+spend,added_to_new,10518,CARNIVAL CRUISE LINES,134,True
+spend,added_to_new,10519,CARNIVAL SUPERMARKET,136,False
+spend,added_to_new,10551,CELEBRITY CRUISES,133,True
+spend,added_to_new,10724,COSTA CRUISE,53,True
+spend,added_to_new,10762,CRUISE AMERICA,134,False
+spend,added_to_new,10765,CRYSTAL CRUISES,70,True
+spend,added_to_new,11413,HOLLAND AMERICA,134,True
+spend,added_to_new,12013,NORWEGIAN CRUISE,122,True
+spend,added_to_new,12030,OCEANIA CRUISES,129,True
+spend,added_to_new,12085,P & O CRUISES,5,True
+spend,added_to_new,12245,PRINCESS CRUISE,104,True
+spend,added_to_new,12338,REGENT SEVEN SEAS CRUISES,105,True
+spend,added_to_new,12410,ROYAL CARIBBEAN CRUISE,135,True
+spend,added_to_new,12479,SEABORNE CRUISES,89,True
+spend,added_to_new,12515,SHOE CARNIVAL,125,False
+spend,added_to_new,12546,SILVERSEA CRUISES,84,True
+spend,added_to_new,14655,DISNEY CRUISE LINE,126,True
+spend,added_to_new,16070,ENTERTAINMENT CRUISES,43,False
+spend,added_to_new,16531,AMERICAN CRUISE LINES,116,True
+spend,added_to_new,16587,MSC CRUISES,110,True
+spend,added_to_new,16629,NORWEGIAN AIR,134,False
+spend,added_to_new,17457,CRUISEONE,112,False
+spend,added_to_new,18607,CRUISE CRITIC,1,False
+spend,added_to_new,22111,EZ LITE CRUISER,20,False
+spend,added_to_new,28920,CRUISE DRIVERLESS RIDES,19,False
+spend,added_to_new,28975,CRUISEBOUND,38,False
+spend,added_to_new,29218,FRED OLSEN CRUISES,6,True
+spend,added_to_new,93591,CELESTYAL CRUISES,76,True
+cohort,added_to_new,10077,AIDA CRUISES,1152,True
+cohort,added_to_new,10216,AVALON RIVER CRUISE,5824,True
+cohort,added_to_new,10222,AZAMARA CRUISES,5811,True
+cohort,added_to_new,10518,CARNIVAL CRUISE LINES,182,True
+cohort,added_to_new,10519,CARNIVAL SUPERMARKET,6088,False
+cohort,added_to_new,10551,CELEBRITY CRUISES,157,True
+cohort,added_to_new,10724,COSTA CRUISE,4426,True
+cohort,added_to_new,10762,CRUISE AMERICA,6070,False
+cohort,added_to_new,10765,CRYSTAL CRUISES,4629,True
+cohort,added_to_new,11413,HOLLAND AMERICA,181,True
+cohort,added_to_new,12013,NORWEGIAN CRUISE,187,True
+cohort,added_to_new,12030,OCEANIA CRUISES,186,True
+cohort,added_to_new,12085,P & O CRUISES,1889,True
+cohort,added_to_new,12245,PRINCESS CRUISE,173,True
+cohort,added_to_new,12338,REGENT SEVEN SEAS CRUISES,166,True
+cohort,added_to_new,12410,ROYAL CARIBBEAN CRUISE,156,True
+cohort,added_to_new,12479,SEABORNE CRUISES,5733,True
+cohort,added_to_new,12515,SHOE CARNIVAL,6090,False
+cohort,added_to_new,12546,SILVERSEA CRUISES,5776,True
+cohort,added_to_new,12631,STAR CRUISE,182,True
+cohort,added_to_new,13050,VIKING CRUISES,188,True
+cohort,added_to_new,13134,WINDSTAR CRUISES,5797,True
+cohort,added_to_new,14655,DISNEY CRUISE LINE,6090,True
+cohort,added_to_new,16070,ENTERTAINMENT CRUISES,3024,False
+cohort,added_to_new,16531,AMERICAN CRUISE LINES,5971,True
+cohort,added_to_new,16545,UNIWORLD RIVER CRUISES,5530,True
+cohort,added_to_new,16587,MSC CRUISES,174,True
+cohort,added_to_new,16629,NORWEGIAN AIR,5978,False
+cohort,added_to_new,17457,CRUISEONE,6079,False
+cohort,added_to_new,18427,TUI CRUISES,1433,True
+cohort,added_to_new,18607,CRUISE CRITIC,144,False
+cohort,added_to_new,22079,CRUISEDIRECT,48,False
+cohort,added_to_new,22111,EZ LITE CRUISER,3341,False
+cohort,added_to_new,28920,CRUISE DRIVERLESS RIDES,1566,False
+cohort,added_to_new,28975,CRUISEBOUND,4607,False
+cohort,added_to_new,29217,HAPAG-LLOYD CRUISES,410,True
+cohort,added_to_new,29218,FRED OLSEN CRUISES,1108,True
+cohort,added_to_new,93591,CELESTYAL CRUISES,5614,True

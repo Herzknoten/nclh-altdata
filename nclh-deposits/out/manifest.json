@@ -1,0 +1,21 @@
+{
+  "generation_id": "7680ca544a9e4520871ed4975e9d2980",
+  "files": [
+    {
+      "path": "out/nclh_deposit_metrics.csv",
+      "sha256": "cfbdcc7773a5aa73986965043cc0013409ce14c6ffc4fea5776fe8f52c337468"
+    },
+    {
+      "path": "out/peer_deposit_metrics.csv",
+      "sha256": "a62afc0d00038c51a7b8b30e063011cf049bc2736a9128ab5e1aac800dc2b8c8"
+    },
+    {
+      "path": "out/nclh_implied_new_deposits.csv",
+      "sha256": "bf10310910bb6b3a85ddaea17602f30abd70c9e6f4d7a255d4a65a094f4d2c7a"
+    },
+    {
+      "path": "RESULTS.md",
+      "sha256": "8d4ba568b74c19e60dddcf3d5a1bf0065d4c9f5b8498f814d17788c9e9c864b4"
+    }
+  ]
+}

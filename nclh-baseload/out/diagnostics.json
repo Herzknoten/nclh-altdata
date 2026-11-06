@@ -1,0 +1,40 @@
+{
+  "history_rows": 10760269,
+  "selected_history_rows": 6567115,
+  "stored_history_rows": 6557266,
+  "postdeparture_rows": 91,
+  "after_cutoff_rows": 9758,
+  "first_observation": "2025-10-06",
+  "last_observation": "2026-09-12",
+  "sailing_rows": 29201,
+  "selected_sailings": 14507,
+  "selected_units": 52977,
+  "daily_prices": 6557266,
+  "verifier_status": "PASS",
+  "cutoff": "2026-09-12",
+  "cpu_workers": 1,
+  "input_directory": "/home/rich/devdata/allaboard-parser/out/full-2026-09-14",
+  "definitions": "/home/rich/devdata/nclh-2027-momentum/analyze.py",
+  "definitions_sha256": "e10699e09b6912e09d42396f34e20e917839a8d27427aa884202da3c4052081d",
+  "status_counts": {
+    "close_in_units:eligible": 21631,
+    "close_in_units:fewer_than_minimum_observed_days": 22843,
+    "curve_units:eligible": 95024,
+    "curve_units:fewer_than_minimum_observed_days": 84746,
+    "event_units:eligible": 19605,
+    "event_units:missing_pair_or_nonpositive_previous": 2224,
+    "far_out_units:eligible": 36906,
+    "far_out_units:fewer_than_minimum_observed_days": 48949
+  },
+  "output_row_counts": {
+    "curves": 6048,
+    "far_out": 324,
+    "far_out_gaps": 270,
+    "close_in": 288,
+    "close_in_gaps": 240,
+    "close_in_trends": 20,
+    "events": 600,
+    "coverage": 270,
+    "unit_coverage": 52977
+  }
+}

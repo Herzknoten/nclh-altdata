@@ -1,0 +1,4 @@
+line,lead_band,n_months,months,n_units,n_sailings,recut_share_equal_month_pct,source
+norwegian,"[240,330)",3,2027-04|2027-05|2027-06,136,78,52.88530465949821,/home/rich/devdata/nclh-ivy-refresh/slide13/data/B13_the_prize.csv
+royal-caribbean,"[240,330)",3,2027-04|2027-05|2027-06,269,159,34.22971987920442,/home/rich/devdata/nclh-ivy-refresh/slide13/data/B13_the_prize.csv
+carnival,"[240,330)",4,2027-04|2027-05|2027-06|2027-07,210,136,18.887330528284245,/home/rich/devdata/nclh-ivy-refresh/slide13/data/B13_the_prize.csv

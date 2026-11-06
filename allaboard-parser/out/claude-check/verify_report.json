@@ -1,0 +1,34 @@
+{
+  "crawl": "2026-09-12",
+  "pages_directory": "/home/rich/devdata/allaboard/pages/2026-09-12",
+  "pages_checked": 678,
+  "pages_decoded": 678,
+  "pages_undecodable": 0,
+  "pages_skipped_by_parser_that_verifier_can_decode": 0,
+  "unaccounted_undecodable_pages": 0,
+  "source_pages_after_snapshot": 27,
+  "manifest": "/home/rich/devdata/allaboard-parser/out/claude-check/page_manifest.jsonl",
+  "coverage": "manifest snapshot",
+  "tables": {
+    "sailings": {
+      "rows_matched": 678,
+      "rows_missing_from_export": 0,
+      "rows_not_found_in_page": 0,
+      "value_mismatches": 0
+    },
+    "price_history": {
+      "rows_matched": 262608,
+      "rows_missing_from_export": 0,
+      "rows_not_found_in_page": 0,
+      "value_mismatches": 0
+    }
+  },
+  "rows_matched": 263286,
+  "rows_missing_from_export": 0,
+  "rows_not_found_in_page": 0,
+  "value_mismatches": 0,
+  "issue_count": 0,
+  "examples": {},
+  "example_limit_per_category": 20,
+  "status": "PASS"
+}

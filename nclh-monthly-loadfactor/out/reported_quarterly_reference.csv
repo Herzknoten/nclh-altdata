@@ -1,0 +1,25 @@
+quarter,occupancy_pct,passenger_cruise_days,capacity_days,release_date,source,occupancy_source,identity_occupancy_pct,rounding_difference_pp
+2019Q1,105.5,4975440.0,4716929.0,,/home/rich/devdata/nclh-loadfactor-web/occupancy_facts.md:2019 table,/home/rich/devdata/nclh-loadfactor-web/occupancy_facts.md,105.48049377041716,-0.01950622958284498
+2019Q2,108.4,5014083.0,4626871.0,,/home/rich/devdata/nclh-loadfactor-web/occupancy_facts.md:2019 table,/home/rich/devdata/nclh-loadfactor-web/occupancy_facts.md,108.36876584629223,-0.031234153707771384
+2019Q3,111.0,5387662.0,4854292.0,,/home/rich/devdata/nclh-loadfactor-web/occupancy_facts.md:2019 table,/home/rich/devdata/nclh-loadfactor-web/occupancy_facts.md,110.98759613142349,-0.012403868576512878
+2019Q4,104.5,5260764.0,5035367.0,,/home/rich/devdata/nclh-loadfactor-web/occupancy_facts.md:2019 table,/home/rich/devdata/nclh-loadfactor-web/occupancy_facts.md,104.47627749874042,-0.023722501259584305
+2021Q3,57.4,402656.0,701350.0,2021-11-03,/home/rich/devdata/nclh-kpis/quarterly_kpis.csv:2,/home/rich/devdata/nclh-kpis/evidence/8K_2021-11-03_exh_991.txt:237,57.41156341341698,0.011563413416979529
+2021Q4,51.4,1376243.0,2675353.0,2022-02-24,/home/rich/devdata/nclh-kpis/quarterly_kpis.csv:3,/home/rich/devdata/nclh-kpis/evidence/8K_2022-02-24_exh_991.txt:252,51.44154808729913,0.04154808729913384
+2022Q1,48.0,1429446.0,2978353.0,2022-05-10,/home/rich/devdata/nclh-kpis/quarterly_kpis.csv:4,/home/rich/devdata/nclh-kpis/evidence/8K_2022-05-10_exh_991.txt:255,47.99451240333164,-0.005487596668359629
+2022Q2,64.6,2999303.0,4639435.0,2022-08-09,/home/rich/devdata/nclh-kpis/quarterly_kpis.csv:5,/home/rich/devdata/nclh-kpis/evidence/8K_2022-08-09_exh_991.txt:242,64.6480228734749,0.04802287347490619
+2022Q3,81.5,3982559.0,4887415.0,2022-11-08,/home/rich/devdata/nclh-kpis/quarterly_kpis.csv:6,/home/rich/devdata/nclh-kpis/evidence/8K_2022-11-08_exh_991.txt:262,81.48600026803535,-0.013999731964645434
+2022Q4,86.6,4380465.0,5060866.0,2023-02-28,/home/rich/devdata/nclh-kpis/quarterly_kpis.csv:7,/home/rich/devdata/nclh-kpis/evidence/8K_2023-02-28_exh_991.txt:299,86.55564087253052,-0.04435912746947679
+2023Q1,101.5,5497106.0,5415547.0,2023-05-01,/home/rich/devdata/nclh-kpis/quarterly_kpis.csv:8,/home/rich/devdata/nclh-kpis/evidence/8K_2023-05-01_exh_991.txt:8,101.50601592046011,0.0060159204601148986
+2023Q2,104.9,5781750.0,5513288.0,2023-08-01,/home/rich/devdata/nclh-kpis/quarterly_kpis.csv:9,/home/rich/devdata/nclh-kpis/evidence/8K_2023-08-01_exh_991.txt:283,104.86936289198024,-0.030637108019760717
+2023Q3,106.1,6176403.0,5820448.0,2023-11-01,/home/rich/devdata/nclh-kpis/quarterly_kpis.csv:10,/home/rich/devdata/nclh-kpis/evidence/8K_2023-11-01_exh_991.txt:283,106.11559453842729,0.015594538427293969
+2023Q4,99.2,5856413.0,5903305.0,2024-02-27,/home/rich/devdata/nclh-kpis/quarterly_kpis.csv:11,/home/rich/devdata/nclh-kpis/evidence/8K_2024-02-27_exh_991.txt:273,99.20566530104746,0.00566530104745766
+2024Q1,104.6,6112370.0,5841015.0,2024-05-01,/home/rich/devdata/nclh-kpis/quarterly_kpis.csv:12,/home/rich/devdata/nclh-kpis/evidence/8K_2024-05-01_exh_991.txt:277,104.6456823000797,0.04568230007970442
+2024Q2,105.9,6077574.0,5736385.0,2024-07-31,/home/rich/devdata/nclh-kpis/quarterly_kpis.csv:13,/home/rich/devdata/nclh-kpis/evidence/8K_2024-07-31_exh_991.txt:268,105.94780510722345,0.047805107223439336
+2024Q3,108.1,6521610.0,6033707.0,2024-10-31,/home/rich/devdata/nclh-kpis/quarterly_kpis.csv:14,/home/rich/devdata/nclh-kpis/evidence/8K_2024-10-31_exh_991.txt:273,108.08628924142323,-0.013710758576763737
+2024Q4,100.8,5881777.0,5834290.0,2025-02-27,/home/rich/devdata/nclh-kpis/quarterly_kpis.csv:15,/home/rich/devdata/nclh-kpis/evidence/8K_2025-02-27_exh_991.txt:291,100.81392937272572,0.013929372725726807
+2025Q1,101.5,5787243.0,5700563.0,2025-04-30,/home/rich/devdata/nclh-kpis/quarterly_kpis.csv:16,/home/rich/devdata/nclh-kpis/evidence/8K_2025-04-30_exh_991.txt:276,101.52055156657333,0.02055156657333157
+2025Q2,103.9,6288800.0,6052273.0,2025-07-31,/home/rich/devdata/nclh-kpis/quarterly_kpis.csv:17,/home/rich/devdata/nclh-kpis/evidence/8K_2025-07-31_exh_991.txt:278,103.90806891890038,0.008068918900377753
+2025Q3,106.4,6828243.0,6417724.0,2025-11-04,/home/rich/devdata/nclh-kpis/quarterly_kpis.csv:18,/home/rich/devdata/nclh-kpis/evidence/8K_2025-11-04_exh_991.txt:272,106.39664466717484,-0.0033553328251656467
+2025Q4,101.8,6374066.0,6263064.0,2026-03-02,/home/rich/devdata/nclh-kpis/quarterly_kpis.csv:19,/home/rich/devdata/nclh-kpis/evidence/8K_2026-03-02_exh_991.txt:285,101.77232741035378,-0.02767258964621533
+2026Q1,103.8,6634526.0,6392969.0,2026-05-04,/home/rich/devdata/nclh-kpis/quarterly_kpis.csv:20,/home/rich/devdata/nclh-kpis/evidence/8K_2026-05-04_exh_991.txt:273,103.77847913856614,-0.021520861433856453
+2026Q2,102.4,6745954.0,6589740.0,2026-07-30,/home/rich/devdata/nclh-kpis/quarterly_kpis.csv:21,/home/rich/devdata/nclh-kpis/evidence/8K_2026-07-30_exh_991.txt:276,102.37056393727218,-0.029436062727825174

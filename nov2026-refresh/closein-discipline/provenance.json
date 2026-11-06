@@ -1,0 +1,52 @@
+{
+  "definitions_sha256": "45997dbc646aa24d48c3c3a51cf6cbe698c56431a72d378f0b7e55acf1fe7fdb",
+  "python": "3.12.14 (main, Sep  1 2026, 14:16:52) [Clang 22.1.3 ]",
+  "cpu_affinity": [
+    0,
+    1
+  ],
+  "numerical_threads": 1,
+  "reused_cache": true,
+  "reused_windows": true,
+  "sources": [
+    {
+      "path": "/home/rich/devdata/allaboard-parser/out/full-2026-09-14/sailings.csv",
+      "bytes": 16292740,
+      "mtime_ns": 1789369425613793135,
+      "verify_report": "PASS"
+    },
+    {
+      "path": "/home/rich/devdata/allaboard-parser/out/full-2026-09-28/sailings.csv",
+      "bytes": 12193445,
+      "mtime_ns": 1790884020734705034,
+      "verify_report": "PASS"
+    },
+    {
+      "path": "/home/rich/devdata/allaboard-parser/out/nclh-2026-10-20/sailings.csv",
+      "bytes": 811273,
+      "mtime_ns": 1792518840807921322,
+      "verify_report": "PASS"
+    },
+    {
+      "path": "/home/rich/devdata/allaboard-parser/out/peers-2026-10-20/sailings.csv",
+      "bytes": 2386271,
+      "mtime_ns": 1792536451748879529,
+      "verify_report": "PASS"
+    },
+    {
+      "path": "/home/rich/devdata/allaboard-parser/out/nclh-2026-11-04/sailings.csv",
+      "bytes": 1164951,
+      "mtime_ns": 1793867930309964840,
+      "verify_report": "PASS"
+    },
+    {
+      "path": "/home/rich/devdata/allaboard-parser/out/peers-2026-11-04/sailings.csv",
+      "bytes": 3184973,
+      "mtime_ns": 1793868205205502772,
+      "verify_report": "PASS"
+    }
+  ],
+  "daily_quotes": 6437809,
+  "metadata_sailings": 11325,
+  "sailing_windows": 702747
+}

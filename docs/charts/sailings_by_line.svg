@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="850" viewBox="0 0 1100 850" role="img" aria-labelledby="title desc">
+<title id="title">Sailings tracked by cruise line</title>
+<desc id="desc">n = 29,201 sailings; 10,760,269 cabin-price observations; 17 lines. Aggregate counts from allaboard-parquet/out/full-2026-09-14/partitioned.</desc>
+<rect x="0.00" y="0.00" width="1100.00" height="850.00" fill="#f8fafc"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="30.00" y="40.00" font-size="26" text-anchor="start" fill="#172033" font-weight="700">Sailings tracked by cruise line</text>
+<text x="30.00" y="69.00" font-size="15" text-anchor="start" fill="#172033" >n = 29,201 sailings; 10,760,269 cabin-price observations; 17 lines</text>
+<text x="30.00" y="102.00" font-size="14" text-anchor="start" fill="#172033" >Cruise line</text>
+<text x="1060.00" y="102.00" font-size="14" text-anchor="end" fill="#172033" >Sailings | observations (rows)</text>
+<line x1="215.00" y1="117.00" x2="215.00" y2="703.00" stroke="#cbd5e1" />
+<text x="215.00" y="730.00" font-size="14" text-anchor="middle" fill="#172033" >0</text>
+<line x1="356.25" y1="117.00" x2="356.25" y2="703.00" stroke="#cbd5e1" />
+<text x="356.25" y="730.00" font-size="14" text-anchor="middle" fill="#172033" >2,000</text>
+<line x1="497.50" y1="117.00" x2="497.50" y2="703.00" stroke="#cbd5e1" />
+<text x="497.50" y="730.00" font-size="14" text-anchor="middle" fill="#172033" >4,000</text>
+<line x1="638.75" y1="117.00" x2="638.75" y2="703.00" stroke="#cbd5e1" />
+<text x="638.75" y="730.00" font-size="14" text-anchor="middle" fill="#172033" >6,000</text>
+<line x1="780.00" y1="117.00" x2="780.00" y2="703.00" stroke="#cbd5e1" />
+<text x="780.00" y="730.00" font-size="14" text-anchor="middle" fill="#172033" >8,000</text>
+<text x="200.00" y="143.00" font-size="15" text-anchor="end" fill="#172033" >MSC</text>
+<rect x="215.00" y="125.00" width="510.05" height="23.00" fill="#1d4ed8"/>
+<text x="1060.00" y="143.00" font-size="15" text-anchor="end" fill="#172033" >7,222 | 2,425,839</text>
+<text x="200.00" y="177.00" font-size="15" text-anchor="end" fill="#172033" >Royal Caribbean</text>
+<rect x="215.00" y="159.00" width="328.90" height="23.00" fill="#1d4ed8"/>
+<text x="1060.00" y="177.00" font-size="15" text-anchor="end" fill="#172033" >4,657 | 2,224,165</text>
+<text x="200.00" y="211.00" font-size="15" text-anchor="end" fill="#172033" >Carnival</text>
+<rect x="215.00" y="193.00" width="275.58" height="23.00" fill="#1d4ed8"/>
+<text x="1060.00" y="211.00" font-size="15" text-anchor="end" fill="#172033" >3,902 | 1,712,284</text>
+<text x="200.00" y="245.00" font-size="15" text-anchor="end" fill="#172033" >Norwegian</text>
+<rect x="215.00" y="227.00" width="183.98" height="23.00" fill="#1d4ed8"/>
+<text x="1060.00" y="245.00" font-size="15" text-anchor="end" fill="#172033" >2,605 | 1,265,216</text>
+<text x="200.00" y="279.00" font-size="15" text-anchor="end" fill="#172033" >Princess</text>
+<rect x="215.00" y="261.00" width="174.37" height="23.00" fill="#1d4ed8"/>
+<text x="1060.00" y="279.00" font-size="15" text-anchor="end" fill="#172033" >2,469 | 777,347</text>
+<text x="200.00" y="313.00" font-size="15" text-anchor="end" fill="#172033" >Celebrity</text>
+<rect x="215.00" y="295.00" width="121.69" height="23.00" fill="#1d4ed8"/>
+<text x="1060.00" y="313.00" font-size="15" text-anchor="end" fill="#172033" >1,723 | 660,262</text>
+<text x="200.00" y="347.00" font-size="15" text-anchor="end" fill="#172033" >Viking River</text>
+<rect x="215.00" y="329.00" width="98.45" height="23.00" fill="#1d4ed8"/>
+<text x="1060.00" y="347.00" font-size="15" text-anchor="end" fill="#172033" >1,394 | 255,868</text>
+<text x="200.00" y="381.00" font-size="15" text-anchor="end" fill="#172033" >Holland America</text>
+<rect x="215.00" y="363.00" width="82.70" height="23.00" fill="#1d4ed8"/>
+<text x="1060.00" y="381.00" font-size="15" text-anchor="end" fill="#172033" >1,171 | 390,421</text>
+<text x="200.00" y="415.00" font-size="15" text-anchor="end" fill="#172033" >Silversea</text>
+<rect x="215.00" y="397.00" width="49.79" height="23.00" fill="#1d4ed8"/>
+<text x="1060.00" y="415.00" font-size="15" text-anchor="end" fill="#172033" >705 | 67,936</text>
+<text x="200.00" y="449.00" font-size="15" text-anchor="end" fill="#172033" >Windstar</text>
+<rect x="215.00" y="431.00" width="47.81" height="23.00" fill="#1d4ed8"/>
+<text x="1060.00" y="449.00" font-size="15" text-anchor="end" fill="#172033" >677 | 81,853</text>
+<text x="200.00" y="483.00" font-size="15" text-anchor="end" fill="#172033" >Disney</text>
+<rect x="215.00" y="465.00" width="46.82" height="23.00" fill="#1d4ed8"/>
+<text x="1060.00" y="483.00" font-size="15" text-anchor="end" fill="#172033" >663 | 346,907</text>
+<text x="200.00" y="517.00" font-size="15" text-anchor="end" fill="#172033" >Virgin Voyages</text>
+<rect x="215.00" y="499.00" width="36.94" height="23.00" fill="#1d4ed8"/>
+<text x="1060.00" y="517.00" font-size="15" text-anchor="end" fill="#172033" >523 | 210,155</text>
+<text x="200.00" y="551.00" font-size="15" text-anchor="end" fill="#172033" >Viking Ocean</text>
+<rect x="215.00" y="533.00" width="35.45" height="23.00" fill="#1d4ed8"/>
+<text x="1060.00" y="551.00" font-size="15" text-anchor="end" fill="#172033" >502 | 109,380</text>
+<text x="200.00" y="585.00" font-size="15" text-anchor="end" fill="#172033" >Seabourn</text>
+<rect x="215.00" y="567.00" width="22.32" height="23.00" fill="#1d4ed8"/>
+<text x="1060.00" y="585.00" font-size="15" text-anchor="end" fill="#172033" >316 | 68,421</text>
+<text x="200.00" y="619.00" font-size="15" text-anchor="end" fill="#172033" >Oceania</text>
+<rect x="215.00" y="601.00" width="21.61" height="23.00" fill="#1d4ed8"/>
+<text x="1060.00" y="619.00" font-size="15" text-anchor="end" fill="#172033" >306 | 111,922</text>
+<text x="200.00" y="653.00" font-size="15" text-anchor="end" fill="#172033" >Celebrity River</text>
+<rect x="215.00" y="635.00" width="13.14" height="23.00" fill="#1d4ed8"/>
+<text x="1060.00" y="653.00" font-size="15" text-anchor="end" fill="#172033" >186 | 34,145</text>
+<text x="200.00" y="687.00" font-size="15" text-anchor="end" fill="#172033" >Regent Seven Seas</text>
+<rect x="215.00" y="669.00" width="12.71" height="23.00" fill="#1d4ed8"/>
+<text x="1060.00" y="687.00" font-size="15" text-anchor="end" fill="#172033" >180 | 18,148</text>
+<text x="497.50" y="761.00" font-size="16" text-anchor="middle" fill="#172033" >Distinct sailings (count)</text>
+<line x1="30.00" y1="798.00" x2="1070.00" y2="798.00" stroke="#cbd5e1" />
+<text x="30.00" y="825.00" font-size="13" text-anchor="start" fill="#172033" >Source: allaboard-parquet/out/full-2026-09-14/partitioned/*.parquet (recursive)</text>
+</g></svg>

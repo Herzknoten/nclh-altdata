@@ -1,0 +1,51 @@
+[
+  {
+    "chart": "P6",
+    "line": "norwegian",
+    "quarter": "2027Q1",
+    "units": 913,
+    "value": -10.305015090977944
+  },
+  {
+    "chart": "P6",
+    "line": "norwegian",
+    "quarter": "2027Q2",
+    "units": 878,
+    "value": -7.603420523502741
+  },
+  {
+    "chart": "P6",
+    "line": "royal-caribbean",
+    "quarter": "2027Q1",
+    "units": 1927,
+    "value": 2.4276191827308278
+  },
+  {
+    "chart": "P6",
+    "line": "royal-caribbean",
+    "quarter": "2027Q2",
+    "units": 1824,
+    "value": -2.0837163373719907
+  },
+  {
+    "chart": "P6",
+    "line": "carnival",
+    "quarter": "2027Q1",
+    "units": 1559,
+    "value": -2.5566568265552387
+  },
+  {
+    "chart": "P6",
+    "line": "carnival",
+    "quarter": "2027Q2",
+    "units": 1702,
+    "value": -2.908597445043915
+  },
+  {
+    "chart": "P5",
+    "line": "norwegian",
+    "quarter": "2027Q1",
+    "units": 61,
+    "value": -22.34301424561679
+  }
+]

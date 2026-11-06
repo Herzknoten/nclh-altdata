@@ -1,0 +1,379 @@
+month,brand,region,capacity_days,known_berth_capacity_days,sailing_count,ship_count,listed_nights,missing_berth_sailings,placeholder_capacity_days,hotel_package_capacity_days
+2026-07,norwegian,Caribbean/Bahamas/Gulf,560356,560356,30,4,155,0,110515,99045
+2026-08,norwegian,Caribbean/Bahamas/Gulf,563803,563803,31,4,158,0,110515,127800
+2026-09,norwegian,Caribbean/Bahamas/Gulf,393375,393375,22,3,113,0,106950,73485
+2026-10,norwegian,Caribbean/Bahamas/Gulf,379755,379755,23,5,107,0,110515,0
+2026-11,norwegian,Caribbean/Bahamas/Gulf,1348006,1348006,67,14,377,0,96255,328718
+2026-12,norwegian,Caribbean/Bahamas/Gulf,2052893,2052893,93,14,586,0,96255,651531
+2027-01,norwegian,Caribbean/Bahamas/Gulf,1571835,1571835,88,14,465,0,110515,185059
+2027-02,norwegian,Caribbean/Bahamas/Gulf,1361804,1361804,73,13,400,0,99820,115020
+2027-03,norwegian,Caribbean/Bahamas/Gulf,1482175,1482175,79,14,440,0,110515,124605
+2027-04,norwegian,Caribbean/Bahamas/Gulf,995367,995367,47,13,276,0,7130,35145
+2027-05,norwegian,Caribbean/Bahamas/Gulf,501021,501021,31,6,140,0,0,0
+2027-06,norwegian,Caribbean/Bahamas/Gulf,426125,426125,25,5,110,0,65960,0
+2027-07,norwegian,Caribbean/Bahamas/Gulf,482546,482546,29,4,124,0,120280,0
+2027-08,norwegian,Caribbean/Bahamas/Gulf,482546,482546,27,4,124,0,120280,0
+2027-09,norwegian,Caribbean/Bahamas/Gulf,466980,466980,26,4,120,0,116400,0
+2027-10,norwegian,Caribbean/Bahamas/Gulf,587907,587907,34,7,156,0,173755,0
+2027-11,norwegian,Caribbean/Bahamas/Gulf,1250121,1250121,60,16,347,0,223350,147630
+2027-12,norwegian,Caribbean/Bahamas/Gulf,1666998,1666998,81,16,487,0,230795,126540
+2026-07,norwegian,Alaska,924678,924678,38,4,272,0,0,486152
+2026-08,norwegian,Alaska,1185906,1185906,50,4,370,0,0,747380
+2026-09,norwegian,Alaska,896660,896660,38,4,281,0,0,476056
+2026-10,norwegian,Alaska,90082,90082,5,3,25,0,0,0
+2026-11,norwegian,Alaska,0,0,0,0,0,0,0,0
+2026-12,norwegian,Alaska,0,0,0,0,0,0,0,0
+2027-01,norwegian,Alaska,0,0,0,0,0,0,0,0
+2027-02,norwegian,Alaska,0,0,0,0,0,0,0,0
+2027-03,norwegian,Alaska,0,0,0,0,0,0,0,0
+2027-04,norwegian,Alaska,23748,23748,1,1,6,0,0,0
+2027-05,norwegian,Alaska,827080,827080,35,3,264,0,0,527228
+2027-06,norwegian,Alaska,1212452,1212452,52,4,396,0,0,878696
+2027-07,norwegian,Alaska,1273902,1273902,55,4,404,0,0,835376
+2027-08,norwegian,Alaska,1139800,1139800,51,4,357,0,0,746586
+2027-09,norwegian,Alaska,651120,651120,26,3,198,0,0,376050
+2027-10,norwegian,Alaska,152302,152302,7,3,43,0,0,0
+2027-11,norwegian,Alaska,0,0,0,0,0,0,0,0
+2027-12,norwegian,Alaska,0,0,0,0,0,0,0,0
+2026-07,norwegian,US Northeast/Bermuda/Canada,394933,394933,20,3,116,0,0,89769
+2026-08,norwegian,US Northeast/Bermuda/Canada,434908,434908,21,4,126,0,0,117090
+2026-09,norwegian,US Northeast/Bermuda/Canada,521427,521427,24,4,151,0,0,120657
+2026-10,norwegian,US Northeast/Bermuda/Canada,201789,201789,10,3,59,0,0,0
+2026-11,norwegian,US Northeast/Bermuda/Canada,60837,60837,3,2,21,0,0,0
+2026-12,norwegian,US Northeast/Bermuda/Canada,11970,11970,1,1,5,0,0,0
+2027-01,norwegian,US Northeast/Bermuda/Canada,0,0,0,0,0,0,0,0
+2027-02,norwegian,US Northeast/Bermuda/Canada,0,0,0,0,0,0,0,0
+2027-03,norwegian,US Northeast/Bermuda/Canada,44110,44110,2,1,11,0,0,0
+2027-04,norwegian,US Northeast/Bermuda/Canada,227006,227006,12,4,69,0,89125,0
+2027-05,norwegian,US Northeast/Bermuda/Canada,305722,305722,16,3,93,0,110515,0
+2027-06,norwegian,US Northeast/Bermuda/Canada,295860,295860,15,3,90,0,106950,0
+2027-07,norwegian,US Northeast/Bermuda/Canada,305722,305722,16,3,93,0,110515,0
+2027-08,norwegian,US Northeast/Bermuda/Canada,305722,305722,15,3,93,0,110515,0
+2027-09,norwegian,US Northeast/Bermuda/Canada,500382,500382,24,3,154,0,106950,204522
+2027-10,norwegian,US Northeast/Bermuda/Canada,442325,442325,21,3,134,0,39215,207903
+2027-11,norwegian,US Northeast/Bermuda/Canada,109080,109080,6,2,38,0,0,23418
+2027-12,norwegian,US Northeast/Bermuda/Canada,11970,11970,1,1,5,0,0,0
+2026-07,norwegian,Europe,641178,641178,34,5,216,0,0,103195
+2026-08,norwegian,Europe,811857,811857,44,5,287,0,0,365674
+2026-09,norwegian,Europe,671489,671489,35,5,238,0,0,222941
+2026-10,norwegian,Europe,459860,459860,24,6,158,0,0,0
+2026-11,norwegian,Europe,207388,207388,5,5,68,0,0,0
+2026-12,norwegian,Europe,0,0,0,0,0,0,0,0
+2027-01,norwegian,Europe,0,0,0,0,0,0,0,0
+2027-02,norwegian,Europe,0,0,0,0,0,0,0,0
+2027-03,norwegian,Europe,0,0,0,0,0,0,0,0
+2027-04,norwegian,Europe,17608,17608,3,3,6,0,0,12928
+2027-05,norwegian,Europe,729810,729810,32,6,233,0,42680,316954
+2027-06,norwegian,Europe,900617,900617,41,7,301,0,34920,405692
+2027-07,norwegian,Europe,850072,850072,41,5,287,0,0,404447
+2027-08,norwegian,Europe,850662,850662,38,6,288,0,0,392257
+2027-09,norwegian,Europe,822814,822814,39,6,275,0,0,355024
+2027-10,norwegian,Europe,673609,673609,30,6,209,0,0,274829
+2027-11,norwegian,Europe,198962,198962,7,5,62,0,0,51160
+2027-12,norwegian,Europe,0,0,0,0,0,0,0,0
+2026-07,norwegian,Hawaii,253074,253074,16,2,117,0,0,100556
+2026-08,norwegian,Hawaii,194052,194052,11,2,90,0,0,93998
+2026-09,norwegian,Hawaii,142260,142260,9,2,66,0,0,52464
+2026-10,norwegian,Hawaii,67766,67766,6,1,31,0,0,0
+2026-11,norwegian,Hawaii,164120,164120,10,2,76,0,0,74324
+2026-12,norwegian,Hawaii,244832,244832,14,1,112,0,0,177066
+2027-01,norwegian,Hawaii,231716,231716,15,1,106,0,0,163950
+2027-02,norwegian,Hawaii,222972,222972,14,1,102,0,0,161764
+2027-03,norwegian,Hawaii,271064,271064,17,1,124,0,0,203298
+2027-04,norwegian,Hawaii,244832,244832,16,1,112,0,0,179252
+2027-05,norwegian,Hawaii,272578,272578,16,2,125,0,0,196740
+2027-06,norwegian,Hawaii,284686,284686,19,2,131,0,0,198926
+2027-07,norwegian,Hawaii,293430,293430,19,2,135,0,0,205484
+2027-08,norwegian,Hawaii,290908,290908,17,2,134,0,0,198926
+2027-09,norwegian,Hawaii,290908,290908,18,2,134,0,0,201112
+2027-10,norwegian,Hawaii,268878,268878,18,1,123,0,0,201112
+2027-11,norwegian,Hawaii,282332,282332,17,2,130,0,0,194554
+2027-12,norwegian,Hawaii,240460,240460,14,1,110,0,0,172694
+2026-07,norwegian,other,103926,103926,9,2,46,0,0,0
+2026-08,norwegian,other,103926,103926,6,2,46,0,0,0
+2026-09,norwegian,other,74892,74892,5,3,29,0,0,0
+2026-10,norwegian,other,455444,455444,13,6,136,0,0,0
+2026-11,norwegian,other,257484,257484,13,3,90,0,0,38432
+2026-12,norwegian,other,313812,313812,13,3,116,0,0,76292
+2027-01,norwegian,other,287398,287398,18,3,109,0,0,61308
+2027-02,norwegian,other,203358,203358,11,3,71,0,0,0
+2027-03,norwegian,other,436232,436232,19,4,148,0,0,164920
+2027-04,norwegian,other,343570,343570,15,5,127,0,0,93714
+2027-05,norwegian,other,102332,102332,6,4,41,0,0,21618
+2027-06,norwegian,other,30270,30270,2,1,15,0,0,0
+2027-07,norwegian,other,42378,42378,2,1,21,0,0,0
+2027-08,norwegian,other,28252,28252,3,1,14,0,0,0
+2027-09,norwegian,other,36324,36324,3,1,18,0,0,0
+2027-10,norwegian,other,387810,387810,13,4,121,0,0,134068
+2027-11,norwegian,other,470780,470780,21,5,141,0,0,177686
+2027-12,norwegian,other,433912,433912,16,3,144,0,0,214554
+2026-07,norwegian,unmapped,6054,6054,1,1,3,0,0,0
+2026-08,norwegian,unmapped,30270,30270,1,1,15,0,0,0
+2026-09,norwegian,unmapped,0,0,0,0,0,0,0,0
+2026-10,norwegian,unmapped,14126,14126,1,1,7,0,0,0
+2026-11,norwegian,unmapped,0,0,0,0,0,0,0,0
+2026-12,norwegian,unmapped,16144,16144,1,1,8,0,0,0
+2027-01,norwegian,unmapped,0,0,0,0,0,0,0,0
+2027-02,norwegian,unmapped,0,0,0,0,0,0,0,0
+2027-03,norwegian,unmapped,0,0,0,0,0,0,0,0
+2027-04,norwegian,unmapped,0,0,0,0,0,0,0,0
+2027-05,norwegian,unmapped,0,0,0,0,0,0,0,0
+2027-06,norwegian,unmapped,0,0,0,0,0,0,0,0
+2027-07,norwegian,unmapped,0,0,0,0,0,0,0,0
+2027-08,norwegian,unmapped,0,0,0,0,0,0,0,0
+2027-09,norwegian,unmapped,0,0,0,0,0,0,0,0
+2027-10,norwegian,unmapped,0,0,0,0,0,0,0,0
+2027-11,norwegian,unmapped,0,0,0,0,0,0,0,0
+2027-12,norwegian,unmapped,0,0,0,0,0,0,0,0
+2026-07,oceania,Caribbean/Bahamas/Gulf,0,0,0,0,0,0,0,0
+2026-08,oceania,Caribbean/Bahamas/Gulf,0,0,0,0,0,0,0,0
+2026-09,oceania,Caribbean/Bahamas/Gulf,0,0,0,0,0,0,0,0
+2026-10,oceania,Caribbean/Bahamas/Gulf,4800,4800,1,1,4,0,0,0
+2026-11,oceania,Caribbean/Bahamas/Gulf,23890,23890,3,2,23,0,0,0
+2026-12,oceania,Caribbean/Bahamas/Gulf,112880,112880,12,4,113,0,0,0
+2027-01,oceania,Caribbean/Bahamas/Gulf,52400,52400,6,4,54,0,0,0
+2027-02,oceania,Caribbean/Bahamas/Gulf,38000,38000,4,2,31,0,0,0
+2027-03,oceania,Caribbean/Bahamas/Gulf,38750,38750,4,1,31,0,0,0
+2027-04,oceania,Caribbean/Bahamas/Gulf,50780,50780,4,2,68,0,0,0
+2027-05,oceania,Caribbean/Bahamas/Gulf,12060,12060,2,1,18,0,0,0
+2027-06,oceania,Caribbean/Bahamas/Gulf,0,0,0,0,0,0,0,0
+2027-07,oceania,Caribbean/Bahamas/Gulf,0,0,0,0,0,0,0,0
+2027-08,oceania,Caribbean/Bahamas/Gulf,0,0,0,0,0,0,0,0
+2027-09,oceania,Caribbean/Bahamas/Gulf,0,0,0,0,0,0,0,0
+2027-10,oceania,Caribbean/Bahamas/Gulf,0,0,0,0,0,0,0,0
+2027-11,oceania,Caribbean/Bahamas/Gulf,16750,16750,3,1,25,0,0,0
+2027-12,oceania,Caribbean/Bahamas/Gulf,35770,35770,5,2,43,0,0,0
+2026-07,oceania,Alaska,38750,38750,5,1,31,0,0,0
+2026-08,oceania,Alaska,38750,38750,4,1,31,0,0,0
+2026-09,oceania,Alaska,22500,22500,3,1,18,0,0,0
+2026-10,oceania,Alaska,0,0,0,0,0,0,0,0
+2026-11,oceania,Alaska,0,0,0,0,0,0,0,0
+2026-12,oceania,Alaska,0,0,0,0,0,0,0,0
+2027-01,oceania,Alaska,0,0,0,0,0,0,0,0
+2027-02,oceania,Alaska,0,0,0,0,0,0,0,0
+2027-03,oceania,Alaska,0,0,0,0,0,0,0,0
+2027-04,oceania,Alaska,0,0,0,0,0,0,0,0
+2027-05,oceania,Alaska,23750,23750,2,1,19,0,0,0
+2027-06,oceania,Alaska,25000,25000,3,1,20,0,0,0
+2027-07,oceania,Alaska,38750,38750,5,1,31,0,0,0
+2027-08,oceania,Alaska,25000,25000,3,1,20,0,0,0
+2027-09,oceania,Alaska,15000,15000,2,1,12,0,0,0
+2027-10,oceania,Alaska,0,0,0,0,0,0,0,0
+2027-11,oceania,Alaska,0,0,0,0,0,0,0,0
+2027-12,oceania,Alaska,0,0,0,0,0,0,0,0
+2026-07,oceania,US Northeast/Bermuda/Canada,0,0,0,0,0,0,0,0
+2026-08,oceania,US Northeast/Bermuda/Canada,0,0,0,0,0,0,0,0
+2026-09,oceania,US Northeast/Bermuda/Canada,0,0,0,0,0,0,0,0
+2026-10,oceania,US Northeast/Bermuda/Canada,0,0,0,0,0,0,0,0
+2026-11,oceania,US Northeast/Bermuda/Canada,0,0,0,0,0,0,0,0
+2026-12,oceania,US Northeast/Bermuda/Canada,0,0,0,0,0,0,0,0
+2027-01,oceania,US Northeast/Bermuda/Canada,0,0,0,0,0,0,0,0
+2027-02,oceania,US Northeast/Bermuda/Canada,0,0,0,0,0,0,0,0
+2027-03,oceania,US Northeast/Bermuda/Canada,0,0,0,0,0,0,0,0
+2027-04,oceania,US Northeast/Bermuda/Canada,0,0,0,0,0,0,0,0
+2027-05,oceania,US Northeast/Bermuda/Canada,0,0,0,0,0,0,0,0
+2027-06,oceania,US Northeast/Bermuda/Canada,0,0,0,0,0,0,0,0
+2027-07,oceania,US Northeast/Bermuda/Canada,0,0,0,0,0,0,0,0
+2027-08,oceania,US Northeast/Bermuda/Canada,0,0,0,0,0,0,0,0
+2027-09,oceania,US Northeast/Bermuda/Canada,8040,8040,1,1,12,0,0,0
+2027-10,oceania,US Northeast/Bermuda/Canada,16080,16080,2,1,24,0,0,0
+2027-11,oceania,US Northeast/Bermuda/Canada,0,0,0,0,0,0,0,0
+2027-12,oceania,US Northeast/Bermuda/Canada,0,0,0,0,0,0,0,0
+2026-07,oceania,Europe,173990,173990,27,7,225,0,0,0
+2026-08,oceania,Europe,184290,184290,26,7,238,0,0,0
+2026-09,oceania,Europe,108270,108270,13,5,134,0,0,0
+2026-10,oceania,Europe,26710,26710,7,3,39,0,0,0
+2026-11,oceania,Europe,129930,129930,13,4,169,0,0,0
+2026-12,oceania,Europe,57340,57340,8,4,77,0,0,0
+2027-01,oceania,Europe,8710,8710,2,1,13,0,0,0
+2027-02,oceania,Europe,0,0,0,0,0,0,0,0
+2027-03,oceania,Europe,7370,7370,2,1,11,0,0,0
+2027-04,oceania,Europe,64090,64090,9,4,69,0,0,0
+2027-05,oceania,Europe,81910,81910,12,4,102,0,0,0
+2027-06,oceania,Europe,99430,99430,16,5,131,0,0,0
+2027-07,oceania,Europe,108250,108250,17,4,141,0,0,0
+2027-08,oceania,Europe,136530,136530,19,6,161,0,15290,0
+2027-09,oceania,Europe,144110,144110,19,6,190,0,11120,0
+2027-10,oceania,Europe,160900,160900,20,5,173,0,34750,0
+2027-11,oceania,Europe,105910,105910,11,4,88,0,41700,0
+2027-12,oceania,Europe,25140,25140,3,2,20,0,1390,0
+2026-07,oceania,Hawaii,0,0,0,0,0,0,0,0
+2026-08,oceania,Hawaii,0,0,0,0,0,0,0,0
+2026-09,oceania,Hawaii,0,0,0,0,0,0,0,0
+2026-10,oceania,Hawaii,0,0,0,0,0,0,0,0
+2026-11,oceania,Hawaii,0,0,0,0,0,0,0,0
+2026-12,oceania,Hawaii,0,0,0,0,0,0,0,0
+2027-01,oceania,Hawaii,0,0,0,0,0,0,0,0
+2027-02,oceania,Hawaii,0,0,0,0,0,0,0,0
+2027-03,oceania,Hawaii,0,0,0,0,0,0,0,0
+2027-04,oceania,Hawaii,0,0,0,0,0,0,0,0
+2027-05,oceania,Hawaii,0,0,0,0,0,0,0,0
+2027-06,oceania,Hawaii,0,0,0,0,0,0,0,0
+2027-07,oceania,Hawaii,0,0,0,0,0,0,0,0
+2027-08,oceania,Hawaii,0,0,0,0,0,0,0,0
+2027-09,oceania,Hawaii,0,0,0,0,0,0,0,0
+2027-10,oceania,Hawaii,0,0,0,0,0,0,0,0
+2027-11,oceania,Hawaii,0,0,0,0,0,0,0,0
+2027-12,oceania,Hawaii,0,0,0,0,0,0,0,0
+2026-07,oceania,other,16800,16800,1,1,14,0,0,0
+2026-08,oceania,other,0,0,0,0,0,0,0,0
+2026-09,oceania,other,0,0,0,0,0,0,0,0
+2026-10,oceania,other,0,0,0,0,0,0,0,0
+2026-11,oceania,other,12060,12060,2,1,18,0,0,0
+2026-12,oceania,other,43140,43140,5,2,54,0,0,0
+2027-01,oceania,other,50920,50920,7,2,76,0,0,0
+2027-02,oceania,other,74370,74370,8,3,111,0,0,0
+2027-03,oceania,other,69680,69680,9,3,104,0,0,0
+2027-04,oceania,other,24790,24790,5,2,37,0,0,0
+2027-05,oceania,other,58290,58290,5,1,87,0,0,0
+2027-06,oceania,other,20100,20100,2,1,30,0,0,0
+2027-07,oceania,other,0,0,0,0,0,0,0,0
+2027-08,oceania,other,0,0,0,0,0,0,0,0
+2027-09,oceania,other,0,0,0,0,0,0,0,0
+2027-10,oceania,other,4690,4690,1,1,7,0,0,0
+2027-11,oceania,other,28350,28350,3,2,25,0,0,0
+2027-12,oceania,other,11250,11250,1,1,9,0,0,0
+2026-07,oceania,unmapped,0,0,0,0,0,0,0,0
+2026-08,oceania,unmapped,0,0,0,0,0,0,0,0
+2026-09,oceania,unmapped,0,0,0,0,0,0,0,0
+2026-10,oceania,unmapped,0,0,0,0,0,0,0,0
+2026-11,oceania,unmapped,0,0,0,0,0,0,0,0
+2026-12,oceania,unmapped,0,0,0,0,0,0,0,0
+2027-01,oceania,unmapped,0,0,0,0,0,0,0,0
+2027-02,oceania,unmapped,0,0,0,0,0,0,0,0
+2027-03,oceania,unmapped,0,0,0,0,0,0,0,0
+2027-04,oceania,unmapped,0,0,0,0,0,0,0,0
+2027-05,oceania,unmapped,0,0,0,0,0,0,0,0
+2027-06,oceania,unmapped,0,0,0,0,0,0,0,0
+2027-07,oceania,unmapped,0,0,0,0,0,0,0,0
+2027-08,oceania,unmapped,0,0,0,0,0,0,0,0
+2027-09,oceania,unmapped,0,0,0,0,0,0,0,0
+2027-10,oceania,unmapped,0,0,0,0,0,0,0,0
+2027-11,oceania,unmapped,0,0,0,0,0,0,0,0
+2027-12,oceania,unmapped,0,0,0,0,0,0,0,0
+2026-07,regent-seven-seas,Caribbean/Bahamas/Gulf,0,0,0,0,0,0,0,0
+2026-08,regent-seven-seas,Caribbean/Bahamas/Gulf,0,0,0,0,0,0,0,0
+2026-09,regent-seven-seas,Caribbean/Bahamas/Gulf,0,0,0,0,0,0,0,0
+2026-10,regent-seven-seas,Caribbean/Bahamas/Gulf,0,0,0,0,0,0,0,0
+2026-11,regent-seven-seas,Caribbean/Bahamas/Gulf,0,0,0,0,0,0,0,0
+2026-12,regent-seven-seas,Caribbean/Bahamas/Gulf,0,0,0,0,0,0,0,0
+2027-01,regent-seven-seas,Caribbean/Bahamas/Gulf,8220,8220,1,1,10,0,8220,0
+2027-02,regent-seven-seas,Caribbean/Bahamas/Gulf,10416,10416,2,1,14,0,10416,0
+2027-03,regent-seven-seas,Caribbean/Bahamas/Gulf,9864,9864,2,1,12,0,9864,0
+2027-04,regent-seven-seas,Caribbean/Bahamas/Gulf,28500,28500,3,2,36,0,28500,0
+2027-05,regent-seven-seas,Caribbean/Bahamas/Gulf,0,0,0,0,0,0,0,0
+2027-06,regent-seven-seas,Caribbean/Bahamas/Gulf,0,0,0,0,0,0,0,0
+2027-07,regent-seven-seas,Caribbean/Bahamas/Gulf,0,0,0,0,0,0,0,0
+2027-08,regent-seven-seas,Caribbean/Bahamas/Gulf,0,0,0,0,0,0,0,0
+2027-09,regent-seven-seas,Caribbean/Bahamas/Gulf,0,0,0,0,0,0,0,0
+2027-10,regent-seven-seas,Caribbean/Bahamas/Gulf,0,0,0,0,0,0,0,0
+2027-11,regent-seven-seas,Caribbean/Bahamas/Gulf,29130,29130,5,2,38,0,29130,0
+2027-12,regent-seven-seas,Caribbean/Bahamas/Gulf,50058,50058,7,3,64,0,50058,0
+2026-07,regent-seven-seas,Alaska,23126,23126,5,1,31,0,23126,0
+2026-08,regent-seven-seas,Alaska,23126,23126,5,1,31,0,23126,0
+2026-09,regent-seven-seas,Alaska,12682,12682,3,1,17,0,12682,0
+2026-10,regent-seven-seas,Alaska,0,0,0,0,0,0,0,0
+2026-11,regent-seven-seas,Alaska,0,0,0,0,0,0,0,0
+2026-12,regent-seven-seas,Alaska,0,0,0,0,0,0,0,0
+2027-01,regent-seven-seas,Alaska,0,0,0,0,0,0,0,0
+2027-02,regent-seven-seas,Alaska,0,0,0,0,0,0,0,0
+2027-03,regent-seven-seas,Alaska,0,0,0,0,0,0,0,0
+2027-04,regent-seven-seas,Alaska,0,0,0,0,0,0,0,0
+2027-05,regent-seven-seas,Alaska,4476,4476,1,1,6,0,4476,0
+2027-06,regent-seven-seas,Alaska,22380,22380,6,1,30,0,22380,0
+2027-07,regent-seven-seas,Alaska,23126,23126,5,1,31,0,23126,0
+2027-08,regent-seven-seas,Alaska,23126,23126,5,1,31,0,23126,0
+2027-09,regent-seven-seas,Alaska,22380,22380,3,1,30,0,22380,0
+2027-10,regent-seven-seas,Alaska,2238,2238,1,1,3,0,2238,0
+2027-11,regent-seven-seas,Alaska,0,0,0,0,0,0,0,0
+2027-12,regent-seven-seas,Alaska,0,0,0,0,0,0,0,0
+2026-07,regent-seven-seas,US Northeast/Bermuda/Canada,0,0,0,0,0,0,0,0
+2026-08,regent-seven-seas,US Northeast/Bermuda/Canada,0,0,0,0,0,0,0,0
+2026-09,regent-seven-seas,US Northeast/Bermuda/Canada,8206,8206,1,1,11,0,8206,0
+2026-10,regent-seven-seas,US Northeast/Bermuda/Canada,0,0,0,0,0,0,0,0
+2026-11,regent-seven-seas,US Northeast/Bermuda/Canada,0,0,0,0,0,0,0,0
+2026-12,regent-seven-seas,US Northeast/Bermuda/Canada,0,0,0,0,0,0,0,0
+2027-01,regent-seven-seas,US Northeast/Bermuda/Canada,0,0,0,0,0,0,0,0
+2027-02,regent-seven-seas,US Northeast/Bermuda/Canada,0,0,0,0,0,0,0,0
+2027-03,regent-seven-seas,US Northeast/Bermuda/Canada,0,0,0,0,0,0,0,0
+2027-04,regent-seven-seas,US Northeast/Bermuda/Canada,0,0,0,0,0,0,0,0
+2027-05,regent-seven-seas,US Northeast/Bermuda/Canada,0,0,0,0,0,0,0,0
+2027-06,regent-seven-seas,US Northeast/Bermuda/Canada,0,0,0,0,0,0,0,0
+2027-07,regent-seven-seas,US Northeast/Bermuda/Canada,0,0,0,0,0,0,0,0
+2027-08,regent-seven-seas,US Northeast/Bermuda/Canada,0,0,0,0,0,0,0,0
+2027-09,regent-seven-seas,US Northeast/Bermuda/Canada,8184,8184,1,1,11,0,8184,0
+2027-10,regent-seven-seas,US Northeast/Bermuda/Canada,0,0,0,0,0,0,0,0
+2027-11,regent-seven-seas,US Northeast/Bermuda/Canada,0,0,0,0,0,0,0,0
+2027-12,regent-seven-seas,US Northeast/Bermuda/Canada,0,0,0,0,0,0,0,0
+2026-07,regent-seven-seas,Europe,49420,49420,10,3,77,0,49420,0
+2026-08,regent-seven-seas,Europe,64184,64184,12,4,98,0,64184,0
+2026-09,regent-seven-seas,Europe,34242,34242,7,4,55,0,34242,0
+2026-10,regent-seven-seas,Europe,0,0,0,0,0,0,0,0
+2026-11,regent-seven-seas,Europe,0,0,0,0,0,0,0,0
+2026-12,regent-seven-seas,Europe,12200,12200,2,1,25,0,12200,0
+2027-01,regent-seven-seas,Europe,15128,15128,4,1,31,0,15128,0
+2027-02,regent-seven-seas,Europe,5368,5368,1,1,11,0,5368,0
+2027-03,regent-seven-seas,Europe,0,0,0,0,0,0,0,0
+2027-04,regent-seven-seas,Europe,0,0,0,0,0,0,0,0
+2027-05,regent-seven-seas,Europe,5208,5208,1,1,7,0,5208,0
+2027-06,regent-seven-seas,Europe,17814,17814,3,2,23,0,17814,0
+2027-07,regent-seven-seas,Europe,35586,35586,6,2,45,0,35586,0
+2027-08,regent-seven-seas,Europe,40402,40402,7,2,51,0,40402,0
+2027-09,regent-seven-seas,Europe,29136,29136,6,2,36,0,29136,0
+2027-10,regent-seven-seas,Europe,49354,49354,9,2,63,0,49354,0
+2027-11,regent-seven-seas,Europe,47578,47578,8,3,63,0,47578,0
+2027-12,regent-seven-seas,Europe,23008,23008,3,2,32,0,23008,0
+2026-07,regent-seven-seas,Hawaii,0,0,0,0,0,0,0,0
+2026-08,regent-seven-seas,Hawaii,0,0,0,0,0,0,0,0
+2026-09,regent-seven-seas,Hawaii,0,0,0,0,0,0,0,0
+2026-10,regent-seven-seas,Hawaii,0,0,0,0,0,0,0,0
+2026-11,regent-seven-seas,Hawaii,0,0,0,0,0,0,0,0
+2026-12,regent-seven-seas,Hawaii,0,0,0,0,0,0,0,0
+2027-01,regent-seven-seas,Hawaii,0,0,0,0,0,0,0,0
+2027-02,regent-seven-seas,Hawaii,0,0,0,0,0,0,0,0
+2027-03,regent-seven-seas,Hawaii,0,0,0,0,0,0,0,0
+2027-04,regent-seven-seas,Hawaii,0,0,0,0,0,0,0,0
+2027-05,regent-seven-seas,Hawaii,0,0,0,0,0,0,0,0
+2027-06,regent-seven-seas,Hawaii,0,0,0,0,0,0,0,0
+2027-07,regent-seven-seas,Hawaii,0,0,0,0,0,0,0,0
+2027-08,regent-seven-seas,Hawaii,0,0,0,0,0,0,0,0
+2027-09,regent-seven-seas,Hawaii,0,0,0,0,0,0,0,0
+2027-10,regent-seven-seas,Hawaii,0,0,0,0,0,0,0,0
+2027-11,regent-seven-seas,Hawaii,0,0,0,0,0,0,0,0
+2027-12,regent-seven-seas,Hawaii,0,0,0,0,0,0,0,0
+2026-07,regent-seven-seas,other,1952,1952,1,1,4,0,1952,0
+2026-08,regent-seven-seas,other,0,0,0,0,0,0,0,0
+2026-09,regent-seven-seas,other,0,0,0,0,0,0,0,0
+2026-10,regent-seven-seas,other,0,0,0,0,0,0,0,0
+2026-11,regent-seven-seas,other,0,0,0,0,0,0,0,0
+2026-12,regent-seven-seas,other,7460,7460,1,1,10,0,7460,0
+2027-01,regent-seven-seas,other,10424,10424,2,2,14,0,10424,0
+2027-02,regent-seven-seas,other,21054,21054,3,2,27,0,21054,0
+2027-03,regent-seven-seas,other,8952,8952,1,1,12,0,8952,0
+2027-04,regent-seven-seas,other,8656,8656,2,2,15,0,8656,0
+2027-05,regent-seven-seas,other,31644,31644,4,2,58,0,31644,0
+2027-06,regent-seven-seas,other,15128,15128,5,1,31,0,15128,0
+2027-07,regent-seven-seas,other,24400,24400,4,1,50,0,24400,0
+2027-08,regent-seven-seas,other,16104,16104,5,1,33,0,16104,0
+2027-09,regent-seven-seas,other,20008,20008,4,1,41,0,20008,0
+2027-10,regent-seven-seas,other,42360,42360,8,2,72,0,42360,0
+2027-11,regent-seven-seas,other,37020,37020,6,2,60,0,37020,0
+2027-12,regent-seven-seas,other,35218,35218,5,3,51,0,35218,0
+2026-07,regent-seven-seas,unmapped,0,0,0,0,0,0,0,0
+2026-08,regent-seven-seas,unmapped,0,0,0,0,0,0,0,0
+2026-09,regent-seven-seas,unmapped,0,0,0,0,0,0,0,0
+2026-10,regent-seven-seas,unmapped,0,0,0,0,0,0,0,0
+2026-11,regent-seven-seas,unmapped,0,0,0,0,0,0,0,0
+2026-12,regent-seven-seas,unmapped,0,0,0,0,0,0,0,0
+2027-01,regent-seven-seas,unmapped,0,0,0,0,0,0,0,0
+2027-02,regent-seven-seas,unmapped,0,0,0,0,0,0,0,0
+2027-03,regent-seven-seas,unmapped,0,0,0,0,0,0,0,0
+2027-04,regent-seven-seas,unmapped,0,0,0,0,0,0,0,0
+2027-05,regent-seven-seas,unmapped,0,0,0,0,0,0,0,0
+2027-06,regent-seven-seas,unmapped,0,0,0,0,0,0,0,0
+2027-07,regent-seven-seas,unmapped,0,0,0,0,0,0,0,0
+2027-08,regent-seven-seas,unmapped,0,0,0,0,0,0,0,0
+2027-09,regent-seven-seas,unmapped,0,0,0,0,0,0,0,0
+2027-10,regent-seven-seas,unmapped,0,0,0,0,0,0,0,0
+2027-11,regent-seven-seas,unmapped,0,0,0,0,0,0,0,0
+2027-12,regent-seven-seas,unmapped,0,0,0,0,0,0,0,0

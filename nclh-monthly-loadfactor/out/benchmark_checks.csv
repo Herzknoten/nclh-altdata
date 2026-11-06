@@ -1,0 +1,92 @@
+quarter,method,target_basis,target_occupancy_pct,fitted_occupancy_pct,error_pp,target_passenger_days,fitted_passenger_days,source
+2019Q1,seasonal_denton,pcd_identity,105.48049377041716,105.48049377041713,-2.842170943040401e-14,4975440.0,4975439.999999999,/home/rich/devdata/nclh-loadfactor-web/occupancy_facts.md:2019 table
+2019Q2,seasonal_denton,pcd_identity,108.36876584629223,108.36876584629222,-1.4210854715202004e-14,5014083.0,5014083.0,/home/rich/devdata/nclh-loadfactor-web/occupancy_facts.md:2019 table
+2019Q3,seasonal_denton,pcd_identity,110.98759613142349,110.98759613142349,0.0,5387662.0,5387662.0,/home/rich/devdata/nclh-loadfactor-web/occupancy_facts.md:2019 table
+2019Q4,seasonal_denton,pcd_identity,104.47627749874042,104.47627749874042,0.0,5260764.0,5260764.0,/home/rich/devdata/nclh-loadfactor-web/occupancy_facts.md:2019 table
+2019Q1,seasonal_denton,reported_pct,105.5,105.49999999999999,-1.4210854715202004e-14,4975440.0,4976360.094999999,/home/rich/devdata/nclh-loadfactor-web/occupancy_facts.md:2019 table
+2019Q2,seasonal_denton,reported_pct,108.4,108.39999999999999,-1.4210854715202004e-14,5014083.0,5015528.164,/home/rich/devdata/nclh-loadfactor-web/occupancy_facts.md:2019 table
+2019Q3,seasonal_denton,reported_pct,111.0,111.0,0.0,5387662.0,5388264.12,/home/rich/devdata/nclh-loadfactor-web/occupancy_facts.md:2019 table
+2019Q4,seasonal_denton,reported_pct,104.5,104.5,0.0,5260764.0,5261958.515000001,/home/rich/devdata/nclh-loadfactor-web/occupancy_facts.md:2019 table
+2023Q1,seasonal_denton,pcd_identity,101.50601592046011,101.50601592046011,0.0,5497106.0,5497106.0,/home/rich/devdata/nclh-kpis/quarterly_kpis.csv:8
+2023Q2,seasonal_denton,pcd_identity,104.86936289198024,104.86936289198024,0.0,5781750.0,5781750.0,/home/rich/devdata/nclh-kpis/quarterly_kpis.csv:9
+2023Q3,seasonal_denton,pcd_identity,106.11559453842729,106.11559453842729,0.0,6176403.0,6176403.0,/home/rich/devdata/nclh-kpis/quarterly_kpis.csv:10
+2023Q4,seasonal_denton,pcd_identity,99.20566530104746,99.20566530104746,0.0,5856413.0,5856413.0,/home/rich/devdata/nclh-kpis/quarterly_kpis.csv:11
+2023Q1,seasonal_denton,reported_pct,101.5,101.5,0.0,5497106.0,5496780.205,/home/rich/devdata/nclh-kpis/quarterly_kpis.csv:8
+2023Q2,seasonal_denton,reported_pct,104.9,104.9,0.0,5781750.0,5783439.112,/home/rich/devdata/nclh-kpis/quarterly_kpis.csv:9
+2023Q3,seasonal_denton,reported_pct,106.1,106.1,0.0,6176403.0,6175495.328,/home/rich/devdata/nclh-kpis/quarterly_kpis.csv:10
+2023Q4,seasonal_denton,reported_pct,99.2,99.2,0.0,5856413.0,5856078.56,/home/rich/devdata/nclh-kpis/quarterly_kpis.csv:11
+2024Q1,seasonal_denton,pcd_identity,104.6456823000797,104.6456823000797,0.0,6112370.0,6112370.0,/home/rich/devdata/nclh-kpis/quarterly_kpis.csv:12
+2024Q2,seasonal_denton,pcd_identity,105.94780510722345,105.94780510722343,-1.4210854715202004e-14,6077574.0,6077573.999999999,/home/rich/devdata/nclh-kpis/quarterly_kpis.csv:13
+2024Q3,seasonal_denton,pcd_identity,108.08628924142323,108.08628924142323,0.0,6521610.0,6521610.0,/home/rich/devdata/nclh-kpis/quarterly_kpis.csv:14
+2024Q4,seasonal_denton,pcd_identity,100.81392937272572,100.81392937272572,0.0,5881777.0,5881777.0,/home/rich/devdata/nclh-kpis/quarterly_kpis.csv:15
+2024Q1,seasonal_denton,reported_pct,104.6,104.6,0.0,6112370.0,6109701.6899999995,/home/rich/devdata/nclh-kpis/quarterly_kpis.csv:12
+2024Q2,seasonal_denton,reported_pct,105.9,105.9,0.0,6077574.0,6074831.715000001,/home/rich/devdata/nclh-kpis/quarterly_kpis.csv:13
+2024Q3,seasonal_denton,reported_pct,108.1,108.10000000000001,1.4210854715202004e-14,6521610.0,6522437.267000001,/home/rich/devdata/nclh-kpis/quarterly_kpis.csv:14
+2024Q4,seasonal_denton,reported_pct,100.8,100.8,0.0,5881777.0,5880964.32,/home/rich/devdata/nclh-kpis/quarterly_kpis.csv:15
+2025Q1,seasonal_denton,pcd_identity,101.52055156657333,101.52055156657333,0.0,5787243.0,5787243.0,/home/rich/devdata/nclh-kpis/quarterly_kpis.csv:16
+2025Q2,seasonal_denton,pcd_identity,103.90806891890038,103.90806891890037,-1.4210854715202004e-14,6288800.0,6288799.999999999,/home/rich/devdata/nclh-kpis/quarterly_kpis.csv:17
+2025Q3,seasonal_denton,pcd_identity,106.39664466717484,106.39664466717484,0.0,6828243.0,6828243.0,/home/rich/devdata/nclh-kpis/quarterly_kpis.csv:18
+2025Q4,seasonal_denton,pcd_identity,101.77232741035378,101.77232741035378,0.0,6374066.0,6374065.999999999,/home/rich/devdata/nclh-kpis/quarterly_kpis.csv:19
+2025Q1,seasonal_denton,reported_pct,101.5,101.5,0.0,5787243.0,5786071.444999999,/home/rich/devdata/nclh-kpis/quarterly_kpis.csv:16
+2025Q2,seasonal_denton,reported_pct,103.9,103.89999999999999,-1.4210854715202004e-14,6288800.0,6288311.647,/home/rich/devdata/nclh-kpis/quarterly_kpis.csv:17
+2025Q3,seasonal_denton,reported_pct,106.4,106.40000000000002,1.4210854715202004e-14,6828243.0,6828458.336000001,/home/rich/devdata/nclh-kpis/quarterly_kpis.csv:18
+2025Q4,seasonal_denton,reported_pct,101.8,101.79999999999998,-1.4210854715202004e-14,6374066.0,6375799.152,/home/rich/devdata/nclh-kpis/quarterly_kpis.csv:19
+2026Q1,indicator_climb_0_7_any_supported_month,pcd_identity,103.77847913856614,103.77847913856615,1.4210854715202004e-14,6634526.0,6634526.000000001,/home/rich/devdata/nclh-kpis/quarterly_kpis.csv:20
+2026Q2,indicator_climb_0_7_any_supported_month,pcd_identity,102.37056393727218,102.37056393727218,0.0,6745954.0,6745954.0,/home/rich/devdata/nclh-kpis/quarterly_kpis.csv:21
+2026Q1,indicator_climb_0_7_three_supported_months,pcd_identity,103.77847913856614,103.77847913856615,1.4210854715202004e-14,6634526.0,6634526.000000001,/home/rich/devdata/nclh-kpis/quarterly_kpis.csv:20
+2026Q2,indicator_climb_0_7_three_supported_months,pcd_identity,102.37056393727218,102.37056393727218,0.0,6745954.0,6745954.0,/home/rich/devdata/nclh-kpis/quarterly_kpis.csv:21
+2026Q1,indicator_climb_8_30_any_supported_month,pcd_identity,103.77847913856614,103.77847913856614,0.0,6634526.0,6634526.0,/home/rich/devdata/nclh-kpis/quarterly_kpis.csv:20
+2026Q2,indicator_climb_8_30_any_supported_month,pcd_identity,102.37056393727218,102.37056393727218,0.0,6745954.0,6745954.0,/home/rich/devdata/nclh-kpis/quarterly_kpis.csv:21
+2026Q1,indicator_climb_8_30_three_supported_months,pcd_identity,103.77847913856614,103.77847913856614,0.0,6634526.0,6634526.0,/home/rich/devdata/nclh-kpis/quarterly_kpis.csv:20
+2026Q2,indicator_climb_8_30_three_supported_months,pcd_identity,102.37056393727218,102.37056393727218,0.0,6745954.0,6745954.0,/home/rich/devdata/nclh-kpis/quarterly_kpis.csv:21
+2026Q1,indicator_late_ratio_any_supported_month,pcd_identity,103.77847913856614,103.77847913856614,0.0,6634526.0,6634526.0,/home/rich/devdata/nclh-kpis/quarterly_kpis.csv:20
+2026Q2,indicator_late_ratio_any_supported_month,pcd_identity,102.37056393727218,102.37056393727218,0.0,6745954.0,6745954.0,/home/rich/devdata/nclh-kpis/quarterly_kpis.csv:21
+2026Q1,indicator_late_ratio_three_supported_months,pcd_identity,103.77847913856614,103.77847913856608,-5.684341886080802e-14,6634526.0,6634525.999999995,/home/rich/devdata/nclh-kpis/quarterly_kpis.csv:20
+2026Q2,indicator_late_ratio_three_supported_months,pcd_identity,102.37056393727218,102.37056393727231,1.2789769243681803e-13,6745954.0,6745954.000000007,/home/rich/devdata/nclh-kpis/quarterly_kpis.csv:21
+2026Q2,indicator_forward_ratio_any_supported_month,pcd_identity,102.37056393727218,102.37056393727218,0.0,6745954.0,6745954.0,/home/rich/devdata/nclh-kpis/quarterly_kpis.csv:21
+2025Q4,indicator_cut_share_any_supported_month,pcd_identity,101.77232741035378,101.77232741035378,0.0,6374066.0,6374066.0,/home/rich/devdata/nclh-kpis/quarterly_kpis.csv:19
+2026Q1,indicator_cut_share_any_supported_month,pcd_identity,103.77847913856614,103.77847913856614,0.0,6634526.0,6634526.0,/home/rich/devdata/nclh-kpis/quarterly_kpis.csv:20
+2026Q2,indicator_cut_share_any_supported_month,pcd_identity,102.37056393727218,102.37056393727218,0.0,6745954.0,6745954.0,/home/rich/devdata/nclh-kpis/quarterly_kpis.csv:21
+2025Q4,indicator_cut_share_three_supported_months,pcd_identity,101.77232741035378,101.77232741035378,0.0,6374066.0,6374066.0,/home/rich/devdata/nclh-kpis/quarterly_kpis.csv:19
+2026Q1,indicator_cut_share_three_supported_months,pcd_identity,103.77847913856614,103.77847913856614,0.0,6634526.0,6634526.0,/home/rich/devdata/nclh-kpis/quarterly_kpis.csv:20
+2026Q2,indicator_cut_share_three_supported_months,pcd_identity,102.37056393727218,102.37056393727218,0.0,6745954.0,6745954.0,/home/rich/devdata/nclh-kpis/quarterly_kpis.csv:21
+2026Q1,indicator_sustained_share_any_supported_month,pcd_identity,103.77847913856614,103.77847913856614,0.0,6634526.0,6634526.0,/home/rich/devdata/nclh-kpis/quarterly_kpis.csv:20
+2026Q2,indicator_sustained_share_any_supported_month,pcd_identity,102.37056393727218,102.37056393727218,0.0,6745954.0,6745954.0,/home/rich/devdata/nclh-kpis/quarterly_kpis.csv:21
+2026Q1,indicator_sustained_share_three_supported_months,pcd_identity,103.77847913856614,103.77847913856614,0.0,6634526.0,6634525.999999999,/home/rich/devdata/nclh-kpis/quarterly_kpis.csv:20
+2026Q2,indicator_sustained_share_three_supported_months,pcd_identity,102.37056393727218,102.37056393727218,0.0,6745954.0,6745954.0,/home/rich/devdata/nclh-kpis/quarterly_kpis.csv:21
+2026Q1,indicator_new_high_share_any_supported_month,pcd_identity,103.77847913856614,103.77847913856614,0.0,6634526.0,6634526.000000001,/home/rich/devdata/nclh-kpis/quarterly_kpis.csv:20
+2026Q2,indicator_new_high_share_any_supported_month,pcd_identity,102.37056393727218,102.37056393727218,0.0,6745954.0,6745954.0,/home/rich/devdata/nclh-kpis/quarterly_kpis.csv:21
+2026Q1,indicator_new_high_share_three_supported_months,pcd_identity,103.77847913856614,103.77847913856614,0.0,6634526.0,6634526.0,/home/rich/devdata/nclh-kpis/quarterly_kpis.csv:20
+2026Q2,indicator_new_high_share_three_supported_months,pcd_identity,102.37056393727218,102.37056393727218,0.0,6745954.0,6745954.0,/home/rich/devdata/nclh-kpis/quarterly_kpis.csv:21
+2026Q3,flat_within_quarter_calendar_day_shape,guidance,104.0,104.0,0.0,,,/home/rich/devdata/nclh-kpis/guidance.csv:989
+2026Q3,flat_within_quarter_listed_shape_scaled_to_company_quarter,guidance,104.0,104.0,0.0,,,/home/rich/devdata/nclh-kpis/guidance.csv:989
+2026Q3,indicator_climb_0_7_calendar_day_shape,guidance,104.0,104.0,0.0,,,/home/rich/devdata/nclh-kpis/guidance.csv:989
+2026Q3,indicator_climb_0_7_listed_shape_scaled_to_company_quarter,guidance,104.0,104.0,0.0,,,/home/rich/devdata/nclh-kpis/guidance.csv:989
+2026Q3,indicator_climb_8_30_calendar_day_shape,guidance,104.0,104.0,0.0,,,/home/rich/devdata/nclh-kpis/guidance.csv:989
+2026Q3,indicator_climb_8_30_listed_shape_scaled_to_company_quarter,guidance,104.0,104.0,0.0,,,/home/rich/devdata/nclh-kpis/guidance.csv:989
+2026Q3,indicator_cut_share_calendar_day_shape,guidance,104.0,104.0,0.0,,,/home/rich/devdata/nclh-kpis/guidance.csv:989
+2026Q3,indicator_cut_share_listed_shape_scaled_to_company_quarter,guidance,104.0,103.99999999999999,-1.4210854715202004e-14,,,/home/rich/devdata/nclh-kpis/guidance.csv:989
+2026Q3,indicator_forward_ratio_calendar_day_shape,guidance,104.0,104.0,0.0,,,/home/rich/devdata/nclh-kpis/guidance.csv:989
+2026Q3,indicator_forward_ratio_listed_shape_scaled_to_company_quarter,guidance,104.0,104.0,0.0,,,/home/rich/devdata/nclh-kpis/guidance.csv:989
+2026Q3,indicator_late_ratio_calendar_day_shape,guidance,104.0,104.0,0.0,,,/home/rich/devdata/nclh-kpis/guidance.csv:989
+2026Q3,indicator_late_ratio_listed_shape_scaled_to_company_quarter,guidance,104.0,104.0,0.0,,,/home/rich/devdata/nclh-kpis/guidance.csv:989
+2026Q3,indicator_new_high_share_calendar_day_shape,guidance,104.0,104.0,0.0,,,/home/rich/devdata/nclh-kpis/guidance.csv:989
+2026Q3,indicator_new_high_share_listed_shape_scaled_to_company_quarter,guidance,104.0,103.99999999999999,-1.4210854715202004e-14,,,/home/rich/devdata/nclh-kpis/guidance.csv:989
+2026Q3,indicator_sustained_share_calendar_day_shape,guidance,104.0,104.0,0.0,,,/home/rich/devdata/nclh-kpis/guidance.csv:989
+2026Q3,indicator_sustained_share_listed_shape_scaled_to_company_quarter,guidance,104.0,103.99999999999999,-1.4210854715202004e-14,,,/home/rich/devdata/nclh-kpis/guidance.csv:989
+2026Q3,seasonal_2019_calendar_day_shape,guidance,104.0,104.0,0.0,,,/home/rich/devdata/nclh-kpis/guidance.csv:989
+2026Q3,seasonal_2019_listed_shape_scaled_to_company_quarter,guidance,104.0,103.99999999999999,-1.4210854715202004e-14,,,/home/rich/devdata/nclh-kpis/guidance.csv:989
+2026Q3,seasonal_2023_2025_calendar_day_shape,guidance,104.0,104.0,0.0,,,/home/rich/devdata/nclh-kpis/guidance.csv:989
+2026Q3,seasonal_2023_2025_listed_shape_scaled_to_company_quarter,guidance,104.0,104.0,0.0,,,/home/rich/devdata/nclh-kpis/guidance.csv:989
+2026Q3,seasonal_all_years_calendar_day_shape,guidance,104.0,103.99999999999999,-1.4210854715202004e-14,,,/home/rich/devdata/nclh-kpis/guidance.csv:989
+2026Q3,seasonal_all_years_listed_shape_scaled_to_company_quarter,guidance,104.0,104.0,0.0,,,/home/rich/devdata/nclh-kpis/guidance.csv:989
+2026Q4,flat_within_quarter_calendar_day_shape,guidance,99.0,99.0,0.0,,,/home/rich/devdata/nclh-discount-web/report.md:63
+2026Q4,flat_within_quarter_listed_shape_scaled_to_company_quarter,guidance,99.0,99.0,0.0,,,/home/rich/devdata/nclh-discount-web/report.md:63
+2026Q4,indicator_forward_ratio_calendar_day_shape,guidance,99.0,99.0,0.0,,,/home/rich/devdata/nclh-discount-web/report.md:63
+2026Q4,indicator_forward_ratio_listed_shape_scaled_to_company_quarter,guidance,99.0,99.0,0.0,,,/home/rich/devdata/nclh-discount-web/report.md:63
+2026Q4,seasonal_2019_calendar_day_shape,guidance,99.0,99.0,0.0,,,/home/rich/devdata/nclh-discount-web/report.md:63
+2026Q4,seasonal_2019_listed_shape_scaled_to_company_quarter,guidance,99.0,99.0,0.0,,,/home/rich/devdata/nclh-discount-web/report.md:63
+2026Q4,seasonal_2023_2025_calendar_day_shape,guidance,99.0,99.00000000000001,1.4210854715202004e-14,,,/home/rich/devdata/nclh-discount-web/report.md:63
+2026Q4,seasonal_2023_2025_listed_shape_scaled_to_company_quarter,guidance,99.0,99.0,0.0,,,/home/rich/devdata/nclh-discount-web/report.md:63
+2026Q4,seasonal_all_years_calendar_day_shape,guidance,99.0,99.0,0.0,,,/home/rich/devdata/nclh-discount-web/report.md:63
+2026Q4,seasonal_all_years_listed_shape_scaled_to_company_quarter,guidance,99.0,99.0,0.0,,,/home/rich/devdata/nclh-discount-web/report.md:63

@@ -1,0 +1,5 @@
+{
+  "valid_raw_rows": 13536437,
+  "duplicate_keys_removed": 7503763,
+  "conflicting_timestamp_keys": 216
+}

@@ -1,0 +1,191 @@
+{
+  "analysis": "booking curves and curve-shape classification",
+  "as_of": "2026-09-12",
+  "as_of_source": "latest line-filtered input history calendar date",
+  "brand_capacity_weights": {
+    "carnival": {
+      "PLACEHOLDER": true,
+      "source": "peer control line; excluded from NCLH composite tie-out (weight 0 by design)",
+      "weight": 0.0
+    },
+    "celebrity": {
+      "PLACEHOLDER": true,
+      "source": "peer control line; excluded from NCLH composite tie-out (weight 0 by design)",
+      "weight": 0.0
+    },
+    "norwegian": {
+      "PLACEHOLDER": true,
+      "source": "/home/rich/devdata/nclh-kpis/fleet.csv: status=in service roster (20 ships), 1 primary berth values sum=3550; /home/rich/devdata/alphasense/nclh/consensus/fleet_cabins.csv: berths for 19 primary gaps sum=56926; ship-level locators and input hashes in logs/brand_capacity_provenance.csv and .json; Aqua primary preliminary 3550 retained over fallback 3850",
+      "weight": 60476.0
+    },
+    "oceania": {
+      "PLACEHOLDER": true,
+      "source": "/home/rich/devdata/nclh-kpis/fleet.csv: status=in service roster (8 ships), 1 primary berth values sum=1200; /home/rich/devdata/alphasense/nclh/consensus/fleet_cabins.csv: berths for 7 primary gaps sum=6436; ship-level locators and input hashes in logs/brand_capacity_provenance.csv and .json",
+      "weight": 7636.0
+    },
+    "princess": {
+      "PLACEHOLDER": true,
+      "source": "peer control line; excluded from NCLH composite tie-out (weight 0 by design)",
+      "weight": 0.0
+    },
+    "regent-seven-seas": {
+      "PLACEHOLDER": true,
+      "source": "/home/rich/devdata/nclh-kpis/fleet.csv: status=in service roster (6 ships), 0 primary berth values sum=0; /home/rich/devdata/alphasense/nclh/consensus/fleet_cabins.csv: berths for 6 primary gaps sum=4134; ship-level locators and input hashes in logs/brand_capacity_provenance.csv and .json",
+      "weight": 4134.0
+    },
+    "royal-caribbean": {
+      "PLACEHOLDER": true,
+      "source": "peer control line; excluded from NCLH composite tie-out (weight 0 by design)",
+      "weight": 0.0
+    }
+  },
+  "brand_weights_path": "/home/rich/devdata/nclh-pricing/params/brand_capacity_weights.peers.csv",
+  "brand_weights_sha256": "846e8ae981d2c4845006153b82a5099363af777b30d377c350ad54c73cce8092",
+  "capacity_complete_curve_overlap_quarters": [],
+  "charts": {
+    "available": false,
+    "fallback": [
+      "indexed_summary.csv",
+      "classification_mix.csv"
+    ],
+    "files": [],
+    "reason": "No module named 'matplotlib'"
+  },
+  "complete_curve_overlap_quarters": [
+    "2026Q2"
+  ],
+  "counts": {
+    "classification_eligible_sailing_cabins": 3202,
+    "completed_complete_sailing_cabins": 2952,
+    "completed_sailing_cabins_with_history": 12536,
+    "daily_curve_rows": 2502513,
+    "duplicate_sailing_rows_collapsed": 0,
+    "history_input_rows": 2502953,
+    "history_rows_dropped_after_as_of": 0,
+    "history_rows_dropped_after_departure": 440,
+    "history_rows_dropped_by_line": {},
+    "history_rows_dropped_invalid_price": 0,
+    "history_rows_dropped_line_filter": 0,
+    "history_rows_dropped_total": 440,
+    "history_rows_retained_before_daily_median": 2502513,
+    "sailing_cabins_total": 24540,
+    "sailing_cabins_with_history": 21143,
+    "sailing_cabins_without_history": 3397,
+    "sailing_input_rows": 6135,
+    "sailing_rows_dropped_by_line": {},
+    "sailing_rows_dropped_line_filter": 0,
+    "sailings_unmatched_to_fleet": 3023,
+    "sailings_with_parser_warnings": 3808,
+    "same_day_rows_collapsed": 0,
+    "unique_sailings": 6135
+  },
+  "export": "/home/rich/devdata/allaboard-parser/out/peers-2026-09-12",
+  "input_history_first_date": "2025-10-06",
+  "input_history_last_date": "2026-09-12",
+  "input_sha256": {
+    "/home/rich/devdata/allaboard-parser/out/peers-2026-09-12/price_history.csv": "331b319dde17333848b8f5b8d6530c3929c593be2615807c7e39820dcd4dd5ca",
+    "/home/rich/devdata/allaboard-parser/out/peers-2026-09-12/sailings.csv": "fa261db9e6cb36f6d869cd2df87ce28e56b67d17b5447705770442c67cf2d3bd",
+    "/home/rich/devdata/nclh-kpis/fleet.csv": "0f6e5a10594bb90fc05dff50f5d57d837abe9bda81705255b759a6151a3f15a6",
+    "/home/rich/devdata/nclh-kpis/quarterly_kpis.csv": "4128f1959210d93de7c21cae5cf69e1e34f2c5bbd41eb57fc37970132a094b1c",
+    "/home/rich/devdata/nclh-pricing/params/brand_capacity_weights.peers.csv": "846e8ae981d2c4845006153b82a5099363af777b30d377c350ad54c73cce8092",
+    "/home/rich/devdata/nclh-pricing/params/defaults.json": "2a320b6fd5b8a15e03e8cd26329900c6f0cdccca1ea48bdb4ae36b2d38fd9c61"
+  },
+  "limitations": [
+    "OTA asking prices, not realized or NCL-owned quotes",
+    "No availability or sold counts",
+    "Left-truncated history; ongoing sailings are right-censored",
+    "Daily rows may carry stale quotes forward",
+    "Cabin weights are placeholders wherever PLACEHOLDER=true",
+    "Reported KPIs are consolidated NCLH; panel brand mix may differ",
+    "Capacity weights are fixed fleet-roster snapshots, not quarter-specific passenger days; missing primary berths are flagged PLACEHOLDER",
+    "Only quarters with completed, complete curves overlap on the complete-curve tie-out; no fit or extrapolation"
+  ],
+  "lines": [
+    "norwegian",
+    "oceania",
+    "regent-seven-seas",
+    "royal-caribbean",
+    "celebrity",
+    "carnival",
+    "princess"
+  ],
+  "new_placeholder_weight_rows": 380,
+  "output_rows": {
+    "blended_fare.csv": 13653,
+    "classification.csv": 24540,
+    "classification_mix.csv": 2050,
+    "cohorts.csv": 404248,
+    "curve_metrics.csv": 24540,
+    "curves.csv": 2502513,
+    "indexed_curves.csv": 220860,
+    "indexed_summary.csv": 1908,
+    "tieout.csv": 1215
+  },
+  "parameters": {
+    "blend_min_weight_coverage": 1.0,
+    "bucket_tie_break": "larger_lead",
+    "bucket_tolerance_days": 7,
+    "classification_ratios": [
+      "late",
+      "mid"
+    ],
+    "classification_require_full_span": true,
+    "classification_trigger": "any",
+    "complete_curve_end_lead_days": 7,
+    "complete_curve_require_ratio_windows": true,
+    "complete_curve_start_lead_days": 180,
+    "cut_fraction": 0.05,
+    "cut_max_gap_days": null,
+    "discount_ratio_thresholds": {
+      "late": 0.95,
+      "mid": 0.95
+    },
+    "drawdown_days": 60,
+    "index_lead_days": 90,
+    "lead_buckets": [
+      365,
+      270,
+      180,
+      120,
+      90,
+      60,
+      30,
+      14,
+      7
+    ],
+    "min_drawdown_observations": 2,
+    "min_window_coverage_fraction": 0.0,
+    "min_window_observations": 2,
+    "nights_bucket_upper_bounds": [
+      4,
+      7,
+      10,
+      14
+    ],
+    "ratio_windows": {
+      "late": {
+        "denominator": [
+          60,
+          120
+        ],
+        "numerator": [
+          7,
+          30
+        ]
+      },
+      "mid": {
+        "denominator": [
+          120,
+          180
+        ],
+        "numerator": [
+          30,
+          60
+        ]
+      }
+    }
+  },
+  "status": "complete",
+  "weights_path": "/home/rich/devdata/nclh-pricing/params/cabin_mix_weights.fleet-peers.csv",
+  "weights_sha256": "946b00dea36cac57215bfa50c9c2196f03500c687526e27a01fe34010ca80fd2"
+}

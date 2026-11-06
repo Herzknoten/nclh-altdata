@@ -1,0 +1,23 @@
+placekey,safegraph_place_id,location_name,naics_code,top_category,sub_category,street_address,city,state,MATCH_REASON
+zzy-222@5vg-7f8-6kz,sg:37df1999b0ab4568bc37ee3e9144cffd,Pier 27- Cruise Terminal,4883,Support Activities for Water Transportation,,780 - 942,san francisco,california,terminal_keyword;
+zzy-227@8fw-38k-8n5,sg:ea70c0da1331349fb78704581876089c,Port Everglades Cruise Terminal 4,712190,"Museums, Historical Sites, and Similar Institutions",Nature Parks and Other Similar Institutions,1800 se 20th st,fort lauderdale,florida,terminal_keyword;
+zzy-224@64h-w93-zmk,sg:b5ef2192589836f1b8d850e19abeab02,Pier 3,488310,Support Activities for Water Transportation,Port and Harbor Operations,3rd st,norfolk,virginia,terminal_keyword;
+zzy-222@64h-vj3-j7q,sg:00ef0fa0624f3e9e9f10d5dd88b75402,Half Moone Cruise Terminal,488310,Support Activities for Water Transportation,Port and Harbor Operations,111 waterside dr,norfolk,virginia,terminal_keyword;
+222-223@8fy-y3t-sbk,sg:f064221f8aa23027921fbda5219eae1a,Florida Cruise Ports,485,Transit and Ground Passenger Transportation,,273 crockett blvd,merritt island,florida,terminal_keyword;
+zzy-223@8m5-jty-vcq,sg:7de38c1db9dd378d919f88649c60b607,Kauai Cruise Ship Terminal,488310,Support Activities for Water Transportation,Port and Harbor Operations,kanoa rd,lihue,hawaii,terminal_keyword;
+223-222@bp5-cq5-59f,sg:4681410c419e3236b69690633ae10158,Norwegian Cruise Line,488310,Support Activities for Water Transportation,Port and Harbor Operations,130 ala luina st,kahului,hawaii,brand_match;
+222-222@8dj-jw5-dsq,sg:7e77cc77369e40bcbb8a8d9b702c640b,Tampa Port Authority,488310,Support Activities for Water Transportation,Port and Harbor Operations,1101 channelside dr,tampa,florida,terminal_keyword;
+zzy-22b@8fw-3bb-bkz,sg:df2a9167efa73be6a84551f544e15f7c,Port Everglades Cruise Terminal 25,485,Transit and Ground Passenger Transportation,,cruise terminal 25 2025,fort lauderdale,florida,terminal_keyword;
+zzy-223@8fv-zzy-zj9,sg:4a2557f40eaf4259ae663ae66c529da5,Norwegian Cruise Lines - Escape,483112,"Deep Sea, Coastal, and Great Lakes Water Transportation",Deep Sea Passenger Transportation,1509 n cruise blvd,miami,florida,brand_match;
+zzy-222@8fc-g2d-9pv,sg:376e3570bcac3c1eb2b62187bb57083c,Port of Galveston,488310,Support Activities for Water Transportation,Port and Harbor Operations,of galveston,galveston,texas,
+zzy-222@96z-zds-975,sg:bf911e619d153bc08bebf294f8163697,Pan American Pier,488310,Support Activities for Water Transportation,Port and Harbor Operations,calle lindbergh s @ n,not_found,puerto rico,
+223-222@8fv-zzy-jqf,sg:3482bb09f3334ed89496cf203cd5a032,Port of Miami,488310,Support Activities for Water Transportation,Port and Harbor Operations,1015 n america way,miami,florida,
+zzy-223@8dj-jwh-wtv,sg:31e9a578b5f133f0aa1aeec266cd5c5e,Port of Tampa,488310,Support Activities for Water Transportation,Port and Harbor Operations,port of tampa,tampa,florida,
+zzy-225@8fv-zzz-35z,sg:3752658b372b3b22bfd745eade51129b,The Port Of Miami- South Beach,488310,Support Activities for Water Transportation,Port and Harbor Operations,the port of miami south beach,miami,florida,
+222-224@8dy-qv7-fj9,sg:7bedee0f5dfe4cfcbcdc2c1c36417d88,Port of New Orleans,488310,Support Activities for Water Transportation,Port and Harbor Operations,1350 port of new orleans pl,new orleans,louisiana,
+zzy-222@8dy-qtz-jjv,sg:6a2e8658a2f940fa97e779eb260fa730,Julia Street Cruise Terminal,485999,Other Transit and Ground Passenger Transportation,All Other Transit and Ground Passenger Transportation,920 port of new orleans pl,new orleans,louisiana,
+222-225@8fy-y2x-sqz,sg:d771b71f062e3d219e24d2954af492cb,Royal Caribbean Port Canaveral,488310,Support Activities for Water Transportation,Port and Harbor Operations,9050 discovery rd,cape canaveral,florida,
+22q-222@627-w9d-ch5,sg:878bd4f066723af08feef5532cea5984,Cape Liberty Cruise Terminal New Jersey,5615,Travel Arrangement and Reservation Services,,14 port terminal blvd,bayonne,new jersey,
+zzy-222@8dj-mr5-f9f,sg:1499117d0c10394aa62017320b2619e5,Port of Tampa Bay-Berths 263-265,488310,Support Activities for Water Transportation,Port and Harbor Operations,port of tampa bay-berths 263-265,tampa,florida,
+222-22h@8fv-zzz-26k,sg:4a4b7bd98c10325d8c74e215ab4a42bc,Port of miami,488310,Support Activities for Water Transportation,Port and Harbor Operations,1435 n cruise blvd,miami,florida,
+zzy-222@8fv-zzz-33q,sg:ea30e8c4633531f7bbb5330a11430fd1,Port of miami,488310,Support Activities for Water Transportation,Port and Harbor Operations,1509 n cruise blvd,miami,florida,

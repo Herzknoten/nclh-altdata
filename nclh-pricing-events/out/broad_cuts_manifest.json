@@ -1,0 +1,98 @@
+{
+  "status": "complete",
+  "tool": "broad_cuts",
+  "parameters": {
+    "export": "/home/rich/devdata/allaboard-parser/out/claude-check",
+    "out": "/home/rich/devdata/nclh-pricing-events/out",
+    "daily_aggregation": "median",
+    "min_lead_days": 0,
+    "parse_statuses": "ok,warning",
+    "start_date": null,
+    "end_date": null,
+    "max_gap_days": 3,
+    "cut_pct": "0.05",
+    "broad_share": "0.20",
+    "min_n": 30,
+    "rolling_days": 30,
+    "dominance_share": "0.50"
+  },
+  "rules": {
+    "identity": "line,ship,sailing_id,cabin",
+    "timestamp_date": "own_calendar_date_no_timezone_conversion",
+    "duplicate_policy": "collapse_identical_timestamp_prices_fail_conflicts",
+    "metadata_policy": "fail_missing_or_conflicting_identity_date_nights_lead",
+    "missing_policy": "no_interpolation_or_carry_forward",
+    "coverage_universe": "four_schema_cabin_slots_per_included_sailing_not_availability",
+    "threshold_comparison": "inclusive_decimal",
+    "calendar_bounds": "explicit_bounds_else_global_raw_history_span",
+    "price_policy": "exclude_nonpositive_or_nonfinite",
+    "prior_selection": "nearest_strictly_prior_daily_observation",
+    "cut_depth_population": "threshold_qualifying_cuts_only",
+    "rolling_alignment": "trailing_including_current_day",
+    "top_category_selection": "most_cuts_then_lexicographic_name;none_when_no_cuts",
+    "top_category_exclusion": "remove_all_eligible_pairs_and_reapply_min_n",
+    "breakdown_calendar": "all_roster_ships_and_schema_cabins_on_line_raw_history_dates",
+    "persistence_selection": "next_retained_daily_observation_without_gap_limit",
+    "cut_persisted_next": "next_price_at_or_below_cut_price",
+    "cut_threshold_persisted_next": "next_price_at_or_below_pre_cut_price_times_one_minus_cut_pct",
+    "rebounded_to_pre_cut_next": "next_price_at_or_above_pre_cut_price"
+  },
+  "export": "/home/rich/devdata/allaboard-parser/out/claude-check",
+  "input_sha256": {
+    "sailings.csv": "ae5d77fa097e9a5d80c69574d6da2124fe0d984ea72919848b80f8fd1882f981",
+    "price_history.csv": "895db83625f4a253576520926e9b1e45533520cb114ce78a2d345755103eb3b7"
+  },
+  "input_counts": {
+    "sailing_rows": 678,
+    "sailing_rows_warning": 269,
+    "sailing_rows_ok": 409,
+    "history_rows": 262608,
+    "usable_unique_history_rows": 262247,
+    "dropped_lead": 361,
+    "included_sailings": 678,
+    "schema_cabin_slots": 2712,
+    "observed_sailing_cabins": 2348,
+    "daily_observations": 262247,
+    "lines": 1
+  },
+  "calendar_start": "2025-10-06",
+  "calendar_end": "2026-09-12",
+  "lines": [
+    "norwegian"
+  ],
+  "control_status": "no_control_line",
+  "outputs": {
+    "daily_cuts.csv": {
+      "rows": 342,
+      "sha256": "77106bd85d64d7887f44c068aef8ec3976d01473e71e79364b7f2f8086701c39"
+    },
+    "broad_cut_events.csv": {
+      "rows": 10,
+      "sha256": "6da6a3e28a99826da7a63a1cfc0b828c8f8eae4fcd4e3b3eb686a4f7a3bd4d32"
+    },
+    "broad_cut_events_without_top_ship.csv": {
+      "rows": 5,
+      "sha256": "82acbbf13c2c712af24ea213d4cdf9159ec5c34f8f88231ecfe5ddff0e76f5e5"
+    },
+    "daily_cuts_by_ship.csv": {
+      "rows": 6498,
+      "sha256": "bf37d70cbeaa60abf58370c9b38a2a47816b84d44622974e30e30f6f01e1ebd1"
+    },
+    "daily_cuts_by_cabin.csv": {
+      "rows": 1368,
+      "sha256": "6d1e27270cba8c425935f666f21dac85364ade951a1122f0ccb66484a58fdd6c"
+    },
+    "cut_persistence.csv": {
+      "rows": 8218,
+      "sha256": "c9937f60abed5ff43607ca880d6b91eabd7082665bfc2dff7cdfaae40805f8f6"
+    },
+    "rolling_cut_counts.csv": {
+      "rows": 342,
+      "sha256": "e008800d47a0f9f99d34040b8e04d38b0522787c64c7be0f22d347468ab735b6"
+    },
+    "monthly_cut_counts.csv": {
+      "rows": 12,
+      "sha256": "92b842d47fc7d7d6c69b1cb64cc203c48420228e913bf5fbe0c09b6e52b85fec"
+    }
+  }
+}

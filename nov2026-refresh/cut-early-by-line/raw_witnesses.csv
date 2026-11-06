@@ -1,0 +1,7 @@
+line,sailing_id,cabin,lead_days,role,source,raw_row,scraped_at,depart_date,price,supplied_lead,index,unit_cut,raw_readback_matches
+norwegian,2026-11-01-cmhi2n26i0dck6v70gdo9r5uv,balcony,300,first_daily_ask,/home/rich/devdata/allaboard-parser/out/nclh-2026-11-04/price_history.csv,944986,2025-11-02T18:55:36.456Z,2026-11-01,244.0,364,100.0,False,True
+norwegian,2026-11-01-cmhi2n26i0dck6v70gdo9r5uv,balcony,300,minimum_before_lead,/home/rich/devdata/allaboard-parser/out/nclh-2026-11-04/price_history.csv,945002,2025-11-06T14:09:03.626Z,2026-11-01,230.0,360,94.26229508196721,False,True
+royal-caribbean,2026-11-01-cmhi1jhre02196v70plr89e3j,balcony,300,first_daily_ask,/home/rich/devdata/allaboard-parser/out/peers-2026-11-04/price_history.csv,3604147,2025-11-02T18:24:50.383Z,2026-11-01,135.0,364,100.0,False,True
+royal-caribbean,2026-11-01-cmhi1jhre02196v70plr89e3j,balcony,300,minimum_before_lead,/home/rich/devdata/allaboard-parser/out/peers-2026-11-04/price_history.csv,3604187,2025-11-12T13:42:32.470Z,2026-11-01,134.0,354,99.25925925925925,False,True
+carnival,2026-11-01-cmhi1zx2h06mm6v706oejqm5s,balcony,300,first_daily_ask,/home/rich/devdata/allaboard-parser/out/peers-2026-11-04/price_history.csv,127213,2025-11-02T18:37:36.731Z,2026-11-01,136.0,364,100.0,True,True
+carnival,2026-11-01-cmhi1zx2h06mm6v706oejqm5s,balcony,300,minimum_before_lead,/home/rich/devdata/allaboard-parser/out/peers-2026-11-04/price_history.csv,127421,2025-12-25T13:52:03.116Z,2026-11-01,109.0,311,80.1470588235294,True,True

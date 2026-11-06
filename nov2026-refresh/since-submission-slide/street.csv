@@ -1,0 +1,11 @@
+metric,date,value,unit,n,source,precision
+FY27 EPS consensus,2026-09-18,1.695,USD/share,14,/home/rich/devdata/nclh-ivy-refresh/web/street.md,as reported
+FY27 EPS consensus,2026-10-24,1.456,USD/share,14,/home/rich/devdata/nclh-ivy-refresh/web/street.md,as reported
+FY27 EPS consensus,2026-11-04,1.424,USD/share,13,/home/rich/devdata/nclh-ivy-refresh/web/street.md,as reported
+Buy ratings,2026-11-04,5,brokers,16,/home/rich/devdata/nclh-ivy-refresh/web/street.md,as reported
+Hold ratings,2026-11-04,10,brokers,16,/home/rich/devdata/nclh-ivy-refresh/web/street.md,as reported
+Sell ratings,2026-11-04,1,brokers,16,/home/rich/devdata/nclh-ivy-refresh/web/street.md,as reported
+Median price target,2026-11-04,18.50,USD/share,16,/home/rich/devdata/nclh-ivy-refresh/web/street.md,as reported
+Share price close,2026-11-04,18.60,USD/share,1,/home/rich/devdata/nclh-ivy-refresh/web/street.md,as reported
+Short interest,2026-10-30,95500536,shares,,/home/rich/devdata/nclh-ivy-refresh/mac/msg1-summary-B1-B3.md,exact reported shares
+Short interest,2025-10-31,9.11,million shares,,/home/rich/devdata/nclh-ivy-refresh/mac/msg1-summary-B1-B3.md,rounded upstream; about 9M on slide

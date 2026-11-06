@@ -1,0 +1,58 @@
+{
+  "cutoff": "2026-09-12",
+  "cpu_workers": 1,
+  "diagnostics": {
+    "history_rows": 10760269,
+    "on_or_after_departure_rows": 5109,
+    "daily_unit_rows": 10718369,
+    "after_cutoff_rows": 36791
+  },
+  "inputs": {
+    "/home/rich/devdata/allaboard-parser/out/full-2026-09-14/sailings.csv": {
+      "bytes": 16292740,
+      "sha256": "e7db6fe83e13ba6e34e5d3ebb96b2fe64e1a80903ce83eb20b8be9fdc1b40e46"
+    },
+    "/home/rich/devdata/allaboard-parser/out/full-2026-09-14/price_history.csv": {
+      "bytes": 1223612747,
+      "sha256": "47a4ba5dc7b4b7afbbef513a5adaf51e581adb443a80c357e6c8d567de24d3a4"
+    },
+    "/home/rich/devdata/allaboard-parser/out/full-2026-09-14/verify_report.json": {
+      "bytes": 1251,
+      "sha256": "ac5d0e65ae2c5bef1e09a4dff6e26790d532d020df094571bcedb12953284995"
+    },
+    "/home/rich/devdata/nclh-2027-momentum/analyze.py": {
+      "bytes": 76937,
+      "sha256": "e10699e09b6912e09d42396f34e20e917839a8d27427aa884202da3c4052081d"
+    }
+  },
+  "source_sha256": "55f3661e186b9bbf4d13ac8a78cfe748cd1c62c2fa8d5782442dde515ba93670",
+  "outputs": {
+    "correlation_summary.csv": "fdaa2e60b062448554c40dba5c39139311177fa57c2524a08949707da51dc32a",
+    "correlations.csv": "f534a053c7083feec247522265ce356c87e398f10cfc5526dad57b92a665111c",
+    "daily_cut_cells.csv": "219cf9ae031c8da3d9a3ee1f8cb0fda9efc983f8de51b10f83d778bd843fa761",
+    "daily_cuts.csv": "e0e2a50b7e4db7cc9cb53f597f0c1a2d123f5f058da99a55be89937b2939b991",
+    "far_out.csv": "1cdff82747646aa951e5b326c8af9a0b0fe98544382f8f0317e56c9bb5ee1bad",
+    "inventory.csv": "ef062a9066ccc4a0e2bb4f0ca905df3cd0d9a181ab72c61fc0946355eae08e58",
+    "inventory_dimensions.csv": "08dc82fb9847ab38313c726935e06d69efd2813c173c9a7625915bd258ed43be",
+    "inventory_sailings.csv": "6ec9080f6d865e6b1487e1670573ba1b36263ee33b5eb80af300ea514393c099",
+    "inventory_units.csv": "16867140e57dd3ba2f1cf7e583a2f2a0047885c0bd5e3378ba37e38aa78cfc08",
+    "late_by_month.csv": "1e5617b51ade164ed8c56a5c5a5181702c56c660eee40ff7f5e8e356e2250509",
+    "late_units.csv": "5127bf66794e27bfc7e601d6426041e9229672b7e6ea3d18663fa56633199131",
+    "matched_contrast_cells.csv": "b28431d8358650f4553a1f49c57515d2ac73bbb6e5755edf5fcfee6978df19c5",
+    "matched_contrasts.csv": "c57fa4439fda5b0aa96705d2457a236fc8c5949cd9d4f908d6759bcd12a3cdb2",
+    "matched_daily_cuts.csv": "387b023662bd00f8d4830d913e51de78100ea1a3e60c7cec2cbb85353a90f878",
+    "opening_2027_band_quotes.csv": "1cbc90edf88e547e20d7aa3616fe05c8e8c32e2514abcaf3f22abd89077e2bd5",
+    "opening_inventory.csv": "c95a57958b2a975389f7fa57c703a4fe653c332e29496ebce4cb5628f89556f8",
+    "opening_pairs.csv": "bba56f7257ba6df6391d8f4b23a379fb9f77138553442ae10d1463de67a2a6dd",
+    "opening_summary.csv": "4cd8bf317910475cc4bf8c7ff3119af1d64d49f16ff6f0fa0c666165c710b80c",
+    "paired_units.csv": "f7bc5f511bb9fcfe1d05fcff214aa2e959b36dec1b967d68b7ef0dac34ce3a1b",
+    "persistence.csv": "b7d49d571ff62dbd9e8cbc3590efebc728bec7a72f1521a3b34b0e2ba1d53d8a",
+    "persistence_units.csv": "af8b909ebe0e02bada22f08393697a6c66cdf1035aaa5d5538bf132adff608dd",
+    "shared_dates.csv": "dcfb366678f9c13b697f3084ea484aea05e4a3b7671f8b0c20175d95dd0f7dd0",
+    "ship_candidates.csv": "0a57e16cbff32299890acc0e2b7326021bbbc0b65a778be65d1abbd91d1d5c58",
+    "ship_step_units.csv": "ed2a7109565b0edcadd25373cea0a2896b4b299fffc9f80a1d06ab8334df12f4",
+    "ship_summary.csv": "cab5408fc05f3471a7641b40c8098e7aecf383c492f706cfb8df4317aada654c",
+    "ships.csv": "db747ec7303280e9fd281759d77de9925f90fe2da766d2432fa6545694ba97a7",
+    "summary.csv": "5a0d085f5db37ce610abcbacd00c303dff4b24ff8ac1d8265145362696a82464"
+  }
+}

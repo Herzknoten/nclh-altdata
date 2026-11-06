@@ -1,0 +1,8 @@
+{
+ "free_at_sea": "free at sea|\\bfas\\b|more at sea|drink package|beverage package",
+ "fees_gratuities": "gratuit|service charge|upcharge|nickel.?and.?dim|extra fee|hidden fee",
+ "cuts": "continental breakfast|turn ?down service|cut ?backs?|cost.?cutting|no longer (?:includ|offer)|got rid of|taken away",
+ "gsc_great_tides": "great stirrup|\\bgsc\\b|great tides",
+ "price_drop_reprice": "price (?:drop|dropped)|reprice|repric|price went down|price decrease",
+ "never_again": "never again|last cruise with|switching to|done with ncl|done with norwegian|done with royal|done with carnival"
+}

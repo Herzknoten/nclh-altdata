@@ -1,0 +1,130 @@
+table,extract,brand_id,brand_name,rows,operator_allowlist,slide_brand,min_start,max_end,disposition
+spend,old,10077,AIDA CRUISES,188,True,False,2018-01-03,2026-08-07,cruise operator
+spend,old,10216,AVALON RIVER CRUISE,2252,True,False,2018-01-02,2026-08-07,cruise operator
+spend,old,10222,AZAMARA CRUISES,2344,True,False,2018-01-03,2026-08-07,cruise operator
+spend,old,10518,CARNIVAL CRUISE LINES,3007,True,True,2018-01-01,2026-08-07,cruise operator
+spend,old,10519,CARNIVAL SUPERMARKET,3005,False,False,2018-01-01,2026-08-06,exclude non-operator substring match
+spend,old,10551,CELEBRITY CRUISES,3006,True,False,2018-01-01,2026-08-07,cruise operator
+spend,old,10724,COSTA CRUISE,1084,True,False,2018-01-03,2026-08-04,cruise operator
+spend,old,10762,CRUISE AMERICA,3005,False,False,2018-01-02,2026-08-07,exclude non-operator substring match
+spend,old,10765,CRYSTAL CRUISES,1670,True,False,2018-01-03,2026-08-07,cruise operator
+spend,old,11413,HOLLAND AMERICA,3007,True,False,2018-01-01,2026-08-07,cruise operator
+spend,old,12013,NORWEGIAN CRUISE,3019,True,True,2018-01-01,2026-08-07,cruise operator
+spend,old,12030,OCEANIA CRUISES,2859,True,False,2018-01-01,2026-08-07,cruise operator
+spend,old,12085,P & O CRUISES,203,True,False,2018-01-12,2026-08-07,cruise operator
+spend,old,12245,PRINCESS CRUISE,3037,True,False,2018-01-01,2026-08-07,cruise operator
+spend,old,12338,REGENT SEVEN SEAS CRUISES,2579,True,False,2018-01-01,2026-08-07,cruise operator
+spend,old,12410,ROYAL CARIBBEAN CRUISE,3006,True,True,2018-01-01,2026-08-07,cruise operator
+spend,old,12479,SEABORNE CRUISES,2355,True,False,2018-01-02,2026-08-07,cruise operator
+spend,old,12515,SHOE CARNIVAL,3016,False,False,2018-01-02,2026-08-07,exclude non-operator substring match
+spend,old,12546,SILVERSEA CRUISES,2213,True,False,2018-01-02,2026-08-07,cruise operator
+spend,old,12631,STAR CRUISE,41,True,False,2018-02-18,2025-03-16,cruise operator
+spend,old,13050,VIKING CRUISES,3138,True,False,2018-01-01,2026-08-07,cruise operator
+spend,old,13134,WINDSTAR CRUISES,2565,True,False,2018-01-03,2026-08-07,cruise operator
+spend,old,13790,VIKING PROPANE CO.,166,False,False,2018-01-02,2025-10-27,exclude non-operator substring match
+spend,old,14655,DISNEY CRUISE LINE,3015,True,False,2018-01-01,2026-08-07,cruise operator
+spend,old,16070,ENTERTAINMENT CRUISES,942,False,False,2018-01-02,2026-08-07,exclude non-operator substring match
+spend,old,16508,PRINCESS HOUSE,2991,False,False,2018-01-01,2026-08-07,exclude non-operator substring match
+spend,old,16531,AMERICAN CRUISE LINES,2756,True,False,2018-01-02,2026-08-07,cruise operator
+spend,old,16545,UNIWORLD RIVER CRUISES,1853,True,False,2018-01-03,2026-08-07,cruise operator
+spend,old,16587,MSC CRUISES,3026,True,False,2018-01-01,2026-08-07,cruise operator
+spend,old,16629,NORWEGIAN AIR,2817,False,False,2018-01-01,2026-08-07,exclude non-operator substring match
+spend,old,16872,PRINCESS POLLY,3009,False,False,2018-01-01,2026-08-07,exclude non-operator substring match
+spend,old,17457,CRUISEONE,2688,False,False,2018-01-01,2026-08-07,exclude non-operator substring match
+spend,old,18427,TUI CRUISES,109,True,False,2018-01-07,2026-07-13,cruise operator
+spend,old,18607,CRUISE CRITIC,16,False,False,2018-07-19,2024-02-17,exclude non-operator substring match
+spend,old,22079,CRUISEDIRECT,21,False,False,2018-01-08,2023-04-13,exclude non-operator substring match
+spend,old,22111,EZ LITE CRUISER,611,False,False,2018-01-09,2026-07-28,exclude non-operator substring match
+spend,old,22747,MSC INDUSTRIAL SUPPLY,2990,False,False,2018-01-01,2026-08-07,exclude non-operator substring match
+spend,old,28200,HAPPY VIKING,1259,False,False,2021-09-20,2026-06-12,exclude non-operator substring match
+spend,old,28920,CRUISE DRIVERLESS RIDES,352,False,False,2022-05-18,2023-10-26,exclude non-operator substring match
+spend,old,28975,CRUISEBOUND,951,False,False,2022-03-03,2026-08-07,exclude non-operator substring match
+spend,old,29217,HAPAG-LLOYD CRUISES,28,True,False,2018-03-01,2026-08-04,cruise operator
+spend,old,29218,FRED OLSEN CRUISES,91,True,False,2018-02-21,2026-07-27,cruise operator
+spend,old,93591,CELESTYAL CRUISES,1822,True,False,2018-01-01,2026-08-07,cruise operator
+spend,new,10077,AIDA CRUISES,195,True,False,2018-01-03,2026-08-07,cruise operator
+spend,new,10216,AVALON RIVER CRUISE,2338,True,False,2018-01-02,2026-08-07,cruise operator
+spend,new,10222,AZAMARA CRUISES,2444,True,False,2018-01-03,2026-08-07,cruise operator
+spend,new,10518,CARNIVAL CRUISE LINES,3141,True,True,2018-01-01,2026-08-07,cruise operator
+spend,new,10519,CARNIVAL SUPERMARKET,3141,False,False,2018-01-01,2026-08-07,exclude non-operator substring match
+spend,new,10551,CELEBRITY CRUISES,3139,True,False,2018-01-01,2026-08-07,cruise operator
+spend,new,10724,COSTA CRUISE,1137,True,False,2018-01-03,2026-08-04,cruise operator
+spend,new,10762,CRUISE AMERICA,3139,False,False,2018-01-02,2026-08-07,exclude non-operator substring match
+spend,new,10765,CRYSTAL CRUISES,1740,True,False,2018-01-03,2026-08-07,cruise operator
+spend,new,11413,HOLLAND AMERICA,3141,True,False,2018-01-01,2026-08-07,cruise operator
+spend,new,12013,NORWEGIAN CRUISE,3141,True,True,2018-01-01,2026-08-07,cruise operator
+spend,new,12030,OCEANIA CRUISES,2988,True,False,2018-01-01,2026-08-07,cruise operator
+spend,new,12085,P & O CRUISES,208,True,False,2018-01-12,2026-08-07,cruise operator
+spend,new,12245,PRINCESS CRUISE,3141,True,False,2018-01-01,2026-08-07,cruise operator
+spend,new,12338,REGENT SEVEN SEAS CRUISES,2684,True,False,2018-01-01,2026-08-07,cruise operator
+spend,new,12410,ROYAL CARIBBEAN CRUISE,3141,True,True,2018-01-01,2026-08-07,cruise operator
+spend,new,12479,SEABORNE CRUISES,2444,True,False,2018-01-02,2026-08-07,cruise operator
+spend,new,12515,SHOE CARNIVAL,3141,False,False,2018-01-01,2026-08-07,exclude non-operator substring match
+spend,new,12546,SILVERSEA CRUISES,2297,True,False,2018-01-02,2026-08-07,cruise operator
+spend,new,12631,STAR CRUISE,41,True,False,2018-02-18,2025-03-16,cruise operator
+spend,new,13050,VIKING CRUISES,3138,True,False,2018-01-01,2026-08-07,cruise operator
+spend,new,13134,WINDSTAR CRUISES,2565,True,False,2018-01-03,2026-08-07,cruise operator
+spend,new,14655,DISNEY CRUISE LINE,3141,True,False,2018-01-01,2026-08-07,cruise operator
+spend,new,16070,ENTERTAINMENT CRUISES,985,False,False,2018-01-02,2026-08-07,exclude non-operator substring match
+spend,new,16531,AMERICAN CRUISE LINES,2872,True,False,2018-01-02,2026-08-07,cruise operator
+spend,new,16545,UNIWORLD RIVER CRUISES,1853,True,False,2018-01-03,2026-08-07,cruise operator
+spend,new,16587,MSC CRUISES,3136,True,False,2018-01-01,2026-08-07,cruise operator
+spend,new,16629,NORWEGIAN AIR,2951,False,False,2018-01-01,2026-08-07,exclude non-operator substring match
+spend,new,17457,CRUISEONE,2800,False,False,2018-01-01,2026-08-07,exclude non-operator substring match
+spend,new,18427,TUI CRUISES,109,True,False,2018-01-07,2026-07-13,cruise operator
+spend,new,18607,CRUISE CRITIC,17,False,False,2018-07-14,2024-02-17,exclude non-operator substring match
+spend,new,22079,CRUISEDIRECT,21,False,False,2018-01-08,2023-04-13,exclude non-operator substring match
+spend,new,22111,EZ LITE CRUISER,631,False,False,2018-01-09,2026-07-28,exclude non-operator substring match
+spend,new,28920,CRUISE DRIVERLESS RIDES,371,False,False,2022-05-18,2023-10-26,exclude non-operator substring match
+spend,new,28975,CRUISEBOUND,989,False,False,2022-03-03,2026-08-07,exclude non-operator substring match
+spend,new,29217,HAPAG-LLOYD CRUISES,28,True,False,2018-03-01,2026-08-04,cruise operator
+spend,new,29218,FRED OLSEN CRUISES,97,True,False,2018-02-21,2026-07-27,cruise operator
+spend,new,93591,CELESTYAL CRUISES,1898,True,False,2018-01-01,2026-08-07,cruise operator
+cohort,old,10518,CARNIVAL CRUISE LINES,5908,True,True,2021-05-01,2026-08-09,cruise operator
+cohort,old,10551,CELEBRITY CRUISES,5933,True,False,2021-05-01,2026-08-09,cruise operator
+cohort,old,11413,HOLLAND AMERICA,5908,True,False,2021-05-01,2026-08-09,cruise operator
+cohort,old,12013,NORWEGIAN CRUISE,5903,True,True,2021-05-01,2026-08-09,cruise operator
+cohort,old,12030,OCEANIA CRUISES,5834,True,False,2021-05-01,2026-08-09,cruise operator
+cohort,old,12245,PRINCESS CRUISE,5917,True,False,2021-05-01,2026-08-09,cruise operator
+cohort,old,12338,REGENT SEVEN SEAS CRUISES,5736,True,False,2021-05-01,2026-08-09,cruise operator
+cohort,old,12410,ROYAL CARIBBEAN CRUISE,5934,True,True,2021-05-01,2026-08-09,cruise operator
+cohort,old,13050,VIKING CRUISES,5900,True,False,2021-05-01,2026-08-09,cruise operator
+cohort,old,16587,MSC CRUISES,5916,True,False,2021-05-01,2026-08-09,cruise operator
+cohort,new,10077,AIDA CRUISES,1152,True,False,2021-05-01,2026-08-09,cruise operator
+cohort,new,10216,AVALON RIVER CRUISE,5824,True,False,2021-05-01,2026-08-09,cruise operator
+cohort,new,10222,AZAMARA CRUISES,5811,True,False,2021-05-01,2026-08-09,cruise operator
+cohort,new,10518,CARNIVAL CRUISE LINES,6090,True,True,2021-05-01,2026-08-09,cruise operator
+cohort,new,10519,CARNIVAL SUPERMARKET,6088,False,False,2021-05-01,2026-08-09,exclude non-operator substring match
+cohort,new,10551,CELEBRITY CRUISES,6090,True,False,2021-05-01,2026-08-09,cruise operator
+cohort,new,10724,COSTA CRUISE,4426,True,False,2021-05-01,2026-08-09,cruise operator
+cohort,new,10762,CRUISE AMERICA,6070,False,False,2021-05-01,2026-08-09,exclude non-operator substring match
+cohort,new,10765,CRYSTAL CRUISES,4629,True,False,2021-05-01,2026-08-09,cruise operator
+cohort,new,11413,HOLLAND AMERICA,6089,True,False,2021-05-01,2026-08-09,cruise operator
+cohort,new,12013,NORWEGIAN CRUISE,6090,True,True,2021-05-01,2026-08-09,cruise operator
+cohort,new,12030,OCEANIA CRUISES,6020,True,False,2021-05-01,2026-08-09,cruise operator
+cohort,new,12085,P & O CRUISES,1889,True,False,2021-05-17,2026-08-09,cruise operator
+cohort,new,12245,PRINCESS CRUISE,6090,True,False,2021-05-01,2026-08-09,cruise operator
+cohort,new,12338,REGENT SEVEN SEAS CRUISES,5902,True,False,2021-05-01,2026-08-09,cruise operator
+cohort,new,12410,ROYAL CARIBBEAN CRUISE,6090,True,True,2021-05-01,2026-08-09,cruise operator
+cohort,new,12479,SEABORNE CRUISES,5733,True,False,2021-05-01,2026-08-09,cruise operator
+cohort,new,12515,SHOE CARNIVAL,6090,False,False,2021-05-01,2026-08-09,exclude non-operator substring match
+cohort,new,12546,SILVERSEA CRUISES,5776,True,False,2021-05-01,2026-08-09,cruise operator
+cohort,new,12631,STAR CRUISE,182,True,False,2023-08-14,2025-08-10,cruise operator
+cohort,new,13050,VIKING CRUISES,6088,True,False,2021-05-01,2026-08-09,cruise operator
+cohort,new,13134,WINDSTAR CRUISES,5797,True,False,2021-05-01,2026-08-09,cruise operator
+cohort,new,14655,DISNEY CRUISE LINE,6090,True,False,2021-05-01,2026-08-09,cruise operator
+cohort,new,16070,ENTERTAINMENT CRUISES,3024,False,False,2021-05-01,2026-08-09,exclude non-operator substring match
+cohort,new,16531,AMERICAN CRUISE LINES,5971,True,False,2021-05-01,2026-08-09,cruise operator
+cohort,new,16545,UNIWORLD RIVER CRUISES,5530,True,False,2021-05-01,2026-08-09,cruise operator
+cohort,new,16587,MSC CRUISES,6090,True,False,2021-05-01,2026-08-09,cruise operator
+cohort,new,16629,NORWEGIAN AIR,5978,False,False,2021-05-01,2026-08-09,exclude non-operator substring match
+cohort,new,17457,CRUISEONE,6079,False,False,2021-05-01,2026-08-09,exclude non-operator substring match
+cohort,new,18427,TUI CRUISES,1433,True,False,2021-05-17,2026-08-09,cruise operator
+cohort,new,18607,CRUISE CRITIC,144,False,False,2021-08-16,2024-08-11,exclude non-operator substring match
+cohort,new,22079,CRUISEDIRECT,48,False,False,2022-08-15,2023-08-13,exclude non-operator substring match
+cohort,new,22111,EZ LITE CRUISER,3341,False,False,2021-05-01,2026-08-09,exclude non-operator substring match
+cohort,new,28920,CRUISE DRIVERLESS RIDES,1566,False,False,2021-08-16,2024-08-11,exclude non-operator substring match
+cohort,new,28975,CRUISEBOUND,4607,False,False,2021-08-16,2026-08-09,exclude non-operator substring match
+cohort,new,29217,HAPAG-LLOYD CRUISES,410,True,False,2022-08-15,2026-08-09,cruise operator
+cohort,new,29218,FRED OLSEN CRUISES,1108,True,False,2021-07-01,2026-08-09,cruise operator
+cohort,new,93591,CELESTYAL CRUISES,5614,True,False,2021-05-01,2026-08-09,cruise operator

@@ -1,0 +1,50 @@
+{
+  "patterns": {
+    "gsc": "great stirrup|stirrup cay|\\bgsc\\b",
+    "gsc_tender": "\\btender",
+    "gsc_pier": "\\bpier\\b|dock(ed|ing)? (at|directly)|walk off",
+    "gsc_waterpark": "water ?park|waterslide|slides\\b|lagoon|heated pool|splash",
+    "gsc_pier_dock": "\\b(?:piers?|docks?|docking)\\b",
+    "gsc_crowd_lines": "\\b(?:crowd(?:s|ed|ing)?|lines?)\\b",
+    "haven": "\\bhaven\\b(?!['\u2019]t)",
+    "star_class": "\\bstar[ -]+class\\b",
+    "suite": "\\bsuites?\\b"
+  },
+  "written_utc": "2026-11-05T08:34:33.369516+00:00",
+  "windows": {
+    "all_pre": [
+      "2025-01-01",
+      "2026-09-04"
+    ],
+    "same_year_pre": [
+      "2026-01-01",
+      "2026-09-04"
+    ],
+    "august_pre": [
+      "2026-08-01",
+      "2026-09-01"
+    ],
+    "september_pre": [
+      "2026-09-01",
+      "2026-09-04"
+    ],
+    "post_complete": [
+      "2026-09-04",
+      "2026-11-01"
+    ],
+    "september_post": [
+      "2026-09-04",
+      "2026-10-01"
+    ],
+    "october_post": [
+      "2026-10-01",
+      "2026-11-01"
+    ],
+    "november_partial": [
+      "2026-11-01",
+      "2026-11-05"
+    ]
+  },
+  "method_sha256": "06780b78370a2f9fd04399659b6996eaf95c9e15edc1a40fc321e1f5895fc705",
+  "n4_reconstruction_sha256": "e8369c9fa9a4e093e3f88ebcba346850b4686bbda6ba1bb73115fd18d976a6db"
+}

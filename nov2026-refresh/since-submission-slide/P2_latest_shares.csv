@@ -1,0 +1,4 @@
+line,start,end,n_sailings,n_cut,share_cut_pct,source,source_key
+norwegian,2026-10-20,2026-11-04,102,16,15.6862745098,/home/rich/devdata/nclh-ivy-refresh/slide13/data/R13_latest_shares.csv,"{""end"": ""2026-11-04"", ""line"": ""norwegian"", ""n_cut"": ""16"", ""n_sailings"": ""102"", ""share_cut_pct"": ""15.6862745098"", ""start"": ""2026-10-20""}"
+royal-caribbean,2026-10-20,2026-11-04,227,85,37.4449339207,/home/rich/devdata/nclh-ivy-refresh/slide13/data/R13_latest_shares.csv,"{""end"": ""2026-11-04"", ""line"": ""royal-caribbean"", ""n_cut"": ""85"", ""n_sailings"": ""227"", ""share_cut_pct"": ""37.4449339207"", ""start"": ""2026-10-20""}"
+carnival,2026-10-20,2026-11-04,182,40,21.978021978,/home/rich/devdata/nclh-ivy-refresh/slide13/data/R13_latest_shares.csv,"{""end"": ""2026-11-04"", ""line"": ""carnival"", ""n_cut"": ""40"", ""n_sailings"": ""182"", ""share_cut_pct"": ""21.978021978"", ""start"": ""2026-10-20""}"

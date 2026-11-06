@@ -1,0 +1,18 @@
+test,population,primary_met,W7_met,X3_and_X10_met,Caribbean_met,robust_families,verdict
+A,0-120,False,True,False,False,1,does not support
+A,0-60,True,True,False,False,1,inconclusive
+A,121-240,True,True,False,False,1,inconclusive
+A,241+,False,False,False,False,0,does not support
+A,61-120,False,True,False,False,1,does not support
+A,all,True,True,False,False,1,inconclusive
+B,0-120,False,True,False,False,1,does not support
+B,0-60,True,True,True,True,3,supports H
+B,121-240,False,False,False,False,0,does not support
+B,241+,False,False,False,False,0,does not support
+B,61-120,False,False,False,False,0,does not support
+B,all,False,False,False,False,0,does not support
+C,0-120,False,True,False,False,1,does not support
+C,0-60,True,True,False,False,1,inconclusive
+C,121-240,True,True,False,False,1,inconclusive
+C,61-120,False,True,False,False,1,does not support
+C,all,True,True,False,False,1,inconclusive

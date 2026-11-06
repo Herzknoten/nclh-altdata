@@ -1,0 +1,50 @@
+{
+  "spend": [
+    "BRAND_ID",
+    "BRAND_NAME",
+    "SPEND_AMOUNT",
+    "TRANS_COUNT",
+    "TRANS_DATE",
+    "VERSION"
+  ],
+  "cohort": [
+    "BRAND_ID",
+    "BRAND_NAME",
+    "DEMO",
+    "DEMO_TYPE",
+    "INDIVIDUAL_COUNT",
+    "PERIOD",
+    "PERIOD_END_DT",
+    "PERIOD_START_DT",
+    "PERIOD_TYPE",
+    "SPEND_AMOUNT",
+    "TRANS_COUNT",
+    "VERSION",
+    "YA_INDIVIDUAL_COUNT",
+    "YA_PERIOD",
+    "YA_PERIOD_END_DT",
+    "YA_PERIOD_START_DT",
+    "YA_SPEND_AMOUNT",
+    "YA_TRANS_COUNT"
+  ],
+  "cohort_normalized_types": {
+    "brand_id": "INTEGER",
+    "brand_name": "VARCHAR",
+    "demo": "VARCHAR",
+    "demo_type": "VARCHAR",
+    "customers": "DOUBLE",
+    "period": "VARCHAR",
+    "period_end": "DATE",
+    "period_start": "DATE",
+    "period_type": "VARCHAR",
+    "spend": "DOUBLE",
+    "transactions": "DOUBLE",
+    "version": "DATE",
+    "ya_customers": "DOUBLE",
+    "ya_period": "VARCHAR",
+    "ya_period_end": "DATE",
+    "ya_period_start": "DATE",
+    "ya_spend": "DOUBLE",
+    "ya_transactions": "DOUBLE"
+  }
+}

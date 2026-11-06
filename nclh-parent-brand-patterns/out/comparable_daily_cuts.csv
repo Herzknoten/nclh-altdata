@@ -1,0 +1,65 @@
+scope,lead_band,date,brand,parent,common_cells,cell_weight,units,ships,cut_share
+all_regions,all_leads,2026-08-30,celebrity,RCG,19,111,115,3,0.05855855855855856
+all_regions,all_leads,2026-08-30,holland-america,Carnival Corporation,19,111,175,6,0.0
+all_regions,all_leads,2026-08-30,princess,Carnival Corporation,19,111,212,7,0.0
+all_regions,all_leads,2026-08-30,royal-caribbean,RCG,19,111,127,4,0.0
+all_regions,all_leads,2026-08-31,celebrity,RCG,19,111,115,3,0.009009009009009009
+all_regions,all_leads,2026-08-31,holland-america,Carnival Corporation,19,111,181,6,0.0
+all_regions,all_leads,2026-08-31,princess,Carnival Corporation,19,111,219,7,0.0
+all_regions,all_leads,2026-08-31,royal-caribbean,RCG,19,111,127,4,0.02702702702702703
+all_regions,all_leads,2026-09-01,celebrity,RCG,19,115,115,3,0.19130434782608696
+all_regions,all_leads,2026-09-01,holland-america,Carnival Corporation,19,115,178,6,0.11207729468599034
+all_regions,all_leads,2026-09-01,princess,Carnival Corporation,19,115,210,7,0.0
+all_regions,all_leads,2026-09-01,royal-caribbean,RCG,19,115,127,4,0.024154589371980676
+all_regions,all_leads,2026-09-02,celebrity,RCG,19,115,119,3,0.06956521739130435
+all_regions,all_leads,2026-09-02,holland-america,Carnival Corporation,19,115,184,6,0.0
+all_regions,all_leads,2026-09-02,princess,Carnival Corporation,19,115,216,7,0.005072463768115942
+all_regions,all_leads,2026-09-02,royal-caribbean,RCG,19,115,127,4,0.030917874396135265
+all_regions,all_leads,2026-09-03,celebrity,RCG,19,115,119,3,0.03354037267080746
+all_regions,all_leads,2026-09-03,holland-america,Carnival Corporation,19,115,191,6,0.0
+all_regions,all_leads,2026-09-03,princess,Carnival Corporation,19,115,223,7,0.03016722408026756
+all_regions,all_leads,2026-09-03,royal-caribbean,RCG,19,115,127,4,0.01352657004830918
+all_regions,all_leads,2026-09-04,celebrity,RCG,19,119,123,3,0.7503001200480193
+all_regions,all_leads,2026-09-04,holland-america,Carnival Corporation,19,119,189,6,0.005252100840336135
+all_regions,all_leads,2026-09-04,princess,Carnival Corporation,19,119,216,7,0.0837001467253568
+all_regions,all_leads,2026-09-04,royal-caribbean,RCG,19,119,131,4,0.008403361344537815
+all_regions,all_leads,2026-09-05,celebrity,RCG,19,119,123,3,0.0312124849939976
+all_regions,all_leads,2026-09-05,holland-america,Carnival Corporation,19,119,192,6,0.0
+all_regions,all_leads,2026-09-05,princess,Carnival Corporation,19,119,219,7,0.004668534080298786
+all_regions,all_leads,2026-09-05,royal-caribbean,RCG,19,119,131,4,0.01680672268907563
+all_regions,all_leads,2026-09-07,celebrity,RCG,19,119,123,3,0.03361344537815126
+all_regions,all_leads,2026-09-07,holland-america,Carnival Corporation,19,119,183,5,0.0
+all_regions,all_leads,2026-09-07,princess,Carnival Corporation,19,119,227,7,0.0
+all_regions,all_leads,2026-09-07,royal-caribbean,RCG,19,119,131,4,0.01680672268907563
+all_regions,241plus,2026-08-30,celebrity,RCG,19,111,115,3,0.05855855855855856
+all_regions,241plus,2026-08-30,holland-america,Carnival Corporation,19,111,175,6,0.0
+all_regions,241plus,2026-08-30,princess,Carnival Corporation,19,111,212,7,0.0
+all_regions,241plus,2026-08-30,royal-caribbean,RCG,19,111,127,4,0.0
+all_regions,241plus,2026-08-31,celebrity,RCG,19,111,115,3,0.009009009009009009
+all_regions,241plus,2026-08-31,holland-america,Carnival Corporation,19,111,181,6,0.0
+all_regions,241plus,2026-08-31,princess,Carnival Corporation,19,111,219,7,0.0
+all_regions,241plus,2026-08-31,royal-caribbean,RCG,19,111,127,4,0.02702702702702703
+all_regions,241plus,2026-09-01,celebrity,RCG,19,115,115,3,0.19130434782608696
+all_regions,241plus,2026-09-01,holland-america,Carnival Corporation,19,115,178,6,0.11207729468599034
+all_regions,241plus,2026-09-01,princess,Carnival Corporation,19,115,210,7,0.0
+all_regions,241plus,2026-09-01,royal-caribbean,RCG,19,115,127,4,0.024154589371980676
+all_regions,241plus,2026-09-02,celebrity,RCG,19,115,119,3,0.06956521739130435
+all_regions,241plus,2026-09-02,holland-america,Carnival Corporation,19,115,184,6,0.0
+all_regions,241plus,2026-09-02,princess,Carnival Corporation,19,115,216,7,0.005072463768115942
+all_regions,241plus,2026-09-02,royal-caribbean,RCG,19,115,127,4,0.030917874396135265
+all_regions,241plus,2026-09-03,celebrity,RCG,19,115,119,3,0.03354037267080746
+all_regions,241plus,2026-09-03,holland-america,Carnival Corporation,19,115,187,6,0.0
+all_regions,241plus,2026-09-03,princess,Carnival Corporation,19,115,219,7,0.030843552582683016
+all_regions,241plus,2026-09-03,royal-caribbean,RCG,19,115,127,4,0.01352657004830918
+all_regions,241plus,2026-09-04,celebrity,RCG,19,119,123,3,0.7503001200480193
+all_regions,241plus,2026-09-04,holland-america,Carnival Corporation,19,119,189,6,0.005252100840336135
+all_regions,241plus,2026-09-04,princess,Carnival Corporation,19,119,216,7,0.0837001467253568
+all_regions,241plus,2026-09-04,royal-caribbean,RCG,19,119,131,4,0.008403361344537815
+all_regions,241plus,2026-09-05,celebrity,RCG,19,119,123,3,0.0312124849939976
+all_regions,241plus,2026-09-05,holland-america,Carnival Corporation,19,119,192,6,0.0
+all_regions,241plus,2026-09-05,princess,Carnival Corporation,19,119,219,7,0.004668534080298786
+all_regions,241plus,2026-09-05,royal-caribbean,RCG,19,119,131,4,0.01680672268907563
+all_regions,241plus,2026-09-07,celebrity,RCG,19,119,123,3,0.03361344537815126
+all_regions,241plus,2026-09-07,holland-america,Carnival Corporation,19,119,183,5,0.0
+all_regions,241plus,2026-09-07,princess,Carnival Corporation,19,119,227,7,0.0
+all_regions,241plus,2026-09-07,royal-caribbean,RCG,19,119,131,4,0.01680672268907563

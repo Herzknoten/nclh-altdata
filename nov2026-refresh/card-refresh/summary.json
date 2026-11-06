@@ -1,0 +1,149 @@
+{
+  "overlap": [
+    {
+      "table": "spend",
+      "old_rows": 82112,
+      "new_rows": 74383,
+      "overlap_rows": 71697,
+      "changed_overlap_rows": 0,
+      "changed_overlap_cells": 0,
+      "old_only_rows": 10415,
+      "new_only_rows": 2686,
+      "added_after_old_endpoint": 0,
+      "old_max_end": "2026-08-07",
+      "new_max_end": "2026-08-07",
+      "spot_checks": 32,
+      "spot_checks_exact": true
+    },
+    {
+      "table": "cohort",
+      "old_rows": 58889,
+      "new_rows": 171049,
+      "overlap_rows": 58889,
+      "changed_overlap_rows": 0,
+      "changed_overlap_cells": 0,
+      "old_only_rows": 0,
+      "new_only_rows": 112160,
+      "added_after_old_endpoint": 0,
+      "old_max_end": "2026-08-09",
+      "new_max_end": "2026-08-09",
+      "spot_checks": 32,
+      "spot_checks_exact": true
+    }
+  ],
+  "reproduction": [
+    {
+      "file": "card_customers_quarterly.csv",
+      "rows": 42,
+      "columns": 6,
+      "cells": 252,
+      "reference_sha256": "449050c3b3b8f366745f3d8eafd578e563dccc4ade45c23e9b896e2031a9299b",
+      "reproduced_sha256": "449050c3b3b8f366745f3d8eafd578e563dccc4ade45c23e9b896e2031a9299b",
+      "byte_identical": true
+    },
+    {
+      "file": "wealth_customers_q2_2026.csv",
+      "rows": 10,
+      "columns": 6,
+      "cells": 60,
+      "reference_sha256": "9fc5f4da3acd2ef95d8a366e542aef63c18415038506d169ec0fe1f80d819efe",
+      "reproduced_sha256": "9fc5f4da3acd2ef95d8a366e542aef63c18415038506d169ec0fe1f80d819efe",
+      "byte_identical": true
+    },
+    {
+      "file": "age_customers_q2_2026.csv",
+      "rows": 10,
+      "columns": 8,
+      "cells": 80,
+      "reference_sha256": "29b715d55c3179e5c241e4c762971ee31d6bee11dd524e34490f55e9de37c740",
+      "reproduced_sha256": "29b715d55c3179e5c241e4c762971ee31d6bee11dd524e34490f55e9de37c740",
+      "byte_identical": true
+    }
+  ],
+  "source_precision_aggregate_changes": [
+    {
+      "file": "card_customers_quarterly.csv",
+      "brand_name": "CARNIVAL CRUISE LINES",
+      "period": "2025Q1",
+      "field": "spend",
+      "old": "61969403.04",
+      "new": "61969403.05",
+      "difference": 0.009999997913837433,
+      "numeric_change_at_source_precision": true
+    },
+    {
+      "file": "card_customers_quarterly.csv",
+      "brand_name": "CARNIVAL CRUISE LINES",
+      "period": "2026Q1",
+      "field": "ya_spend",
+      "old": "61969403.04",
+      "new": "61969403.05",
+      "difference": 0.009999997913837433,
+      "numeric_change_at_source_precision": true
+    },
+    {
+      "file": "card_customers_quarterly.csv",
+      "brand_name": "ROYAL CARIBBEAN CRUISE",
+      "period": "2024Q3",
+      "field": "spend",
+      "old": "48443431.18",
+      "new": "48443431.17",
+      "difference": -0.009999997913837433,
+      "numeric_change_at_source_precision": true
+    },
+    {
+      "file": "wealth_customers_q2_2026.csv",
+      "brand_name": "MSC CRUISES",
+      "period": "2026Q2",
+      "field": "Less than or equal to $50,000",
+      "old": "0.0",
+      "new": "2106.0",
+      "difference": 2106.0,
+      "numeric_change_at_source_precision": true
+    },
+    {
+      "file": "wealth_customers_q2_2026.csv",
+      "brand_name": "REGENT SEVEN SEAS CRUISES",
+      "period": "2026Q2",
+      "field": "$50,001-$100,000",
+      "old": "0.0",
+      "new": "",
+      "difference": null,
+      "numeric_change_at_source_precision": true
+    },
+    {
+      "file": "age_customers_q2_2026.csv",
+      "brand_name": "CARNIVAL CRUISE LINES",
+      "period": "2026Q2",
+      "field": "55-64",
+      "old": "0.0",
+      "new": "6702.0",
+      "difference": 6702.0,
+      "numeric_change_at_source_precision": true
+    },
+    {
+      "file": "age_customers_q2_2026.csv",
+      "brand_name": "MSC CRUISES",
+      "period": "2026Q2",
+      "field": "Unknown",
+      "old": "0.0",
+      "new": "3054.0",
+      "difference": 3054.0,
+      "numeric_change_at_source_precision": true
+    }
+  ],
+  "new_target_brand_windows": 0,
+  "validated_quarters": {
+    "old": 60,
+    "new": 60
+  },
+  "python": "3.12.14",
+  "pandas": "3.1.1",
+  "cpu_affinity": [
+    0
+  ],
+  "chart_decision": {
+    "B3": "quarterly series unchanged; add separately labeled partial-Q3 context already in old raw",
+    "C1": "render corrected Q2 age comparison and separate partial-Q3 mix"
+  }
+}

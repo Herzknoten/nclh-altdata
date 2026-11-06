@@ -1,0 +1,51 @@
+{
+  "run": "peers2-2026-09-12",
+  "engine": "duckdb 1.5.5",
+  "threads": 1,
+  "repeats": 3,
+  "line": "norwegian",
+  "projected_columns": [
+    "sailing_id",
+    "depart_date",
+    "price"
+  ],
+  "method": "Consume Arrow record batches, 65536 rows; warm OS cache; same nine logical fields for full scans; no count-only query; excludes loader gate",
+  "csv_full": {
+    "seconds": [
+      6.778535839053802,
+      6.4537980979075655,
+      6.366767919040285
+    ],
+    "rows": 4395588,
+    "median_seconds": 6.4537980979075655
+  },
+  "parquet_full": {
+    "seconds": [
+      1.8227891370188445,
+      1.5644155879272148,
+      1.7572527420707047
+    ],
+    "rows": 4395588,
+    "median_seconds": 1.7572527420707047
+  },
+  "full_speedup": 3.672663552257465,
+  "csv_projected": {
+    "seconds": [
+      3.362652678973973,
+      3.8903160259360448,
+      3.546027191914618
+    ],
+    "rows": 1265216,
+    "median_seconds": 3.546027191914618
+  },
+  "parquet_projected": {
+    "seconds": [
+      0.16754413698799908,
+      0.17766746098641306,
+      0.21798645600210875
+    ],
+    "rows": 1265216,
+    "median_seconds": 0.17766746098641306
+  },
+  "projected_speedup": 19.958788020198007
+}

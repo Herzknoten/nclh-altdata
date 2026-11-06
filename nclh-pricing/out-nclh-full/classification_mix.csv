@@ -1,0 +1,101 @@
+analysis,departure_quarter,cabin,curve_shape_classification,n_label_sailing_cabins,n_eligible_sailing_cabins,n_total_sailing_cabins,n_excluded_insufficient_data,n_label_sailings,n_eligible_sailings,n_total_sailings,eligible_coverage_fraction,label_fraction_of_eligible
+curve-shape classification,2025Q4,ALL,close-in discounting,0,0,420,420,0,0,105,0.0,
+curve-shape classification,2025Q4,ALL,flat or rising,0,0,420,420,0,0,105,0.0,
+curve-shape classification,2025Q4,balcony,close-in discounting,0,0,105,105,0,0,105,0.0,
+curve-shape classification,2025Q4,balcony,flat or rising,0,0,105,105,0,0,105,0.0,
+curve-shape classification,2025Q4,inside,close-in discounting,0,0,105,105,0,0,105,0.0,
+curve-shape classification,2025Q4,inside,flat or rising,0,0,105,105,0,0,105,0.0,
+curve-shape classification,2025Q4,oceanview,close-in discounting,0,0,105,105,0,0,105,0.0,
+curve-shape classification,2025Q4,oceanview,flat or rising,0,0,105,105,0,0,105,0.0,
+curve-shape classification,2025Q4,suite,close-in discounting,0,0,105,105,0,0,105,0.0,
+curve-shape classification,2025Q4,suite,flat or rising,0,0,105,105,0,0,105,0.0,
+curve-shape classification,2026Q1,ALL,close-in discounting,0,0,792,792,0,0,198,0.0,
+curve-shape classification,2026Q1,ALL,flat or rising,0,0,792,792,0,0,198,0.0,
+curve-shape classification,2026Q1,balcony,close-in discounting,0,0,198,198,0,0,198,0.0,
+curve-shape classification,2026Q1,balcony,flat or rising,0,0,198,198,0,0,198,0.0,
+curve-shape classification,2026Q1,inside,close-in discounting,0,0,198,198,0,0,198,0.0,
+curve-shape classification,2026Q1,inside,flat or rising,0,0,198,198,0,0,198,0.0,
+curve-shape classification,2026Q1,oceanview,close-in discounting,0,0,198,198,0,0,198,0.0,
+curve-shape classification,2026Q1,oceanview,flat or rising,0,0,198,198,0,0,198,0.0,
+curve-shape classification,2026Q1,suite,close-in discounting,0,0,198,198,0,0,198,0.0,
+curve-shape classification,2026Q1,suite,flat or rising,0,0,198,198,0,0,198,0.0,
+curve-shape classification,2026Q2,ALL,close-in discounting,177,200,1380,1180,59,62,345,0.14492753623188406,0.885
+curve-shape classification,2026Q2,ALL,flat or rising,23,200,1380,1180,15,62,345,0.14492753623188406,0.115
+curve-shape classification,2026Q2,balcony,close-in discounting,43,47,345,298,43,47,345,0.13623188405797101,0.9148936170212766
+curve-shape classification,2026Q2,balcony,flat or rising,4,47,345,298,4,47,345,0.13623188405797101,0.0851063829787234
+curve-shape classification,2026Q2,inside,close-in discounting,53,62,345,283,53,62,345,0.17971014492753623,0.8548387096774194
+curve-shape classification,2026Q2,inside,flat or rising,9,62,345,283,9,62,345,0.17971014492753623,0.14516129032258066
+curve-shape classification,2026Q2,oceanview,close-in discounting,40,47,345,298,40,47,345,0.13623188405797101,0.851063829787234
+curve-shape classification,2026Q2,oceanview,flat or rising,7,47,345,298,7,47,345,0.13623188405797101,0.14893617021276595
+curve-shape classification,2026Q2,suite,close-in discounting,41,44,345,301,41,44,345,0.12753623188405797,0.9318181818181818
+curve-shape classification,2026Q2,suite,flat or rising,3,44,345,301,3,44,345,0.12753623188405797,0.06818181818181818
+curve-shape classification,2026Q3,ALL,close-in discounting,331,489,1760,1271,135,159,440,0.2778409090909091,0.6768916155419223
+curve-shape classification,2026Q3,ALL,flat or rising,158,489,1760,1271,75,159,440,0.2778409090909091,0.3231083844580777
+curve-shape classification,2026Q3,balcony,close-in discounting,74,110,440,330,74,110,440,0.25,0.6727272727272727
+curve-shape classification,2026Q3,balcony,flat or rising,36,110,440,330,36,110,440,0.25,0.32727272727272727
+curve-shape classification,2026Q3,inside,close-in discounting,116,158,440,282,116,158,440,0.35909090909090907,0.7341772151898734
+curve-shape classification,2026Q3,inside,flat or rising,42,158,440,282,42,158,440,0.35909090909090907,0.26582278481012656
+curve-shape classification,2026Q3,oceanview,close-in discounting,67,110,440,330,67,110,440,0.25,0.6090909090909091
+curve-shape classification,2026Q3,oceanview,flat or rising,43,110,440,330,43,110,440,0.25,0.39090909090909093
+curve-shape classification,2026Q3,suite,close-in discounting,74,111,440,329,74,111,440,0.25227272727272726,0.6666666666666666
+curve-shape classification,2026Q3,suite,flat or rising,37,111,440,329,37,111,440,0.25227272727272726,0.3333333333333333
+curve-shape classification,2026Q4,ALL,close-in discounting,0,0,1176,1176,0,0,294,0.0,
+curve-shape classification,2026Q4,ALL,flat or rising,0,0,1176,1176,0,0,294,0.0,
+curve-shape classification,2026Q4,balcony,close-in discounting,0,0,294,294,0,0,294,0.0,
+curve-shape classification,2026Q4,balcony,flat or rising,0,0,294,294,0,0,294,0.0,
+curve-shape classification,2026Q4,inside,close-in discounting,0,0,294,294,0,0,294,0.0,
+curve-shape classification,2026Q4,inside,flat or rising,0,0,294,294,0,0,294,0.0,
+curve-shape classification,2026Q4,oceanview,close-in discounting,0,0,294,294,0,0,294,0.0,
+curve-shape classification,2026Q4,oceanview,flat or rising,0,0,294,294,0,0,294,0.0,
+curve-shape classification,2026Q4,suite,close-in discounting,0,0,294,294,0,0,294,0.0,
+curve-shape classification,2026Q4,suite,flat or rising,0,0,294,294,0,0,294,0.0,
+curve-shape classification,2027Q1,ALL,close-in discounting,0,0,1264,1264,0,0,316,0.0,
+curve-shape classification,2027Q1,ALL,flat or rising,0,0,1264,1264,0,0,316,0.0,
+curve-shape classification,2027Q1,balcony,close-in discounting,0,0,316,316,0,0,316,0.0,
+curve-shape classification,2027Q1,balcony,flat or rising,0,0,316,316,0,0,316,0.0,
+curve-shape classification,2027Q1,inside,close-in discounting,0,0,316,316,0,0,316,0.0,
+curve-shape classification,2027Q1,inside,flat or rising,0,0,316,316,0,0,316,0.0,
+curve-shape classification,2027Q1,oceanview,close-in discounting,0,0,316,316,0,0,316,0.0,
+curve-shape classification,2027Q1,oceanview,flat or rising,0,0,316,316,0,0,316,0.0,
+curve-shape classification,2027Q1,suite,close-in discounting,0,0,316,316,0,0,316,0.0,
+curve-shape classification,2027Q1,suite,flat or rising,0,0,316,316,0,0,316,0.0,
+curve-shape classification,2027Q2,ALL,close-in discounting,0,0,1504,1504,0,0,376,0.0,
+curve-shape classification,2027Q2,ALL,flat or rising,0,0,1504,1504,0,0,376,0.0,
+curve-shape classification,2027Q2,balcony,close-in discounting,0,0,376,376,0,0,376,0.0,
+curve-shape classification,2027Q2,balcony,flat or rising,0,0,376,376,0,0,376,0.0,
+curve-shape classification,2027Q2,inside,close-in discounting,0,0,376,376,0,0,376,0.0,
+curve-shape classification,2027Q2,inside,flat or rising,0,0,376,376,0,0,376,0.0,
+curve-shape classification,2027Q2,oceanview,close-in discounting,0,0,376,376,0,0,376,0.0,
+curve-shape classification,2027Q2,oceanview,flat or rising,0,0,376,376,0,0,376,0.0,
+curve-shape classification,2027Q2,suite,close-in discounting,0,0,376,376,0,0,376,0.0,
+curve-shape classification,2027Q2,suite,flat or rising,0,0,376,376,0,0,376,0.0,
+curve-shape classification,2027Q3,ALL,close-in discounting,0,0,1776,1776,0,0,444,0.0,
+curve-shape classification,2027Q3,ALL,flat or rising,0,0,1776,1776,0,0,444,0.0,
+curve-shape classification,2027Q3,balcony,close-in discounting,0,0,444,444,0,0,444,0.0,
+curve-shape classification,2027Q3,balcony,flat or rising,0,0,444,444,0,0,444,0.0,
+curve-shape classification,2027Q3,inside,close-in discounting,0,0,444,444,0,0,444,0.0,
+curve-shape classification,2027Q3,inside,flat or rising,0,0,444,444,0,0,444,0.0,
+curve-shape classification,2027Q3,oceanview,close-in discounting,0,0,444,444,0,0,444,0.0,
+curve-shape classification,2027Q3,oceanview,flat or rising,0,0,444,444,0,0,444,0.0,
+curve-shape classification,2027Q3,suite,close-in discounting,0,0,444,444,0,0,444,0.0,
+curve-shape classification,2027Q3,suite,flat or rising,0,0,444,444,0,0,444,0.0,
+curve-shape classification,2027Q4,ALL,close-in discounting,0,0,1384,1384,0,0,346,0.0,
+curve-shape classification,2027Q4,ALL,flat or rising,0,0,1384,1384,0,0,346,0.0,
+curve-shape classification,2027Q4,balcony,close-in discounting,0,0,346,346,0,0,346,0.0,
+curve-shape classification,2027Q4,balcony,flat or rising,0,0,346,346,0,0,346,0.0,
+curve-shape classification,2027Q4,inside,close-in discounting,0,0,346,346,0,0,346,0.0,
+curve-shape classification,2027Q4,inside,flat or rising,0,0,346,346,0,0,346,0.0,
+curve-shape classification,2027Q4,oceanview,close-in discounting,0,0,346,346,0,0,346,0.0,
+curve-shape classification,2027Q4,oceanview,flat or rising,0,0,346,346,0,0,346,0.0,
+curve-shape classification,2027Q4,suite,close-in discounting,0,0,346,346,0,0,346,0.0,
+curve-shape classification,2027Q4,suite,flat or rising,0,0,346,346,0,0,346,0.0,
+curve-shape classification,2028Q1,ALL,close-in discounting,0,0,912,912,0,0,228,0.0,
+curve-shape classification,2028Q1,ALL,flat or rising,0,0,912,912,0,0,228,0.0,
+curve-shape classification,2028Q1,balcony,close-in discounting,0,0,228,228,0,0,228,0.0,
+curve-shape classification,2028Q1,balcony,flat or rising,0,0,228,228,0,0,228,0.0,
+curve-shape classification,2028Q1,inside,close-in discounting,0,0,228,228,0,0,228,0.0,
+curve-shape classification,2028Q1,inside,flat or rising,0,0,228,228,0,0,228,0.0,
+curve-shape classification,2028Q1,oceanview,close-in discounting,0,0,228,228,0,0,228,0.0,
+curve-shape classification,2028Q1,oceanview,flat or rising,0,0,228,228,0,0,228,0.0,
+curve-shape classification,2028Q1,suite,close-in discounting,0,0,228,228,0,0,228,0.0,
+curve-shape classification,2028Q1,suite,flat or rising,0,0,228,228,0,0,228,0.0,

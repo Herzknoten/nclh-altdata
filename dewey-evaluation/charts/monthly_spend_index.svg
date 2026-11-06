@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="580" viewBox="0 0 1000 580" role="img" aria-labelledby="title desc">
+<title id="title">Monthly card spend indexed to the corresponding 2025 month</title>
+<desc id="desc">2026 matched spend / 2025 matched spend; same calendar days across all brands and both years. n=8 monthly comparisons per brand; n=2 periods per comparison, descriptive only. Matched days, Jan to Aug: 25, 22, 20, 22, 25, 20, 25, 6. Coverage counts are not independent observations. August uses Aug 1-7 only; all months partial. Missing days are not zero-filled or annualized. This is a same-month baseline, not the upstream Norwegian/peer-dollar index.</desc>
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="24.00" y="32.00" font-family="Arial, sans-serif" font-size="23" text-anchor="start" fill="#111827">Monthly card spend indexed to the corresponding 2025 month</text>
+<text x="24.00" y="58.00" font-family="Arial, sans-serif" font-size="14" text-anchor="start" fill="#111827">2026 matched spend / 2025 matched spend; same calendar days across all brands and both years</text>
+<line x1="100" x2="136" y1="86" y2="86" stroke="#0072B2" stroke-width="3" stroke-dasharray=""/>
+<text x="144.00" y="91.00" font-family="Arial, sans-serif" font-size="15" text-anchor="start" fill="#111827">Norwegian</text>
+<line x1="386" x2="422" y1="86" y2="86" stroke="#D55E00" stroke-width="3" stroke-dasharray="8 4"/>
+<text x="430.00" y="91.00" font-family="Arial, sans-serif" font-size="15" text-anchor="start" fill="#111827">Royal Caribbean</text>
+<line x1="672" x2="708" y1="86" y2="86" stroke="#00805A" stroke-width="3" stroke-dasharray="3 4"/>
+<text x="716.00" y="91.00" font-family="Arial, sans-serif" font-size="15" text-anchor="start" fill="#111827">Carnival</text>
+<text x="82.00" y="114.00" font-family="Arial, sans-serif" font-size="13" text-anchor="start" fill="#111827">Index: corresponding 2025 matched month = 100</text>
+<line x1="82" x2="956" y1="408.00" y2="408.00" stroke="#d1d5db" stroke-width="1"/>
+<text x="70.00" y="413.00" font-family="Arial, sans-serif" font-size="14" text-anchor="end" fill="#111827">75</text>
+<line x1="82" x2="956" y1="351.20" y2="351.20" stroke="#d1d5db" stroke-width="1"/>
+<text x="70.00" y="356.20" font-family="Arial, sans-serif" font-size="14" text-anchor="end" fill="#111827">85</text>
+<line x1="82" x2="956" y1="294.40" y2="294.40" stroke="#d1d5db" stroke-width="1"/>
+<text x="70.00" y="299.40" font-family="Arial, sans-serif" font-size="14" text-anchor="end" fill="#111827">95</text>
+<line x1="82" x2="956" y1="237.60" y2="237.60" stroke="#d1d5db" stroke-width="1"/>
+<text x="70.00" y="242.60" font-family="Arial, sans-serif" font-size="14" text-anchor="end" fill="#111827">105</text>
+<line x1="82" x2="956" y1="180.80" y2="180.80" stroke="#d1d5db" stroke-width="1"/>
+<text x="70.00" y="185.80" font-family="Arial, sans-serif" font-size="14" text-anchor="end" fill="#111827">115</text>
+<line x1="82" x2="956" y1="124.00" y2="124.00" stroke="#d1d5db" stroke-width="1"/>
+<text x="70.00" y="129.00" font-family="Arial, sans-serif" font-size="14" text-anchor="end" fill="#111827">125</text>
+<line x1="82" x2="956" y1="266.00" y2="266.00" stroke="#6b7280" stroke-width="1.5" stroke-dasharray="5 5"/>
+<text x="70.00" y="271.00" font-family="Arial, sans-serif" font-size="14" text-anchor="end" fill="#111827">100</text>
+<text x="82.00" y="434.00" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#111827">2026-01</text>
+<text x="206.86" y="434.00" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#111827">2026-02</text>
+<text x="331.71" y="434.00" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#111827">2026-03</text>
+<text x="456.57" y="434.00" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#111827">2026-04</text>
+<text x="581.43" y="434.00" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#111827">2026-05</text>
+<text x="706.29" y="434.00" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#111827">2026-06</text>
+<text x="831.14" y="434.00" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#111827">2026-07</text>
+<text x="956.00" y="434.00" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#111827">2026-08</text>
+<polyline points="82.00,251.88 206.86,226.70 331.71,291.70 456.57,239.75 581.43,281.39 706.29,319.89 831.14,244.39 956.00,226.94" fill="none" stroke="#0072B2" stroke-width="3" stroke-dasharray=""/>
+<circle cx="82.00" cy="251.88" r="3.5" fill="#0072B2"><title>Norwegian, 2026-01: 102.49</title></circle>
+<circle cx="206.86" cy="226.70" r="3.5" fill="#0072B2"><title>Norwegian, 2026-02: 106.92</title></circle>
+<circle cx="331.71" cy="291.70" r="3.5" fill="#0072B2"><title>Norwegian, 2026-03: 95.48</title></circle>
+<circle cx="456.57" cy="239.75" r="3.5" fill="#0072B2"><title>Norwegian, 2026-04: 104.62</title></circle>
+<circle cx="581.43" cy="281.39" r="3.5" fill="#0072B2"><title>Norwegian, 2026-05: 97.29</title></circle>
+<circle cx="706.29" cy="319.89" r="3.5" fill="#0072B2"><title>Norwegian, 2026-06: 90.51</title></circle>
+<circle cx="831.14" cy="244.39" r="3.5" fill="#0072B2"><title>Norwegian, 2026-07: 103.80</title></circle>
+<circle cx="956.00" cy="226.94" r="3.5" fill="#0072B2"><title>Norwegian, 2026-08: 106.88</title></circle>
+<polyline points="82.00,259.27 206.86,270.10 331.71,305.77 456.57,314.40 581.43,318.49 706.29,278.52 831.14,278.53 956.00,321.79" fill="none" stroke="#D55E00" stroke-width="3" stroke-dasharray="8 4"/>
+<circle cx="82.00" cy="259.27" r="3.5" fill="#D55E00"><title>Royal Caribbean, 2026-01: 101.18</title></circle>
+<circle cx="206.86" cy="270.10" r="3.5" fill="#D55E00"><title>Royal Caribbean, 2026-02: 99.28</title></circle>
+<circle cx="331.71" cy="305.77" r="3.5" fill="#D55E00"><title>Royal Caribbean, 2026-03: 93.00</title></circle>
+<circle cx="456.57" cy="314.40" r="3.5" fill="#D55E00"><title>Royal Caribbean, 2026-04: 91.48</title></circle>
+<circle cx="581.43" cy="318.49" r="3.5" fill="#D55E00"><title>Royal Caribbean, 2026-05: 90.76</title></circle>
+<circle cx="706.29" cy="278.52" r="3.5" fill="#D55E00"><title>Royal Caribbean, 2026-06: 97.80</title></circle>
+<circle cx="831.14" cy="278.53" r="3.5" fill="#D55E00"><title>Royal Caribbean, 2026-07: 97.79</title></circle>
+<circle cx="956.00" cy="321.79" r="3.5" fill="#D55E00"><title>Royal Caribbean, 2026-08: 90.18</title></circle>
+<polyline points="82.00,341.43 206.86,345.08 331.71,353.60 456.57,353.10 581.43,374.15 706.29,315.10 831.14,311.58 956.00,336.94" fill="none" stroke="#00805A" stroke-width="3" stroke-dasharray="3 4"/>
+<circle cx="82.00" cy="341.43" r="3.5" fill="#00805A"><title>Carnival, 2026-01: 86.72</title></circle>
+<circle cx="206.86" cy="345.08" r="3.5" fill="#00805A"><title>Carnival, 2026-02: 86.08</title></circle>
+<circle cx="331.71" cy="353.60" r="3.5" fill="#00805A"><title>Carnival, 2026-03: 84.58</title></circle>
+<circle cx="456.57" cy="353.10" r="3.5" fill="#00805A"><title>Carnival, 2026-04: 84.67</title></circle>
+<circle cx="581.43" cy="374.15" r="3.5" fill="#00805A"><title>Carnival, 2026-05: 80.96</title></circle>
+<circle cx="706.29" cy="315.10" r="3.5" fill="#00805A"><title>Carnival, 2026-06: 91.36</title></circle>
+<circle cx="831.14" cy="311.58" r="3.5" fill="#00805A"><title>Carnival, 2026-07: 91.98</title></circle>
+<circle cx="956.00" cy="336.94" r="3.5" fill="#00805A"><title>Carnival, 2026-08: 87.51</title></circle>
+<text x="24.00" y="464.00" font-family="Arial, sans-serif" font-size="13" text-anchor="start" fill="#111827">n=8 monthly comparisons per brand; n=2 periods per comparison, descriptive only.</text>
+<text x="24.00" y="487.00" font-family="Arial, sans-serif" font-size="13" text-anchor="start" fill="#111827">Matched days, Jan to Aug: 25, 22, 20, 22, 25, 20, 25, 6. Coverage counts are not independent observations.</text>
+<text x="24.00" y="510.00" font-family="Arial, sans-serif" font-size="13" text-anchor="start" fill="#111827">August uses Aug 1-7 only; all months partial. Missing days are not zero-filled or annualized.</text>
+<text x="24.00" y="533.00" font-family="Arial, sans-serif" font-size="13" text-anchor="start" fill="#111827">This is a same-month baseline, not the upstream Norwegian/peer-dollar index.</text>
+<text x="24.00" y="558.00" font-family="Arial, sans-serif" font-size="13" text-anchor="start" fill="#111827">Source: data/monthly_spend_index.csv; data/monthly_matched.csv (reviewed card analysis)</text>
+</svg>

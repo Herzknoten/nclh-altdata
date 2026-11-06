@@ -1,0 +1,7 @@
+period_type,n,n_unit,period_start,period_end,rows_ending_after_cutoff,use,completeness
+CAL_QTR,6769,source rows; all source brands,2021-07-01,2026-06-30,0,CAL_QTR series; MONTH additive audit,"source inventory, not measured daily coverage"
+DISCRETE_182_DAY,3399,source rows; all source brands,2021-08-16,2026-08-09,0,inventory only; never mixed or summed,"source inventory, not measured daily coverage"
+DISCRETE_35_DAY,18619,source rows; all source brands,2021-05-03,2026-08-09,0,inventory only; never mixed or summed,"source inventory, not measured daily coverage"
+DISCRETE_364_DAY,1695,source rows; all source brands,2021-08-16,2026-08-09,0,inventory only; never mixed or summed,"source inventory, not measured daily coverage"
+DISCRETE_91_DAY,7097,source rows; all source brands,2021-05-17,2026-08-09,0,inventory only; never mixed or summed,"source inventory, not measured daily coverage"
+MONTH,21310,source rows; all source brands,2021-05-01,2026-07-31,0,CAL_QTR series; MONTH additive audit,"source inventory, not measured daily coverage"

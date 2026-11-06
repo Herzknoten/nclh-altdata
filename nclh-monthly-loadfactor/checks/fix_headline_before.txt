@@ -1,0 +1,17 @@
+ benchmarked to guidance, not independent
+
+Q3 is fixed to about 104% and Q4 to about 99%. The illustrative column uses the four-year seasonal profile with the listed monthly capacity shape scaled to company-quarter capacity. Alternative methods use the 2019 profile, 2023-2025 profile, flat quarter, calendar-day capacity shape, and any available individual indicator fits. Unsupported indicator quarters remain blank; future close-in signals are not imputed. A method-quarter with any negative allocation is excluded from the current range as physically invalid, while its raw diagnostics remain available. Ranges are min/max method scenarios, not confidence intervals. Min/max envelopes splice methods and need not themselves aggregate to quarterly guidance; each complete underlying method does.
+
+[Current readout](out/current_monthly_readout.csv), [all monthly methods and counts](out/current_monthly_methods.csv).
+
+| Month | Quarter guide % | Illustrative seasonal % | Seasonal low % | Seasonal high % | All-method low % | All-method high % | Method variants | Indicator variants |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-07 | 104.000 | 104.323 | 104.000 | 104.389 | 98.035 | 105.928 | 22 | 14 |
+| 2026-08 | 104.000 | 104.446 | 104.000 | 104.495 | 102.597 | 105.878 | 22 | 14 |
+| 2026-09 | 104.000 | 103.166 | 103.131 | 104.000 | 102.403 | 108.388 | 22 | 14 |
+| 2026-10 | 99.000 | 100.519 | 99.000 | 100.546 | 99.000 | 102.079 | 10 | 2 |
+| 2026-11 | 99.000 | 98.782 | 98.701 | 99.000 | 98.451 | 99.000 | 10 | 2 |
+| 2026-12 | 99.000 | 97.910 | 97.782 | 99.000 | 96.602 | 99.000 | 10 | 2 |
+
+Source attribution discrepancy remains explicit: the reviewed guidance CSV attributes Q3 104% to a release table, while [occupancy_facts.md](../nclh-loadfactor-web/occupancy_facts.md) says the release has no Q3 occupancy guide and attributes it to the call. The numerical assumption agrees; no external adjudication was performed. Q4 99% comes from the local call review. Peer disclosed context is company-level and differently timed: Royal Caribbean Q2 2026 110.2%; Carnival fiscal Q2 2026 104% (quarter ended May). These are descriptive references, not brand-level price-panel validation.
+

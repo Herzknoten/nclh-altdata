@@ -1,0 +1,313 @@
+page_file,reason
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/aqua/2025-10-12-cmgf5b03q00jpbu4qm40z27rf.html.gz,warning: missing TouristTrip itinerary ItemList
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/aqua/2025-10-19-cmgf5azzp00jhbu4qv4u4bfk1.html.gz,warning: missing TouristTrip itinerary ItemList
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/aqua/2025-10-19-cmgf5azzp00jhbu4qv4u4bfk1.html.gz,"warning: cabin history count mismatch: cabin=balcony, non_null_points=8, pricesTracked=6"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/aqua/2025-10-26-cmgf5b00g00jjbu4quabs9q8l.html.gz,warning: missing TouristTrip itinerary ItemList
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/aqua/2025-10-26-cmgf5b00g00jjbu4quabs9q8l.html.gz,"warning: cabin history count mismatch: cabin=oceanview, non_null_points=17, pricesTracked=10"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/aqua/2025-10-26-cmgf5b00g00jjbu4quabs9q8l.html.gz,"warning: cabin history count mismatch: cabin=balcony, non_null_points=17, pricesTracked=8"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/aqua/2025-11-02-cmgf5b1gm00lebu4q9y6mqfvf.html.gz,warning: missing TouristTrip itinerary ItemList
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/aqua/2025-11-09-cmgf5b1ez00labu4q4bf7juh3.html.gz,warning: missing TouristTrip itinerary ItemList
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/aqua/2025-11-09-cmgf5b1ez00labu4q4bf7juh3.html.gz,"warning: cabin history count mismatch: cabin=oceanview, non_null_points=23, pricesTracked=21"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/aqua/2025-11-09-cmgf5b1ez00labu4q4bf7juh3.html.gz,"warning: cabin history count mismatch: cabin=balcony, non_null_points=23, pricesTracked=20"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/aqua/2025-11-16-cmggh8px800osel0npx4ht96w.html.gz,warning: missing TouristTrip itinerary ItemList
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/aqua/2025-11-16-cmggh8px800osel0npx4ht96w.html.gz,"warning: cabin history count mismatch: cabin=balcony, non_null_points=35, pricesTracked=32"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/aqua/2025-11-23-cmh82h37300jywzxecqfjrg8f.html.gz,warning: missing TouristTrip itinerary ItemList
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/aqua/2025-11-23-cmh82h37300jywzxecqfjrg8f.html.gz,"warning: cabin history count mismatch: cabin=suite, non_null_points=17, pricesTracked=2"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/aqua/2025-12-21-cmiva2or900n4umptokvdhvop.html.gz,"warning: conflicting current cabin prices: cabin=inside, fields=totalPrice, retained={'totalPrice': 1499}, ignored={'totalPrice': 1498.85}; first cabin-grid card or calculator retained whole"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/aqua/2025-12-21-cmiva2or900n4umptokvdhvop.html.gz,warning: missing TouristTrip itinerary ItemList
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/aqua/2025-12-21-cmiva2or900n4umptokvdhvop.html.gz,"warning: cabin history count mismatch: cabin=oceanview, non_null_points=12, pricesTracked=4"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/aqua/2025-12-21-cmiva2or900n4umptokvdhvop.html.gz,"warning: cabin history count mismatch: cabin=balcony, non_null_points=14, pricesTracked=6"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/aqua/2025-12-28-cmizkuv7c00lnkgdn3gmt2o9e.html.gz,"warning: conflicting current cabin prices: cabin=inside, fields=totalPrice, retained={'totalPrice': 1949}, ignored={'totalPrice': 1949.3}; first cabin-grid card or calculator retained whole"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/aqua/2025-12-28-cmizkuv7c00lnkgdn3gmt2o9e.html.gz,warning: missing TouristTrip itinerary ItemList
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/aqua/2025-12-28-cmizkuv7c00lnkgdn3gmt2o9e.html.gz,"warning: cabin history count mismatch: cabin=oceanview, non_null_points=15, pricesTracked=4"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/aqua/2025-12-28-cmizkuv7c00lnkgdn3gmt2o9e.html.gz,"warning: cabin history count mismatch: cabin=balcony, non_null_points=15, pricesTracked=4"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/bliss/2025-10-21-cmgf5d4gt03bjbu4qzcgd7z70.html.gz,warning: missing TouristTrip itinerary ItemList
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/bliss/2025-10-26-cmgf5d4e703bebu4qownvwh7t.html.gz,warning: missing TouristTrip itinerary ItemList
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/bliss/2025-11-02-cmgf5d4bj03b9bu4qb4olojee.html.gz,warning: missing TouristTrip itinerary ItemList
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/bliss/2025-11-09-cmgf5d4dy03bdbu4qz1mhkia7.html.gz,warning: missing TouristTrip itinerary ItemList
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/bliss/2025-11-09-cmgf5d4dy03bdbu4qz1mhkia7.html.gz,"warning: cabin history count mismatch: cabin=oceanview, non_null_points=34, pricesTracked=33"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/bliss/2025-11-09-cmgf5d4dy03bdbu4qz1mhkia7.html.gz,"warning: cabin history count mismatch: cabin=balcony, non_null_points=34, pricesTracked=32"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/bliss/2025-11-09-cmgf5d4dy03bdbu4qz1mhkia7.html.gz,"warning: cabin history count mismatch: cabin=suite, non_null_points=7, pricesTracked=6"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/bliss/2025-11-16-cmgf5d50p03c3bu4qi2xs0v45.html.gz,warning: missing TouristTrip itinerary ItemList
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/bliss/2025-11-16-cmgf5d50p03c3bu4qi2xs0v45.html.gz,"warning: cabin history count mismatch: cabin=oceanview, non_null_points=41, pricesTracked=40"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/bliss/2025-11-16-cmgf5d50p03c3bu4qi2xs0v45.html.gz,"warning: cabin history count mismatch: cabin=suite, non_null_points=14, pricesTracked=13"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/breakaway/2025-11-22-cmgf5d7du03fabu4qj8z4s5yb.html.gz,warning: missing TouristTrip itinerary ItemList
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/breakaway/2025-11-22-cmgf5d7du03fabu4qj8z4s5yb.html.gz,"warning: cabin history count mismatch: cabin=oceanview, non_null_points=40, pricesTracked=36"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/breakaway/2025-11-22-cmgf5d7du03fabu4qj8z4s5yb.html.gz,"warning: cabin history count mismatch: cabin=balcony, non_null_points=40, pricesTracked=38"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/breakaway/2025-12-12-cmgf5d79o03f1bu4qtojm87r7.html.gz,"warning: conflicting current cabin prices: cabin=inside, fields=totalPrice, retained={'totalPrice': 704}, ignored={'totalPrice': 703.75}; first cabin-grid card or calculator retained whole"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/breakaway/2025-12-12-cmgf5d79o03f1bu4qtojm87r7.html.gz,warning: missing TouristTrip itinerary ItemList
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/breakaway/2025-12-12-cmgf5d79o03f1bu4qtojm87r7.html.gz,"warning: cabin history count mismatch: cabin=oceanview, non_null_points=64, pricesTracked=37"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/breakaway/2025-12-12-cmgf5d79o03f1bu4qtojm87r7.html.gz,"warning: cabin history count mismatch: cabin=balcony, non_null_points=64, pricesTracked=46"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/breakaway/2025-12-23-cmgf5d7b203f4bu4qwvs77115.html.gz,warning: missing TouristTrip itinerary ItemList
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/breakaway/2025-12-23-cmgf5d7b203f4bu4qwvs77115.html.gz,"warning: history count mismatch: len(history)=74, pricesTracked=68, defaultCabin=inside"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/breakaway/2025-12-23-cmgf5d7b203f4bu4qwvs77115.html.gz,"warning: cabin history count mismatch: cabin=inside, non_null_points=74, pricesTracked=68"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/breakaway/2025-12-23-cmgf5d7b203f4bu4qwvs77115.html.gz,"warning: cabin history count mismatch: cabin=oceanview, non_null_points=74, pricesTracked=58"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/breakaway/2025-12-23-cmgf5d7b203f4bu4qwvs77115.html.gz,"warning: cabin history count mismatch: cabin=balcony, non_null_points=74, pricesTracked=64"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/breakaway/2026-02-22-cmgf5d81703g1bu4q9c1okn6q.html.gz,warning: missing TouristTrip itinerary ItemList
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/breakaway/2026-02-22-cmgf5d81703g1bu4q9c1okn6q.html.gz,"warning: cabin history count mismatch: cabin=oceanview, non_null_points=113, pricesTracked=66"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/breakaway/2026-02-22-cmgf5d81703g1bu4q9c1okn6q.html.gz,"warning: cabin history count mismatch: cabin=balcony, non_null_points=113, pricesTracked=66"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/dawn/2026-01-04-cmj8k0x2x05k611zz4mw6p83t.html.gz,"warning: conflicting current cabin prices: cabin=inside, fields=totalPrice, retained={'totalPrice': 549}, ignored={'totalPrice': 548.95}; first cabin-grid card or calculator retained whole"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/dawn/2026-01-04-cmj8k0x2x05k611zz4mw6p83t.html.gz,warning: missing TouristTrip itinerary ItemList
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/dawn/2026-01-25-cmjka1vjf0fv44q95ntw3jkqz.html.gz,warning: missing TouristTrip itinerary ItemList
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/dawn/2026-02-08-cmj8k14z405of11zz0xvwv4w3.html.gz,warning: missing TouristTrip itinerary ItemList
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/dawn/2026-02-25-cmj8jsxoq01bz11zzngxtc8oa.html.gz,warning: missing TouristTrip itinerary ItemList
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/dawn/2026-03-08-cmjlr6eks0dwz10mhu45679yz.html.gz,warning: missing TouristTrip itinerary ItemList
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/dawn/2026-03-15-cmj8jqr3q008611zzz9fn1tq7.html.gz,warning: missing TouristTrip itinerary ItemList
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/dawn/2026-03-22-cmj8jqba3000911zzhecuxiqf.html.gz,warning: missing TouristTrip itinerary ItemList
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/dawn/2026-04-05-cmjq08i550gv8m1qs04uqdzmd.html.gz,warning: missing TouristTrip itinerary ItemList
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/dawn/2026-05-31-cmjelbmzz0bcgvpeb6d3uap1u.html.gz,"warning: cabin history count mismatch: cabin=suite, non_null_points=59, pricesTracked=57"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/dawn/2026-06-14-cmj8jw3gc02y911zzsroif4qr.html.gz,"warning: cabin history count mismatch: cabin=suite, non_null_points=72, pricesTracked=71"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/dawn/2026-08-23-cmj8jv1bs02eo11zzko1d10m6.html.gz,"warning: cabin history count mismatch: cabin=oceanview, non_null_points=106, pricesTracked=100"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/dawn/2026-08-23-cmj8jv1bs02eo11zzko1d10m6.html.gz,"warning: cabin history count mismatch: cabin=balcony, non_null_points=106, pricesTracked=101"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/encore/2025-10-12-cmgf5csj802vsbu4qphc483gy.html.gz,warning: missing TouristTrip itinerary ItemList
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/encore/2025-10-19-cmgkrpr0z0372phqvnl60hgzg.html.gz,warning: missing TouristTrip itinerary ItemList
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/encore/2025-10-19-cmgkrpr0z0372phqvnl60hgzg.html.gz,"warning: history count mismatch: len(history)=4, pricesTracked=1, defaultCabin=balcony"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/encore/2025-10-19-cmgkrpr0z0372phqvnl60hgzg.html.gz,"warning: cabin history count mismatch: cabin=balcony, non_null_points=4, pricesTracked=1"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/encore/2025-10-23-cmgf5d4i703bmbu4q2szawf06.html.gz,warning: missing TouristTrip itinerary ItemList
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/encore/2025-10-23-cmgf5d4i703bmbu4q2szawf06.html.gz,"warning: history count mismatch: len(history)=9, pricesTracked=7, defaultCabin=balcony"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/encore/2025-10-23-cmgf5d4i703bmbu4q2szawf06.html.gz,"warning: cabin history count mismatch: cabin=oceanview, non_null_points=3, pricesTracked=1"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/encore/2025-10-23-cmgf5d4i703bmbu4q2szawf06.html.gz,"warning: cabin history count mismatch: cabin=balcony, non_null_points=9, pricesTracked=7"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/encore/2025-11-08-cmggh8nt400nvel0njvkz8xgw.html.gz,warning: missing TouristTrip itinerary ItemList
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/encore/2025-11-08-cmggh8nt400nvel0njvkz8xgw.html.gz,"warning: cabin history count mismatch: cabin=oceanview, non_null_points=27, pricesTracked=21"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/encore/2025-11-08-cmggh8nt400nvel0njvkz8xgw.html.gz,"warning: cabin history count mismatch: cabin=balcony, non_null_points=27, pricesTracked=26"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/encore/2025-11-08-cmggh8nt400nvel0njvkz8xgw.html.gz,"warning: cabin history count mismatch: cabin=suite, non_null_points=16, pricesTracked=15"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/encore/2025-12-13-cmgwwk6l600myei8q2rgzvp48.html.gz,warning: missing TouristTrip itinerary ItemList
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/encore/2025-12-13-cmgwwk6l600myei8q2rgzvp48.html.gz,"warning: history count mismatch: len(history)=62, pricesTracked=50, defaultCabin=oceanview"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/encore/2025-12-13-cmgwwk6l600myei8q2rgzvp48.html.gz,"warning: cabin history count mismatch: cabin=oceanview, non_null_points=61, pricesTracked=50"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/encore/2025-12-13-cmgwwk6l600myei8q2rgzvp48.html.gz,"warning: cabin history count mismatch: cabin=balcony, non_null_points=61, pricesTracked=50"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/encore/2025-12-13-cmgwwk6l600myei8q2rgzvp48.html.gz,"warning: cabin history count mismatch: cabin=suite, non_null_points=59, pricesTracked=47"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/epic/2025-11-23-cmh0legll005entd9yl51s8vn.html.gz,warning: missing TouristTrip itinerary ItemList
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/epic/2025-11-23-cmh0legll005entd9yl51s8vn.html.gz,"warning: history count mismatch: len(history)=12, pricesTracked=8, defaultCabin=oceanview"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/epic/2025-12-14-cmh3dkvcj01pbktgp7u7p0w6k.html.gz,"warning: conflicting current cabin prices: cabin=inside, fields=totalPrice, retained={'totalPrice': 799}, ignored={'totalPrice': 798.75}; first cabin-grid card or calculator retained whole"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/epic/2025-12-14-cmh3dkvcj01pbktgp7u7p0w6k.html.gz,warning: missing TouristTrip itinerary ItemList
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/epic/2025-12-14-cmh3dkvcj01pbktgp7u7p0w6k.html.gz,"warning: cabin history count mismatch: cabin=balcony, non_null_points=18, pricesTracked=10"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/epic/2025-12-14-cmh3dkvcj01pbktgp7u7p0w6k.html.gz,"warning: cabin history count mismatch: cabin=suite, non_null_points=18, pricesTracked=10"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/epic/2025-12-21-cmh3dkvf401pfktgpd0eqp4rk.html.gz,"warning: conflicting current cabin prices: cabin=inside, fields=totalPrice, retained={'totalPrice': 899}, ignored={'totalPrice': 898.85}; first cabin-grid card or calculator retained whole"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/epic/2025-12-21-cmh3dkvf401pfktgpd0eqp4rk.html.gz,warning: missing TouristTrip itinerary ItemList
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/epic/2025-12-21-cmh3dkvf401pfktgpd0eqp4rk.html.gz,"warning: history count mismatch: len(history)=19, pricesTracked=10, defaultCabin=balcony"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/epic/2025-12-21-cmh3dkvf401pfktgpd0eqp4rk.html.gz,"warning: cabin history count mismatch: cabin=oceanview, non_null_points=12, pricesTracked=4"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/epic/2025-12-21-cmh3dkvf401pfktgpd0eqp4rk.html.gz,"warning: cabin history count mismatch: cabin=balcony, non_null_points=18, pricesTracked=10"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/epic/2025-12-21-cmh3dkvf401pfktgpd0eqp4rk.html.gz,"warning: cabin history count mismatch: cabin=suite, non_null_points=18, pricesTracked=10"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/epic/2026-01-04-cmhcnx6gy0294nw7g6e0gygks.html.gz,"warning: conflicting current cabin prices: cabin=inside, fields=totalPrice, retained={'totalPrice': 1179}, ignored={'totalPrice': 1178.8}; first cabin-grid card or calculator retained whole"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/epic/2026-01-04-cmhcnx6gy0294nw7g6e0gygks.html.gz,warning: missing TouristTrip itinerary ItemList
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/epic/2026-01-04-cmhcnx6gy0294nw7g6e0gygks.html.gz,"warning: cabin history count mismatch: cabin=oceanview, non_null_points=21, pricesTracked=4"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/epic/2026-01-04-cmhcnx6gy0294nw7g6e0gygks.html.gz,"warning: cabin history count mismatch: cabin=balcony, non_null_points=21, pricesTracked=4"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/epic/2026-01-04-cmhcnx6gy0294nw7g6e0gygks.html.gz,"warning: cabin history count mismatch: cabin=suite, non_null_points=21, pricesTracked=4"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/epic/2026-02-08-cmj8lph7k0m20ntq1vesch6oq.html.gz,warning: missing TouristTrip itinerary ItemList
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/epic/2026-02-22-cmh3dkvgr01pgktgpxovt5eit.html.gz,warning: missing TouristTrip itinerary ItemList
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/epic/2026-02-22-cmh3dkvgr01pgktgpxovt5eit.html.gz,"warning: history count mismatch: len(history)=42, pricesTracked=41, defaultCabin=inside"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/epic/2026-02-22-cmh3dkvgr01pgktgpxovt5eit.html.gz,"warning: cabin history count mismatch: cabin=balcony, non_null_points=42, pricesTracked=2"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/epic/2026-02-22-cmh3dkvgr01pgktgpxovt5eit.html.gz,"warning: cabin history count mismatch: cabin=suite, non_null_points=41, pricesTracked=1"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/epic/2026-03-01-cmh6y8qyo02an4y1yv0aat2nm.html.gz,warning: missing TouristTrip itinerary ItemList
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/epic/2026-03-01-cmh6y8qyo02an4y1yv0aat2nm.html.gz,"warning: cabin history count mismatch: cabin=balcony, non_null_points=27, pricesTracked=7"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/epic/2026-03-01-cmh6y8qyo02an4y1yv0aat2nm.html.gz,"warning: cabin history count mismatch: cabin=suite, non_null_points=27, pricesTracked=7"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/epic/2026-03-08-cmhgy4w2j026oiwqw3prh5v0s.html.gz,warning: missing TouristTrip itinerary ItemList
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/epic/2026-03-08-cmhgy4w2j026oiwqw3prh5v0s.html.gz,"warning: cabin history count mismatch: cabin=balcony, non_null_points=19, pricesTracked=1"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/epic/2026-03-08-cmhgy4w2j026oiwqw3prh5v0s.html.gz,"warning: cabin history count mismatch: cabin=suite, non_null_points=19, pricesTracked=1"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/epic/2026-03-22-cmjok1gb504gphckb029vbkly.html.gz,warning: missing TouristTrip itinerary ItemList
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/epic/2026-05-17-cmj8lpejv0lzontq1ohd034w2.html.gz,"warning: history count mismatch: len(history)=79, pricesTracked=72, defaultCabin=inside"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/epic/2026-05-17-cmj8lpejv0lzontq1ohd034w2.html.gz,"warning: cabin history count mismatch: cabin=inside, non_null_points=79, pricesTracked=72"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/epic/2026-05-17-cmj8lpejv0lzontq1ohd034w2.html.gz,"warning: cabin history count mismatch: cabin=oceanview, non_null_points=43, pricesTracked=1"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/epic/2026-05-17-cmj8lpejv0lzontq1ohd034w2.html.gz,"warning: cabin history count mismatch: cabin=balcony, non_null_points=43, pricesTracked=41"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/epic/2026-05-17-cmj8lpejv0lzontq1ohd034w2.html.gz,"warning: cabin history count mismatch: cabin=suite, non_null_points=43, pricesTracked=42"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/epic/2026-06-14-cmj8jqzug00cm11zzp6n5zu1q.html.gz,"warning: cabin history count mismatch: cabin=oceanview, non_null_points=5, pricesTracked=2"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/epic/2026-06-14-cmj8jqzug00cm11zzp6n5zu1q.html.gz,"warning: cabin history count mismatch: cabin=suite, non_null_points=73, pricesTracked=70"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/epic/2026-07-26-cmjlqo4oo04jr10mhpb5eohcs.html.gz,"warning: history count mismatch: len(history)=189, pricesTracked=52, defaultCabin=oceanview"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/epic/2026-07-26-cmjlqo4oo04jr10mhpb5eohcs.html.gz,"warning: cabin history count mismatch: cabin=inside, non_null_points=189, pricesTracked=186"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/epic/2026-07-26-cmjlqo4oo04jr10mhpb5eohcs.html.gz,"warning: cabin history count mismatch: cabin=oceanview, non_null_points=111, pricesTracked=52"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/epic/2026-07-26-cmjlqo4oo04jr10mhpb5eohcs.html.gz,"warning: cabin history count mismatch: cabin=balcony, non_null_points=111, pricesTracked=102"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/epic/2026-11-01-cmjq08iq80gvnm1qs7sm03cfq.html.gz,"warning: cabin history count mismatch: cabin=oceanview, non_null_points=147, pricesTracked=36"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/epic/2027-02-21-cmjk9rfb104ii4q95pwuazu0c.html.gz,"warning: cabin history count mismatch: cabin=oceanview, non_null_points=162, pricesTracked=64"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/escape/2025-12-21-cmj8lpgsa0m1mntq1ke1riypw.html.gz,warning: missing TouristTrip itinerary ItemList
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/gem/2025-12-16-cmj8juero023911zzljmjd8f2.html.gz,"warning: conflicting current cabin prices: cabin=inside, fields=totalPrice, retained={'totalPrice': 349}, ignored={'totalPrice': 348.95}; first cabin-grid card or calculator retained whole"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/gem/2025-12-16-cmj8juero023911zzljmjd8f2.html.gz,warning: missing TouristTrip itinerary ItemList
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/gem/2026-01-04-cmj8lpesl0lzvntq1klsx4twa.html.gz,warning: missing TouristTrip itinerary ItemList
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/gem/2026-01-20-cmj8lp36i0lolntq1inc7vrk6.html.gz,warning: missing TouristTrip itinerary ItemList
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/gem/2026-02-28-cmj8jr61n00fp11zzhwmosej0.html.gz,warning: missing TouristTrip itinerary ItemList
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/gem/2026-03-19-cmjn4qqit0i2nuo1gt7vebma6.html.gz,warning: missing TouristTrip itinerary ItemList
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/gem/2026-04-02-cmjka1lzx0fjz4q95zzqlbril.html.gz,warning: missing TouristTrip itinerary ItemList
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/gem/2026-04-09-cmhfuer5103rqtbi9chm78n5i.html.gz,"warning: cabin history count mismatch: cabin=oceanview, non_null_points=85, pricesTracked=43"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/gem/2026-04-09-cmhfuer5103rqtbi9chm78n5i.html.gz,"warning: cabin history count mismatch: cabin=balcony, non_null_points=85, pricesTracked=42"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/gem/2026-08-23-cmj8jqkf3004s11zzczcqfntg.html.gz,"warning: history count mismatch: len(history)=178, pricesTracked=127, defaultCabin=balcony"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/gem/2026-08-23-cmj8jqkf3004s11zzczcqfntg.html.gz,"warning: cabin history count mismatch: cabin=inside, non_null_points=178, pricesTracked=169"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/gem/2026-08-23-cmj8jqkf3004s11zzczcqfntg.html.gz,"warning: cabin history count mismatch: cabin=oceanview, non_null_points=127, pricesTracked=123"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/getaway/2025-10-12-cmgf5d78a03exbu4qqd8fz7uo.html.gz,warning: missing TouristTrip itinerary ItemList
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/getaway/2025-10-19-cmgf5d78a03eybu4qfn2ureoj.html.gz,warning: missing TouristTrip itinerary ItemList
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/getaway/2025-10-19-cmgf5d78a03eybu4qfn2ureoj.html.gz,"warning: cabin history count mismatch: cabin=oceanview, non_null_points=4, pricesTracked=1"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/getaway/2025-10-29-cmgf5azyg00jfbu4qsgtsux2b.html.gz,warning: missing TouristTrip itinerary ItemList
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/getaway/2025-10-29-cmgf5azyg00jfbu4qsgtsux2b.html.gz,"warning: cabin history count mismatch: cabin=suite, non_null_points=4, pricesTracked=7"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/getaway/2025-11-03-cmgf5b0x100kvbu4qwesyzda7.html.gz,warning: missing TouristTrip itinerary ItemList
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/getaway/2025-11-03-cmgf5b0x100kvbu4qwesyzda7.html.gz,"warning: history count mismatch: len(history)=28, pricesTracked=11, defaultCabin=suite"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/getaway/2025-11-07-cmgf5b0sf00kmbu4qpirp7ghx.html.gz,warning: missing TouristTrip itinerary ItemList
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/getaway/2025-11-07-cmgf5b0sf00kmbu4qpirp7ghx.html.gz,"warning: cabin history count mismatch: cabin=suite, non_null_points=10, pricesTracked=9"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/getaway/2025-11-10-cmgf5b07600jxbu4qr0iaj31g.html.gz,warning: missing TouristTrip itinerary ItemList
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/getaway/2025-11-14-cmgf5b0sw00knbu4qvcwx5kwk.html.gz,warning: missing TouristTrip itinerary ItemList
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/getaway/2025-11-14-cmgf5b0sw00knbu4qvcwx5kwk.html.gz,"warning: cabin history count mismatch: cabin=suite, non_null_points=17, pricesTracked=11"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/getaway/2025-11-19-cmgf5b05i00jtbu4qpmaeir3j.html.gz,warning: missing TouristTrip itinerary ItemList
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/getaway/2025-11-19-cmgf5b05i00jtbu4qpmaeir3j.html.gz,"warning: cabin history count mismatch: cabin=suite, non_null_points=16, pricesTracked=2"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/getaway/2025-11-24-cmhhzlvbg00ndtgo7rsdh482h.html.gz,warning: missing TouristTrip itinerary ItemList
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/getaway/2025-11-24-cmhhzlvbg00ndtgo7rsdh482h.html.gz,"warning: history count mismatch: len(history)=17, pricesTracked=16, defaultCabin=inside"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/getaway/2025-12-11-cmgf5b2bs00mkbu4qnq4ws1u2.html.gz,"warning: conflicting current cabin prices: cabin=inside, fields=totalPrice, retained={'totalPrice': 329}, ignored={'totalPrice': 328.8}; first cabin-grid card or calculator retained whole"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/getaway/2025-12-11-cmgf5b2bs00mkbu4qnq4ws1u2.html.gz,warning: missing TouristTrip itinerary ItemList
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/getaway/2025-12-11-cmgf5b2bs00mkbu4qnq4ws1u2.html.gz,"warning: history count mismatch: len(history)=58, pricesTracked=50, defaultCabin=oceanview"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/getaway/2025-12-11-cmgf5b2bs00mkbu4qnq4ws1u2.html.gz,"warning: cabin history count mismatch: cabin=oceanview, non_null_points=58, pricesTracked=50"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/getaway/2025-12-11-cmgf5b2bs00mkbu4qnq4ws1u2.html.gz,"warning: cabin history count mismatch: cabin=balcony, non_null_points=58, pricesTracked=50"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/getaway/2025-12-11-cmgf5b2bs00mkbu4qnq4ws1u2.html.gz,"warning: cabin history count mismatch: cabin=suite, non_null_points=41, pricesTracked=1"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/getaway/2025-12-19-cmgf5b29500mgbu4q7ttze994.html.gz,"warning: conflicting current cabin prices: cabin=inside, fields=totalPrice, retained={'totalPrice': 299}, ignored={'totalPrice': 298.9}; first cabin-grid card or calculator retained whole"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/getaway/2025-12-19-cmgf5b29500mgbu4q7ttze994.html.gz,warning: missing TouristTrip itinerary ItemList
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/getaway/2025-12-19-cmgf5b29500mgbu4q7ttze994.html.gz,"warning: cabin history count mismatch: cabin=oceanview, non_null_points=76, pricesTracked=68"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/getaway/2025-12-19-cmgf5b29500mgbu4q7ttze994.html.gz,"warning: cabin history count mismatch: cabin=balcony, non_null_points=76, pricesTracked=68"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/getaway/2025-12-19-cmgf5b29500mgbu4q7ttze994.html.gz,"warning: cabin history count mismatch: cabin=suite, non_null_points=54, pricesTracked=6"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/getaway/2025-12-26-cmitusdnb00kwblbrek8mfa9g.html.gz,"warning: conflicting current cabin prices: cabin=inside, fields=totalPrice, retained={'totalPrice': 349}, ignored={'totalPrice': 348.95}; first cabin-grid card or calculator retained whole"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/getaway/2025-12-26-cmitusdnb00kwblbrek8mfa9g.html.gz,warning: missing TouristTrip itinerary ItemList
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/getaway/2025-12-26-cmitusdnb00kwblbrek8mfa9g.html.gz,"warning: cabin history count mismatch: cabin=oceanview, non_null_points=11, pricesTracked=8"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/getaway/2025-12-26-cmitusdnb00kwblbrek8mfa9g.html.gz,"warning: cabin history count mismatch: cabin=balcony, non_null_points=11, pricesTracked=8"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/getaway/2026-01-05-cmgf5b32e00nlbu4q55gn0ugc.html.gz,warning: missing TouristTrip itinerary ItemList
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/getaway/2026-01-05-cmgf5b32e00nlbu4q55gn0ugc.html.gz,"warning: history count mismatch: len(history)=66, pricesTracked=59, defaultCabin=oceanview"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/getaway/2026-01-05-cmgf5b32e00nlbu4q55gn0ugc.html.gz,"warning: cabin history count mismatch: cabin=oceanview, non_null_points=66, pricesTracked=59"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/getaway/2026-01-05-cmgf5b32e00nlbu4q55gn0ugc.html.gz,"warning: cabin history count mismatch: cabin=balcony, non_null_points=66, pricesTracked=59"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/getaway/2026-01-05-cmgf5b32e00nlbu4q55gn0ugc.html.gz,"warning: cabin history count mismatch: cabin=suite, non_null_points=46, pricesTracked=8"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/jade/2025-12-27-cmj8lp2ta0lo8ntq1k7w9f9t6.html.gz,warning: missing TouristTrip itinerary ItemList
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/jade/2026-01-03-cmj8k3qud073s11zzozu6dzmt.html.gz,warning: missing TouristTrip itinerary ItemList
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/jade/2026-01-17-cmjq08jib0gwcm1qszb0sqxys.html.gz,warning: missing TouristTrip itinerary ItemList
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/jade/2026-02-12-cmj8k3jm206zw11zz8dy2pyla.html.gz,warning: missing TouristTrip itinerary ItemList
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/jade/2026-04-11-cmj8jydc3045x11zzubufj5lo.html.gz,"warning: cabin history count mismatch: cabin=oceanview, non_null_points=10, pricesTracked=9"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/jade/2026-05-02-cmh82tctd02tcwzxexhor1otc.html.gz,warning: missing TouristTrip itinerary ItemList
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/jade/2026-05-11-cmjbqqvv40ibnwm5vetdfnqfy.html.gz,"warning: cabin history count mismatch: cabin=suite, non_null_points=36, pricesTracked=33"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/jade/2026-05-16-cmh82thpd02u1wzxedcgvahbu.html.gz,warning: missing TouristTrip itinerary ItemList
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/jade/2026-05-16-cmh82thpd02u1wzxedcgvahbu.html.gz,"warning: history count mismatch: len(history)=8, pricesTracked=7, defaultCabin=inside"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/jade/2026-05-18-cmh82tcmk02tawzxezq6gcs5o.html.gz,"warning: history count mismatch: len(history)=79, pricesTracked=78, defaultCabin=inside"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/jade/2026-05-18-cmh82tcmk02tawzxezq6gcs5o.html.gz,"warning: cabin history count mismatch: cabin=oceanview, non_null_points=78, pricesTracked=54"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/jade/2026-05-18-cmh82tcmk02tawzxezq6gcs5o.html.gz,"warning: cabin history count mismatch: cabin=balcony, non_null_points=78, pricesTracked=54"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/jade/2026-05-18-cmh82tcmk02tawzxezq6gcs5o.html.gz,"warning: cabin history count mismatch: cabin=suite, non_null_points=79, pricesTracked=55"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/jade/2026-05-18-cmh82timi02udwzxen09c3rdu.html.gz,warning: missing TouristTrip itinerary ItemList
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/jade/2026-05-25-cmj8k6zaf08u911zzxb0kwnea.html.gz,"warning: cabin history count mismatch: cabin=balcony, non_null_points=50, pricesTracked=48"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/jade/2026-05-25-cmj8k6zaf08u911zzxb0kwnea.html.gz,"warning: cabin history count mismatch: cabin=suite, non_null_points=50, pricesTracked=49"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/jewel/2025-11-21-cmgf5b0ua00kqbu4qzhw7yv58.html.gz,warning: missing TouristTrip itinerary ItemList
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/jewel/2025-11-21-cmgf5b0ua00kqbu4qzhw7yv58.html.gz,"warning: cabin history count mismatch: cabin=oceanview, non_null_points=41, pricesTracked=40"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/jewel/2025-11-21-cmgf5b0ua00kqbu4qzhw7yv58.html.gz,"warning: cabin history count mismatch: cabin=balcony, non_null_points=41, pricesTracked=33"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/jewel/2025-12-12-cmgmwpez800ot9jaeb83uw3vb.html.gz,warning: missing TouristTrip itinerary ItemList
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/jewel/2025-12-12-cmgmwpez800ot9jaeb83uw3vb.html.gz,"warning: history count mismatch: len(history)=51, pricesTracked=37, defaultCabin=oceanview"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/jewel/2025-12-12-cmgmwpez800ot9jaeb83uw3vb.html.gz,"warning: cabin history count mismatch: cabin=oceanview, non_null_points=50, pricesTracked=37"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/jewel/2025-12-12-cmgmwpez800ot9jaeb83uw3vb.html.gz,"warning: cabin history count mismatch: cabin=balcony, non_null_points=50, pricesTracked=37"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/jewel/2025-12-23-cmgf5b2da00mobu4qhq8fgf6a.html.gz,warning: missing TouristTrip itinerary ItemList
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/jewel/2025-12-23-cmgf5b2da00mobu4qhq8fgf6a.html.gz,"warning: cabin history count mismatch: cabin=oceanview, non_null_points=76, pricesTracked=65"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/jewel/2025-12-23-cmgf5b2da00mobu4qhq8fgf6a.html.gz,"warning: cabin history count mismatch: cabin=balcony, non_null_points=76, pricesTracked=65"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/jewel/2026-01-15-cmgf5b2zt00ngbu4q3z2uwyfe.html.gz,warning: missing TouristTrip itinerary ItemList
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/jewel/2026-01-15-cmgf5b2zt00ngbu4q3z2uwyfe.html.gz,"warning: cabin history count mismatch: cabin=oceanview, non_null_points=92, pricesTracked=69"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/jewel/2026-01-15-cmgf5b2zt00ngbu4q3z2uwyfe.html.gz,"warning: cabin history count mismatch: cabin=balcony, non_null_points=92, pricesTracked=69"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/jewel/2026-01-15-cmgf5b2zt00ngbu4q3z2uwyfe.html.gz,"warning: cabin history count mismatch: cabin=suite, non_null_points=75, pricesTracked=11"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/jewel/2026-03-15-cmgf5b59j00qfbu4q11932bdc.html.gz,warning: missing TouristTrip itinerary ItemList
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/jewel/2026-03-15-cmgf5b59j00qfbu4q11932bdc.html.gz,"warning: cabin history count mismatch: cabin=oceanview, non_null_points=68, pricesTracked=32"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/jewel/2026-03-15-cmgf5b59j00qfbu4q11932bdc.html.gz,"warning: cabin history count mismatch: cabin=balcony, non_null_points=68, pricesTracked=32"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/jewel/2026-03-26-cmgf5b4dv00p5bu4quslr162q.html.gz,warning: missing TouristTrip itinerary ItemList
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/jewel/2026-03-26-cmgf5b4dv00p5bu4quslr162q.html.gz,"warning: cabin history count mismatch: cabin=oceanview, non_null_points=84, pricesTracked=69"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/jewel/2026-03-26-cmgf5b4dv00p5bu4quslr162q.html.gz,"warning: cabin history count mismatch: cabin=balcony, non_null_points=84, pricesTracked=69"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/jewel/2026-03-26-cmgf5b4dv00p5bu4quslr162q.html.gz,"warning: cabin history count mismatch: cabin=suite, non_null_points=67, pricesTracked=11"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/joy/2025-10-20-cmgf5azea00ivbu4qbbnz1py8.html.gz,warning: missing TouristTrip itinerary ItemList
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/joy/2025-10-24-cmgf5b02f00jnbu4q8adynt9w.html.gz,warning: missing TouristTrip itinerary ItemList
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/joy/2025-11-11-cmgf5bqo701iabu4q03brngql.html.gz,warning: missing TouristTrip itinerary ItemList
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/joy/2025-11-11-cmgf5bqo701iabu4q03brngql.html.gz,"warning: cabin history count mismatch: cabin=suite, non_null_points=21, pricesTracked=20"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/joy/2025-11-15-cmgf5bqve01iqbu4qmk6138il.html.gz,warning: missing TouristTrip itinerary ItemList
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/joy/2025-12-12-cmgf5brfm01jcbu4qhu2xzv5p.html.gz,warning: missing TouristTrip itinerary ItemList
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/joy/2025-12-12-cmgf5brfm01jcbu4qhu2xzv5p.html.gz,"warning: history count mismatch: len(history)=75, pricesTracked=67, defaultCabin=oceanview"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/joy/2025-12-12-cmgf5brfm01jcbu4qhu2xzv5p.html.gz,"warning: cabin history count mismatch: cabin=oceanview, non_null_points=75, pricesTracked=67"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/joy/2025-12-12-cmgf5brfm01jcbu4qhu2xzv5p.html.gz,"warning: cabin history count mismatch: cabin=balcony, non_null_points=75, pricesTracked=67"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/joy/2025-12-12-cmgf5brfm01jcbu4qhu2xzv5p.html.gz,"warning: cabin history count mismatch: cabin=suite, non_null_points=58, pricesTracked=48"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/joy/2026-07-27-cmhaiqi3g02lqnitsprasrww2.html.gz,"warning: history count mismatch: len(history)=87, pricesTracked=84, defaultCabin=inside"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/joy/2026-07-27-cmhaiqi3g02lqnitsprasrww2.html.gz,"warning: cabin history count mismatch: cabin=inside, non_null_points=87, pricesTracked=84"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/joy/2026-07-27-cmhaiqi3g02lqnitsprasrww2.html.gz,"warning: cabin history count mismatch: cabin=oceanview, non_null_points=87, pricesTracked=59"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/joy/2026-07-27-cmhaiqi3g02lqnitsprasrww2.html.gz,"warning: cabin history count mismatch: cabin=balcony, non_null_points=87, pricesTracked=60"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/joy/2026-07-27-cmhaiqi3g02lqnitsprasrww2.html.gz,"warning: cabin history count mismatch: cabin=suite, non_null_points=87, pricesTracked=62"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/joy/2026-08-24-cmhe3e54z02hxfoxa58wa4a85.html.gz,"warning: history count mismatch: len(history)=139, pricesTracked=137, defaultCabin=inside"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/joy/2026-08-24-cmhe3e54z02hxfoxa58wa4a85.html.gz,"warning: cabin history count mismatch: cabin=inside, non_null_points=139, pricesTracked=137"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/joy/2026-08-24-cmhe3e54z02hxfoxa58wa4a85.html.gz,"warning: cabin history count mismatch: cabin=oceanview, non_null_points=139, pricesTracked=98"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/joy/2026-08-24-cmhe3e54z02hxfoxa58wa4a85.html.gz,"warning: cabin history count mismatch: cabin=balcony, non_null_points=139, pricesTracked=96"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/joy/2026-08-24-cmhe3e54z02hxfoxa58wa4a85.html.gz,"warning: cabin history count mismatch: cabin=suite, non_null_points=139, pricesTracked=89"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/joy/2027-07-09-cmj8k4y4607qx11zz3gr9quzu.html.gz,"warning: cabin history count mismatch: cabin=suite, non_null_points=105, pricesTracked=104"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/pearl/2025-12-19-cmgf5b1nc00lrbu4qwq7s62m2.html.gz,warning: missing TouristTrip itinerary ItemList
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/pearl/2025-12-19-cmgf5b1nc00lrbu4qwq7s62m2.html.gz,"warning: history count mismatch: len(history)=76, pricesTracked=75, defaultCabin=inside"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/pearl/2025-12-19-cmgf5b1nc00lrbu4qwq7s62m2.html.gz,"warning: cabin history count mismatch: cabin=inside, non_null_points=76, pricesTracked=75"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/pearl/2025-12-19-cmgf5b1nc00lrbu4qwq7s62m2.html.gz,"warning: cabin history count mismatch: cabin=oceanview, non_null_points=76, pricesTracked=68"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/pearl/2025-12-19-cmgf5b1nc00lrbu4qwq7s62m2.html.gz,"warning: cabin history count mismatch: cabin=balcony, non_null_points=76, pricesTracked=68"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/pearl/2025-12-22-cmj8gulv600kusdgprpb7g998.html.gz,warning: missing TouristTrip itinerary ItemList
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/pearl/2026-01-02-cmgf5b3n500o6bu4qjtuew4id.html.gz,"warning: conflicting current cabin prices: cabin=inside, fields=totalPrice, retained={'totalPrice': 1099}, ignored={'totalPrice': 1098.8}; first cabin-grid card or calculator retained whole"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/pearl/2026-01-02-cmgf5b3n500o6bu4qjtuew4id.html.gz,warning: missing TouristTrip itinerary ItemList
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/pearl/2026-01-02-cmgf5b3n500o6bu4qjtuew4id.html.gz,"warning: history count mismatch: len(history)=83, pricesTracked=66, defaultCabin=oceanview"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/pearl/2026-01-02-cmgf5b3n500o6bu4qjtuew4id.html.gz,"warning: cabin history count mismatch: cabin=oceanview, non_null_points=83, pricesTracked=66"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/pearl/2026-01-02-cmgf5b3n500o6bu4qjtuew4id.html.gz,"warning: cabin history count mismatch: cabin=balcony, non_null_points=83, pricesTracked=66"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/pearl/2026-04-11-cmhfu8vd100w3tbi9iep4eqaa.html.gz,"warning: cabin history count mismatch: cabin=oceanview, non_null_points=80, pricesTracked=49"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/pearl/2026-04-11-cmhfu8vd100w3tbi9iep4eqaa.html.gz,"warning: cabin history count mismatch: cabin=balcony, non_null_points=80, pricesTracked=45"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/pearl/2026-08-30-cmj8jzraf04xj11zz0vnd3825.html.gz,"warning: cabin history count mismatch: cabin=oceanview, non_null_points=131, pricesTracked=128"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/pearl/2026-08-30-cmj8jzraf04xj11zz0vnd3825.html.gz,"warning: cabin history count mismatch: cabin=balcony, non_null_points=131, pricesTracked=130"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/pride-of-america/2025-12-20-cmj8k0q1s05gr11zz9gcq8s3r.html.gz,warning: missing TouristTrip itinerary ItemList
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/pride-of-america/2025-12-27-cmj8jxri103tt11zzjbv5tocf.html.gz,warning: missing TouristTrip itinerary ItemList
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/pride-of-america/2026-01-31-cmj8k5k5x083111zzald95ln5.html.gz,warning: missing TouristTrip itinerary ItemList
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/pride-of-america/2026-02-07-cmj8k6qwi08pr11zzpgw7o8oh.html.gz,warning: missing TouristTrip itinerary ItemList
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/pride-of-america/2026-03-14-cmj8k4j1807il11zzjv8kqqdr.html.gz,"warning: conflicting current cabin prices: cabin=inside, fields=totalPrice, retained={'totalPrice': 1886}, ignored={'totalPrice': 1885.52}; first cabin-grid card or calculator retained whole"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/pride-of-america/2026-03-14-cmj8k4j1807il11zzjv8kqqdr.html.gz,warning: missing TouristTrip itinerary ItemList
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/pride-of-america/2026-04-18-cmj8lpobv0mbcntq1xf73w1mk.html.gz,"warning: conflicting current cabin prices: cabin=inside, fields=totalPrice, retained={'totalPrice': 2444}, ignored={'totalPrice': 2443.93}; first cabin-grid card or calculator retained whole"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/pride-of-america/2026-04-18-cmj8lpobv0mbcntq1xf73w1mk.html.gz,warning: missing TouristTrip itinerary ItemList
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/pride-of-america/2026-05-09-cmjelbknl0bbpvpeb6kgw38ut.html.gz,"warning: conflicting current cabin prices: cabin=inside, fields=totalPrice, retained={'totalPrice': 1876}, ignored={'totalPrice': 1875.95}; first cabin-grid card or calculator retained whole"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/pride-of-america/2026-05-09-cmjelbknl0bbpvpeb6kgw38ut.html.gz,warning: missing TouristTrip itinerary ItemList
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/pride-of-america/2026-05-23-cmj8k2x4h06nh11zzm4gxy36w.html.gz,"warning: conflicting current cabin prices: cabin=inside, fields=totalPrice, retained={'totalPrice': 2149}, ignored={'totalPrice': 2149.42}; first cabin-grid card or calculator retained whole"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/pride-of-america/2026-05-23-cmj8k2x4h06nh11zzm4gxy36w.html.gz,warning: missing TouristTrip itinerary ItemList
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/pride-of-america/2026-06-06-cmjq08fi60gsxm1qsratpwivg.html.gz,"warning: conflicting current cabin prices: cabin=inside, fields=totalPrice, retained={'totalPrice': 2559}, ignored={'totalPrice': 2558.69}; first cabin-grid card or calculator retained whole"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/pride-of-america/2026-06-06-cmjq08fi60gsxm1qsratpwivg.html.gz,warning: missing TouristTrip itinerary ItemList
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/pride-of-america/2026-06-20-cmjq08hdl0guhm1qsuayvhdi5.html.gz,"warning: conflicting current cabin prices: cabin=inside, fields=totalPrice, retained={'totalPrice': 2465}, ignored={'totalPrice': 2464.97}; first cabin-grid card or calculator retained whole"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/pride-of-america/2026-06-20-cmjq08hdl0guhm1qsuayvhdi5.html.gz,warning: missing TouristTrip itinerary ItemList
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/pride-of-america/2026-06-27-cmj8jwr5b03a811zz1htmsyxd.html.gz,"warning: conflicting current cabin prices: cabin=inside, fields=totalPrice, retained={'totalPrice': 2401}, ignored={'totalPrice': 2400.92}; first cabin-grid card or calculator retained whole"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/pride-of-america/2026-06-27-cmj8jwr5b03a811zz1htmsyxd.html.gz,warning: missing TouristTrip itinerary ItemList
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/prima/2025-11-02-cmgf5bre901j8bu4qnqxmv7f4.html.gz,warning: missing TouristTrip itinerary ItemList
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/prima/2025-11-02-cmgf5bre901j8bu4qnqxmv7f4.html.gz,"warning: cabin history count mismatch: cabin=oceanview, non_null_points=21, pricesTracked=6"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/prima/2025-11-02-cmgf5bre901j8bu4qnqxmv7f4.html.gz,"warning: cabin history count mismatch: cabin=balcony, non_null_points=21, pricesTracked=7"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/prima/2025-11-09-cmgf5bqv101ipbu4qyob21ero.html.gz,warning: missing TouristTrip itinerary ItemList
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/prima/2025-11-09-cmgf5bqv101ipbu4qyob21ero.html.gz,"warning: cabin history count mismatch: cabin=oceanview, non_null_points=31, pricesTracked=28"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/prima/2025-11-09-cmgf5bqv101ipbu4qyob21ero.html.gz,"warning: cabin history count mismatch: cabin=balcony, non_null_points=31, pricesTracked=26"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/prima/2025-11-16-cmgf5brli01jqbu4q3yey6akh.html.gz,warning: missing TouristTrip itinerary ItemList
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/prima/2025-11-16-cmgf5brli01jqbu4q3yey6akh.html.gz,"warning: history count mismatch: len(history)=41, pricesTracked=40, defaultCabin=balcony"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/prima/2025-11-16-cmgf5brli01jqbu4q3yey6akh.html.gz,"warning: cabin history count mismatch: cabin=balcony, non_null_points=41, pricesTracked=40"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/prima/2025-12-14-cmgf5bs4z01k8bu4q3oamip8j.html.gz,warning: missing TouristTrip itinerary ItemList
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/prima/2025-12-14-cmgf5bs4z01k8bu4q3oamip8j.html.gz,"warning: history count mismatch: len(history)=71, pricesTracked=65, defaultCabin=oceanview"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/prima/2025-12-14-cmgf5bs4z01k8bu4q3oamip8j.html.gz,"warning: cabin history count mismatch: cabin=oceanview, non_null_points=71, pricesTracked=65"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/prima/2025-12-14-cmgf5bs4z01k8bu4q3oamip8j.html.gz,"warning: cabin history count mismatch: cabin=balcony, non_null_points=71, pricesTracked=63"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/prima/2025-12-14-cmgf5bs4z01k8bu4q3oamip8j.html.gz,"warning: cabin history count mismatch: cabin=suite, non_null_points=44, pricesTracked=37"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/prima/2025-12-21-cmgf5bszd01lgbu4qkygz69gl.html.gz,warning: missing TouristTrip itinerary ItemList
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/prima/2025-12-21-cmgf5bszd01lgbu4qkygz69gl.html.gz,"warning: cabin history count mismatch: cabin=oceanview, non_null_points=79, pricesTracked=72"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/prima/2025-12-21-cmgf5bszd01lgbu4qkygz69gl.html.gz,"warning: cabin history count mismatch: cabin=balcony, non_null_points=79, pricesTracked=73"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/prima/2025-12-21-cmgf5bszd01lgbu4qkygz69gl.html.gz,"warning: cabin history count mismatch: cabin=suite, non_null_points=52, pricesTracked=47"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/prima/2025-12-28-cmhi2l7qj0cu76v70iok6ws3f.html.gz,"warning: conflicting current cabin prices: cabin=inside, fields=totalPrice, retained={'totalPrice': 2079}, ignored={'totalPrice': 2079.3}; first cabin-grid card or calculator retained whole"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/prima/2025-12-28-cmhi2l7qj0cu76v70iok6ws3f.html.gz,warning: missing TouristTrip itinerary ItemList
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/prima/2025-12-28-cmhi2l7qj0cu76v70iok6ws3f.html.gz,"warning: history count mismatch: len(history)=49, pricesTracked=40, defaultCabin=oceanview"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/prima/2025-12-28-cmhi2l7qj0cu76v70iok6ws3f.html.gz,"warning: cabin history count mismatch: cabin=oceanview, non_null_points=49, pricesTracked=40"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/prima/2025-12-28-cmhi2l7qj0cu76v70iok6ws3f.html.gz,"warning: cabin history count mismatch: cabin=balcony, non_null_points=49, pricesTracked=45"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/prima/2025-12-28-cmhi2l7qj0cu76v70iok6ws3f.html.gz,"warning: cabin history count mismatch: cabin=suite, non_null_points=49, pricesTracked=43"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/prima/2026-11-15-cmi0c04iq0ct1111qtckr86zx.html.gz,"warning: cabin history count mismatch: cabin=oceanview, non_null_points=140, pricesTracked=125"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/prima/2026-11-15-cmi0c04iq0ct1111qtckr86zx.html.gz,"warning: cabin history count mismatch: cabin=balcony, non_null_points=140, pricesTracked=125"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/prima/2026-11-15-cmi0c04iq0ct1111qtckr86zx.html.gz,"warning: cabin history count mismatch: cabin=suite, non_null_points=140, pricesTracked=125"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/spirit/2026-01-28-cmj8jwijb036211zzafotemc0.html.gz,warning: missing TouristTrip itinerary ItemList
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/spirit/2026-02-21-cmj8jreau00jt11zzv9e9fzsi.html.gz,warning: missing TouristTrip itinerary ItemList
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/spirit/2026-03-05-cmj8lpha70m23ntq16sgvtx5s.html.gz,warning: missing TouristTrip itinerary ItemList
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/spirit/2026-06-21-cmj8jyd1x045s11zz9x2howh7.html.gz,warning: missing TouristTrip itinerary ItemList
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/spirit/2026-07-29-cmhgy6hzd02w9iwqwbyt4v5sn.html.gz,warning: missing TouristTrip itinerary ItemList
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/spirit/2026-07-31-cmh8dhtyv0316gjxh5ldfxqme.html.gz,"warning: cabin history count mismatch: cabin=oceanview, non_null_points=33, pricesTracked=7"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/spirit/2026-07-31-cmh8dhtyv0316gjxh5ldfxqme.html.gz,"warning: cabin history count mismatch: cabin=balcony, non_null_points=33, pricesTracked=7"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/spirit/2026-07-31-cmh8dhtyv0316gjxh5ldfxqme.html.gz,"warning: cabin history count mismatch: cabin=suite, non_null_points=33, pricesTracked=7"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/spirit/2027-01-06-cmjka2brg0gei4q95qr3v7j4b.html.gz,"warning: cabin history count mismatch: cabin=oceanview, non_null_points=43, pricesTracked=34"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/spirit/2027-01-06-cmjka2brg0gei4q95qr3v7j4b.html.gz,"warning: cabin history count mismatch: cabin=balcony, non_null_points=43, pricesTracked=34"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/spirit/2027-01-06-cmjka2brg0gei4q95qr3v7j4b.html.gz,"warning: cabin history count mismatch: cabin=suite, non_null_points=43, pricesTracked=42"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/spirit/2027-06-29-cmj8ld2vr0axtntq15gmq5egf.html.gz,"warning: cabin history count mismatch: cabin=suite, non_null_points=26, pricesTracked=15"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/viva/2025-11-07-cmhi2kqth0cpr6v7000xsr5z5.html.gz,warning: missing TouristTrip itinerary ItemList
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/viva/2025-11-07-cmhi2kqth0cpr6v7000xsr5z5.html.gz,"warning: history count mismatch: len(history)=5, pricesTracked=4, defaultCabin=balcony"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/viva/2025-11-07-cmhi2kqth0cpr6v7000xsr5z5.html.gz,"warning: cabin history count mismatch: cabin=oceanview, non_null_points=5, pricesTracked=4"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/viva/2025-11-07-cmhi2kqth0cpr6v7000xsr5z5.html.gz,"warning: cabin history count mismatch: cabin=balcony, non_null_points=5, pricesTracked=4"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/viva/2025-11-07-cmhi2kqth0cpr6v7000xsr5z5.html.gz,"warning: cabin history count mismatch: cabin=suite, non_null_points=5, pricesTracked=4"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/viva/2025-12-13-cmgf5cchb02asbu4qlt7w3xre.html.gz,"warning: conflicting current cabin prices: cabin=inside, fields=totalPrice, retained={'totalPrice': 799}, ignored={'totalPrice': 798.7}; first cabin-grid card or calculator retained whole"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/viva/2025-12-13-cmgf5cchb02asbu4qlt7w3xre.html.gz,warning: missing TouristTrip itinerary ItemList
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/viva/2025-12-13-cmgf5cchb02asbu4qlt7w3xre.html.gz,"warning: history count mismatch: len(history)=54, pricesTracked=41, defaultCabin=oceanview"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/viva/2025-12-13-cmgf5cchb02asbu4qlt7w3xre.html.gz,"warning: cabin history count mismatch: cabin=oceanview, non_null_points=54, pricesTracked=41"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/viva/2025-12-13-cmgf5cchb02asbu4qlt7w3xre.html.gz,"warning: cabin history count mismatch: cabin=balcony, non_null_points=54, pricesTracked=42"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/viva/2025-12-13-cmgf5cchb02asbu4qlt7w3xre.html.gz,"warning: cabin history count mismatch: cabin=suite, non_null_points=29, pricesTracked=19"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/viva/2026-06-15-cmo5osny14sedloqofxgycihp.html.gz,"warning: cabin history count mismatch: cabin=suite, non_null_points=54, pricesTracked=53"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/viva/2026-09-26-cmj8k4xor07qp11zzrabynija.html.gz,"warning: history count mismatch: len(history)=100, pricesTracked=76, defaultCabin=suite"
+/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/viva/2026-09-26-cmj8k4xor07qp11zzrabynija.html.gz,"warning: cabin history count mismatch: cabin=oceanview, non_null_points=76, pricesTracked=71"

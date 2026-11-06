@@ -1,0 +1,2102 @@
+[
+  {
+    "release_date": "2021-11-03",
+    "locator": "P8",
+    "anchor": "The Company continues to execute on the phased relaunch plans for its ",
+    "period": "2021Q4_end",
+    "metric": "operating_capacity_pct",
+    "basis": "approximately; operating share of fleet capacity",
+    "unit": "percent",
+    "point": "75"
+  },
+  {
+    "release_date": "2021-11-03",
+    "locator": "P20",
+    "anchor": "The Company's monthly average cash burn for the third quarter 2021 was",
+    "period": "2021Q4",
+    "metric": "monthly_cash_burn_musd",
+    "basis": "excludes cash inflows from bookings/contribution from restarted ships",
+    "unit": "USD million",
+    "point": "350"
+  },
+  {
+    "release_date": "2021-11-03",
+    "locator": "P37",
+    "anchor": "Anticipated non-newbuild capital expenditures for fourth quarter 2021 ",
+    "period": "2021Q4",
+    "metric": "non_newbuild_capex_musd",
+    "basis": "",
+    "unit": "USD million",
+    "point": "170"
+  },
+  {
+    "release_date": "2021-11-03",
+    "locator": "P37",
+    "anchor": "Anticipated non-newbuild capital expenditures for fourth quarter 2021 ",
+    "period": "FY2021",
+    "metric": "non_newbuild_capex_musd",
+    "basis": "",
+    "unit": "USD million",
+    "point": "430"
+  },
+  {
+    "release_date": "2021-11-03",
+    "locator": "P37",
+    "anchor": "Anticipated non-newbuild capital expenditures for fourth quarter 2021 ",
+    "period": "FY2022",
+    "metric": "non_newbuild_capex_musd",
+    "basis": "",
+    "unit": "USD million",
+    "point": "500"
+  },
+  {
+    "release_date": "2021-11-03",
+    "locator": "P37",
+    "anchor": "Anticipated non-newbuild capital expenditures for fourth quarter 2021 ",
+    "period": "2021_remainder",
+    "metric": "ship_construction_capex_musd",
+    "basis": "",
+    "unit": "USD million",
+    "point": "100"
+  },
+  {
+    "release_date": "2021-11-03",
+    "locator": "P37",
+    "anchor": "Anticipated non-newbuild capital expenditures for fourth quarter 2021 ",
+    "period": "FY2022",
+    "metric": "ship_construction_capex_musd",
+    "basis": "",
+    "unit": "USD million",
+    "point": "1600"
+  },
+  {
+    "release_date": "2021-11-03",
+    "locator": "P37",
+    "anchor": "Anticipated non-newbuild capital expenditures for fourth quarter 2021 ",
+    "period": "FY2023",
+    "metric": "ship_construction_capex_musd",
+    "basis": "",
+    "unit": "USD million",
+    "point": "2500"
+  },
+  {
+    "release_date": "2021-11-03",
+    "locator": "P37",
+    "anchor": "Anticipated non-newbuild capital expenditures for fourth quarter 2021 ",
+    "period": "2021_remainder",
+    "metric": "export_credit_financing_musd",
+    "basis": "",
+    "unit": "USD million",
+    "point": "100"
+  },
+  {
+    "release_date": "2021-11-03",
+    "locator": "P37",
+    "anchor": "Anticipated non-newbuild capital expenditures for fourth quarter 2021 ",
+    "period": "FY2022",
+    "metric": "export_credit_financing_musd",
+    "basis": "",
+    "unit": "USD million",
+    "point": "1000"
+  },
+  {
+    "release_date": "2021-11-03",
+    "locator": "P37",
+    "anchor": "Anticipated non-newbuild capital expenditures for fourth quarter 2021 ",
+    "period": "FY2023",
+    "metric": "export_credit_financing_musd",
+    "basis": "",
+    "unit": "USD million",
+    "point": "2000"
+  },
+  {
+    "release_date": "2021-11-03",
+    "locator": "P38",
+    "anchor": "Interest Expense, net is expected to be approximately $160 million for",
+    "period": "2021Q4",
+    "metric": "interest_expense_net_musd",
+    "basis": "excludes debt extinguishment/modification",
+    "unit": "USD million",
+    "point": "160"
+  },
+  {
+    "release_date": "2021-11-03",
+    "locator": "P38",
+    "anchor": "Interest Expense, net is expected to be approximately $160 million for",
+    "period": "FY2021",
+    "metric": "interest_expense_net_musd",
+    "basis": "excludes debt extinguishment/modification",
+    "unit": "USD million",
+    "point": "620"
+  },
+  {
+    "release_date": "2021-11-03",
+    "locator": "P38",
+    "anchor": "Interest Expense, net is expected to be approximately $160 million for",
+    "period": "2021Q4",
+    "metric": "depreciation_and_amortization_musd",
+    "basis": "",
+    "unit": "USD million",
+    "point": "175"
+  },
+  {
+    "release_date": "2021-11-03",
+    "locator": "P38",
+    "anchor": "Interest Expense, net is expected to be approximately $160 million for",
+    "period": "FY2021",
+    "metric": "depreciation_and_amortization_musd",
+    "basis": "",
+    "unit": "USD million",
+    "point": "695"
+  },
+  {
+    "release_date": "2022-02-24",
+    "locator": "P9",
+    "anchor": "As a result of Omicron-related disruptions, the Company now expects to",
+    "period": "2022Q1_end",
+    "metric": "operating_capacity_pct",
+    "basis": "approximately; operating share of fleet capacity",
+    "unit": "percent",
+    "point": "85"
+  },
+  {
+    "release_date": "2022-02-24",
+    "locator": "P20",
+    "anchor": "The combined benefit of the above transactions is expected to result i",
+    "period": "annualized",
+    "metric": "cash_interest_savings_musd",
+    "basis": "",
+    "unit": "USD million",
+    "point": "75"
+  },
+  {
+    "release_date": "2022-02-24",
+    "locator": "P21",
+    "anchor": "The Company's monthly average cash burn for the fourth quarter of 2021",
+    "period": "2022Q1",
+    "metric": "monthly_cash_burn_musd",
+    "basis": "",
+    "unit": "USD million",
+    "point": "390"
+  },
+  {
+    "release_date": "2022-02-24",
+    "locator": "P48",
+    "anchor": "Anticipated non-newbuild capital expenditures for full year 2022 are e",
+    "period": "FY2022",
+    "metric": "non_newbuild_capex_musd",
+    "basis": "",
+    "unit": "USD million",
+    "point": "500"
+  },
+  {
+    "release_date": "2022-02-24",
+    "locator": "P48",
+    "anchor": "Anticipated non-newbuild capital expenditures for full year 2022 are e",
+    "period": "FY2022",
+    "metric": "ship_construction_capex_musd",
+    "basis": "",
+    "unit": "USD million",
+    "point": "1600"
+  },
+  {
+    "release_date": "2022-02-24",
+    "locator": "P48",
+    "anchor": "Anticipated non-newbuild capital expenditures for full year 2022 are e",
+    "period": "FY2023",
+    "metric": "ship_construction_capex_musd",
+    "basis": "",
+    "unit": "USD million",
+    "point": "2500"
+  },
+  {
+    "release_date": "2022-02-24",
+    "locator": "P48",
+    "anchor": "Anticipated non-newbuild capital expenditures for full year 2022 are e",
+    "period": "FY2024",
+    "metric": "ship_construction_capex_musd",
+    "basis": "",
+    "unit": "USD million",
+    "point": "1400"
+  },
+  {
+    "release_date": "2022-02-24",
+    "locator": "P48",
+    "anchor": "Anticipated non-newbuild capital expenditures for full year 2022 are e",
+    "period": "FY2022",
+    "metric": "export_credit_financing_musd",
+    "basis": "",
+    "unit": "USD million",
+    "point": "1000"
+  },
+  {
+    "release_date": "2022-02-24",
+    "locator": "P48",
+    "anchor": "Anticipated non-newbuild capital expenditures for full year 2022 are e",
+    "period": "FY2023",
+    "metric": "export_credit_financing_musd",
+    "basis": "",
+    "unit": "USD million",
+    "point": "2000"
+  },
+  {
+    "release_date": "2022-02-24",
+    "locator": "P48",
+    "anchor": "Anticipated non-newbuild capital expenditures for full year 2022 are e",
+    "period": "FY2024",
+    "metric": "export_credit_financing_musd",
+    "basis": "",
+    "unit": "USD million",
+    "point": "700"
+  },
+  {
+    "release_date": "2022-02-24",
+    "locator": "P49",
+    "anchor": "Interest Expense, net is expected to be approximately $595 million for",
+    "period": "FY2022",
+    "metric": "interest_expense_net_musd",
+    "basis": "excludes debt extinguishment",
+    "unit": "USD million",
+    "point": "595"
+  },
+  {
+    "release_date": "2022-02-24",
+    "locator": "P49",
+    "anchor": "Interest Expense, net is expected to be approximately $595 million for",
+    "period": "FY2022",
+    "metric": "depreciation_and_amortization_musd",
+    "basis": "",
+    "unit": "USD million",
+    "point": "750"
+  },
+  {
+    "release_date": "2022-05-10",
+    "locator": "P40",
+    "anchor": "Anticipated non-newbuild capital expenditures for full year 2022 are e",
+    "period": "FY2022",
+    "metric": "non_newbuild_capex_musd",
+    "basis": "",
+    "unit": "USD million",
+    "point": "500"
+  },
+  {
+    "release_date": "2022-05-10",
+    "locator": "P40",
+    "anchor": "Anticipated non-newbuild capital expenditures for full year 2022 are e",
+    "period": "2022_remainder",
+    "metric": "ship_construction_capex_musd",
+    "basis": "",
+    "unit": "USD million",
+    "point": "1600"
+  },
+  {
+    "release_date": "2022-05-10",
+    "locator": "P40",
+    "anchor": "Anticipated non-newbuild capital expenditures for full year 2022 are e",
+    "period": "FY2023",
+    "metric": "ship_construction_capex_musd",
+    "basis": "",
+    "unit": "USD million",
+    "point": "2500"
+  },
+  {
+    "release_date": "2022-05-10",
+    "locator": "P40",
+    "anchor": "Anticipated non-newbuild capital expenditures for full year 2022 are e",
+    "period": "FY2024",
+    "metric": "ship_construction_capex_musd",
+    "basis": "",
+    "unit": "USD million",
+    "point": "1400"
+  },
+  {
+    "release_date": "2022-05-10",
+    "locator": "P40",
+    "anchor": "Anticipated non-newbuild capital expenditures for full year 2022 are e",
+    "period": "2022_remainder",
+    "metric": "export_credit_financing_musd",
+    "basis": "",
+    "unit": "USD million",
+    "point": "900"
+  },
+  {
+    "release_date": "2022-05-10",
+    "locator": "P40",
+    "anchor": "Anticipated non-newbuild capital expenditures for full year 2022 are e",
+    "period": "FY2023",
+    "metric": "export_credit_financing_musd",
+    "basis": "",
+    "unit": "USD million",
+    "point": "2000"
+  },
+  {
+    "release_date": "2022-05-10",
+    "locator": "P40",
+    "anchor": "Anticipated non-newbuild capital expenditures for full year 2022 are e",
+    "period": "FY2024",
+    "metric": "export_credit_financing_musd",
+    "basis": "",
+    "unit": "USD million",
+    "point": "700"
+  },
+  {
+    "release_date": "2022-05-10",
+    "locator": "P41",
+    "anchor": "Interest Expense, net is expected to be approximately $155 million for",
+    "period": "2022Q2",
+    "metric": "interest_expense_net_musd",
+    "basis": "excludes debt extinguishment",
+    "unit": "USD million",
+    "point": "155"
+  },
+  {
+    "release_date": "2022-05-10",
+    "locator": "P41",
+    "anchor": "Interest Expense, net is expected to be approximately $155 million for",
+    "period": "FY2022",
+    "metric": "interest_expense_net_musd",
+    "basis": "excludes debt extinguishment",
+    "unit": "USD million",
+    "point": "605"
+  },
+  {
+    "release_date": "2022-05-10",
+    "locator": "P41",
+    "anchor": "Interest Expense, net is expected to be approximately $155 million for",
+    "period": "2022Q2",
+    "metric": "depreciation_and_amortization_musd",
+    "basis": "",
+    "unit": "USD million",
+    "point": "180"
+  },
+  {
+    "release_date": "2022-05-10",
+    "locator": "P41",
+    "anchor": "Interest Expense, net is expected to be approximately $155 million for",
+    "period": "FY2022",
+    "metric": "depreciation_and_amortization_musd",
+    "basis": "",
+    "unit": "USD million",
+    "point": "750"
+  },
+  {
+    "release_date": "2022-08-09",
+    "locator": "P40",
+    "anchor": "Anticipated non-newbuild capital expenditures for 2022 are expected to",
+    "period": "FY2022",
+    "metric": "non_newbuild_capex_musd",
+    "basis": "",
+    "unit": "USD million",
+    "point": "500"
+  },
+  {
+    "release_date": "2022-08-09",
+    "locator": "P40",
+    "anchor": "Anticipated non-newbuild capital expenditures for 2022 are expected to",
+    "period": "2022H2",
+    "metric": "non_newbuild_capex_musd",
+    "basis": "",
+    "unit": "USD million",
+    "point": "250"
+  },
+  {
+    "release_date": "2022-08-09",
+    "locator": "P41",
+    "anchor": "Newbuild-related capital expenditures, net of export credit financing,",
+    "period": "FY2022",
+    "metric": "net_newbuild_capex_musd",
+    "basis": "net of export credit financing",
+    "unit": "USD million",
+    "point": "600"
+  },
+  {
+    "release_date": "2022-08-09",
+    "locator": "P41",
+    "anchor": "Newbuild-related capital expenditures, net of export credit financing,",
+    "period": "FY2023",
+    "metric": "net_newbuild_capex_musd",
+    "basis": "net of export credit financing",
+    "unit": "USD million",
+    "point": "500"
+  },
+  {
+    "release_date": "2022-08-09",
+    "locator": "P41",
+    "anchor": "Newbuild-related capital expenditures, net of export credit financing,",
+    "period": "FY2024",
+    "metric": "net_newbuild_capex_musd",
+    "basis": "net of export credit financing",
+    "unit": "USD million",
+    "point": "700"
+  },
+  {
+    "release_date": "2022-08-09",
+    "locator": "P41",
+    "anchor": "Newbuild-related capital expenditures, net of export credit financing,",
+    "period": "2022_remainder",
+    "metric": "net_newbuild_capex_musd",
+    "basis": "net of export credit financing",
+    "unit": "USD million",
+    "point": "500"
+  },
+  {
+    "release_date": "2022-08-09",
+    "locator": "P43",
+    "anchor": "Occupancy is expected to be in the low 80% range in the third quarter ",
+    "period": "2022Q3",
+    "metric": "occupancy_pct",
+    "basis": "qualitative: low 80% range; no guessed endpoints",
+    "unit": "percent"
+  },
+  {
+    "release_date": "2022-08-09",
+    "locator": "P43",
+    "anchor": "Occupancy is expected to be in the low 80% range in the third quarter ",
+    "period": "2022Q3",
+    "metric": "capacity_days",
+    "basis": "",
+    "unit": "days",
+    "point": "5000000"
+  },
+  {
+    "release_date": "2022-08-09",
+    "locator": "P43",
+    "anchor": "Occupancy is expected to be in the low 80% range in the third quarter ",
+    "period": "2022Q4",
+    "metric": "capacity_days",
+    "basis": "",
+    "unit": "days",
+    "point": "5100000"
+  },
+  {
+    "release_date": "2022-08-09",
+    "locator": "P44",
+    "anchor": "Total revenue is expected to be $1.5-$1.6 billion in the third quarter",
+    "period": "2022Q3",
+    "metric": "total_revenue_musd",
+    "basis": "",
+    "unit": "USD million",
+    "low": "1500",
+    "high": "1600"
+  },
+  {
+    "release_date": "2022-08-09",
+    "locator": "P44",
+    "anchor": "Total revenue is expected to be $1.5-$1.6 billion in the third quarter",
+    "period": "2022Q3",
+    "metric": "revenue_per_passenger_cruise_day_change_pct",
+    "basis": "versus 2019; qualitative: high single digits",
+    "unit": "percent"
+  },
+  {
+    "release_date": "2022-08-09",
+    "locator": "P45",
+    "anchor": "Adjusted Net Cruise Cost Excluding Fuel per Capacity Day is expected t",
+    "period": "2022H2",
+    "metric": "adjusted_ncc_ex_fuel_per_capacity_day_change_pct",
+    "basis": "versus first half 2022; approximately",
+    "unit": "percent",
+    "point": "-10"
+  },
+  {
+    "release_date": "2022-08-09",
+    "locator": "P46",
+    "anchor": "Interest Expense, net is expected to be approximately $160 million for",
+    "period": "2022Q3",
+    "metric": "interest_expense_net_musd",
+    "basis": "excludes debt extinguishment",
+    "unit": "USD million",
+    "point": "160"
+  },
+  {
+    "release_date": "2022-08-09",
+    "locator": "P46",
+    "anchor": "Interest Expense, net is expected to be approximately $160 million for",
+    "period": "FY2022",
+    "metric": "interest_expense_net_musd",
+    "basis": "excludes debt extinguishment",
+    "unit": "USD million",
+    "point": "615"
+  },
+  {
+    "release_date": "2022-08-09",
+    "locator": "P47",
+    "anchor": "Depreciation and Amortization is expected to be approximately $190 mil",
+    "period": "2022Q3",
+    "metric": "depreciation_and_amortization_musd",
+    "basis": "",
+    "unit": "USD million",
+    "point": "190"
+  },
+  {
+    "release_date": "2022-08-09",
+    "locator": "P47",
+    "anchor": "Depreciation and Amortization is expected to be approximately $190 mil",
+    "period": "FY2022",
+    "metric": "depreciation_and_amortization_musd",
+    "basis": "",
+    "unit": "USD million",
+    "point": "745"
+  },
+  {
+    "release_date": "2022-11-08",
+    "locator": "P40",
+    "anchor": "Non-newbuild capital expenditures for third quarter of 2022 were $80 m",
+    "period": "FY2022",
+    "metric": "non_newbuild_capex_musd",
+    "basis": "",
+    "unit": "USD million",
+    "point": "470"
+  },
+  {
+    "release_date": "2022-11-08",
+    "locator": "P40",
+    "anchor": "Non-newbuild capital expenditures for third quarter of 2022 were $80 m",
+    "period": "2022Q4",
+    "metric": "non_newbuild_capex_musd",
+    "basis": "",
+    "unit": "USD million",
+    "point": "155"
+  },
+  {
+    "release_date": "2022-11-08",
+    "locator": "P41",
+    "anchor": "Newbuild-related capital expenditures, net of export credit financing,",
+    "period": "FY2022",
+    "metric": "net_newbuild_capex_musd",
+    "basis": "net of export credit financing",
+    "unit": "USD million",
+    "point": "700"
+  },
+  {
+    "release_date": "2022-11-08",
+    "locator": "P41",
+    "anchor": "Newbuild-related capital expenditures, net of export credit financing,",
+    "period": "FY2023",
+    "metric": "net_newbuild_capex_musd",
+    "basis": "net of export credit financing",
+    "unit": "USD million",
+    "point": "500"
+  },
+  {
+    "release_date": "2022-11-08",
+    "locator": "P41",
+    "anchor": "Newbuild-related capital expenditures, net of export credit financing,",
+    "period": "FY2024",
+    "metric": "net_newbuild_capex_musd",
+    "basis": "net of export credit financing",
+    "unit": "USD million",
+    "point": "400"
+  },
+  {
+    "release_date": "2022-11-08",
+    "locator": "P41",
+    "anchor": "Newbuild-related capital expenditures, net of export credit financing,",
+    "period": "2022Q4",
+    "metric": "net_newbuild_capex_musd",
+    "basis": "net of export credit financing",
+    "unit": "USD million",
+    "point": "84"
+  },
+  {
+    "release_date": "2022-11-08",
+    "locator": "P43",
+    "anchor": "Occupancy is expected to be in the mid-to-high 80% range for the fourt",
+    "period": "2022Q4",
+    "metric": "occupancy_pct",
+    "basis": "qualitative: mid-to-high 80% range; no guessed endpoints",
+    "unit": "percent"
+  },
+  {
+    "release_date": "2022-11-08",
+    "locator": "P43",
+    "anchor": "Occupancy is expected to be in the mid-to-high 80% range for the fourt",
+    "period": "2022Q4",
+    "metric": "capacity_days",
+    "basis": "",
+    "unit": "days",
+    "point": "5100000"
+  },
+  {
+    "release_date": "2022-11-08",
+    "locator": "P44",
+    "anchor": "Total revenue is expected to be $1.4-1.5 billion in the fourth quarter",
+    "period": "2022Q4",
+    "metric": "total_revenue_musd",
+    "basis": "",
+    "unit": "USD million",
+    "low": "1400",
+    "high": "1500"
+  },
+  {
+    "release_date": "2022-11-08",
+    "locator": "P44",
+    "anchor": "Total revenue is expected to be $1.4-1.5 billion in the fourth quarter",
+    "period": "2022Q4",
+    "metric": "revenue_per_passenger_cruise_day_change_pct",
+    "basis": "versus 2019",
+    "unit": "percent",
+    "point": "20"
+  },
+  {
+    "release_date": "2022-11-08",
+    "locator": "P45",
+    "anchor": "Adjusted Net Cruise Cost Excluding Fuel per Capacity Day is expected t",
+    "period": "2022H2",
+    "metric": "adjusted_ncc_ex_fuel_per_capacity_day_change_pct",
+    "basis": "versus first half 2022; approximately",
+    "unit": "percent",
+    "point": "-10"
+  },
+  {
+    "release_date": "2022-11-08",
+    "locator": "P46",
+    "anchor": "Interest Expense, net is expected to be approximately $170 million for",
+    "period": "2022Q4",
+    "metric": "interest_expense_net_musd",
+    "basis": "excludes debt extinguishment",
+    "unit": "USD million",
+    "point": "170"
+  },
+  {
+    "release_date": "2022-11-08",
+    "locator": "P46",
+    "anchor": "Interest Expense, net is expected to be approximately $170 million for",
+    "period": "FY2022",
+    "metric": "interest_expense_net_musd",
+    "basis": "excludes debt extinguishment",
+    "unit": "USD million",
+    "point": "610"
+  },
+  {
+    "release_date": "2022-11-08",
+    "locator": "P47",
+    "anchor": "Depreciation and Amortization is expected to be approximately $195 mil",
+    "period": "2022Q4",
+    "metric": "depreciation_and_amortization_musd",
+    "basis": "",
+    "unit": "USD million",
+    "point": "195"
+  },
+  {
+    "release_date": "2022-11-08",
+    "locator": "P47",
+    "anchor": "Depreciation and Amortization is expected to be approximately $195 mil",
+    "period": "FY2022",
+    "metric": "depreciation_and_amortization_musd",
+    "basis": "",
+    "unit": "USD million",
+    "point": "740"
+  },
+  {
+    "release_date": "2023-02-28",
+    "locator": "P60",
+    "anchor": "Non-newbuild capital expenditures for the fourth quarter of 2022 were ",
+    "period": "FY2023",
+    "metric": "non_newbuild_capex_musd",
+    "basis": "",
+    "unit": "USD million",
+    "point": "450"
+  },
+  {
+    "release_date": "2023-02-28",
+    "locator": "P60",
+    "anchor": "Non-newbuild capital expenditures for the fourth quarter of 2022 were ",
+    "period": "2023Q1",
+    "metric": "non_newbuild_capex_musd",
+    "basis": "",
+    "unit": "USD million",
+    "point": "115"
+  },
+  {
+    "release_date": "2023-02-28",
+    "locator": "P61",
+    "anchor": "Newbuild-related capital expenditures, net of export credit financing,",
+    "period": "FY2023",
+    "metric": "net_newbuild_capex_musd",
+    "basis": "net of export credit financing",
+    "unit": "USD million",
+    "point": "500"
+  },
+  {
+    "release_date": "2023-02-28",
+    "locator": "P61",
+    "anchor": "Newbuild-related capital expenditures, net of export credit financing,",
+    "period": "FY2024",
+    "metric": "net_newbuild_capex_musd",
+    "basis": "net of export credit financing",
+    "unit": "USD million",
+    "point": "400"
+  },
+  {
+    "release_date": "2023-02-28",
+    "locator": "P61",
+    "anchor": "Newbuild-related capital expenditures, net of export credit financing,",
+    "period": "FY2025",
+    "metric": "net_newbuild_capex_musd",
+    "basis": "net of export credit financing",
+    "unit": "USD million",
+    "point": "700"
+  },
+  {
+    "release_date": "2023-02-28",
+    "locator": "P61",
+    "anchor": "Newbuild-related capital expenditures, net of export credit financing,",
+    "period": "2023Q1",
+    "metric": "net_newbuild_capex_musd",
+    "basis": "net of export credit financing",
+    "unit": "USD million",
+    "point": "130"
+  },
+  {
+    "release_date": "2023-05-01",
+    "locator": "P47",
+    "anchor": "Non-newbuild capital expenditures for first quarter of 2023 were $135 ",
+    "period": "FY2023",
+    "metric": "non_newbuild_capex_musd",
+    "basis": "",
+    "unit": "USD million",
+    "point": "450"
+  },
+  {
+    "release_date": "2023-05-01",
+    "locator": "P47",
+    "anchor": "Non-newbuild capital expenditures for first quarter of 2023 were $135 ",
+    "period": "2023Q2",
+    "metric": "non_newbuild_capex_musd",
+    "basis": "",
+    "unit": "USD million",
+    "point": "115"
+  },
+  {
+    "release_date": "2023-05-01",
+    "locator": "P48",
+    "anchor": "Newbuild-related capital expenditures, net of export credit financing,",
+    "period": "FY2023",
+    "metric": "net_newbuild_capex_musd",
+    "basis": "net of export credit financing",
+    "unit": "USD million",
+    "point": "500"
+  },
+  {
+    "release_date": "2023-05-01",
+    "locator": "P48",
+    "anchor": "Newbuild-related capital expenditures, net of export credit financing,",
+    "period": "FY2024",
+    "metric": "net_newbuild_capex_musd",
+    "basis": "net of export credit financing",
+    "unit": "USD million",
+    "point": "200"
+  },
+  {
+    "release_date": "2023-05-01",
+    "locator": "P48",
+    "anchor": "Newbuild-related capital expenditures, net of export credit financing,",
+    "period": "FY2025",
+    "metric": "net_newbuild_capex_musd",
+    "basis": "net of export credit financing",
+    "unit": "USD million",
+    "point": "400"
+  },
+  {
+    "release_date": "2023-05-01",
+    "locator": "P48",
+    "anchor": "Newbuild-related capital expenditures, net of export credit financing,",
+    "period": "2023Q2",
+    "metric": "net_newbuild_capex_musd",
+    "basis": "net of export credit financing",
+    "unit": "USD million",
+    "point": "203"
+  },
+  {
+    "release_date": "2023-08-01",
+    "locator": "P44",
+    "anchor": "Non-newbuild capital expenditures for the second quarter of 2023 were ",
+    "period": "FY2023",
+    "metric": "non_newbuild_capex_musd",
+    "basis": "",
+    "unit": "USD million",
+    "point": "425"
+  },
+  {
+    "release_date": "2023-08-01",
+    "locator": "P44",
+    "anchor": "Non-newbuild capital expenditures for the second quarter of 2023 were ",
+    "period": "2023Q3",
+    "metric": "non_newbuild_capex_musd",
+    "basis": "",
+    "unit": "USD million",
+    "point": "90"
+  },
+  {
+    "release_date": "2023-08-01",
+    "locator": "P45",
+    "anchor": "Newbuild-related capital expenditures, net of export credit financing,",
+    "period": "FY2023",
+    "metric": "net_newbuild_capex_musd",
+    "basis": "net of export credit financing",
+    "unit": "USD million",
+    "point": "500"
+  },
+  {
+    "release_date": "2023-08-01",
+    "locator": "P45",
+    "anchor": "Newbuild-related capital expenditures, net of export credit financing,",
+    "period": "FY2024",
+    "metric": "net_newbuild_capex_musd",
+    "basis": "net of export credit financing",
+    "unit": "USD million",
+    "point": "200"
+  },
+  {
+    "release_date": "2023-08-01",
+    "locator": "P45",
+    "anchor": "Newbuild-related capital expenditures, net of export credit financing,",
+    "period": "FY2025",
+    "metric": "net_newbuild_capex_musd",
+    "basis": "net of export credit financing",
+    "unit": "USD million",
+    "point": "500"
+  },
+  {
+    "release_date": "2023-08-01",
+    "locator": "P45",
+    "anchor": "Newbuild-related capital expenditures, net of export credit financing,",
+    "period": "2023Q3",
+    "metric": "net_newbuild_capex_musd",
+    "basis": "net of export credit financing",
+    "unit": "USD million",
+    "point": "230"
+  },
+  {
+    "release_date": "2023-11-01",
+    "locator": "P52",
+    "anchor": "Non-newbuild capital expenditures for the third quarter of 2023 were $",
+    "period": "FY2023",
+    "metric": "non_newbuild_capex_musd",
+    "basis": "",
+    "unit": "USD million",
+    "point": "400"
+  },
+  {
+    "release_date": "2023-11-01",
+    "locator": "P52",
+    "anchor": "Non-newbuild capital expenditures for the third quarter of 2023 were $",
+    "period": "2023Q4",
+    "metric": "non_newbuild_capex_musd",
+    "basis": "",
+    "unit": "USD million",
+    "point": "135"
+  },
+  {
+    "release_date": "2023-11-01",
+    "locator": "P53",
+    "anchor": "Newbuild-related capital expenditures, net of export credit financing,",
+    "period": "FY2023",
+    "metric": "net_newbuild_capex_musd",
+    "basis": "net of export credit financing",
+    "unit": "USD million",
+    "point": "500"
+  },
+  {
+    "release_date": "2023-11-01",
+    "locator": "P53",
+    "anchor": "Newbuild-related capital expenditures, net of export credit financing,",
+    "period": "FY2024",
+    "metric": "net_newbuild_capex_musd",
+    "basis": "net of export credit financing",
+    "unit": "USD million",
+    "point": "200"
+  },
+  {
+    "release_date": "2023-11-01",
+    "locator": "P53",
+    "anchor": "Newbuild-related capital expenditures, net of export credit financing,",
+    "period": "FY2025",
+    "metric": "net_newbuild_capex_musd",
+    "basis": "net of export credit financing",
+    "unit": "USD million",
+    "point": "500"
+  },
+  {
+    "release_date": "2023-11-01",
+    "locator": "P53",
+    "anchor": "Newbuild-related capital expenditures, net of export credit financing,",
+    "period": "2023Q4",
+    "metric": "net_newbuild_capex_musd",
+    "basis": "net of export credit financing",
+    "unit": "USD million",
+    "point": "85"
+  },
+  {
+    "release_date": "2024-02-27",
+    "locator": "P58",
+    "anchor": "Non-newbuild capital expenditures for the fourth quarter of 2023 were ",
+    "period": "FY2024",
+    "metric": "non_newbuild_capex_musd",
+    "basis": "",
+    "unit": "USD million",
+    "point": "475"
+  },
+  {
+    "release_date": "2024-02-27",
+    "locator": "P58",
+    "anchor": "Non-newbuild capital expenditures for the fourth quarter of 2023 were ",
+    "period": "2024Q1",
+    "metric": "non_newbuild_capex_musd",
+    "basis": "",
+    "unit": "USD million",
+    "point": "113"
+  },
+  {
+    "release_date": "2024-02-27",
+    "locator": "P59",
+    "anchor": "Newbuild-related capital expenditures, net of export credit financing,",
+    "period": "FY2024",
+    "metric": "net_newbuild_capex_musd",
+    "basis": "net of export credit financing",
+    "unit": "USD million",
+    "point": "200"
+  },
+  {
+    "release_date": "2024-02-27",
+    "locator": "P59",
+    "anchor": "Newbuild-related capital expenditures, net of export credit financing,",
+    "period": "FY2025",
+    "metric": "net_newbuild_capex_musd",
+    "basis": "net of export credit financing",
+    "unit": "USD million",
+    "point": "600"
+  },
+  {
+    "release_date": "2024-02-27",
+    "locator": "P59",
+    "anchor": "Newbuild-related capital expenditures, net of export credit financing,",
+    "period": "FY2026",
+    "metric": "net_newbuild_capex_musd",
+    "basis": "net of export credit financing",
+    "unit": "USD million",
+    "point": "600"
+  },
+  {
+    "release_date": "2024-02-27",
+    "locator": "P59",
+    "anchor": "Newbuild-related capital expenditures, net of export credit financing,",
+    "period": "2024Q1",
+    "metric": "net_newbuild_capex_musd",
+    "basis": "net of export credit financing",
+    "unit": "USD million",
+    "point": "40"
+  },
+  {
+    "release_date": "2024-05-01",
+    "locator": "P57",
+    "anchor": "Non-newbuild capital expenditures for the first quarter of 2024 were $",
+    "period": "FY2024",
+    "metric": "non_newbuild_capex_musd",
+    "basis": "",
+    "unit": "USD million",
+    "point": "575"
+  },
+  {
+    "release_date": "2024-05-01",
+    "locator": "P57",
+    "anchor": "Non-newbuild capital expenditures for the first quarter of 2024 were $",
+    "period": "2024Q2",
+    "metric": "non_newbuild_capex_musd",
+    "basis": "",
+    "unit": "USD million",
+    "point": "140"
+  },
+  {
+    "release_date": "2024-05-01",
+    "locator": "P58",
+    "anchor": "Newbuild-related capital expenditures, net of export credit financing,",
+    "period": "FY2024",
+    "metric": "net_newbuild_capex_musd",
+    "basis": "net of export credit financing",
+    "unit": "USD million",
+    "point": "300"
+  },
+  {
+    "release_date": "2024-05-01",
+    "locator": "P58",
+    "anchor": "Newbuild-related capital expenditures, net of export credit financing,",
+    "period": "FY2025",
+    "metric": "net_newbuild_capex_musd",
+    "basis": "net of export credit financing",
+    "unit": "USD million",
+    "point": "600"
+  },
+  {
+    "release_date": "2024-05-01",
+    "locator": "P58",
+    "anchor": "Newbuild-related capital expenditures, net of export credit financing,",
+    "period": "FY2026",
+    "metric": "net_newbuild_capex_musd",
+    "basis": "net of export credit financing",
+    "unit": "USD million",
+    "point": "900"
+  },
+  {
+    "release_date": "2024-05-01",
+    "locator": "P58",
+    "anchor": "Newbuild-related capital expenditures, net of export credit financing,",
+    "period": "2024Q2",
+    "metric": "net_newbuild_capex_musd",
+    "basis": "net of export credit financing",
+    "unit": "USD million",
+    "point": "65"
+  },
+  {
+    "release_date": "2024-07-31",
+    "locator": "P56",
+    "anchor": "Non-newbuild capital expenditures for the second quarter of 2024 were ",
+    "period": "FY2024",
+    "metric": "non_newbuild_capex_musd",
+    "basis": "",
+    "unit": "USD million",
+    "point": "575"
+  },
+  {
+    "release_date": "2024-07-31",
+    "locator": "P56",
+    "anchor": "Non-newbuild capital expenditures for the second quarter of 2024 were ",
+    "period": "2024Q3",
+    "metric": "non_newbuild_capex_musd",
+    "basis": "",
+    "unit": "USD million",
+    "point": "141"
+  },
+  {
+    "release_date": "2024-07-31",
+    "locator": "P57",
+    "anchor": "Newbuild-related capital expenditures, net of export credit financing,",
+    "period": "FY2024",
+    "metric": "net_newbuild_capex_musd",
+    "basis": "net of export credit financing",
+    "unit": "USD million",
+    "point": "300"
+  },
+  {
+    "release_date": "2024-07-31",
+    "locator": "P57",
+    "anchor": "Newbuild-related capital expenditures, net of export credit financing,",
+    "period": "FY2025",
+    "metric": "net_newbuild_capex_musd",
+    "basis": "net of export credit financing",
+    "unit": "USD million",
+    "point": "600"
+  },
+  {
+    "release_date": "2024-07-31",
+    "locator": "P57",
+    "anchor": "Newbuild-related capital expenditures, net of export credit financing,",
+    "period": "FY2026",
+    "metric": "net_newbuild_capex_musd",
+    "basis": "net of export credit financing",
+    "unit": "USD million",
+    "point": "800"
+  },
+  {
+    "release_date": "2024-07-31",
+    "locator": "P57",
+    "anchor": "Newbuild-related capital expenditures, net of export credit financing,",
+    "period": "2024Q3",
+    "metric": "net_newbuild_capex_musd",
+    "basis": "net of export credit financing",
+    "unit": "USD million",
+    "point": "119"
+  },
+  {
+    "release_date": "2024-10-31",
+    "locator": "P48",
+    "anchor": "Non-newbuild capital expenditures for the third quarter of 2024 were $",
+    "period": "FY2024",
+    "metric": "non_newbuild_capex_musd",
+    "basis": "",
+    "unit": "USD million",
+    "point": "575"
+  },
+  {
+    "release_date": "2024-10-31",
+    "locator": "P48",
+    "anchor": "Non-newbuild capital expenditures for the third quarter of 2024 were $",
+    "period": "2024Q4",
+    "metric": "non_newbuild_capex_musd",
+    "basis": "",
+    "unit": "USD million",
+    "point": "142"
+  },
+  {
+    "release_date": "2024-10-31",
+    "locator": "P49",
+    "anchor": "Newbuild-related capital expenditures, net of export credit financing,",
+    "period": "FY2024",
+    "metric": "net_newbuild_capex_musd",
+    "basis": "net of export credit financing",
+    "unit": "USD million",
+    "point": "300"
+  },
+  {
+    "release_date": "2024-10-31",
+    "locator": "P49",
+    "anchor": "Newbuild-related capital expenditures, net of export credit financing,",
+    "period": "FY2025",
+    "metric": "net_newbuild_capex_musd",
+    "basis": "net of export credit financing",
+    "unit": "USD million",
+    "point": "800"
+  },
+  {
+    "release_date": "2024-10-31",
+    "locator": "P49",
+    "anchor": "Newbuild-related capital expenditures, net of export credit financing,",
+    "period": "FY2026",
+    "metric": "net_newbuild_capex_musd",
+    "basis": "net of export credit financing",
+    "unit": "USD million",
+    "point": "900"
+  },
+  {
+    "release_date": "2024-10-31",
+    "locator": "P49",
+    "anchor": "Newbuild-related capital expenditures, net of export credit financing,",
+    "period": "2024Q4",
+    "metric": "net_newbuild_capex_musd",
+    "basis": "net of export credit financing",
+    "unit": "USD million",
+    "point": "59"
+  },
+  {
+    "release_date": "2023-02-28",
+    "locator": "P15",
+    "anchor": "The Company is undertaking a broad and ongoing margin enhancement init",
+    "period": "FY2023",
+    "metric": "adjusted_ncc_ex_fuel_per_capacity_day_change_pct",
+    "basis": "versus second half 2022; qualitative: nearly 15% decrease",
+    "unit": "percent"
+  },
+  {
+    "release_date": "2023-08-01",
+    "locator": "P16",
+    "anchor": "Occupancy reached approximately 105% for the second quarter of 2023, i",
+    "period": "FY2024_and_beyond",
+    "metric": "occupancy_change_pp",
+    "basis": "versus 2019; approximately 200 basis points lower",
+    "unit": "percentage points",
+    "point": "-2"
+  },
+  {
+    "release_date": "2023-08-01",
+    "locator": "P19",
+    "anchor": "The Company continues to focus on efforts to maximize revenue opportun",
+    "period": "2023Q3",
+    "metric": "adjusted_ncc_ex_fuel_per_capacity_day_usd",
+    "basis": "constant currency; excluding nonrecurring benefits",
+    "unit": "USD/day",
+    "point": "155"
+  },
+  {
+    "release_date": "2023-08-01",
+    "locator": "P13",
+    "anchor": "Full year 2023 Adjusted EPS guidance improved $0.05 to approximately $",
+    "period": "2023H2",
+    "metric": "incremental_interest_and_fuel_expense_musd",
+    "basis": "relative to previous expectations",
+    "unit": "USD million",
+    "point": "30"
+  },
+  {
+    "release_date": "2024-05-01",
+    "locator": "P33",
+    "anchor": "Kempa continued, \u201cthe momentum we are experiencing allows us to make s",
+    "period": "FY2024",
+    "metric": "net_leverage_change_x",
+    "basis": "versus year end 2023",
+    "unit": "times",
+    "point": "-1.5"
+  },
+  {
+    "release_date": "2024-07-31",
+    "locator": "P29",
+    "anchor": "Adjusted Operational EBITDA Margin for the full year 2024 is expected ",
+    "period": "FY2024",
+    "metric": "adjusted_operational_ebitda_margin_pct",
+    "basis": "",
+    "unit": "percent",
+    "point": "34.5"
+  },
+  {
+    "release_date": "2024-10-31",
+    "locator": "P16",
+    "anchor": "Adjusted Operational EBITDA Margin for the full year 2024 increased to",
+    "period": "FY2024",
+    "metric": "adjusted_operational_ebitda_margin_pct",
+    "basis": "",
+    "unit": "percent",
+    "point": "35.3"
+  },
+  {
+    "release_date": "2025-02-27",
+    "locator": "P35",
+    "anchor": "Adjusted Operational EBITDA Margin for the full year 2025 is expected ",
+    "period": "FY2025",
+    "metric": "adjusted_operational_ebitda_margin_pct",
+    "basis": "",
+    "unit": "percent",
+    "point": "37"
+  },
+  {
+    "release_date": "2025-04-30",
+    "locator": "P29",
+    "anchor": "Adjusted Operational EBITDA Margin guidance for the full year 2025 is ",
+    "period": "FY2025",
+    "metric": "adjusted_operational_ebitda_margin_pct",
+    "basis": "",
+    "unit": "percent",
+    "point": "37"
+  },
+  {
+    "release_date": "2025-07-31",
+    "locator": "P26",
+    "anchor": "Adjusted Operational EBITDA Margin guidance for the full year 2025 is ",
+    "period": "FY2025",
+    "metric": "adjusted_operational_ebitda_margin_pct",
+    "basis": "",
+    "unit": "percent",
+    "point": "37"
+  },
+  {
+    "release_date": "2025-11-04",
+    "locator": "P25",
+    "anchor": "Adjusted Operational EBITDA Margin guidance for the full year 2025 is ",
+    "period": "FY2025",
+    "metric": "adjusted_operational_ebitda_margin_pct",
+    "basis": "",
+    "unit": "percent",
+    "point": "37"
+  },
+  {
+    "release_date": "2026-03-02",
+    "locator": "P27",
+    "anchor": "Adjusted Operational EBITDA Margin for the full year 2026 is expected ",
+    "period": "FY2026",
+    "metric": "adjusted_operational_ebitda_margin_pct",
+    "basis": "",
+    "unit": "percent",
+    "point": "37"
+  },
+  {
+    "release_date": "2026-03-02",
+    "locator": "P33",
+    "anchor": "Q1 2026 Adjusted EBITDA is expected to be approximately $515 million a",
+    "period": "2026Q1",
+    "metric": "adjusted_operational_ebitda_margin_pct",
+    "basis": "",
+    "unit": "percent",
+    "point": "29"
+  },
+  {
+    "release_date": "2026-05-04",
+    "locator": "P26",
+    "anchor": "Q2 2026 Adjusted EBITDA is expected to be approximately $632 million a",
+    "period": "2026Q2",
+    "metric": "adjusted_operational_ebitda_margin_pct",
+    "basis": "",
+    "unit": "percent",
+    "point": "32.5"
+  },
+  {
+    "release_date": "2026-07-30",
+    "locator": "P24",
+    "anchor": "Adjusted Operational EBITDA Margin for the full year 2026 is expected ",
+    "period": "FY2026",
+    "metric": "adjusted_operational_ebitda_margin_pct",
+    "basis": "",
+    "unit": "percent",
+    "point": "33.2"
+  },
+  {
+    "release_date": "2026-07-30",
+    "locator": "P29",
+    "anchor": "Q3 2026 Adjusted EBITDA is expected to be $874 million and Adjusted Op",
+    "period": "2026Q3",
+    "metric": "adjusted_operational_ebitda_margin_pct",
+    "basis": "",
+    "unit": "percent",
+    "point": "41.2"
+  },
+  {
+    "release_date": "2026-05-04",
+    "locator": "P21",
+    "anchor": "Adjusted Operational EBITDA Margin for the full year 2026 is expected ",
+    "period": "FY2026",
+    "metric": "adjusted_operational_ebitda_margin_pct",
+    "basis": "",
+    "unit": "percent",
+    "low": "32.9",
+    "high": "34.3"
+  },
+  {
+    "release_date": "2024-10-31",
+    "locator": "P19",
+    "anchor": "Net Leverage is expected to end the year at ~5.4 times, a reduction of",
+    "period": "FY2024",
+    "metric": "net_leverage_x",
+    "basis": "",
+    "unit": "times",
+    "point": "5.4"
+  },
+  {
+    "release_date": "2025-02-27",
+    "locator": "P43",
+    "anchor": "Net Leverage is expected to slightly increase to ~5.7x versus year-end",
+    "period": "2025Q1",
+    "metric": "net_leverage_x",
+    "basis": "",
+    "unit": "times",
+    "point": "5.7"
+  },
+  {
+    "release_date": "2025-04-30",
+    "locator": "P31",
+    "anchor": "Net Leverage guidance is expected to end the year at approximately 5x.",
+    "period": "FY2025",
+    "metric": "net_leverage_x",
+    "basis": "",
+    "unit": "times",
+    "point": "5"
+  },
+  {
+    "release_date": "2025-07-31",
+    "locator": "P28",
+    "anchor": "Net Leverage guidance is expected to end the year at approximately 5.2",
+    "period": "FY2025",
+    "metric": "net_leverage_x",
+    "basis": "",
+    "unit": "times",
+    "point": "5.2"
+  },
+  {
+    "release_date": "2025-11-04",
+    "locator": "P27",
+    "anchor": "Net Leverage guidance is expected to end the year at ~5.3x compared to",
+    "period": "FY2025",
+    "metric": "net_leverage_x",
+    "basis": "",
+    "unit": "times",
+    "point": "5.3"
+  },
+  {
+    "release_date": "2026-03-02",
+    "locator": "P29",
+    "anchor": "Net Leverage is expected to end the year at ~5.2x.",
+    "period": "FY2026",
+    "metric": "net_leverage_x",
+    "basis": "",
+    "unit": "times",
+    "point": "5.2"
+  },
+  {
+    "release_date": "2025-02-27",
+    "locator": "P38",
+    "anchor": "Net Leverage is expected to end the year at approximately 5x or better",
+    "period": "FY2025",
+    "metric": "net_leverage_x",
+    "basis": "5x or better; upper bound",
+    "unit": "times",
+    "high": "5"
+  },
+  {
+    "release_date": "2026-07-30",
+    "locator": "P7",
+    "anchor": "Advanced the Company\u2019s global business sourcing strategy through the c",
+    "period": "annualized",
+    "metric": "incremental_cost_savings_musd",
+    "basis": "primarily capital expenditures and SG&A",
+    "unit": "USD million",
+    "point": "100"
+  },
+  {
+    "release_date": "2023-08-01",
+    "locator": "T33/R4",
+    "anchor": "[fn(5)] | Based on our June 30, 2023 outstanding variable rate debt ba",
+    "period": "annualized",
+    "metric": "sensitivity_1pp_sofr_interest_expense_musd",
+    "basis": "outstanding variable-rate balance; excludes capitalized interest",
+    "unit": "USD million",
+    "point": "17"
+  },
+  {
+    "release_date": "2023-11-01",
+    "locator": "T41/R15",
+    "anchor": "[fn(1) Sensitivities for Adjusted EBITDA and Adjusted EPS are for the ",
+    "period": "annualized",
+    "metric": "sensitivity_1pp_sofr_interest_expense_musd",
+    "basis": "outstanding variable-rate balance; excludes capitalized interest",
+    "unit": "USD million",
+    "point": "16"
+  },
+  {
+    "release_date": "2024-02-27",
+    "locator": "P47",
+    "anchor": "________________________ [fn(1) Q1 2024 includes an approximate 350 ba",
+    "period": "annualized",
+    "metric": "sensitivity_1pp_sofr_interest_expense_musd",
+    "basis": "outstanding variable-rate balance; excludes capitalized interest",
+    "unit": "USD million",
+    "point": "7"
+  },
+  {
+    "release_date": "2024-05-01",
+    "locator": "T44/R3",
+    "anchor": "(4) | Based on the Company\u2019s March 31, 2024 outstanding variable rate ",
+    "period": "annualized",
+    "metric": "sensitivity_1pp_sofr_interest_expense_musd",
+    "basis": "outstanding variable-rate balance; excludes capitalized interest",
+    "unit": "USD million",
+    "point": "7"
+  },
+  {
+    "release_date": "2024-07-31",
+    "locator": "P45",
+    "anchor": "______________________ (1) Q3 2024 does not include a significant impa",
+    "period": "annualized",
+    "metric": "sensitivity_1pp_sofr_interest_expense_musd",
+    "basis": "outstanding variable-rate balance; excludes capitalized interest",
+    "unit": "USD million",
+    "point": "6"
+  },
+  {
+    "release_date": "2024-10-31",
+    "locator": "P36",
+    "anchor": "Based on the Company\u2019s September 30, 2024 outstanding variable rate de",
+    "period": "annualized",
+    "metric": "sensitivity_1pp_sofr_interest_expense_musd",
+    "basis": "outstanding variable-rate balance; excludes capitalized interest",
+    "unit": "USD million",
+    "point": "6"
+  },
+  {
+    "release_date": "2025-02-27",
+    "locator": "T53/R4",
+    "anchor": "(4) | Based on the Company\u2019s December 31, 2024 outstanding variable ra",
+    "period": "annualized",
+    "metric": "sensitivity_1pp_sofr_interest_expense_musd",
+    "basis": "outstanding variable-rate balance; excludes capitalized interest",
+    "unit": "USD million",
+    "point": "8"
+  },
+  {
+    "release_date": "2025-04-30",
+    "locator": "T43/R2",
+    "anchor": "(3) | Based on the Company\u2019s March 31, 2025 outstanding variable rate ",
+    "period": "annualized",
+    "metric": "sensitivity_1pp_sofr_interest_expense_musd",
+    "basis": "outstanding variable-rate balance; excludes capitalized interest",
+    "unit": "USD million",
+    "point": "10"
+  },
+  {
+    "release_date": "2025-07-31",
+    "locator": "T40/R2",
+    "anchor": " | (3) |  | Interest expense excluding debt extinguishment and modific",
+    "period": "annualized",
+    "metric": "sensitivity_1pp_sofr_interest_expense_musd",
+    "basis": "outstanding variable-rate balance; excludes capitalized interest",
+    "unit": "USD million",
+    "point": "9"
+  },
+  {
+    "release_date": "2025-11-04",
+    "locator": "P39",
+    "anchor": "(1) Based on guidance and using diluted weighted-average shares outsta",
+    "period": "annualized",
+    "metric": "sensitivity_1pp_sofr_interest_expense_musd",
+    "basis": "outstanding variable-rate balance; excludes capitalized interest",
+    "unit": "USD million",
+    "point": "12"
+  },
+  {
+    "release_date": "2026-03-02",
+    "locator": "T44/R2",
+    "anchor": "(3) | Interest expense excluding debt extinguishment and modification ",
+    "period": "annualized",
+    "metric": "sensitivity_1pp_sofr_interest_expense_musd",
+    "basis": "outstanding variable-rate balance; excludes capitalized interest",
+    "unit": "USD million",
+    "point": "15"
+  },
+  {
+    "release_date": "2026-05-04",
+    "locator": "T37/R2",
+    "anchor": "(3) | Interest expense excluding debt extinguishment and modification ",
+    "period": "annualized",
+    "metric": "sensitivity_1pp_sofr_interest_expense_musd",
+    "basis": "outstanding variable-rate balance; excludes capitalized interest",
+    "unit": "USD million",
+    "point": "14"
+  },
+  {
+    "release_date": "2026-07-30",
+    "locator": "T40/R2",
+    "anchor": "(3) |  | Interest expense excluding debt extinguishment and modificati",
+    "period": "annualized",
+    "metric": "sensitivity_1pp_sofr_interest_expense_musd",
+    "basis": "outstanding variable-rate balance; excludes capitalized interest",
+    "unit": "USD million",
+    "point": "15"
+  },
+  {
+    "release_date": "2024-02-27",
+    "locator": "P47",
+    "anchor": "________________________ [fn(1) Q1 2024 includes an approximate 350 ba",
+    "period": "2024Q1",
+    "metric": "drydock_adjusted_ncc_ex_fuel_per_capacity_day_impact_bps",
+    "basis": "",
+    "unit": "basis points",
+    "point": "350"
+  },
+  {
+    "release_date": "2024-02-27",
+    "locator": "P47",
+    "anchor": "________________________ [fn(1) Q1 2024 includes an approximate 350 ba",
+    "period": "FY2024",
+    "metric": "drydock_adjusted_ncc_ex_fuel_per_capacity_day_impact_bps",
+    "basis": "",
+    "unit": "basis points",
+    "point": "325"
+  },
+  {
+    "release_date": "2024-02-27",
+    "locator": "P47",
+    "anchor": "________________________ [fn(1) Q1 2024 includes an approximate 350 ba",
+    "period": "2024Q1",
+    "metric": "drydock_adjusted_ncc_ex_fuel_per_capacity_day_impact_usd",
+    "basis": "",
+    "unit": "USD/day",
+    "point": "6"
+  },
+  {
+    "release_date": "2024-02-27",
+    "locator": "P47",
+    "anchor": "________________________ [fn(1) Q1 2024 includes an approximate 350 ba",
+    "period": "FY2024",
+    "metric": "drydock_adjusted_ncc_ex_fuel_per_capacity_day_impact_usd",
+    "basis": "",
+    "unit": "USD/day",
+    "point": "5"
+  },
+  {
+    "release_date": "2024-02-27",
+    "locator": "P47",
+    "anchor": "________________________ [fn(1) Q1 2024 includes an approximate 350 ba",
+    "period": "2024Q1",
+    "metric": "adjusted_ncc_ex_fuel_per_capacity_day_usd",
+    "basis": "as reported and constant currency; excluding incremental drydock impact",
+    "unit": "USD/day",
+    "point": "159"
+  },
+  {
+    "release_date": "2024-02-27",
+    "locator": "P47",
+    "anchor": "________________________ [fn(1) Q1 2024 includes an approximate 350 ba",
+    "period": "FY2024",
+    "metric": "adjusted_ncc_ex_fuel_per_capacity_day_usd",
+    "basis": "as reported and constant currency; excluding incremental drydock impact",
+    "unit": "USD/day",
+    "point": "154"
+  },
+  {
+    "release_date": "2024-05-01",
+    "locator": "T44/R0",
+    "anchor": "(1) | Q2 2024 includes an approximate 550 basis point, or $9, impact o",
+    "period": "2024Q2",
+    "metric": "drydock_adjusted_ncc_ex_fuel_per_capacity_day_impact_bps",
+    "basis": "",
+    "unit": "basis points",
+    "point": "550"
+  },
+  {
+    "release_date": "2024-05-01",
+    "locator": "T44/R0",
+    "anchor": "(1) | Q2 2024 includes an approximate 550 basis point, or $9, impact o",
+    "period": "FY2024",
+    "metric": "drydock_adjusted_ncc_ex_fuel_per_capacity_day_impact_bps",
+    "basis": "",
+    "unit": "basis points",
+    "point": "300"
+  },
+  {
+    "release_date": "2024-05-01",
+    "locator": "T44/R0",
+    "anchor": "(1) | Q2 2024 includes an approximate 550 basis point, or $9, impact o",
+    "period": "2024Q2",
+    "metric": "drydock_adjusted_ncc_ex_fuel_per_capacity_day_impact_usd",
+    "basis": "",
+    "unit": "USD/day",
+    "point": "9"
+  },
+  {
+    "release_date": "2024-05-01",
+    "locator": "T44/R0",
+    "anchor": "(1) | Q2 2024 includes an approximate 550 basis point, or $9, impact o",
+    "period": "FY2024",
+    "metric": "drydock_adjusted_ncc_ex_fuel_per_capacity_day_impact_usd",
+    "basis": "",
+    "unit": "USD/day",
+    "point": "5"
+  },
+  {
+    "release_date": "2024-05-01",
+    "locator": "T44/R0",
+    "anchor": "(1) | Q2 2024 includes an approximate 550 basis point, or $9, impact o",
+    "period": "2024Q2",
+    "metric": "adjusted_ncc_ex_fuel_per_capacity_day_usd",
+    "basis": "as reported and constant currency; excluding incremental drydock impact",
+    "unit": "USD/day",
+    "point": "156"
+  },
+  {
+    "release_date": "2024-05-01",
+    "locator": "T44/R0",
+    "anchor": "(1) | Q2 2024 includes an approximate 550 basis point, or $9, impact o",
+    "period": "FY2024",
+    "metric": "adjusted_ncc_ex_fuel_per_capacity_day_usd",
+    "basis": "as reported and constant currency; excluding incremental drydock impact",
+    "unit": "USD/day",
+    "point": "154"
+  },
+  {
+    "release_date": "2024-07-31",
+    "locator": "P45",
+    "anchor": "______________________ (1) Q3 2024 does not include a significant impa",
+    "period": "FY2024",
+    "metric": "drydock_adjusted_ncc_ex_fuel_per_capacity_day_impact_bps",
+    "basis": "",
+    "unit": "basis points",
+    "point": "300"
+  },
+  {
+    "release_date": "2024-07-31",
+    "locator": "P45",
+    "anchor": "______________________ (1) Q3 2024 does not include a significant impa",
+    "period": "FY2024",
+    "metric": "drydock_adjusted_ncc_ex_fuel_per_capacity_day_impact_usd",
+    "basis": "",
+    "unit": "USD/day",
+    "point": "5"
+  },
+  {
+    "release_date": "2024-07-31",
+    "locator": "P45",
+    "anchor": "______________________ (1) Q3 2024 does not include a significant impa",
+    "period": "FY2024",
+    "metric": "adjusted_ncc_ex_fuel_per_capacity_day_usd",
+    "basis": "as reported and constant currency; excluding incremental drydock impact",
+    "unit": "USD/day",
+    "point": "155"
+  },
+  {
+    "release_date": "2024-10-31",
+    "locator": "P33",
+    "anchor": "Q4 2024 includes an approximate 370 basis point, or approximately $6 i",
+    "period": "2024Q4",
+    "metric": "drydock_adjusted_ncc_ex_fuel_per_capacity_day_impact_bps",
+    "basis": "",
+    "unit": "basis points",
+    "point": "370"
+  },
+  {
+    "release_date": "2024-10-31",
+    "locator": "P33",
+    "anchor": "Q4 2024 includes an approximate 370 basis point, or approximately $6 i",
+    "period": "FY2024",
+    "metric": "drydock_adjusted_ncc_ex_fuel_per_capacity_day_impact_bps",
+    "basis": "",
+    "unit": "basis points",
+    "point": "300"
+  },
+  {
+    "release_date": "2024-10-31",
+    "locator": "P33",
+    "anchor": "Q4 2024 includes an approximate 370 basis point, or approximately $6 i",
+    "period": "2024Q4",
+    "metric": "drydock_adjusted_ncc_ex_fuel_per_capacity_day_impact_usd",
+    "basis": "",
+    "unit": "USD/day",
+    "point": "6"
+  },
+  {
+    "release_date": "2024-10-31",
+    "locator": "P33",
+    "anchor": "Q4 2024 includes an approximate 370 basis point, or approximately $6 i",
+    "period": "FY2024",
+    "metric": "drydock_adjusted_ncc_ex_fuel_per_capacity_day_impact_usd",
+    "basis": "",
+    "unit": "USD/day",
+    "point": "5"
+  },
+  {
+    "release_date": "2025-02-27",
+    "locator": "T53/R1",
+    "anchor": "(1) | Q1 2025 includes an approximate 180 basis point, or approximatel",
+    "period": "2025Q1",
+    "metric": "drydock_adjusted_ncc_ex_fuel_per_capacity_day_impact_bps",
+    "basis": "",
+    "unit": "basis points",
+    "point": "180"
+  },
+  {
+    "release_date": "2025-02-27",
+    "locator": "T53/R1",
+    "anchor": "(1) | Q1 2025 includes an approximate 180 basis point, or approximatel",
+    "period": "2025Q1",
+    "metric": "drydock_adjusted_ncc_ex_fuel_per_capacity_day_impact_usd",
+    "basis": "",
+    "unit": "USD/day",
+    "point": "8"
+  },
+  {
+    "release_date": "2025-02-27",
+    "locator": "T53/R1",
+    "anchor": "(1) | Q1 2025 includes an approximate 180 basis point, or approximatel",
+    "period": "2025Q1",
+    "metric": "adjusted_ncc_ex_fuel_per_capacity_day_usd",
+    "basis": "as reported and constant currency; excluding incremental drydock impact",
+    "unit": "USD/day",
+    "point": "163"
+  },
+  {
+    "release_date": "2024-10-31",
+    "locator": "P33",
+    "anchor": "Q4 2024 includes an approximate 370 basis point, or approximately $6 i",
+    "period": "2024Q4",
+    "metric": "adjusted_ncc_ex_fuel_per_capacity_day_usd",
+    "basis": "as reported; excluding incremental drydock impact",
+    "unit": "USD/day",
+    "point": "150"
+  },
+  {
+    "release_date": "2024-10-31",
+    "locator": "P33",
+    "anchor": "Q4 2024 includes an approximate 370 basis point, or approximately $6 i",
+    "period": "2024Q4",
+    "metric": "adjusted_ncc_ex_fuel_per_capacity_day_usd",
+    "basis": "constant currency; excluding incremental drydock impact",
+    "unit": "USD/day",
+    "point": "149"
+  },
+  {
+    "release_date": "2024-10-31",
+    "locator": "P33",
+    "anchor": "Q4 2024 includes an approximate 370 basis point, or approximately $6 i",
+    "period": "FY2024",
+    "metric": "adjusted_ncc_ex_fuel_per_capacity_day_usd",
+    "basis": "as reported; excluding incremental drydock impact",
+    "unit": "USD/day",
+    "point": "155"
+  },
+  {
+    "release_date": "2024-10-31",
+    "locator": "P33",
+    "anchor": "Q4 2024 includes an approximate 370 basis point, or approximately $6 i",
+    "period": "FY2024",
+    "metric": "adjusted_ncc_ex_fuel_per_capacity_day_usd",
+    "basis": "constant currency; excluding incremental drydock impact",
+    "unit": "USD/day",
+    "point": "154"
+  },
+  {
+    "release_date": "2024-07-31",
+    "locator": "P45",
+    "anchor": "______________________ (1) Q3 2024 does not include a significant impa",
+    "period": "2024Q3",
+    "metric": "adjusted_ncc_ex_fuel_per_capacity_day_change_pct",
+    "basis": "as reported; excluding prior-year nonrecurring benefits",
+    "unit": "percent",
+    "point": "1.9"
+  },
+  {
+    "release_date": "2024-07-31",
+    "locator": "P45",
+    "anchor": "______________________ (1) Q3 2024 does not include a significant impa",
+    "period": "2024Q3",
+    "metric": "adjusted_ncc_ex_fuel_per_capacity_day_change_pct",
+    "basis": "constant currency; excluding prior-year nonrecurring benefits",
+    "unit": "percent",
+    "point": "2"
+  },
+  {
+    "release_date": "2025-02-27",
+    "locator": "T53/R1",
+    "anchor": "(1) | Q1 2025 includes an approximate 180 basis point, or approximatel",
+    "period": "2025Q1",
+    "metric": "adjusted_ncc_ex_fuel_per_capacity_day_change_pct",
+    "basis": "as reported; excluding incremental drydock impact",
+    "unit": "percent",
+    "point": "2"
+  },
+  {
+    "release_date": "2025-02-27",
+    "locator": "T53/R1",
+    "anchor": "(1) | Q1 2025 includes an approximate 180 basis point, or approximatel",
+    "period": "2025Q1",
+    "metric": "adjusted_ncc_ex_fuel_per_capacity_day_change_pct",
+    "basis": "constant currency; excluding incremental drydock impact",
+    "unit": "percent",
+    "point": "2.1"
+  },
+  {
+    "release_date": "2025-02-27",
+    "locator": "T53/R1",
+    "anchor": "(1) | Q1 2025 includes an approximate 180 basis point, or approximatel",
+    "period": "FY2025",
+    "metric": "drydock_yoy_impact",
+    "basis": "no year-over-year impact expected",
+    "unit": "qualitative"
+  },
+  {
+    "release_date": "2026-05-04",
+    "locator": "P9",
+    "anchor": "Executed targeted initiatives to enhance its SG&A profile, generating ",
+    "period": "annualized",
+    "metric": "incremental_cost_savings_musd",
+    "basis": "SG&A run-rate savings",
+    "unit": "USD million",
+    "point": "125"
+  },
+  {
+    "release_date": "2026-07-30",
+    "locator": "P10",
+    "anchor": "Prior to quarter-end, the Company elected to settle the 1.125% Exchang",
+    "period": "FY2026",
+    "metric": "diluted_weighted_average_shares_change",
+    "basis": "versus May 4 guidance",
+    "unit": "shares",
+    "point": "-4000000"
+  },
+  {
+    "release_date": "2023-02-28",
+    "locator": "T49/R14",
+    "anchor": "(1) Based on midpoint of guidance and using a share count of approxima",
+    "period": "2023Q1",
+    "metric": "diluted_weighted_average_shares",
+    "basis": "",
+    "unit": "shares",
+    "point": "420000000"
+  },
+  {
+    "release_date": "2023-02-28",
+    "locator": "T49/R14",
+    "anchor": "(1) Based on midpoint of guidance and using a share count of approxima",
+    "period": "FY2023",
+    "metric": "diluted_weighted_average_shares",
+    "basis": "",
+    "unit": "shares",
+    "point": "460000000"
+  },
+  {
+    "release_date": "2023-05-01",
+    "locator": "T36/R1",
+    "anchor": "(2) | Based on midpoint of guidance and using a share count of approxi",
+    "period": "2023Q2",
+    "metric": "diluted_weighted_average_shares",
+    "basis": "",
+    "unit": "shares",
+    "point": "460000000"
+  },
+  {
+    "release_date": "2023-05-01",
+    "locator": "T36/R1",
+    "anchor": "(2) | Based on midpoint of guidance and using a share count of approxi",
+    "period": "FY2023",
+    "metric": "diluted_weighted_average_shares",
+    "basis": "",
+    "unit": "shares",
+    "point": "460000000"
+  },
+  {
+    "release_date": "2023-05-01",
+    "locator": "T36/R1",
+    "anchor": "(2) | Based on midpoint of guidance and using a share count of approxi",
+    "period": "2023Q2",
+    "metric": "adjusted_eps_exchangeable_interest_exclusion_musd",
+    "basis": "if-converted method; excluded interest",
+    "unit": "USD million",
+    "point": "5"
+  },
+  {
+    "release_date": "2023-05-01",
+    "locator": "T36/R1",
+    "anchor": "(2) | Based on midpoint of guidance and using a share count of approxi",
+    "period": "FY2023",
+    "metric": "adjusted_eps_exchangeable_interest_exclusion_musd",
+    "basis": "if-converted method; excluded interest",
+    "unit": "USD million",
+    "point": "18"
+  },
+  {
+    "release_date": "2023-08-01",
+    "locator": "T33/R1",
+    "anchor": "[fn(2)] | Based on midpoint of guidance and using diluted weighted-ave",
+    "period": "2023Q3",
+    "metric": "adjusted_eps_exchangeable_interest_exclusion_musd",
+    "basis": "if-converted method; excluded interest",
+    "unit": "USD million",
+    "point": "17"
+  },
+  {
+    "release_date": "2023-08-01",
+    "locator": "T33/R1",
+    "anchor": "[fn(2)] | Based on midpoint of guidance and using diluted weighted-ave",
+    "period": "FY2023",
+    "metric": "adjusted_eps_exchangeable_interest_exclusion_musd",
+    "basis": "if-converted method; excluded interest",
+    "unit": "USD million",
+    "point": "18"
+  },
+  {
+    "release_date": "2024-02-27",
+    "locator": "P47",
+    "anchor": "________________________ [fn(1) Q1 2024 includes an approximate 350 ba",
+    "period": "FY2024",
+    "metric": "adjusted_eps_exchangeable_interest_exclusion_musd",
+    "basis": "if-converted method; excluded interest",
+    "unit": "USD million",
+    "point": "63"
+  },
+  {
+    "release_date": "2024-05-01",
+    "locator": "T44/R1",
+    "anchor": "(2) | Based on guidance and using diluted weighted-average shares outs",
+    "period": "2024Q2",
+    "metric": "adjusted_eps_exchangeable_interest_exclusion_musd",
+    "basis": "if-converted method; excluded interest",
+    "unit": "USD million",
+    "point": "16"
+  },
+  {
+    "release_date": "2024-05-01",
+    "locator": "T44/R1",
+    "anchor": "(2) | Based on guidance and using diluted weighted-average shares outs",
+    "period": "FY2024",
+    "metric": "adjusted_eps_exchangeable_interest_exclusion_musd",
+    "basis": "if-converted method; excluded interest",
+    "unit": "USD million",
+    "point": "62"
+  },
+  {
+    "release_date": "2024-07-31",
+    "locator": "P45",
+    "anchor": "______________________ (1) Q3 2024 does not include a significant impa",
+    "period": "2024Q3",
+    "metric": "adjusted_eps_exchangeable_interest_exclusion_musd",
+    "basis": "if-converted method; excluded interest",
+    "unit": "USD million",
+    "point": "15"
+  },
+  {
+    "release_date": "2024-07-31",
+    "locator": "P45",
+    "anchor": "______________________ (1) Q3 2024 does not include a significant impa",
+    "period": "FY2024",
+    "metric": "adjusted_eps_exchangeable_interest_exclusion_musd",
+    "basis": "if-converted method; excluded interest",
+    "unit": "USD million",
+    "point": "63"
+  },
+  {
+    "release_date": "2024-10-31",
+    "locator": "P34",
+    "anchor": "Based on guidance and using diluted weighted-average shares outstandin",
+    "period": "FY2024",
+    "metric": "adjusted_eps_exchangeable_interest_exclusion_musd",
+    "basis": "if-converted method; excluded interest",
+    "unit": "USD million",
+    "point": "62"
+  },
+  {
+    "release_date": "2022-02-24",
+    "locator": "P18",
+    "anchor": "In November 2021, the Company completed a series of balance sheet and ",
+    "period": "conditional_cash_settlement",
+    "metric": "diluted_shares_reduction",
+    "basis": "if 2027 exchangeable notes settled entirely in cash",
+    "unit": "shares",
+    "point": "5200000"
+  },
+  {
+    "release_date": "2023-02-28",
+    "locator": "P55",
+    "anchor": "[fn(1) Fuel consumption for the full year 2023 is expected to be split",
+    "period": "FY2023",
+    "metric": "fuel_hfo_mgo_split",
+    "basis": "qualitative: split approximately evenly; no estimated numeric split",
+    "unit": "qualitative"
+  },
+  {
+    "release_date": "2023-05-01",
+    "locator": "T42/R0",
+    "anchor": "(1) | Fuel consumption for the full year 2023 is expected to be split ",
+    "period": "FY2023",
+    "metric": "fuel_hfo_mgo_split",
+    "basis": "qualitative: split approximately evenly; no estimated numeric split",
+    "unit": "qualitative"
+  },
+  {
+    "release_date": "2023-08-01",
+    "locator": "P39",
+    "anchor": "[fn(1)] Fuel consumption for the full year 2023 is expected to be spli",
+    "period": "FY2023",
+    "metric": "fuel_hfo_mgo_split",
+    "basis": "qualitative: split approximately evenly; no estimated numeric split",
+    "unit": "qualitative"
+  },
+  {
+    "release_date": "2023-11-01",
+    "locator": "P47",
+    "anchor": "[fn(1) Fuel consumption for the full year 2023 is expected to be split",
+    "period": "FY2023",
+    "metric": "fuel_hfo_mgo_split",
+    "basis": "qualitative: split approximately evenly; no estimated numeric split",
+    "unit": "qualitative"
+  },
+  {
+    "release_date": "2024-02-27",
+    "locator": "P53",
+    "anchor": "________________________ [fn(1) Fuel consumption for the full year 202",
+    "period": "FY2024",
+    "metric": "fuel_hfo_mgo_split",
+    "basis": "qualitative: split approximately evenly; no estimated numeric split",
+    "unit": "qualitative"
+  },
+  {
+    "release_date": "2024-05-01",
+    "locator": "T51/R0",
+    "anchor": "(1) | Fuel consumption for the full year 2024 is expected to be split ",
+    "period": "FY2024",
+    "metric": "fuel_hfo_mgo_split",
+    "basis": "qualitative: split approximately evenly; no estimated numeric split",
+    "unit": "qualitative"
+  },
+  {
+    "release_date": "2024-07-31",
+    "locator": "P51",
+    "anchor": "_____________________ (1) Fuel consumption for the full year 2024 is e",
+    "period": "FY2024",
+    "metric": "fuel_hfo_mgo_split",
+    "basis": "qualitative: split approximately evenly; no estimated numeric split",
+    "unit": "qualitative"
+  },
+  {
+    "release_date": "2024-10-31",
+    "locator": "P42",
+    "anchor": "Fuel consumption for the full year 2024 is expected to be split approx",
+    "period": "FY2024",
+    "metric": "fuel_hfo_mgo_split",
+    "basis": "qualitative: split approximately evenly; no estimated numeric split",
+    "unit": "qualitative"
+  }
+]

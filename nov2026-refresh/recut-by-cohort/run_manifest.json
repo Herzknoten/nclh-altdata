@@ -1,0 +1,115 @@
+{
+  "started_utc": "2026-11-05T10:55:27.252067+00:00",
+  "asof": "2026-11-04",
+  "protocol_sha256": "3de77c585734d819da16e7a015f95b5671a46b4a57e6fbd8ba212203c8548b34",
+  "protocol_mtime_utc": "2026-11-05T10:51:15.909518+00:00",
+  "python": "3.12.14 (main, Sep  1 2026, 14:16:52) [Clang 22.1.3 ]",
+  "duckdb_version": "2.0.0",
+  "pandas_version": "3.1.1",
+  "cpu_affinity": [
+    0
+  ],
+  "duckdb_threads": 1,
+  "source_files": [
+    {
+      "path": "/home/rich/devdata/allaboard-parser/out/full-2026-09-14/price_history.csv",
+      "bytes": 1223612747,
+      "mtime_ns": 1789369425613793135,
+      "sha256": "47a4ba5dc7b4b7afbbef513a5adaf51e581adb443a80c357e6c8d567de24d3a4"
+    },
+    {
+      "path": "/home/rich/devdata/allaboard-parser/out/full-2026-09-14/sailings.csv",
+      "bytes": 16292740,
+      "mtime_ns": 1789369425613793135,
+      "sha256": "e7db6fe83e13ba6e34e5d3ebb96b2fe64e1a80903ce83eb20b8be9fdc1b40e46"
+    },
+    {
+      "path": "/home/rich/devdata/allaboard-parser/out/nclh-2026-09-28/price_history.csv",
+      "bytes": 133192344,
+      "mtime_ns": 1790628647032119823,
+      "sha256": "9b6ad4ccd0c6a319fcc5e4795c125155b1b7acb24ebc3fdd3680b09cd9085f4e"
+    },
+    {
+      "path": "/home/rich/devdata/allaboard-parser/out/nclh-2026-09-28/sailings.csv",
+      "bytes": 1346878,
+      "mtime_ns": 1790628647032119823,
+      "sha256": "dce7976cdf67f4223bc3abebcdf877e331f726da19c170d8115ad9cb863452f8"
+    },
+    {
+      "path": "/home/rich/devdata/allaboard-parser/out/full-2026-09-28/price_history.csv",
+      "bytes": 1078663256,
+      "mtime_ns": 1790884020734705034,
+      "sha256": "2f88c35023d30a70480eab1350cc614084c283e8451333fd9a85efdf0fe246c0"
+    },
+    {
+      "path": "/home/rich/devdata/allaboard-parser/out/full-2026-09-28/sailings.csv",
+      "bytes": 12193445,
+      "mtime_ns": 1790884020734705034,
+      "sha256": "2cb5e075730258a4cff91d05599a826db4a5128cf147a4d9795a2a467e6907bf"
+    },
+    {
+      "path": "/home/rich/devdata/allaboard-parser/out/nclh-2026-10-20/price_history.csv",
+      "bytes": 106900282,
+      "mtime_ns": 1792518840805921238,
+      "sha256": "bc95b426c675067e516a30a715c916b1119923c2bb519e4cffc43ae7c06631b6"
+    },
+    {
+      "path": "/home/rich/devdata/allaboard-parser/out/nclh-2026-10-20/sailings.csv",
+      "bytes": 811273,
+      "mtime_ns": 1792518840807921322,
+      "sha256": "35ab0ea7b0ea5398e1bffa092e85eeea6c44d9295fd511dd18eaef21581f31d0"
+    },
+    {
+      "path": "/home/rich/devdata/allaboard-parser/out/peers-2026-10-20/price_history.csv",
+      "bytes": 379153530,
+      "mtime_ns": 1792536451748879529,
+      "sha256": "c73b373ce22367dc6f0bebb5998bda43dab57f95e5e4378c7b7684a84cf896a3"
+    },
+    {
+      "path": "/home/rich/devdata/allaboard-parser/out/peers-2026-10-20/sailings.csv",
+      "bytes": 2386271,
+      "mtime_ns": 1792536451748879529,
+      "sha256": "e3689054b66787c5da092a97009d5e21350c68d7b281e49fdabc3dc9a3486d4e"
+    },
+    {
+      "path": "/home/rich/devdata/allaboard-parser/out/nclh-2026-11-04/price_history.csv",
+      "bytes": 135164319,
+      "mtime_ns": 1793867930309964840,
+      "sha256": "2aa2c943a2a27d7edfeca16ccf7170c54cb0cba670eabc1ff19a54769a8d7b4b"
+    },
+    {
+      "path": "/home/rich/devdata/allaboard-parser/out/nclh-2026-11-04/sailings.csv",
+      "bytes": 1164951,
+      "mtime_ns": 1793867930309964840,
+      "sha256": "ef063ce1dddd64e8aaff1d707d79ae8c545c87a16d0670d7e7bdb7db32ffb9bf"
+    },
+    {
+      "path": "/home/rich/devdata/allaboard-parser/out/peers-2026-11-04/price_history.csv",
+      "bytes": 479143919,
+      "mtime_ns": 1793868205205502772,
+      "sha256": "5c7876bd592b3f136e5180f17940543c9044a1e6174d2036d7faf23b64ee9656"
+    },
+    {
+      "path": "/home/rich/devdata/allaboard-parser/out/peers-2026-11-04/sailings.csv",
+      "bytes": 3184973,
+      "mtime_ns": 1793868205205502772,
+      "sha256": "4192fc6b976a0e9e8d34bea0c81d2d43055cd8b42861b2f9a137efad80c44c4d"
+    }
+  ],
+  "code_sha256": "b86b619d87030bd3b09c7f00744507252fe10f9c06d897c921534cd7efab4322",
+  "definition_source_sha256": {
+    "/home/rich/devdata/nclh-ivy-refresh/final/runs/kit/producers/common.py": "df9ed372c975378617b042b55cf57e89979eb770f6b6ae04868427e4eaf932c0",
+    "/home/rich/devdata/nclh-ivy-refresh/final/runs/kit/producers/long11.py": "af56adc8ca8eecd9be682edbb6a860beed9ed64d9b61063ef9a9ecb91871dc42",
+    "/home/rich/devdata/nclh-ivy-refresh/final/runs/kit/producers/premium.py": "62757b7ab44148a3c44cb9c61a1a375c164783a309cf6f03a312cf98409df8fb"
+  },
+  "finished_utc": "2026-11-05T10:59:41.376431+00:00",
+  "data_date_min": "2025-10-26",
+  "data_date_max": "2026-11-04",
+  "daily_rows": 5104408,
+  "verdict": "does not support",
+  "n_eligible_units": 9670,
+  "n_eligible_sailings": 3815,
+  "norwegian_adequate_bands": 2,
+  "norwegian_passing_bands": 1,
+  "full_passing_bands": 0
+}

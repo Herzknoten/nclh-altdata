@@ -1,0 +1,50 @@
+{
+  "status": "PASS",
+  "input": "/home/rich/devdata/allaboard-parser/out/full-2026-09-14",
+  "reference_date": "2026-09-12",
+  "source_verify_status": "PASS",
+  "sailings": 29201,
+  "history_rows": 10760269,
+  "history_date_min": "2025-10-06",
+  "history_date_max": "2026-09-13",
+  "rows_after_reference_date": 36791,
+  "diagnostic_rows": {
+    "warning_rows": 36077,
+    "skip_rows": 1
+  },
+  "freshness_pages_read": 15842,
+  "measurement_horizons": {
+    "q4_forward": "min(departure - 90 days, 2026-09-12)",
+    "momentum_2027": "2026-09-12"
+  },
+  "output_rows": {
+    "u1_freshness.csv": 73152,
+    "u2_consistency.csv": 73676,
+    "u3_units_conversions.csv": 57268,
+    "u4_cross_section.csv": 241234,
+    "u5_source_mix.csv": 1042,
+    "u6_external_level.csv": 2213,
+    "u7_sensitivity.csv": 18891
+  },
+  "source_code_sha256": {
+    "/home/rich/devdata/nclh-2027-momentum/analyze.py": "e10699e09b6912e09d42396f34e20e917839a8d27427aa884202da3c4052081d",
+    "/home/rich/devdata/nclh-altdata-rerun-0914/q4/exhibit_repro_full_0914_asof0912.py": "4e759dbc0e75a4b59279c0e7bb3a889ad9ae71927e3f4165a32ee8c9ea6b3de6",
+    "/home/rich/devdata/allaboard-parser/bin/parse_pages.py": "c533f175f633784e2a945b1647c481ddc3e7a0b54874744b68cf3ed76183157b",
+    "/home/rich/devdata/allaboard-accuracy/reference_definitions.py": "461d12858f43e9a689c61c7422de324baf2051b9766a3cbdd11d26b2eca511d9",
+    "/home/rich/devdata/allaboard-accuracy/analyze_accuracy.py": "2f3b8db9b289dcf60c472c462f7e634effb9edda9a911a61c75307f9d3b9f57a"
+  },
+  "input_metadata_sha256": {
+    "/home/rich/devdata/allaboard-parser/out/full-2026-09-14/verify_report.json": "ac5d0e65ae2c5bef1e09a4dff6e26790d532d020df094571bcedb12953284995",
+    "/home/rich/devdata/allaboard-parser/out/full-2026-09-14/sailings.csv": "e7db6fe83e13ba6e34e5d3ebb96b2fe64e1a80903ce83eb20b8be9fdc1b40e46",
+    "/home/rich/devdata/allaboard-parser/out/full-2026-09-14/parse_errors.csv": "8c51659c6775a24d65fababeb8ebc3b85062b4bd84ce5c8c55b26de53dc4e08d",
+    "/home/rich/devdata/allaboard-parser/out/full-2026-09-14/page_manifest.jsonl": "e3355db540f235eb91e7f178ccafeefb2265a5acac35a165ca42d59687f7cd05",
+    "/home/rich/devdata/nclh-kpis/quarterly_kpis.csv": "4128f1959210d93de7c21cae5cf69e1e34f2c5bbd41eb57fc37970132a094b1c"
+  },
+  "history_hash_note": "History bytes not rehashed; count/schema/identity/lead/duplicate checks run on full stream.",
+  "unavailable": [
+    "actual page-fetch timestamps",
+    "historical OTA host",
+    "historical cabin quote freshness",
+    "transaction prices"
+  ]
+}

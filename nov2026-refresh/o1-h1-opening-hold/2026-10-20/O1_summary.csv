@@ -1,0 +1,43 @@
+row_kind,cohort,region,line,estimate_pct,ci90_low_pct,ci90_high_pct,n_sailings,n_ships,n_cabin_pairs,departure_months,coverage_pct,status,status_detail,metadata_sailings,current_export_sailings,lead_gap_days_min,lead_gap_days_p05,lead_gap_days_p25,lead_gap_days_median,lead_gap_days_p75,lead_gap_days_p95,lead_gap_days_max,abs_lead_gap_days_min,abs_lead_gap_days_p05,abs_lead_gap_days_p25,abs_lead_gap_days_median,abs_lead_gap_days_p75,abs_lead_gap_days_p95,abs_lead_gap_days_max,gap_exact_pairs,gap_at_45_pairs
+line,2028,all,norwegian,,,,0,0,0,,,no targets,no fresh target observations at cutoff,211,0,,,,,,,,,,,,,,,0,0
+line,2028,all,royal-caribbean,,,,0,0,0,,,no targets,no fresh target observations at cutoff,475,0,,,,,,,,,,,,,,,0,0
+line,2028,all,carnival,,,,0,0,0,,,no targets,no fresh target observations at cutoff,415,0,,,,,,,,,,,,,,,0,0
+line,2028,all,oceania,,,,0,0,0,,,no targets,no fresh target observations at cutoff,108,0,,,,,,,,,,,,,,,0,0
+line,2028,all,regent-seven-seas,,,,0,0,0,,,no targets,no fresh target observations at cutoff,112,0,,,,,,,,,,,,,,,0,0
+difference_pp,2028,all,norwegian-minus-royal-caribbean,,,,,,,,,insufficient,,,,,,,,,,,,,,,,,,,
+difference_pp,2028,all,norwegian-minus-carnival,,,,,,,,,insufficient,,,,,,,,,,,,,,,,,,,
+line,2028,Caribbean,norwegian,,,,0,0,0,,,no targets,no fresh target observations at cutoff,175,0,,,,,,,,,,,,,,,0,0
+line,2028,Caribbean,royal-caribbean,,,,0,0,0,,,no targets,no fresh target observations at cutoff,388,0,,,,,,,,,,,,,,,0,0
+line,2028,Caribbean,carnival,,,,0,0,0,,,no targets,no fresh target observations at cutoff,256,0,,,,,,,,,,,,,,,0,0
+line,2028,Caribbean,oceania,,,,0,0,0,,,no targets,no fresh target observations at cutoff,14,0,,,,,,,,,,,,,,,0,0
+line,2028,Caribbean,regent-seven-seas,,,,0,0,0,,,no targets,no fresh target observations at cutoff,14,0,,,,,,,,,,,,,,,0,0
+difference_pp,2028,Caribbean,norwegian-minus-royal-caribbean,,,,,,,,,insufficient,,,,,,,,,,,,,,,,,,,
+difference_pp,2028,Caribbean,norwegian-minus-carnival,,,,,,,,,insufficient,,,,,,,,,,,,,,,,,,,
+line,2027Q4,all,norwegian,-15.43576958,-30.89860588,-7.207859865,16,3,64,2027-10|2027-11|2027-12,7.339449541,observed,,220,220,-45,-44.1,-33.5,-24.5,-12.75,-6.9,-5,5,6.9,12.75,24.5,33.5,44.1,45,0,4
+line,2027Q4,all,royal-caribbean,-5.910755429,-7.679891566,-3.471118006,82,9,328,2027-10|2027-11|2027-12,16.87242798,observed,,487,487,-45,-40,-26,-13,-12,-12,-6,6,12,12,13,26,40,45,0,8
+line,2027Q4,all,carnival,-7.990797147,-10.81420598,-4.511586382,42,5,168,2027-10|2027-11|2027-12,9.523809524,observed,,441,441,-45,-39,-30,-18,-12,-5,-2,2,5,12,18,30,39,45,0,4
+line,2027Q4,all,oceania,,,,0,0,0,,0,no matched pairs,no accepted near-lead cabin pairs,45,45,,,,,,,,,,,,,,,0,0
+line,2027Q4,all,regent-seven-seas,,,,0,0,0,,0,no matched pairs,no accepted near-lead cabin pairs,47,47,,,,,,,,,,,,,,,0,0
+difference_pp,2027Q4,all,norwegian-minus-royal-caribbean,-9.52501415,-26.21188614,0.2469872875,,,,,,observed,,,,,,,,,,,,,,,,,,,
+difference_pp,2027Q4,all,norwegian-minus-carnival,-7.444972432,-25.54950166,2.519605204,,,,,,observed,,,,,,,,,,,,,,,,,,,
+line,2027Q4,Caribbean,norwegian,-6.379958004,-6.379958004,-4.891199688,7,2,28,2027-11|2027-12,4.794520548,observed,,146,146,-45,-45,-39,-31,-24,-19,-19,19,19,24,31,39,45,45,0,4
+line,2027Q4,Caribbean,royal-caribbean,-5.444252033,-7.532848504,-2.995993794,59,6,236,2027-10|2027-11|2027-12,16.76136364,observed,,352,352,-45,-41.75,-32,-16,-12,-12,-6,6,12,12,16,32,41.75,45,0,8
+line,2027Q4,Caribbean,carnival,-8.701696993,-13.63422194,-5.222893376,26,4,104,2027-10|2027-11,10.19607843,observed,,255,255,-39,-39,-25,-17.5,-12,-5,-5,5,5,12,17.5,25,39,39,0,0
+line,2027Q4,Caribbean,oceania,,,,0,0,0,,0,no matched pairs,no accepted near-lead cabin pairs,8,8,,,,,,,,,,,,,,,0,0
+line,2027Q4,Caribbean,regent-seven-seas,,,,0,0,0,,0,no matched pairs,no accepted near-lead cabin pairs,9,9,,,,,,,,,,,,,,,0,0
+difference_pp,2027Q4,Caribbean,norwegian-minus-royal-caribbean,-0.9357059712,-3.024166878,1.410138837,,,,,,observed,,,,,,,,,,,,,,,,,,,
+difference_pp,2027Q4,Caribbean,norwegian-minus-carnival,2.321738989,-1.030853789,7.300727467,,,,,,observed,,,,,,,,,,,,,,,,,,,
+line,2027Q3,all,norwegian,-11.50921172,-12.44529755,-5.973343522,11,3,44,2027-08|2027-09,9.243697479,observed,,247,247,-12,-12,-12,-12,-6,-4,-4,4,4,6,12,12,12,12,0,0
+line,2027Q3,all,royal-caribbean,-5.062347329,-14.64310659,-0.3897688446,55,10,219,2027-08|2027-09,21.73913043,observed,,516,516,-17,-13,-13,-12,-12,-6,-5,5,6,12,12,13,13,17,0,0
+line,2027Q3,all,carnival,-12.19569583,-13.70143001,-7.682639874,20,4,80,2027-08|2027-09,9.708737864,observed,,440,440,-19,-16.15,-12,-12,-9,-5,-5,5,5,9,12,12,16.15,19,0,0
+line,2027Q3,all,oceania,,,,0,0,0,,0,no matched pairs,no accepted near-lead cabin pairs,58,58,,,,,,,,,,,,,,,0,0
+line,2027Q3,all,regent-seven-seas,,,,0,0,0,,0,no matched pairs,no accepted near-lead cabin pairs,53,53,,,,,,,,,,,,,,,0,0
+difference_pp,2027Q3,all,norwegian-minus-royal-caribbean,-6.446864396,-11.28039286,4.934270862,,,,,,observed,,,,,,,,,,,,,,,,,,,
+difference_pp,2027Q3,all,norwegian-minus-carnival,0.6864841067,-3.586683832,7.455844454,,,,,,observed,,,,,,,,,,,,,,,,,,,
+line,2027Q3,Caribbean,norwegian,,,,0,0,0,,0,no matched pairs,no accepted near-lead cabin pairs,72,72,,,,,,,,,,,,,,,0,0
+line,2027Q3,Caribbean,royal-caribbean,-5.283680037,-17.55484977,3.324516843,30,5,120,2027-08|2027-09,24.3902439,observed,,250,250,-17,-13,-13,-12.5,-12,-12,-12,12,12,12,12.5,13,13,17,0,0
+line,2027Q3,Caribbean,carnival,-12.09923539,-13.42918798,-11.82784159,9,2,36,2027-08|2027-09,9.183673469,observed,,220,220,-19,-19,-12,-12,-5,-5,-5,5,5,5,12,12,19,19,0,0
+line,2027Q3,Caribbean,oceania,,,,0,0,0,,,no targets,no fresh target observations at cutoff,0,0,,,,,,,,,,,,,,,0,0
+line,2027Q3,Caribbean,regent-seven-seas,,,,0,0,0,,,no targets,no fresh target observations at cutoff,0,0,,,,,,,,,,,,,,,0,0
+difference_pp,2027Q3,Caribbean,norwegian-minus-royal-caribbean,,,,,,,,,insufficient,,,,,,,,,,,,,,,,,,,
+difference_pp,2027Q3,Caribbean,norwegian-minus-carnival,,,,,,,,,insufficient,,,,,,,,,,,,,,,,,,,

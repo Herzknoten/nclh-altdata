@@ -1,0 +1,104 @@
+<title>NCL Reddit Pulse</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700&family=Public+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+:root{--bg:#f6f7f8;--surface:#fcfcfb;--ink:#101418;--ink2:#4c5560;--muted:#7a838d;--rule:#dfe3e7;--grid:#eceff2;
+--s1:#2a78d6;--s2:#eb6834;--s3:#1baf7a;--event:#9aa3ad;--accent:#0d5c7a;
+--display:"Bricolage Grotesque",ui-sans-serif,system-ui,sans-serif;--body:"Public Sans",ui-sans-serif,system-ui,sans-serif;--mono:"IBM Plex Mono",ui-monospace,Menlo,monospace}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){color-scheme:dark;--bg:#121517;--surface:#1a1a19;--ink:#f3f5f7;--ink2:#c3c2b7;--muted:#9097a0;--rule:#2d3237;--grid:#24282c;--s1:#3987e5;--s2:#d95926;--s3:#199e70;--event:#6b737c;--accent:#5fb3d3}}
+:root[data-theme="dark"]{color-scheme:dark;--bg:#121517;--surface:#1a1a19;--ink:#f3f5f7;--ink2:#c3c2b7;--muted:#9097a0;--rule:#2d3237;--grid:#24282c;--s1:#3987e5;--s2:#d95926;--s3:#199e70;--event:#6b737c;--accent:#5fb3d3}
+body{background:var(--bg);color:var(--ink);font:15px/1.55 var(--body);padding-inline:16px;padding-block:28px 48px}
+.wrap{max-width:1060px;margin:0 auto;display:flex;flex-direction:column;gap:28px}
+header{display:flex;flex-direction:column;gap:10px}
+.eyebrow{font:500 12px/1 var(--mono);letter-spacing:.08em;text-transform:uppercase;color:var(--accent)}
+h1{font:700 clamp(30px,5vw,46px)/1.05 var(--display);margin:0;text-wrap:balance;letter-spacing:-.01em}
+.lede{max-width:68ch;color:var(--ink2);margin:0}
+.facts{display:flex;flex-wrap:wrap;gap:8px 18px;font:400 13px/1.4 var(--mono);color:var(--muted)}
+.legend{display:flex;flex-wrap:wrap;gap:16px;font-size:13px;color:var(--ink2);align-items:center}
+.sw{display:inline-block;width:18px;height:3px;border-radius:2px;vertical-align:middle;margin-right:6px}
+.findings{display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:14px;margin:0;padding:0;list-style:none}
+.findings li{border-top:2px solid var(--ink);padding-top:10px;display:flex;flex-direction:column;gap:4px}
+.findings b{font:700 22px/1.1 var(--display)}
+.findings span{color:var(--ink2);font-size:14px}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,470px),1fr));gap:22px}
+figure{margin:0;background:var(--surface);border:1px solid var(--rule);border-radius:6px;padding:16px 16px 12px;display:flex;flex-direction:column;gap:8px;min-width:0}
+figcaption{display:flex;justify-content:space-between;gap:12px;align-items:baseline}
+figcaption h2{font:600 17px/1.25 var(--display);margin:0}
+figcaption p{margin:2px 0 0;color:var(--muted);font-size:13px}
+.tbtn{font:500 12px var(--mono);color:var(--accent);background:none;border:1px solid var(--rule);border-radius:4px;padding:4px 8px;cursor:pointer;white-space:nowrap}
+.tbtn:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.chart{position:relative}
+svg{display:block;width:100%;height:auto;overflow:visible}
+svg text{font-family:var(--mono);font-size:11px;fill:var(--muted)}
+.tip{position:absolute;pointer-events:none;background:var(--ink);color:var(--bg);font:12px/1.45 var(--mono);padding:8px 10px;border-radius:4px;white-space:nowrap;transform:translate(-50%,-110%);z-index:2}
+.tblwrap{overflow-x:auto}
+table{border-collapse:collapse;font:12px var(--mono);font-variant-numeric:tabular-nums;width:100%}
+th,td{padding:4px 8px;border-bottom:1px solid var(--grid);text-align:right}th:first-child,td:first-child{text-align:left}
+.note{color:var(--ink2);font-size:14px;max-width:72ch}
+.note h3{font:600 15px var(--display);margin:0 0 6px;color:var(--ink)}
+.tier{display:inline-block;font:500 11px var(--mono);letter-spacing:.06em;text-transform:uppercase;border:1px solid var(--rule);border-radius:3px;padding:2px 6px;color:var(--muted)}
+</style>
+<div class="wrap">
+<header>
+<div class="eyebrow">Citadel NCLH pitch · Alternative data · Reddit</div>
+<h1>What cruisers are talking about</h1>
+<p class="lede">Monthly share of posts and comments that mention each topic, per 1,000 items, in each line's own community: r/NCL, r/royalcaribbean and r/CarnivalCruiseFans. Mentions measure attention, not approval.</p>
+<div class="facts"><span>849,346 posts and comments</span><span>Jan 2025 to Sep 2026</span><span>deleted items excluded</span><span>keyword matching</span></div>
+<div class="legend" aria-label="Series"><span><i class="sw" style="background:var(--s1)"></i>r/NCL</span><span><i class="sw" style="background:var(--s2)"></i>r/royalcaribbean</span><span><i class="sw" style="background:var(--s3)"></i>r/CarnivalCruiseFans</span><span><i class="sw" style="background:var(--event);height:12px;width:1px"></i>May 1: drink gratuity raised · Aug 10: Norwegian price-cut wave</span></div>
+</header>
+<ul class="findings">
+<li><b>~70% more</b><span>Free at Sea talk on r/NCL from January 2026, about 27 to 31 per 1,000 rising to 46 to 60. Peers stay near 15 to 22.</span></li>
+<li><b>Fees up, peaks in May</b><span>Gratuity and fee talk on r/NCL roughly doubles, from 15 to 21 per 1,000 in early 2025 to 24 to 34 in 2026, peaking when the drink-package gratuity rose on May 1, 2026.</span></li>
+<li><b>2.5× peers in September</b><span>Price-drop and repricing talk on r/NCL hits 8.6 per 1,000 in Sep 2026, after the Aug 10 price-cut wave. Royal Caribbean: 3.2.</span></li>
+<li><b>No churn spike</b><span>"Never again" and switching talk stays flat near 1 to 1.5 per 1,000 in all three communities.</span></li>
+</ul>
+<div class="grid" id="charts"></div>
+<figure id="h1fig">
+<figcaption><div><h2>Core-product negativity, Q3 2025 vs Q3 2026</h2><p>Share of negative first-hand core-product evaluations, one vote per author. <span class="tier">model-labelled · not yet validated</span></p></div><button class="tbtn" data-t="h1">Table</button></figcaption>
+<div class="chart" id="h1chart"></div><div class="tblwrap" id="h1tbl" hidden></div>
+</figure>
+<div class="note"><h3>How to read this</h3>
+<p>Mention shares come from simple keyword patterns run over every non-deleted post and comment, so they show how much a topic is discussed, not whether people liked it. Each community is compared with itself over time; levels differ between communities because their cultures differ. Event lines mark the May 1, 2026 drink-package gratuity change for 2 to 5 night sailings and the Aug 10, 2026 Norwegian price-cut wave seen in our price data. The core-product chart uses labels from two independent model raters on 16,800 sampled items. Human validation is pending, so treat it as descriptive.</p></div>
+</div>
+<script>
+const D={"months": ["2025-01", "2025-02", "2025-03", "2025-04", "2025-05", "2025-06", "2025-07", "2025-08", "2025-09", "2025-10", "2025-11", "2025-12", "2026-01", "2026-02", "2026-03", "2026-04", "2026-05", "2026-06", "2026-07", "2026-08", "2026-09"], "data": {"free_at_sea": {"NCL": [32.39, 26.77, 26.83, 23.51, 27.23, 25.66, 30.99, 36.29, 26.9, 31.84, 38.33, 37.1, 50.07, 60.03, 45.99, 46.56, 57.24, 36.67, 49.04, 44.27, 48.06], "royalcaribbean": [22.23, 14.9, 18.48, 17.93, 19.96, 17.12, 22.47, 24.59, 14.56, 16.13, 21.73, 22.67, 19.29, 18.53, 15.77, 18.53, 16.3, 18.81, 16.13, 20.67, 18.33], "CarnivalCruiseFans": [14.18, 12.64, 14.98, 14.02, 20.98, 16.38, 22.14, 14.87, 16.28, 21.53, 15.04, 15.13, 23.99, 18.61, 16.39, 25.91, 16.98, 17.84, 18.1, 12.18, 17.65]}, "fees_gratuities": {"NCL": [20.85, 15.22, 13.96, 16.39, 20.7, 16.33, 18.2, 26.64, 21.27, 18.8, 28.37, 27.83, 24.11, 29.0, 23.61, 25.62, 32.59, 20.34, 26.04, 33.58, 32.61], "royalcaribbean": [19.42, 18.16, 6.53, 10.66, 11.66, 5.62, 13.54, 13.44, 8.16, 9.65, 12.91, 15.75, 8.49, 12.67, 15.77, 10.67, 19.73, 27.0, 16.08, 17.95, 11.98], "CarnivalCruiseFans": [9.74, 7.1, 12.52, 7.2, 6.32, 17.11, 11.97, 18.4, 12.92, 12.19, 11.49, 9.59, 15.36, 21.76, 5.61, 14.16, 9.83, 10.13, 20.87, 11.89, 16.21]}, "price_drop_reprice": {"NCL": [3.55, 5.92, 5.28, 4.16, 6.53, 2.88, 3.96, 6.05, 4.39, 5.4, 11.17, 6.8, 4.22, 5.2, 2.39, 3.27, 4.93, 1.11, 4.09, 6.1, 8.58], "royalcaribbean": [4.53, 2.51, 2.87, 5.74, 4.3, 2.52, 2.95, 5.28, 4.26, 4.56, 8.77, 3.51, 3.9, 3.57, 5.03, 3.74, 4.59, 4.12, 3.5, 3.64, 3.15], "CarnivalCruiseFans": [0.21, 0.07, 0.67, 0.56, 0.37, 0.49, 0.22, 1.56, 1.01, 0.13, 0.55, 0.54, 0.27, 1.32, 0.54, 0.0, 0.4, 0.45, 0.73, 0.86, 0.16]}, "never_again": {"NCL": [1.44, 1.41, 0.95, 1.21, 0.74, 0.55, 1.71, 1.54, 0.96, 3.41, 1.81, 1.03, 0.88, 1.16, 1.48, 1.42, 0.7, 1.22, 1.33, 1.5, 1.39], "royalcaribbean": [1.05, 0.95, 1.36, 0.86, 0.81, 0.97, 1.28, 0.98, 1.11, 1.09, 1.31, 1.26, 1.46, 1.14, 0.87, 1.72, 1.27, 1.13, 1.51, 1.43, 1.12], "CarnivalCruiseFans": [1.2, 0.74, 1.57, 1.31, 1.37, 2.76, 2.02, 1.25, 2.47, 0.78, 0.96, 1.49, 1.45, 1.12, 1.51, 1.05, 2.68, 1.36, 0.88, 1.86, 2.09]}}, "items": {"NCL": [9016, 7097, 7380, 7445, 8116, 7287, 7583, 7771, 7286, 8511, 9941, 9703, 11365, 10378, 12155, 11942, 9941, 8999, 10523, 10006, 9321], "royalcaribbean": [20962, 19932, 19154, 19692, 23497, 22603, 25773, 30657, 21573, 19280, 19051, 18220, 23333, 21858, 21873, 20341, 18959, 17703, 20586, 21674, 20623], "CarnivalCruiseFans": [14170, 13529, 13416, 10699, 10915, 16303, 13864, 9618, 8904, 7711, 7312, 7403, 11004, 9836, 9273, 9534, 10069, 6614, 6851, 6980, 6231]}, "h1": {"NCL": [25.7, 30.6, 151, 179], "royalcaribbean": [29.0, 28.6, 69, 87], "CarnivalCruiseFans": [30.6, 22.9, 130, 104]}};
+const C=[["NCL","r/NCL","--s1","NCL"],["royalcaribbean","r/royalcaribbean","--s2","Royal"],["CarnivalCruiseFans","r/CarnivalCruiseFans","--s3","Carnival"]];
+const T=[["free_at_sea","Free at Sea and drink packages","free at sea, FAS, more at sea, drink or beverage package"],["fees_gratuities","Gratuities and fees","gratuities, service charge, upcharge, extra or hidden fees"],["price_drop_reprice","Price drops and repricing","price drop, reprice, price went down"],["never_again","“Never again” and switching","never again, last cruise with, switching to, done with the line"]];
+const EV=[["2026-05","May 1",0],["2026-08","Aug 10",1]];
+const css=v=>getComputedStyle(document.documentElement).getPropertyValue(v).trim();
+const M=D.months, lab=m=>{const[y,mo]=m.split("-");return ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"][+mo-1]+" "+y.slice(2)};
+function scale(v){for(const st of [1,2,2.5,5,10,20,25]){const top=Math.ceil(v/st)*st;if(top/st<=5)return [top,st]}return [Math.ceil(v/50)*50,50]}
+function line(fig,t){
+ const W=520,H=250,L=36,R=78,TP=14,B=28,w=W-L-R,h=H-TP-B;
+ const [max,st]=scale(Math.max(...C.map(c=>Math.max(...D.data[t][c[0]]))));
+ const x=i=>L+i*w/(M.length-1),y=v=>TP+h-v/max*h;
+ let s=`<svg viewBox="0 0 ${W} ${H}" role="img" aria-label="${fig} chart">`;
+ for(let v=0;v<=max+1e-9;v+=st){s+=`<line x1="${L}" x2="${L+w}" y1="${y(v)}" y2="${y(v)}" stroke="var(--grid)"/><text x="${L-6}" y="${y(v)+4}" text-anchor="end">${v%1?v.toFixed(1):v}</text>`}
+ M.forEach((m,i)=>{if(i%3===0)s+=`<text x="${x(i)}" y="${H-8}" text-anchor="middle">${lab(m)}</text>`});
+ EV.forEach(([m,n,o])=>{const i=M.indexOf(m);if(i>=0)s+=`<line x1="${x(i)}" x2="${x(i)}" y1="${TP}" y2="${TP+h}" stroke="var(--event)" stroke-dasharray="3 3"/><text x="${x(i)+4}" y="${TP+10+12*o}">${n}</text>`});
+ const ends=C.map(c=>({c,v:D.data[t][c[0]].at(-1)})).sort((a,b)=>b.v-a.v);let last=-99;ends.forEach(e=>{let yy=y(e.v)+4;if(yy-last<14)yy=last+14;last=yy;e.yy=yy});
+ C.forEach(c=>{const ser=D.data[t][c[0]];s+=`<polyline fill="none" stroke="var(${c[2]})" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" points="${ser.map((v,i)=>x(i)+","+y(v)).join(" ")}"/>`;
+  const e=ends.find(e=>e.c===c);s+=`<circle cx="${x(M.length-1)}" cy="${y(ser.at(-1))}" r="4" fill="var(${c[2]})" stroke="var(--surface)" stroke-width="2"/><text x="${x(M.length-1)+9}" y="${e.yy}" style="fill:var(--ink2)">${c[3]} ${ser.at(-1).toFixed(1)}</text>`});
+ s+=`<line class="xh" y1="${TP}" y2="${TP+h}" stroke="var(--ink2)" stroke-width="1" opacity="0"/><rect x="${L}" y="${TP}" width="${w}" height="${h}" fill="transparent" class="hit"/></svg>`;
+ return {s,x,L,w,W};
+}
+function table(t){let s=`<table><thead><tr><th>Month</th>${C.map(c=>`<th>${c[1]}</th>`).join("")}</tr></thead><tbody>`;M.forEach((m,i)=>{s+=`<tr><td>${lab(m)}</td>${C.map(c=>`<td>${D.data[t][c[0]][i].toFixed(1)}</td>`).join("")}</tr>`});return s+"</tbody></table>"}
+const host=document.getElementById("charts");
+T.forEach(([t,name,kw])=>{
+ const f=document.createElement("figure");
+ f.innerHTML=`<figcaption><div><h2>${name}</h2><p>Mentions per 1,000 items · matches: ${kw}</p></div><button class="tbtn" data-t="${t}">Table</button></figcaption><div class="chart"></div><div class="tblwrap" hidden>${table(t)}</div>`;
+ host.appendChild(f);
+ const g=line(name,t),ch=f.querySelector(".chart");ch.innerHTML=g.s+'<div class="tip" hidden></div>';
+ const svg=ch.querySelector("svg"),tip=ch.querySelector(".tip"),xh=svg.querySelector(".xh");
+ svg.querySelector(".hit").addEventListener("pointermove",ev=>{const r=svg.getBoundingClientRect(),px=(ev.clientX-r.left)*g.W/r.width;const i=Math.max(0,Math.min(M.length-1,Math.round((px-g.L)/(g.w/(M.length-1)))));
+  xh.setAttribute("x1",g.x(i));xh.setAttribute("x2",g.x(i));xh.setAttribute("opacity",".5");
+  tip.innerHTML=`<b>${lab(M[i])}</b><br>`+C.map(c=>`${c[1]}: ${D.data[t][c[0]][i].toFixed(1)}`).join("<br>");tip.hidden=false;tip.style.left=(g.x(i)/g.W*r.width)+"px";tip.style.top=(ev.clientY-r.top)+"px"});
+ svg.querySelector(".hit").addEventListener("pointerleave",()=>{tip.hidden=true;xh.setAttribute("opacity","0")});
+});
+(function(){const W=900,H=200,L=170,R=130,TP=26,B=30,w=W-L-R,max=40;const x=v=>L+v/max*w;let s=`<svg viewBox="0 0 ${W} ${H}" role="img" aria-label="Core-product negativity by community">`;
+ for(let v=0;v<=max;v+=10)s+=`<line x1="${x(v)}" x2="${x(v)}" y1="${TP-8}" y2="${H-B}" stroke="var(--grid)"/><text x="${x(v)}" y="${H-10}" text-anchor="middle">${v}%</text>`;
+ C.forEach((c,k)=>{const[a,b,na,nb]=D.h1[c[0]],yy=TP+14+k*44;s+=`<text x="${L-12}" y="${yy+4}" text-anchor="end" style="fill:var(--ink);font-size:12px">${c[1]}</text><line x1="${x(a)}" x2="${x(b)}" y1="${yy}" y2="${yy}" stroke="var(${c[2]})" stroke-width="2"/><circle cx="${x(a)}" cy="${yy}" r="5" fill="var(--surface)" stroke="var(${c[2]})" stroke-width="2"/><circle cx="${x(b)}" cy="${yy}" r="5" fill="var(${c[2]})" stroke="var(--surface)" stroke-width="2"/><text x="${x(Math.max(a,b))+12}" y="${yy+4}" style="fill:var(--ink2)">${a.toFixed(1)} → ${b.toFixed(1)}</text>`});
+ s+=`<text x="${L}" y="12">○ Q3 2025   ● Q3 2026</text></svg>`;document.getElementById("h1chart").innerHTML=s;
+ document.getElementById("h1tbl").innerHTML=`<table><thead><tr><th>Community</th><th>Q3 2025 %</th><th>Authors</th><th>Q3 2026 %</th><th>Authors</th><th>Change, pts</th></tr></thead><tbody>${C.map(c=>{const[a,b,na,nb]=D.h1[c[0]];return `<tr><td>${c[1]}</td><td>${a.toFixed(1)}</td><td>${na}</td><td>${b.toFixed(1)}</td><td>${nb}</td><td>${(b-a>=0?"+":"")+(b-a).toFixed(1)}</td></tr>`}).join("")}</tbody></table><p class="note" style="font-size:12px;margin:8px 0 0">Relative to peers the change is about 0 to +9 points, with sampling intervals of roughly ±10 to 18 points.</p>`})();
+document.addEventListener("click",e=>{const b=e.target.closest(".tbtn");if(!b)return;const f=b.closest("figure"),t=f.querySelector(".tblwrap"),c=f.querySelector(".chart");const show=t.hidden;t.hidden=!show;c.hidden=show;b.textContent=show?"Chart":"Table"});
+</script>

@@ -1,0 +1,19 @@
+{
+  "status": "PASS",
+  "tests": {
+    "command": "python3 -m unittest discover -s tests",
+    "exit_code": 0,
+    "passed": 21,
+    "failed": 0,
+    "log": "checks/unittest.log"
+  },
+  "verification": [
+    {
+      "command": "python3 analyze_cohorts.py",
+      "exit_code": 0,
+      "log": "checks/analysis.log"
+    }
+  ],
+  "required_checks_not_run": [],
+  "contract_touched": false
+}

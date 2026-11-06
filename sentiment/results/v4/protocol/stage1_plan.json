@@ -1,0 +1,208 @@
+{
+  "codebook_sha256": "897902fb3fe1a30895a79b484b310e4383ff8eb11408095fc90c080c833ef139",
+  "frozen_at_utc": "2026-10-02T09:59:16.183991+00:00",
+  "label_hashes": {
+    "consensus.jsonl": "b896a3467127beeab0b8a307e884889fd46c5850214349029a74d2ce575f8494",
+    "rater_a_labels.jsonl": "33fa953b620d1590de11d0b930b2145c1d5c0826142b5031b2bad39a29813d46",
+    "rater_b_labels.jsonl": "a955eb66b01d81174643021b61518045dc1f6a66ffcb16eb74f2b7fd6cbf4afb"
+  },
+  "old_method_sha256": "2f617e982e4ceeaee7f5767a50310e12b8753ebf6b9bfda71f71658d48c222cb",
+  "pilot_sample_sha256": "73ab2728067697c79855421bd90181d15453d360cbacf085f9857b3754fa5f68",
+  "plan": {
+    "H1_bucket_order": [
+      "completed_core",
+      "completed_only",
+      "core_only",
+      "background"
+    ],
+    "H1_cue_weights": {
+      "background": 0.05,
+      "completed_core": 0.7,
+      "completed_only": 0.15,
+      "core_only": 0.1
+    },
+    "H1_final_topic_split": "proportional to frame counts within H1 cue bucket, positive minimum per populated leaf",
+    "H1_quarters": [
+      "2025Q3",
+      "2026Q3"
+    ],
+    "H1_total": 12000,
+    "H1_totals_per_quarter": {
+      "CarnivalCruiseFans": 1500,
+      "NCL": 3000,
+      "royalcaribbean": 1500
+    },
+    "allocation": "existing deterministic capped largest-deficit allocator; one seat per populated leaf; lexical tie break; record capacity redistribution; fail if source totals unavailable",
+    "analysis_population": "frozen residual eligible frame in the stated six cells, conditional on prior target exclusions",
+    "atomic_stratum": [
+      "community",
+      "quarter",
+      "UTC_month",
+      "kind",
+      "H1_cue_bucket",
+      "topic_cue_bucket"
+    ],
+    "before_new_labels": true,
+    "conditional_trends": {
+      "bootstrap": "global stable author clusters, monthly equal-author summaries, paired own2025 baselines, 95% conditional bands",
+      "bootstrap_replicates": 2000,
+      "bootstrap_seed": 20261002,
+      "event_markers": {
+        "2026-04-24": "price cuts",
+        "2026-05-01": "drink gratuity",
+        "2026-07-30": "Q2 call",
+        "2026-08-10": "price cuts"
+      },
+      "execute_only_if_usable": true,
+      "firsthand_capacity": "not inferable from lexicon; candidate strata only, no passenger-mix adjustment without evidence",
+      "frame": "all834395 frozen eligible items",
+      "label": "lexicon, exploratory, validated against model labels only",
+      "polarization": "lexical endpoint/near-zero score distribution only; semantic extreme/moderate not identified by tone validation"
+    },
+    "date": "2026-10-02",
+    "exclusions": [
+      "all 1800 v3 pilot target IDs",
+      "all 50 v3 development target IDs"
+    ],
+    "future_primary_analysis": {
+      "H1": "H1 arm only, H1 marginal weights; topic arm/combined union sensitivity",
+      "H2_H4": "all union Norwegian Q3 2026 items, union weights, unchanged domains",
+      "peer_topics": "matched period/month/kind/cue design; not matched customers or equivalent policies"
+    },
+    "gold_seed": 20261004,
+    "gold_topup": {
+      "2025Q3_each_community": 200,
+      "2026Q3_each_community": 400,
+      "future_error_groups": "six expansion source-quarter groups; H1-only subset is SRS conditional on its realized gold count; if combining old pilot, retain21 old+6 new groups for simultaneous bounds",
+      "labels_now": false,
+      "old_200": "separate pilot validation wave, not silently pooled",
+      "rare_classes": "no promised pass; targeted challenge sets require a separate future plan and cannot replace probability gold",
+      "selection": "SRS by independent hash rank within combined expansion source x quarter, irrespective of cues, arm or presumed eligibility",
+      "total_new_items": 1800,
+      "two_humans": true
+    },
+    "kind_weights": {
+      "comments": 0.6,
+      "posts": 0.4
+    },
+    "known_prior_evidence": "v3 model-labelled pilot results; no new labels or lexicon/model associations inspected",
+    "label_guide": "unchanged CODEBOOK.md and CODEBOOK_SCHEMA.json; existing v3 evidence schema",
+    "lexicon_validation_rule": {
+      "calibration": "weighted score-midrank decile floor(10*midrank)+1 capped at10; preserve ties; empty bins explicit",
+      "decision": "usable only if every global and community gate passes for all three references; missing gate fails closed",
+      "each_community": {
+        "minimum_directional_balanced_accuracy": 0.6,
+        "minimum_items": 50,
+        "minimum_negative_items": 10,
+        "minimum_positive_items": 10,
+        "minimum_sign_agreement": 0.6,
+        "minimum_spearman": 0.3
+      },
+      "eligible": "in_scope=yes, language=en, overall_tone in negative/neutral/positive; target item text only",
+      "global": {
+        "minimum_directional_balanced_accuracy": 0.7,
+        "minimum_items": 200,
+        "minimum_negative_items": 20,
+        "minimum_positive_items": 20,
+        "minimum_resolved_coverage_of_scoped_english": 0.7,
+        "minimum_sign_agreement": 0.7,
+        "minimum_spearman": 0.5
+      },
+      "mapping": {
+        "negative": -1,
+        "neutral": 0,
+        "positive": 1
+      },
+      "mixed": "excluded from ordinal/sign gate, retained as a separate calibration/disposition category",
+      "no_tuning": "small-lexicon-v1 remains unchanged; no thresholds or lexicon terms changed after evaluation",
+      "period_gating": "diagnostic only; global and each-community rules above are the only operational usability gates",
+      "periods": "all source x UTC month and quarter; fixed Q3-year cells displayed; sparse/undefined not hidden",
+      "references_required": [
+        "consensus",
+        "rater_a",
+        "rater_b"
+      ],
+      "scope": "model-reference screen only; no human validation, passenger calibration, or confirmatory inference",
+      "unclear_unresolved": "excluded with coverage denominators; never imputed neutral",
+      "weighting": "inverse pilot inclusion probability; weighted tied midranks for Spearman",
+      "zero_score": "sign zero; counts as error/abstention for positive or negative model tone, never dropped"
+    },
+    "month_weights": "equal within each quarter",
+    "not_excluded": "prior contexts, exact text copies with distinct IDs, whole threads; report exposures, no silent exclusions",
+    "power": {
+      "H1_stage1_fraction": 0.19218449711723254,
+      "claims": "stage1 operational/diagnostic evidence only; no confirmatory H1 power claim or margin widening",
+      "margin_points": 10,
+      "unchanged_H1_labelled_planning_target": 62440,
+      "unchanged_effective_target": 12488
+    },
+    "probabilities": {
+      "H1": "n_H1/N",
+      "topic_conditional_on_not_H1": "n_topic/(N-n_H1)",
+      "topic_marginal": "n_topic/N",
+      "union": "(n_H1+n_topic)/N"
+    },
+    "rank_stream": "one SHA256 permutation per common atomic leaf",
+    "regex_flags": [
+      "IGNORECASE"
+    ],
+    "regexes": {
+      "completed": "\\b(?:i|we)\\s+(?:(?:just|recently)\\s+)?(?:sailed|cruised|returned|disembarked|stayed|ate|visited|experienced)\\b|\\b(?:just|recently)\\s+(?:got|came)\\s+(?:back|off)\\b|\\b(?:our|my)\\s+(?:last|recent|previous)\\s+(?:cruise|sailing|trip)\\b|\\b(?:i(?:'m| am)|we(?:'re| are))\\s+(?:currently\\s+)?(?:on board|onboard|aboard)\\b",
+      "connective": "\\b(?:but|although|despite|however|outweigh(?:s|ed)?|still|worth|return|again|switch|cancel)\\b",
+      "core": "\\b(?:cabin|food|ship|itinerary|cleanliness|safety|embarkation)\\b",
+      "cut_air": "\\b(?:ncl air|bogo air|airfare|flights?)\\b",
+      "cut_breakfast": "\\b(?:continental|breakfast|room service)\\b",
+      "cut_casino": "\\b(?:casino|table minimum|blackjack|poker|slots)\\b",
+      "cut_dining_fee": "\\b(?:dining|restaurant)\\b.*\\b(?:cancel|cancellation|fee)\\b",
+      "cut_entertainment": "\\b(?:entertainment|shows?|broadway|performances?)\\b",
+      "cut_fas": "\\b(?:free at sea|more at sea|fas|mas|drink package|beverage package|gratuities|gratuity)\\b",
+      "cut_great_tides_food": "\\bgreat tides\\b|\\b(?:island|waterpark)\\b.*\\b(?:food|charge)\\b",
+      "cut_mdr": "\\b(?:mdr|main dining|entr[eé]es?)\\b",
+      "cut_show_reservations": "\\b(?:show|entertainment)\\b.*\\b(?:reservation|booking|reserve)\\b",
+      "cut_turndown": "\\b(?:turndown|turn down|housekeeping|steward)\\b",
+      "cut_vat": "\\b(?:vat|value added tax)\\b",
+      "destination": "\\b(?:gsc|great stirrup cay|great tides|pier|tender|waterpark)\\b",
+      "package": "\\b(?:free at sea|more at sea|fas|mas|drink package|beverage package|gratuities|gratuity)\\b",
+      "service": "\\b(?:service|crew|staff|waiter|bartender|queue|wait time)\\b"
+    },
+    "seed": 20261002,
+    "selection": "first n_H1 positions in common-leaf permutation to H1; next n_topic to topic; no duplicates",
+    "shard_internal_seed": 20261005,
+    "shard_seed": 20261003,
+    "shards": {
+      "H1_each": 2400,
+      "assignment": "balance each arm/source/quarter across five, then hash-shuffle each shard",
+      "count": 5,
+      "items_each": 3000,
+      "topic_each": 600
+    },
+    "topic_bucket_priority": [
+      "tradeoff_candidate",
+      "destination_candidate",
+      "package_candidate",
+      "other_cut_candidate",
+      "background"
+    ],
+    "topic_cue_weights": {
+      "background": 0.05,
+      "destination_candidate": 0.25,
+      "other_cut_candidate": 0.1,
+      "package_candidate": 0.25,
+      "tradeoff_candidate": 0.35
+    },
+    "topic_final_H1_split": "proportional to planned residual counts within topic bucket, positive minimum per populated leaf",
+    "topic_quarter": "2026Q3",
+    "topic_total": 3000,
+    "topic_totals": {
+      "CarnivalCruiseFans": 750,
+      "NCL": 1500,
+      "royalcaribbean": 750
+    },
+    "total": 15000,
+    "version": "stage1-v4-20261002"
+  },
+  "schema_sha256": "81e9c7c3f5f90c60eb691b6dc965128deb562839721175b58a669f9d4d19917f",
+  "source_manifest_sha256": "7fd35d2811d04564bb6a7819360b60fd4c9a3a539fabd2cf78e7fa6d22572278",
+  "spec_sha256": "936af614b4e7c967abfc1ac8240fcd29b7f30af2caa5cb943005a75a9d3481bc",
+  "study_common_sha256": "3af17c3c78031569ad8687417e591e8d8b5e57681d503e5ddbd53b2feaa87389"
+}

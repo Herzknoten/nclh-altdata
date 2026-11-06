@@ -1,0 +1,1452 @@
+{
+  "format_version": 1,
+  "kind": "partitioned",
+  "verdict": "PASS",
+  "errors": [],
+  "dataset": "/home/rich/devdata/nclh-repo-staging/allaboard-parquet/out/nclh-2026-09-28/partitioned",
+  "parts": [
+    {
+      "path": "line=norwegian/depart_month=2026-09/part-0000.parquet",
+      "rows": 47561,
+      "size_bytes": 245920,
+      "line": "norwegian",
+      "depart_month": "2026-09",
+      "identity": {
+        "path": "/home/rich/devdata/nclh-repo-staging/allaboard-parquet/out/nclh-2026-09-28/partitioned/line=norwegian/depart_month=2026-09/part-0000.parquet",
+        "size_bytes": 245920,
+        "mtime_ns": 1790629167663519255,
+        "ctime_ns": 1790629167663519255,
+        "sha256": "7247c74611e2d5daefc38f737e627add64d6982adb5b37fa491d4096bfb153dd"
+      },
+      "csv_rows": 47561,
+      "csv_canonical_sha256": "f610ca364f405289fccfbd4a39b2c25d3f50204d384d705a485479053cc3c24d",
+      "parquet_rows": 47561,
+      "parquet_canonical_sha256": "f610ca364f405289fccfbd4a39b2c25d3f50204d384d705a485479053cc3c24d"
+    },
+    {
+      "path": "line=norwegian/depart_month=2026-10/part-0000.parquet",
+      "rows": 59382,
+      "size_bytes": 303013,
+      "line": "norwegian",
+      "depart_month": "2026-10",
+      "identity": {
+        "path": "/home/rich/devdata/nclh-repo-staging/allaboard-parquet/out/nclh-2026-09-28/partitioned/line=norwegian/depart_month=2026-10/part-0000.parquet",
+        "size_bytes": 303013,
+        "mtime_ns": 1790629167665589953,
+        "ctime_ns": 1790629167665589953,
+        "sha256": "78ebfa700c30763d491668537dd87fb3866458d4f51cf5ff795c8fcb4bf1b770"
+      },
+      "csv_rows": 59382,
+      "csv_canonical_sha256": "63fec51d2740aa1fadcf16f0bcafd7f4018bbd3b0ffe5023d684240170cf6145",
+      "parquet_rows": 59382,
+      "parquet_canonical_sha256": "63fec51d2740aa1fadcf16f0bcafd7f4018bbd3b0ffe5023d684240170cf6145"
+    },
+    {
+      "path": "line=norwegian/depart_month=2026-11/part-0000.parquet",
+      "rows": 80236,
+      "size_bytes": 398341,
+      "line": "norwegian",
+      "depart_month": "2026-11",
+      "identity": {
+        "path": "/home/rich/devdata/nclh-repo-staging/allaboard-parquet/out/nclh-2026-09-28/partitioned/line=norwegian/depart_month=2026-11/part-0000.parquet",
+        "size_bytes": 398341,
+        "mtime_ns": 1790629167667887297,
+        "ctime_ns": 1790629167667887297,
+        "sha256": "f665b701a95ab22ecaaf5f941106cbdf22779831b6f0fdf2224fa0fa3632b721"
+      },
+      "csv_rows": 80236,
+      "csv_canonical_sha256": "8a92e08e476ad93862bb46488f5008bb2edfd99e9600508254fde9a2e28346aa",
+      "parquet_rows": 80236,
+      "parquet_canonical_sha256": "8a92e08e476ad93862bb46488f5008bb2edfd99e9600508254fde9a2e28346aa"
+    },
+    {
+      "path": "line=norwegian/depart_month=2026-12/part-0000.parquet",
+      "rows": 77192,
+      "size_bytes": 386278,
+      "line": "norwegian",
+      "depart_month": "2026-12",
+      "identity": {
+        "path": "/home/rich/devdata/nclh-repo-staging/allaboard-parquet/out/nclh-2026-09-28/partitioned/line=norwegian/depart_month=2026-12/part-0000.parquet",
+        "size_bytes": 386278,
+        "mtime_ns": 1790629167671079374,
+        "ctime_ns": 1790629167671079374,
+        "sha256": "7dd96c00467636b756060e4fe3be311396cf3bf01d01d99967dde72046dd83ff"
+      },
+      "csv_rows": 77192,
+      "csv_canonical_sha256": "df75b9efd1fbc4c990e7a626a243308411a33516a1e53c81d92e07fd17202c14",
+      "parquet_rows": 77192,
+      "parquet_canonical_sha256": "df75b9efd1fbc4c990e7a626a243308411a33516a1e53c81d92e07fd17202c14"
+    },
+    {
+      "path": "line=norwegian/depart_month=2027-01/part-0000.parquet",
+      "rows": 77208,
+      "size_bytes": 371468,
+      "line": "norwegian",
+      "depart_month": "2027-01",
+      "identity": {
+        "path": "/home/rich/devdata/nclh-repo-staging/allaboard-parquet/out/nclh-2026-09-28/partitioned/line=norwegian/depart_month=2027-01/part-0000.parquet",
+        "size_bytes": 371468,
+        "mtime_ns": 1790629167673920148,
+        "ctime_ns": 1790629167673920148,
+        "sha256": "2c30e92818cd3b8b2b1abc62e568a8e49abf14adc6cfed201f6ece9faf973609"
+      },
+      "csv_rows": 77208,
+      "csv_canonical_sha256": "76cc4142b433585fb1729a5a1b41874b6c9d50c6276a228ffcb5c4967708ea98",
+      "parquet_rows": 77208,
+      "parquet_canonical_sha256": "76cc4142b433585fb1729a5a1b41874b6c9d50c6276a228ffcb5c4967708ea98"
+    },
+    {
+      "path": "line=norwegian/depart_month=2027-02/part-0000.parquet",
+      "rows": 61046,
+      "size_bytes": 302819,
+      "line": "norwegian",
+      "depart_month": "2027-02",
+      "identity": {
+        "path": "/home/rich/devdata/nclh-repo-staging/allaboard-parquet/out/nclh-2026-09-28/partitioned/line=norwegian/depart_month=2027-02/part-0000.parquet",
+        "size_bytes": 302819,
+        "mtime_ns": 1790629167676509010,
+        "ctime_ns": 1790629167676509010,
+        "sha256": "9ae6053b92fa58a4d4c33e0e5789e20cd8a1bd7d62741b997543280f62b27f38"
+      },
+      "csv_rows": 61046,
+      "csv_canonical_sha256": "e215da407d69e88533a998ff95b96c528178867ffbc9b795bdb5b70cd9e7e2b2",
+      "parquet_rows": 61046,
+      "parquet_canonical_sha256": "e215da407d69e88533a998ff95b96c528178867ffbc9b795bdb5b70cd9e7e2b2"
+    },
+    {
+      "path": "line=norwegian/depart_month=2027-03/part-0000.parquet",
+      "rows": 69370,
+      "size_bytes": 346454,
+      "line": "norwegian",
+      "depart_month": "2027-03",
+      "identity": {
+        "path": "/home/rich/devdata/nclh-repo-staging/allaboard-parquet/out/nclh-2026-09-28/partitioned/line=norwegian/depart_month=2027-03/part-0000.parquet",
+        "size_bytes": 346454,
+        "mtime_ns": 1790629167678671602,
+        "ctime_ns": 1790629167678671602,
+        "sha256": "a7a3359917be5e2c5b0b94d24002490028ebbeb6d90f51f010cf3cbd384ecfce"
+      },
+      "csv_rows": 69370,
+      "csv_canonical_sha256": "4646b199833771cb7e81efd8c4b9f704e56196a93858cab6221933c74dd6279f",
+      "parquet_rows": 69370,
+      "parquet_canonical_sha256": "4646b199833771cb7e81efd8c4b9f704e56196a93858cab6221933c74dd6279f"
+    },
+    {
+      "path": "line=norwegian/depart_month=2027-04/part-0000.parquet",
+      "rows": 44959,
+      "size_bytes": 226765,
+      "line": "norwegian",
+      "depart_month": "2027-04",
+      "identity": {
+        "path": "/home/rich/devdata/nclh-repo-staging/allaboard-parquet/out/nclh-2026-09-28/partitioned/line=norwegian/depart_month=2027-04/part-0000.parquet",
+        "size_bytes": 226765,
+        "mtime_ns": 1790629167681231368,
+        "ctime_ns": 1790629167681231368,
+        "sha256": "2f6225e5524d6ed12ee390b9cc05958e88a5c549eb7f53ca100072a6f1540a9d"
+      },
+      "csv_rows": 44959,
+      "csv_canonical_sha256": "7796ebc574578bf9d6ca7aae46386d3f835a5aab3b177562bb904fd3b338ef97",
+      "parquet_rows": 44959,
+      "parquet_canonical_sha256": "7796ebc574578bf9d6ca7aae46386d3f835a5aab3b177562bb904fd3b338ef97"
+    },
+    {
+      "path": "line=norwegian/depart_month=2027-05/part-0000.parquet",
+      "rows": 74013,
+      "size_bytes": 367135,
+      "line": "norwegian",
+      "depart_month": "2027-05",
+      "identity": {
+        "path": "/home/rich/devdata/nclh-repo-staging/allaboard-parquet/out/nclh-2026-09-28/partitioned/line=norwegian/depart_month=2027-05/part-0000.parquet",
+        "size_bytes": 367135,
+        "mtime_ns": 1790629167683026840,
+        "ctime_ns": 1790629167683026840,
+        "sha256": "993ac85988e0020265544c870f98a282782c6cc7df1e6709fb564dbba97eb648"
+      },
+      "csv_rows": 74013,
+      "csv_canonical_sha256": "1d6cd74cea32e4e778bf6190be1d3386cd88e06bfbedf000b2feecfc2d03c211",
+      "parquet_rows": 74013,
+      "parquet_canonical_sha256": "1d6cd74cea32e4e778bf6190be1d3386cd88e06bfbedf000b2feecfc2d03c211"
+    },
+    {
+      "path": "line=norwegian/depart_month=2027-06/part-0000.parquet",
+      "rows": 74610,
+      "size_bytes": 367209,
+      "line": "norwegian",
+      "depart_month": "2027-06",
+      "identity": {
+        "path": "/home/rich/devdata/nclh-repo-staging/allaboard-parquet/out/nclh-2026-09-28/partitioned/line=norwegian/depart_month=2027-06/part-0000.parquet",
+        "size_bytes": 367209,
+        "mtime_ns": 1790629167685675439,
+        "ctime_ns": 1790629167685675439,
+        "sha256": "c5c610c45783a1155deb3799a837fb9a9043b147aa2fa855f09cdd1e5d948866"
+      },
+      "csv_rows": 74610,
+      "csv_canonical_sha256": "5e85482da4924ba79fb6aca79ee416301209e5ae8602aac96b6fae3b5590771c",
+      "parquet_rows": 74610,
+      "parquet_canonical_sha256": "5e85482da4924ba79fb6aca79ee416301209e5ae8602aac96b6fae3b5590771c"
+    },
+    {
+      "path": "line=norwegian/depart_month=2027-07/part-0000.parquet",
+      "rows": 77985,
+      "size_bytes": 382517,
+      "line": "norwegian",
+      "depart_month": "2027-07",
+      "identity": {
+        "path": "/home/rich/devdata/nclh-repo-staging/allaboard-parquet/out/nclh-2026-09-28/partitioned/line=norwegian/depart_month=2027-07/part-0000.parquet",
+        "size_bytes": 382517,
+        "mtime_ns": 1790629167688437880,
+        "ctime_ns": 1790629167688437880,
+        "sha256": "ca33aef6609cc761521c78a4f0d5f86ad3b48f8b68added91dde9b4e23c8cba8"
+      },
+      "csv_rows": 77985,
+      "csv_canonical_sha256": "31e8d26b69b948d07b0753441130236e8c0c3ca017921760c23463d216dc8b57",
+      "parquet_rows": 77985,
+      "parquet_canonical_sha256": "31e8d26b69b948d07b0753441130236e8c0c3ca017921760c23463d216dc8b57"
+    },
+    {
+      "path": "line=norwegian/depart_month=2027-08/part-0000.parquet",
+      "rows": 78795,
+      "size_bytes": 375916,
+      "line": "norwegian",
+      "depart_month": "2027-08",
+      "identity": {
+        "path": "/home/rich/devdata/nclh-repo-staging/allaboard-parquet/out/nclh-2026-09-28/partitioned/line=norwegian/depart_month=2027-08/part-0000.parquet",
+        "size_bytes": 375916,
+        "mtime_ns": 1790629167690734044,
+        "ctime_ns": 1790629167690734044,
+        "sha256": "73de5b43827ce80839080939d1af056411dbf21f54cd45e7322b113aedad6866"
+      },
+      "csv_rows": 78795,
+      "csv_canonical_sha256": "99cc31d84798341a7966ed8135664d1df76b9ac7b1b24be0ebeb41f4ffb2c67a",
+      "parquet_rows": 78795,
+      "parquet_canonical_sha256": "99cc31d84798341a7966ed8135664d1df76b9ac7b1b24be0ebeb41f4ffb2c67a"
+    },
+    {
+      "path": "line=norwegian/depart_month=2027-09/part-0000.parquet",
+      "rows": 63461,
+      "size_bytes": 305461,
+      "line": "norwegian",
+      "depart_month": "2027-09",
+      "identity": {
+        "path": "/home/rich/devdata/nclh-repo-staging/allaboard-parquet/out/nclh-2026-09-28/partitioned/line=norwegian/depart_month=2027-09/part-0000.parquet",
+        "size_bytes": 305461,
+        "mtime_ns": 1790629167693488969,
+        "ctime_ns": 1790629167693488969,
+        "sha256": "1876f2fe57df367472689c78221ca54b7b614fd5b26e1090afa761fc04fa9380"
+      },
+      "csv_rows": 63461,
+      "csv_canonical_sha256": "1f306c96972283e6936f40e21471d1d91f2060a7d5227e286bd74bdbc10edc49",
+      "parquet_rows": 63461,
+      "parquet_canonical_sha256": "1f306c96972283e6936f40e21471d1d91f2060a7d5227e286bd74bdbc10edc49"
+    },
+    {
+      "path": "line=norwegian/depart_month=2027-10/part-0000.parquet",
+      "rows": 57380,
+      "size_bytes": 274919,
+      "line": "norwegian",
+      "depart_month": "2027-10",
+      "identity": {
+        "path": "/home/rich/devdata/nclh-repo-staging/allaboard-parquet/out/nclh-2026-09-28/partitioned/line=norwegian/depart_month=2027-10/part-0000.parquet",
+        "size_bytes": 274919,
+        "mtime_ns": 1790629167695685019,
+        "ctime_ns": 1790629167695685019,
+        "sha256": "c4f399f32db1c3a0ccd31131c17f207fa977a61b68453bbbf126c14527ad6963"
+      },
+      "csv_rows": 57380,
+      "csv_canonical_sha256": "cad32d544ceadfa2535485ca964826212802db332cdf4035db85c668aa55f680",
+      "parquet_rows": 57380,
+      "parquet_canonical_sha256": "cad32d544ceadfa2535485ca964826212802db332cdf4035db85c668aa55f680"
+    },
+    {
+      "path": "line=norwegian/depart_month=2027-11/part-0000.parquet",
+      "rows": 45666,
+      "size_bytes": 209930,
+      "line": "norwegian",
+      "depart_month": "2027-11",
+      "identity": {
+        "path": "/home/rich/devdata/nclh-repo-staging/allaboard-parquet/out/nclh-2026-09-28/partitioned/line=norwegian/depart_month=2027-11/part-0000.parquet",
+        "size_bytes": 209930,
+        "mtime_ns": 1790629167697631741,
+        "ctime_ns": 1790629167697631741,
+        "sha256": "2e53e5c2b93cb9724f9388af5dd9fa2d48f3582be6f7454f788ecc11766bb95f"
+      },
+      "csv_rows": 45666,
+      "csv_canonical_sha256": "9f0e6e724fcd1ed6f4b551fb6877b54b6393f5ff3c4cde6b6542d7aa3fa34c3f",
+      "parquet_rows": 45666,
+      "parquet_canonical_sha256": "9f0e6e724fcd1ed6f4b551fb6877b54b6393f5ff3c4cde6b6542d7aa3fa34c3f"
+    },
+    {
+      "path": "line=norwegian/depart_month=2027-12/part-0000.parquet",
+      "rows": 37597,
+      "size_bytes": 177636,
+      "line": "norwegian",
+      "depart_month": "2027-12",
+      "identity": {
+        "path": "/home/rich/devdata/nclh-repo-staging/allaboard-parquet/out/nclh-2026-09-28/partitioned/line=norwegian/depart_month=2027-12/part-0000.parquet",
+        "size_bytes": 177636,
+        "mtime_ns": 1790629167698194040,
+        "ctime_ns": 1790629167698194040,
+        "sha256": "d43393300b03233f573298d405365f420465aeb6078cdeda02ead32f5217149f"
+      },
+      "csv_rows": 37597,
+      "csv_canonical_sha256": "965a533ef9bf01be69a937e1bf3c86e059670654fc4f50638d8f649f872647ec",
+      "parquet_rows": 37597,
+      "parquet_canonical_sha256": "965a533ef9bf01be69a937e1bf3c86e059670654fc4f50638d8f649f872647ec"
+    },
+    {
+      "path": "line=norwegian/depart_month=2028-01/part-0000.parquet",
+      "rows": 24645,
+      "size_bytes": 118715,
+      "line": "norwegian",
+      "depart_month": "2028-01",
+      "identity": {
+        "path": "/home/rich/devdata/nclh-repo-staging/allaboard-parquet/out/nclh-2026-09-28/partitioned/line=norwegian/depart_month=2028-01/part-0000.parquet",
+        "size_bytes": 118715,
+        "mtime_ns": 1790629167700645337,
+        "ctime_ns": 1790629167700645337,
+        "sha256": "a4a8d56cc7068edc3129ab0fb187ed77bc0f51b6e471262dfe6edcc75a3288b6"
+      },
+      "csv_rows": 24645,
+      "csv_canonical_sha256": "0f861c2ecdc1a89f25a5b5f4be7ecb23b48f064d2c36ceabfc0a3ac41ff9f4fa",
+      "parquet_rows": 24645,
+      "parquet_canonical_sha256": "0f861c2ecdc1a89f25a5b5f4be7ecb23b48f064d2c36ceabfc0a3ac41ff9f4fa"
+    },
+    {
+      "path": "line=norwegian/depart_month=2028-02/part-0000.parquet",
+      "rows": 13346,
+      "size_bytes": 61678,
+      "line": "norwegian",
+      "depart_month": "2028-02",
+      "identity": {
+        "path": "/home/rich/devdata/nclh-repo-staging/allaboard-parquet/out/nclh-2026-09-28/partitioned/line=norwegian/depart_month=2028-02/part-0000.parquet",
+        "size_bytes": 61678,
+        "mtime_ns": 1790629167701865676,
+        "ctime_ns": 1790629167701865676,
+        "sha256": "82e3d83cb6ab63ac49a9c31533b236a8ac6efe2721c86cc79f07b14d4a004258"
+      },
+      "csv_rows": 13346,
+      "csv_canonical_sha256": "c7f620d883ef11349024656e4c186be457ac56219fbf44626888178bc5cd6dba",
+      "parquet_rows": 13346,
+      "parquet_canonical_sha256": "c7f620d883ef11349024656e4c186be457ac56219fbf44626888178bc5cd6dba"
+    },
+    {
+      "path": "line=norwegian/depart_month=2028-03/part-0000.parquet",
+      "rows": 4343,
+      "size_bytes": 24410,
+      "line": "norwegian",
+      "depart_month": "2028-03",
+      "identity": {
+        "path": "/home/rich/devdata/nclh-repo-staging/allaboard-parquet/out/nclh-2026-09-28/partitioned/line=norwegian/depart_month=2028-03/part-0000.parquet",
+        "size_bytes": 24410,
+        "mtime_ns": 1790629167702721643,
+        "ctime_ns": 1790629167702721643,
+        "sha256": "7733265327bdd3e494305e8b9467c572936d3b0adc40ea3078a8e3f67df05f32"
+      },
+      "csv_rows": 4343,
+      "csv_canonical_sha256": "c9fa322e85216a9846e7c34856852f1d62d264ccb2d7fbf216b94c94ec0c23d7",
+      "parquet_rows": 4343,
+      "parquet_canonical_sha256": "c9fa322e85216a9846e7c34856852f1d62d264ccb2d7fbf216b94c94ec0c23d7"
+    },
+    {
+      "path": "line=oceania/depart_month=2026-09/part-0000.parquet",
+      "rows": 3491,
+      "size_bytes": 19701,
+      "line": "oceania",
+      "depart_month": "2026-09",
+      "identity": {
+        "path": "/home/rich/devdata/nclh-repo-staging/allaboard-parquet/out/nclh-2026-09-28/partitioned/line=oceania/depart_month=2026-09/part-0000.parquet",
+        "size_bytes": 19701,
+        "mtime_ns": 1790629167703288927,
+        "ctime_ns": 1790629167703288927,
+        "sha256": "555e1146fa41f0f3189f0289c58e166ff43bb0b4d651a18fd659749efd785c29"
+      },
+      "csv_rows": 3491,
+      "csv_canonical_sha256": "c5f1c98c26afa6d501729da224d824919c5992aaa42cba31e91a12aac6824ee3",
+      "parquet_rows": 3491,
+      "parquet_canonical_sha256": "c5f1c98c26afa6d501729da224d824919c5992aaa42cba31e91a12aac6824ee3"
+    },
+    {
+      "path": "line=oceania/depart_month=2026-10/part-0000.parquet",
+      "rows": 5153,
+      "size_bytes": 29705,
+      "line": "oceania",
+      "depart_month": "2026-10",
+      "identity": {
+        "path": "/home/rich/devdata/nclh-repo-staging/allaboard-parquet/out/nclh-2026-09-28/partitioned/line=oceania/depart_month=2026-10/part-0000.parquet",
+        "size_bytes": 29705,
+        "mtime_ns": 1790629167703713759,
+        "ctime_ns": 1790629167703713759,
+        "sha256": "41dcbab4dab03b037c08f5c5fe112160d65fa5060ed99b8d8ad5d998306cd92c"
+      },
+      "csv_rows": 5153,
+      "csv_canonical_sha256": "d1786f5452c8d3421a3d6e6d4e2450b406d333c316ddba07e017a564edd7b9f9",
+      "parquet_rows": 5153,
+      "parquet_canonical_sha256": "d1786f5452c8d3421a3d6e6d4e2450b406d333c316ddba07e017a564edd7b9f9"
+    },
+    {
+      "path": "line=oceania/depart_month=2026-11/part-0000.parquet",
+      "rows": 7535,
+      "size_bytes": 42231,
+      "line": "oceania",
+      "depart_month": "2026-11",
+      "identity": {
+        "path": "/home/rich/devdata/nclh-repo-staging/allaboard-parquet/out/nclh-2026-09-28/partitioned/line=oceania/depart_month=2026-11/part-0000.parquet",
+        "size_bytes": 42231,
+        "mtime_ns": 1790629167704247721,
+        "ctime_ns": 1790629167704247721,
+        "sha256": "4ac8cb871d8c64e587eedd98d2654ba11e6f2a18c3a4a14a206f86f81bbddef2"
+      },
+      "csv_rows": 7535,
+      "csv_canonical_sha256": "e1cfa2b496a16726592789da340fb06146c86dac882aa329c10c35f831f25781",
+      "parquet_rows": 7535,
+      "parquet_canonical_sha256": "e1cfa2b496a16726592789da340fb06146c86dac882aa329c10c35f831f25781"
+    },
+    {
+      "path": "line=oceania/depart_month=2026-12/part-0000.parquet",
+      "rows": 8194,
+      "size_bytes": 47619,
+      "line": "oceania",
+      "depart_month": "2026-12",
+      "identity": {
+        "path": "/home/rich/devdata/nclh-repo-staging/allaboard-parquet/out/nclh-2026-09-28/partitioned/line=oceania/depart_month=2026-12/part-0000.parquet",
+        "size_bytes": 47619,
+        "mtime_ns": 1790629167704781578,
+        "ctime_ns": 1790629167704781578,
+        "sha256": "9c96b8f30918dc3bd8b5e87ae092c9f0498adc320ace4bbc1708bf3348cc07b1"
+      },
+      "csv_rows": 8194,
+      "csv_canonical_sha256": "fd9cdccd60e4ab134325de67696b9837504127fbe95273ca1bb99b69cd467fec",
+      "parquet_rows": 8194,
+      "parquet_canonical_sha256": "fd9cdccd60e4ab134325de67696b9837504127fbe95273ca1bb99b69cd467fec"
+    },
+    {
+      "path": "line=oceania/depart_month=2027-01/part-0000.parquet",
+      "rows": 5736,
+      "size_bytes": 31464,
+      "line": "oceania",
+      "depart_month": "2027-01",
+      "identity": {
+        "path": "/home/rich/devdata/nclh-repo-staging/allaboard-parquet/out/nclh-2026-09-28/partitioned/line=oceania/depart_month=2027-01/part-0000.parquet",
+        "size_bytes": 31464,
+        "mtime_ns": 1790629167705478789,
+        "ctime_ns": 1790629167705478789,
+        "sha256": "1e20123dbf0174e170ee55a9540c0ef5c7bd249321c039049a5de788ac98cf4f"
+      },
+      "csv_rows": 5736,
+      "csv_canonical_sha256": "3b914cf111b5670a26c030bcac0c9d36c318a5998b75d0e36a7115858baf010a",
+      "parquet_rows": 5736,
+      "parquet_canonical_sha256": "3b914cf111b5670a26c030bcac0c9d36c318a5998b75d0e36a7115858baf010a"
+    },
+    {
+      "path": "line=oceania/depart_month=2027-02/part-0000.parquet",
+      "rows": 4356,
+      "size_bytes": 27858,
+      "line": "oceania",
+      "depart_month": "2027-02",
+      "identity": {
+        "path": "/home/rich/devdata/nclh-repo-staging/allaboard-parquet/out/nclh-2026-09-28/partitioned/line=oceania/depart_month=2027-02/part-0000.parquet",
+        "size_bytes": 27858,
+        "mtime_ns": 1790629167706045444,
+        "ctime_ns": 1790629167706045444,
+        "sha256": "e69e0fd13719649238a98e0c2d61126ad8c3d86092b1a8947d1c5e0e9ccf1ec6"
+      },
+      "csv_rows": 4356,
+      "csv_canonical_sha256": "0e9988f25ab403db4bc9687902556c6d018467a1aad5d5b64d1ce1184e61ca80",
+      "parquet_rows": 4356,
+      "parquet_canonical_sha256": "0e9988f25ab403db4bc9687902556c6d018467a1aad5d5b64d1ce1184e61ca80"
+    },
+    {
+      "path": "line=oceania/depart_month=2027-03/part-0000.parquet",
+      "rows": 6093,
+      "size_bytes": 31469,
+      "line": "oceania",
+      "depart_month": "2027-03",
+      "identity": {
+        "path": "/home/rich/devdata/nclh-repo-staging/allaboard-parquet/out/nclh-2026-09-28/partitioned/line=oceania/depart_month=2027-03/part-0000.parquet",
+        "size_bytes": 31469,
+        "mtime_ns": 1790629167706702406,
+        "ctime_ns": 1790629167706702406,
+        "sha256": "5d95cef9d522efbb062f5bc695254f34bfa683bf8e1bd66c40d75f04bb5e97e0"
+      },
+      "csv_rows": 6093,
+      "csv_canonical_sha256": "85775b3e1ea4850e402c1e44a00e28f640ee88337e269eb1e348aeb6047a4730",
+      "parquet_rows": 6093,
+      "parquet_canonical_sha256": "85775b3e1ea4850e402c1e44a00e28f640ee88337e269eb1e348aeb6047a4730"
+    },
+    {
+      "path": "line=oceania/depart_month=2027-04/part-0000.parquet",
+      "rows": 7071,
+      "size_bytes": 33746,
+      "line": "oceania",
+      "depart_month": "2027-04",
+      "identity": {
+        "path": "/home/rich/devdata/nclh-repo-staging/allaboard-parquet/out/nclh-2026-09-28/partitioned/line=oceania/depart_month=2027-04/part-0000.parquet",
+        "size_bytes": 33746,
+        "mtime_ns": 1790629167707342643,
+        "ctime_ns": 1790629167707342643,
+        "sha256": "583b4bf8164c7876f7f10e56e2719cc2bf3b64026c59a7191a2b08ec16e88960"
+      },
+      "csv_rows": 7071,
+      "csv_canonical_sha256": "a41ac53e2ac250793b869239b9cd9920565ed07a8393aae73baa56f2cd486099",
+      "parquet_rows": 7071,
+      "parquet_canonical_sha256": "a41ac53e2ac250793b869239b9cd9920565ed07a8393aae73baa56f2cd486099"
+    },
+    {
+      "path": "line=oceania/depart_month=2027-05/part-0000.parquet",
+      "rows": 7482,
+      "size_bytes": 33819,
+      "line": "oceania",
+      "depart_month": "2027-05",
+      "identity": {
+        "path": "/home/rich/devdata/nclh-repo-staging/allaboard-parquet/out/nclh-2026-09-28/partitioned/line=oceania/depart_month=2027-05/part-0000.parquet",
+        "size_bytes": 33819,
+        "mtime_ns": 1790629167707943442,
+        "ctime_ns": 1790629167707943442,
+        "sha256": "d0d198a5c0c3ab920d90a1114a5545e8110aa269339f308000c7c398513bdb12"
+      },
+      "csv_rows": 7482,
+      "csv_canonical_sha256": "e60f78dd47b6f43d19ad2d90f2fa97a325f8bdc2cc7891646c65ec33b8895c14",
+      "parquet_rows": 7482,
+      "parquet_canonical_sha256": "e60f78dd47b6f43d19ad2d90f2fa97a325f8bdc2cc7891646c65ec33b8895c14"
+    },
+    {
+      "path": "line=oceania/depart_month=2027-06/part-0000.parquet",
+      "rows": 8904,
+      "size_bytes": 40833,
+      "line": "oceania",
+      "depart_month": "2027-06",
+      "identity": {
+        "path": "/home/rich/devdata/nclh-repo-staging/allaboard-parquet/out/nclh-2026-09-28/partitioned/line=oceania/depart_month=2027-06/part-0000.parquet",
+        "size_bytes": 40833,
+        "mtime_ns": 1790629167708552303,
+        "ctime_ns": 1790629167708552303,
+        "sha256": "087553cf10a6a15a8924394943103a69a6aa56fd9b68ddba6eb9cb3bed27fee5"
+      },
+      "csv_rows": 8904,
+      "csv_canonical_sha256": "b609df101899e3d474aea9787876f70d82c92aa939321b9f03e1800366c065cd",
+      "parquet_rows": 8904,
+      "parquet_canonical_sha256": "b609df101899e3d474aea9787876f70d82c92aa939321b9f03e1800366c065cd"
+    },
+    {
+      "path": "line=oceania/depart_month=2027-07/part-0000.parquet",
+      "rows": 8552,
+      "size_bytes": 38207,
+      "line": "oceania",
+      "depart_month": "2027-07",
+      "identity": {
+        "path": "/home/rich/devdata/nclh-repo-staging/allaboard-parquet/out/nclh-2026-09-28/partitioned/line=oceania/depart_month=2027-07/part-0000.parquet",
+        "size_bytes": 38207,
+        "mtime_ns": 1790629167709265886,
+        "ctime_ns": 1790629167709265886,
+        "sha256": "5528dfb4f20add678e644a8b3b2793268f725f0a171882e89873b2a4e57d8301"
+      },
+      "csv_rows": 8552,
+      "csv_canonical_sha256": "ac0ee701a42f63ac781e72fb960a70fcff2531eb722e47557443200fa6ac3237",
+      "parquet_rows": 8552,
+      "parquet_canonical_sha256": "ac0ee701a42f63ac781e72fb960a70fcff2531eb722e47557443200fa6ac3237"
+    },
+    {
+      "path": "line=oceania/depart_month=2027-08/part-0000.parquet",
+      "rows": 8081,
+      "size_bytes": 40633,
+      "line": "oceania",
+      "depart_month": "2027-08",
+      "identity": {
+        "path": "/home/rich/devdata/nclh-repo-staging/allaboard-parquet/out/nclh-2026-09-28/partitioned/line=oceania/depart_month=2027-08/part-0000.parquet",
+        "size_bytes": 40633,
+        "mtime_ns": 1790629167709930016,
+        "ctime_ns": 1790629167709930016,
+        "sha256": "da220d027834f0a4944ca0d0a0e02f6ef4e0e0b388400c5754af5fe9ca492a7b"
+      },
+      "csv_rows": 8081,
+      "csv_canonical_sha256": "fe90a84ca039f15853d12daf0278912895c89a39b84ce1f5860e3a515b74b4a6",
+      "parquet_rows": 8081,
+      "parquet_canonical_sha256": "fe90a84ca039f15853d12daf0278912895c89a39b84ce1f5860e3a515b74b4a6"
+    },
+    {
+      "path": "line=oceania/depart_month=2027-09/part-0000.parquet",
+      "rows": 8048,
+      "size_bytes": 36956,
+      "line": "oceania",
+      "depart_month": "2027-09",
+      "identity": {
+        "path": "/home/rich/devdata/nclh-repo-staging/allaboard-parquet/out/nclh-2026-09-28/partitioned/line=oceania/depart_month=2027-09/part-0000.parquet",
+        "size_bytes": 36956,
+        "mtime_ns": 1790629167710552378,
+        "ctime_ns": 1790629167710552378,
+        "sha256": "c86f344d3a37fa509cac1faa6fd396b0a6186d7833c6a5b79f5b338f1682a0a7"
+      },
+      "csv_rows": 8048,
+      "csv_canonical_sha256": "b09111da84cd5b5c63f50770152881b0823d3ffbe1deaa0211b10126bc182fa3",
+      "parquet_rows": 8048,
+      "parquet_canonical_sha256": "b09111da84cd5b5c63f50770152881b0823d3ffbe1deaa0211b10126bc182fa3"
+    },
+    {
+      "path": "line=oceania/depart_month=2027-10/part-0000.parquet",
+      "rows": 8644,
+      "size_bytes": 40947,
+      "line": "oceania",
+      "depart_month": "2027-10",
+      "identity": {
+        "path": "/home/rich/devdata/nclh-repo-staging/allaboard-parquet/out/nclh-2026-09-28/partitioned/line=oceania/depart_month=2027-10/part-0000.parquet",
+        "size_bytes": 40947,
+        "mtime_ns": 1790629167711153191,
+        "ctime_ns": 1790629167711153191,
+        "sha256": "77f8bab6052b22a5f799cfe5f542d7880e5d72a8a969b4fd233ffff086ee250e"
+      },
+      "csv_rows": 8644,
+      "csv_canonical_sha256": "7796cf95298ad451c92b3ededc1d1c9d77e5ea2f92b3d23277839b938242d83f",
+      "parquet_rows": 8644,
+      "parquet_canonical_sha256": "7796cf95298ad451c92b3ededc1d1c9d77e5ea2f92b3d23277839b938242d83f"
+    },
+    {
+      "path": "line=oceania/depart_month=2027-11/part-0000.parquet",
+      "rows": 5512,
+      "size_bytes": 27693,
+      "line": "oceania",
+      "depart_month": "2027-11",
+      "identity": {
+        "path": "/home/rich/devdata/nclh-repo-staging/allaboard-parquet/out/nclh-2026-09-28/partitioned/line=oceania/depart_month=2027-11/part-0000.parquet",
+        "size_bytes": 27693,
+        "mtime_ns": 1790629167711788476,
+        "ctime_ns": 1790629167711788476,
+        "sha256": "8e89a54981520060cbc158703eb1dc7effdf8a569bdc55e09aafc4c6025f6b83"
+      },
+      "csv_rows": 5512,
+      "csv_canonical_sha256": "3d4c859f59e01f301ed199c6009d9a695c4a02eed1583172ad6e5666ddba9fd1",
+      "parquet_rows": 5512,
+      "parquet_canonical_sha256": "3d4c859f59e01f301ed199c6009d9a695c4a02eed1583172ad6e5666ddba9fd1"
+    },
+    {
+      "path": "line=oceania/depart_month=2027-12/part-0000.parquet",
+      "rows": 2724,
+      "size_bytes": 14774,
+      "line": "oceania",
+      "depart_month": "2027-12",
+      "identity": {
+        "path": "/home/rich/devdata/nclh-repo-staging/allaboard-parquet/out/nclh-2026-09-28/partitioned/line=oceania/depart_month=2027-12/part-0000.parquet",
+        "size_bytes": 14774,
+        "mtime_ns": 1790629167712368723,
+        "ctime_ns": 1790629167712368723,
+        "sha256": "3a1b56b87b83306436d1968abe81e01edc847ba0b8d137f2d9b9f3c21bfa4a0a"
+      },
+      "csv_rows": 2724,
+      "csv_canonical_sha256": "9032bc490a8a4048fd8cdde534d2601c76942b2f3d9bc9b8e5c0e2442c8dac23",
+      "parquet_rows": 2724,
+      "parquet_canonical_sha256": "9032bc490a8a4048fd8cdde534d2601c76942b2f3d9bc9b8e5c0e2442c8dac23"
+    },
+    {
+      "path": "line=oceania/depart_month=2028-01/part-0000.parquet",
+      "rows": 1768,
+      "size_bytes": 11599,
+      "line": "oceania",
+      "depart_month": "2028-01",
+      "identity": {
+        "path": "/home/rich/devdata/nclh-repo-staging/allaboard-parquet/out/nclh-2026-09-28/partitioned/line=oceania/depart_month=2028-01/part-0000.parquet",
+        "size_bytes": 11599,
+        "mtime_ns": 1790629167712878192,
+        "ctime_ns": 1790629167712878192,
+        "sha256": "dd4d47bde37d7120895846b0e53347c62d38af54964b3056d7b4b0fe2b38b71b"
+      },
+      "csv_rows": 1768,
+      "csv_canonical_sha256": "dfec800304974cfe5d362b7b4adfead92aa0806d3f7ae0dfc2e8dd631a22af9f",
+      "parquet_rows": 1768,
+      "parquet_canonical_sha256": "dfec800304974cfe5d362b7b4adfead92aa0806d3f7ae0dfc2e8dd631a22af9f"
+    },
+    {
+      "path": "line=oceania/depart_month=2028-02/part-0000.parquet",
+      "rows": 1634,
+      "size_bytes": 12325,
+      "line": "oceania",
+      "depart_month": "2028-02",
+      "identity": {
+        "path": "/home/rich/devdata/nclh-repo-staging/allaboard-parquet/out/nclh-2026-09-28/partitioned/line=oceania/depart_month=2028-02/part-0000.parquet",
+        "size_bytes": 12325,
+        "mtime_ns": 1790629167713365643,
+        "ctime_ns": 1790629167713365643,
+        "sha256": "2a72bed7fbf408788b1638c823234bb6c0d327577de76b4900c0372ca6098cc8"
+      },
+      "csv_rows": 1634,
+      "csv_canonical_sha256": "704defa47b7c207fdcbf09f49efdac97097b81bb96b32e31b145caf2dc5c5728",
+      "parquet_rows": 1634,
+      "parquet_canonical_sha256": "704defa47b7c207fdcbf09f49efdac97097b81bb96b32e31b145caf2dc5c5728"
+    },
+    {
+      "path": "line=oceania/depart_month=2028-03/part-0000.parquet",
+      "rows": 842,
+      "size_bytes": 8381,
+      "line": "oceania",
+      "depart_month": "2028-03",
+      "identity": {
+        "path": "/home/rich/devdata/nclh-repo-staging/allaboard-parquet/out/nclh-2026-09-28/partitioned/line=oceania/depart_month=2028-03/part-0000.parquet",
+        "size_bytes": 8381,
+        "mtime_ns": 1790629167713832932,
+        "ctime_ns": 1790629167713832932,
+        "sha256": "f1d094d3501d7291ab53cfb6a4cdabb8a52954eb75acf0a351320ad324ed2b67"
+      },
+      "csv_rows": 842,
+      "csv_canonical_sha256": "1f70a56547c14815127622cbe29638f8609db25d4825809e0f4a5d196f44e6ad",
+      "parquet_rows": 842,
+      "parquet_canonical_sha256": "1f70a56547c14815127622cbe29638f8609db25d4825809e0f4a5d196f44e6ad"
+    },
+    {
+      "path": "line=oceania/depart_month=2028-04/part-0000.parquet",
+      "rows": 323,
+      "size_bytes": 5769,
+      "line": "oceania",
+      "depart_month": "2028-04",
+      "identity": {
+        "path": "/home/rich/devdata/nclh-repo-staging/allaboard-parquet/out/nclh-2026-09-28/partitioned/line=oceania/depart_month=2028-04/part-0000.parquet",
+        "size_bytes": 5769,
+        "mtime_ns": 1790629167714283373,
+        "ctime_ns": 1790629167714283373,
+        "sha256": "963a578f9b6da98f87a9a0f24b0a4a8fa1247446229a8ed7d7bd12e986b10762"
+      },
+      "csv_rows": 323,
+      "csv_canonical_sha256": "8400590083bc626f466087ce5a5fdd1bd4b5e6855c5a194641cc826968c4eca2",
+      "parquet_rows": 323,
+      "parquet_canonical_sha256": "8400590083bc626f466087ce5a5fdd1bd4b5e6855c5a194641cc826968c4eca2"
+    },
+    {
+      "path": "line=oceania/depart_month=2028-05/part-0000.parquet",
+      "rows": 352,
+      "size_bytes": 5620,
+      "line": "oceania",
+      "depart_month": "2028-05",
+      "identity": {
+        "path": "/home/rich/devdata/nclh-repo-staging/allaboard-parquet/out/nclh-2026-09-28/partitioned/line=oceania/depart_month=2028-05/part-0000.parquet",
+        "size_bytes": 5620,
+        "mtime_ns": 1790629167714710853,
+        "ctime_ns": 1790629167714710853,
+        "sha256": "396a5c3a0575c551ae5c9748b36bdc0261864cd244ac82a2a13033fa0dbfcc82"
+      },
+      "csv_rows": 352,
+      "csv_canonical_sha256": "ba69105544cc02aff32c52e848a5ecc73fd4107e5649cf70188bb3f41cfdd32f",
+      "parquet_rows": 352,
+      "parquet_canonical_sha256": "ba69105544cc02aff32c52e848a5ecc73fd4107e5649cf70188bb3f41cfdd32f"
+    },
+    {
+      "path": "line=oceania/depart_month=2028-06/part-0000.parquet",
+      "rows": 354,
+      "size_bytes": 5677,
+      "line": "oceania",
+      "depart_month": "2028-06",
+      "identity": {
+        "path": "/home/rich/devdata/nclh-repo-staging/allaboard-parquet/out/nclh-2026-09-28/partitioned/line=oceania/depart_month=2028-06/part-0000.parquet",
+        "size_bytes": 5677,
+        "mtime_ns": 1790629167715127621,
+        "ctime_ns": 1790629167715127621,
+        "sha256": "6f1c996f71a3b41b161d5d204cdea1b2a18beff5c044d0909800be8f3ef1ca35"
+      },
+      "csv_rows": 354,
+      "csv_canonical_sha256": "cc21beb2fc089c9114dcd66c90fb949e50ae942540ce9236609c6dbb8944e27f",
+      "parquet_rows": 354,
+      "parquet_canonical_sha256": "cc21beb2fc089c9114dcd66c90fb949e50ae942540ce9236609c6dbb8944e27f"
+    },
+    {
+      "path": "line=oceania/depart_month=2028-07/part-0000.parquet",
+      "rows": 424,
+      "size_bytes": 6091,
+      "line": "oceania",
+      "depart_month": "2028-07",
+      "identity": {
+        "path": "/home/rich/devdata/nclh-repo-staging/allaboard-parquet/out/nclh-2026-09-28/partitioned/line=oceania/depart_month=2028-07/part-0000.parquet",
+        "size_bytes": 6091,
+        "mtime_ns": 1790629167715544840,
+        "ctime_ns": 1790629167715544840,
+        "sha256": "bc679f5f885aa053a114620b2c62a21337fff917c87b3c1474fa137f546c6732"
+      },
+      "csv_rows": 424,
+      "csv_canonical_sha256": "96a429789c9e07f3c178ccae848aba7df51019bffd0d0093950e89b81f92ac76",
+      "parquet_rows": 424,
+      "parquet_canonical_sha256": "96a429789c9e07f3c178ccae848aba7df51019bffd0d0093950e89b81f92ac76"
+    },
+    {
+      "path": "line=oceania/depart_month=2028-08/part-0000.parquet",
+      "rows": 462,
+      "size_bytes": 6282,
+      "line": "oceania",
+      "depart_month": "2028-08",
+      "identity": {
+        "path": "/home/rich/devdata/nclh-repo-staging/allaboard-parquet/out/nclh-2026-09-28/partitioned/line=oceania/depart_month=2028-08/part-0000.parquet",
+        "size_bytes": 6282,
+        "mtime_ns": 1790629167715962916,
+        "ctime_ns": 1790629167715962916,
+        "sha256": "7eb8fc66e2cbafce91a8478bb104b45ea6460bbd3a01311824db8bba79e52e3c"
+      },
+      "csv_rows": 462,
+      "csv_canonical_sha256": "a44b6fe6b093e1c9dde2c83fa0e7ddc75ff05f6569ef74dc559bda7b6af58a2f",
+      "parquet_rows": 462,
+      "parquet_canonical_sha256": "a44b6fe6b093e1c9dde2c83fa0e7ddc75ff05f6569ef74dc559bda7b6af58a2f"
+    },
+    {
+      "path": "line=oceania/depart_month=2028-09/part-0000.parquet",
+      "rows": 286,
+      "size_bytes": 5388,
+      "line": "oceania",
+      "depart_month": "2028-09",
+      "identity": {
+        "path": "/home/rich/devdata/nclh-repo-staging/allaboard-parquet/out/nclh-2026-09-28/partitioned/line=oceania/depart_month=2028-09/part-0000.parquet",
+        "size_bytes": 5388,
+        "mtime_ns": 1790629167716401277,
+        "ctime_ns": 1790629167716401277,
+        "sha256": "863e57aba2496e3a387d3d3bb3dde8a052d6e4329660bb32ce598b7a808c5d93"
+      },
+      "csv_rows": 286,
+      "csv_canonical_sha256": "5d2edc68b2f83901cfae9a745e5a9200f354fe6202eee527d182ae4d30945c26",
+      "parquet_rows": 286,
+      "parquet_canonical_sha256": "5d2edc68b2f83901cfae9a745e5a9200f354fe6202eee527d182ae4d30945c26"
+    },
+    {
+      "path": "line=regent-seven-seas/depart_month=2026-09/part-0000.parquet",
+      "rows": 670,
+      "size_bytes": 11294,
+      "line": "regent-seven-seas",
+      "depart_month": "2026-09",
+      "identity": {
+        "path": "/home/rich/devdata/nclh-repo-staging/allaboard-parquet/out/nclh-2026-09-28/partitioned/line=regent-seven-seas/depart_month=2026-09/part-0000.parquet",
+        "size_bytes": 11294,
+        "mtime_ns": 1790629167716884120,
+        "ctime_ns": 1790629167716884120,
+        "sha256": "8ebe1cbbc84e514ea86fead0d774644275146e854d69b37f18e9e2fbd753d93e"
+      },
+      "csv_rows": 670,
+      "csv_canonical_sha256": "0ee219943847053ab1be6d7bc13f84697cf06b8df38116f90aeef5acdc98c43f",
+      "parquet_rows": 670,
+      "parquet_canonical_sha256": "0ee219943847053ab1be6d7bc13f84697cf06b8df38116f90aeef5acdc98c43f"
+    },
+    {
+      "path": "line=regent-seven-seas/depart_month=2026-10/part-0000.parquet",
+      "rows": 101,
+      "size_bytes": 5120,
+      "line": "regent-seven-seas",
+      "depart_month": "2026-10",
+      "identity": {
+        "path": "/home/rich/devdata/nclh-repo-staging/allaboard-parquet/out/nclh-2026-09-28/partitioned/line=regent-seven-seas/depart_month=2026-10/part-0000.parquet",
+        "size_bytes": 5120,
+        "mtime_ns": 1790629167717394217,
+        "ctime_ns": 1790629167717394217,
+        "sha256": "ee0ffdbd1b782b105f433c5fc499f438a267bda40cd09b16575c02ef76a8db24"
+      },
+      "csv_rows": 101,
+      "csv_canonical_sha256": "d4c42ebd73da5947dd4f843cb8d64cfb424117b0a99e7021d798078a0f9b384d",
+      "parquet_rows": 101,
+      "parquet_canonical_sha256": "d4c42ebd73da5947dd4f843cb8d64cfb424117b0a99e7021d798078a0f9b384d"
+    },
+    {
+      "path": "line=regent-seven-seas/depart_month=2026-11/part-0000.parquet",
+      "rows": 161,
+      "size_bytes": 6155,
+      "line": "regent-seven-seas",
+      "depart_month": "2026-11",
+      "identity": {
+        "path": "/home/rich/devdata/nclh-repo-staging/allaboard-parquet/out/nclh-2026-09-28/partitioned/line=regent-seven-seas/depart_month=2026-11/part-0000.parquet",
+        "size_bytes": 6155,
+        "mtime_ns": 1790629167717775602,
+        "ctime_ns": 1790629167717775602,
+        "sha256": "293b0ecbff9b478d9b4a0e0defd3c7c3ab60091645d23d633be8d5252f036e08"
+      },
+      "csv_rows": 161,
+      "csv_canonical_sha256": "723d154c8adf30efacbc67b891f37c95a1d89d4246042192a4f9e7410ff77bf9",
+      "parquet_rows": 161,
+      "parquet_canonical_sha256": "723d154c8adf30efacbc67b891f37c95a1d89d4246042192a4f9e7410ff77bf9"
+    },
+    {
+      "path": "line=regent-seven-seas/depart_month=2026-12/part-0000.parquet",
+      "rows": 1092,
+      "size_bytes": 15362,
+      "line": "regent-seven-seas",
+      "depart_month": "2026-12",
+      "identity": {
+        "path": "/home/rich/devdata/nclh-repo-staging/allaboard-parquet/out/nclh-2026-09-28/partitioned/line=regent-seven-seas/depart_month=2026-12/part-0000.parquet",
+        "size_bytes": 15362,
+        "mtime_ns": 1790629167718222103,
+        "ctime_ns": 1790629167718222103,
+        "sha256": "6ec2a3f6e14716bbf5750ae1b2c39517d2ee61e7f9e452a3dbab76ff4475db07"
+      },
+      "csv_rows": 1092,
+      "csv_canonical_sha256": "feaaada582db9c2aeff5e1fb1688e9430f6727d15029ad71a5a19617975f29f1",
+      "parquet_rows": 1092,
+      "parquet_canonical_sha256": "feaaada582db9c2aeff5e1fb1688e9430f6727d15029ad71a5a19617975f29f1"
+    },
+    {
+      "path": "line=regent-seven-seas/depart_month=2027-01/part-0000.parquet",
+      "rows": 932,
+      "size_bytes": 13966,
+      "line": "regent-seven-seas",
+      "depart_month": "2027-01",
+      "identity": {
+        "path": "/home/rich/devdata/nclh-repo-staging/allaboard-parquet/out/nclh-2026-09-28/partitioned/line=regent-seven-seas/depart_month=2027-01/part-0000.parquet",
+        "size_bytes": 13966,
+        "mtime_ns": 1790629167718705078,
+        "ctime_ns": 1790629167718705078,
+        "sha256": "09d74759ea6336fa422e584a39c7ca7712802be93387fc05f251883f956164d6"
+      },
+      "csv_rows": 932,
+      "csv_canonical_sha256": "0eab2119778c16ed36c029f8b4513f00027a1c755d0b5dce81f16e4fc02aca73",
+      "parquet_rows": 932,
+      "parquet_canonical_sha256": "0eab2119778c16ed36c029f8b4513f00027a1c755d0b5dce81f16e4fc02aca73"
+    },
+    {
+      "path": "line=regent-seven-seas/depart_month=2027-02/part-0000.parquet",
+      "rows": 912,
+      "size_bytes": 13582,
+      "line": "regent-seven-seas",
+      "depart_month": "2027-02",
+      "identity": {
+        "path": "/home/rich/devdata/nclh-repo-staging/allaboard-parquet/out/nclh-2026-09-28/partitioned/line=regent-seven-seas/depart_month=2027-02/part-0000.parquet",
+        "size_bytes": 13582,
+        "mtime_ns": 1790629167719189656,
+        "ctime_ns": 1790629167719189656,
+        "sha256": "fdd3abe3f7ee3c297629ab452decb8e2995d88fb64015d461fd610c2d6c8ba36"
+      },
+      "csv_rows": 912,
+      "csv_canonical_sha256": "ee79d080e41847805da2f1e06496202efe39765a4ece178d4cb899de001a7ac4",
+      "parquet_rows": 912,
+      "parquet_canonical_sha256": "ee79d080e41847805da2f1e06496202efe39765a4ece178d4cb899de001a7ac4"
+    },
+    {
+      "path": "line=regent-seven-seas/depart_month=2027-03/part-0000.parquet",
+      "rows": 756,
+      "size_bytes": 12040,
+      "line": "regent-seven-seas",
+      "depart_month": "2027-03",
+      "identity": {
+        "path": "/home/rich/devdata/nclh-repo-staging/allaboard-parquet/out/nclh-2026-09-28/partitioned/line=regent-seven-seas/depart_month=2027-03/part-0000.parquet",
+        "size_bytes": 12040,
+        "mtime_ns": 1790629167719702294,
+        "ctime_ns": 1790629167719702294,
+        "sha256": "a114180068adc8b8634ee52f7538136c5fb336e953ffeabc61f2fab743b2549e"
+      },
+      "csv_rows": 756,
+      "csv_canonical_sha256": "b5c039a60bc966772b5d15720f537b6988e05860206a8c87e1507a6cb2f78e97",
+      "parquet_rows": 756,
+      "parquet_canonical_sha256": "b5c039a60bc966772b5d15720f537b6988e05860206a8c87e1507a6cb2f78e97"
+    },
+    {
+      "path": "line=regent-seven-seas/depart_month=2027-04/part-0000.parquet",
+      "rows": 1053,
+      "size_bytes": 15053,
+      "line": "regent-seven-seas",
+      "depart_month": "2027-04",
+      "identity": {
+        "path": "/home/rich/devdata/nclh-repo-staging/allaboard-parquet/out/nclh-2026-09-28/partitioned/line=regent-seven-seas/depart_month=2027-04/part-0000.parquet",
+        "size_bytes": 15053,
+        "mtime_ns": 1790629167720232675,
+        "ctime_ns": 1790629167720232675,
+        "sha256": "dff212fc47fc65d0fd224cddb65883d8bbc24f8783f8e98ebf0a3d2878022c0e"
+      },
+      "csv_rows": 1053,
+      "csv_canonical_sha256": "5e0a1246c0798312af6d109de74e0f6de25a572922d8571226d665be5cc47a46",
+      "parquet_rows": 1053,
+      "parquet_canonical_sha256": "5e0a1246c0798312af6d109de74e0f6de25a572922d8571226d665be5cc47a46"
+    },
+    {
+      "path": "line=regent-seven-seas/depart_month=2027-05/part-0000.parquet",
+      "rows": 1142,
+      "size_bytes": 15916,
+      "line": "regent-seven-seas",
+      "depart_month": "2027-05",
+      "identity": {
+        "path": "/home/rich/devdata/nclh-repo-staging/allaboard-parquet/out/nclh-2026-09-28/partitioned/line=regent-seven-seas/depart_month=2027-05/part-0000.parquet",
+        "size_bytes": 15916,
+        "mtime_ns": 1790629167720802377,
+        "ctime_ns": 1790629167720802377,
+        "sha256": "fd41f523af155b61c978ee52767e7c645cb69c23b4a0af8cc032090929a3531a"
+      },
+      "csv_rows": 1142,
+      "csv_canonical_sha256": "b8d825d33ee18c8a95c2762e76417df124d6b9371b68bd9262774a36b151e6f9",
+      "parquet_rows": 1142,
+      "parquet_canonical_sha256": "b8d825d33ee18c8a95c2762e76417df124d6b9371b68bd9262774a36b151e6f9"
+    },
+    {
+      "path": "line=regent-seven-seas/depart_month=2027-06/part-0000.parquet",
+      "rows": 2313,
+      "size_bytes": 25163,
+      "line": "regent-seven-seas",
+      "depart_month": "2027-06",
+      "identity": {
+        "path": "/home/rich/devdata/nclh-repo-staging/allaboard-parquet/out/nclh-2026-09-28/partitioned/line=regent-seven-seas/depart_month=2027-06/part-0000.parquet",
+        "size_bytes": 25163,
+        "mtime_ns": 1790629167721343350,
+        "ctime_ns": 1790629167721343350,
+        "sha256": "61c6894f429881aa052b74c9ba10f0f379ca5d98a527e5ef5026786756c2e88f"
+      },
+      "csv_rows": 2313,
+      "csv_canonical_sha256": "035264f4248f62e71f208622bed26e30abb0b0c9c9c4deaae31e78f891a23fa3",
+      "parquet_rows": 2313,
+      "parquet_canonical_sha256": "035264f4248f62e71f208622bed26e30abb0b0c9c9c4deaae31e78f891a23fa3"
+    },
+    {
+      "path": "line=regent-seven-seas/depart_month=2027-07/part-0000.parquet",
+      "rows": 2380,
+      "size_bytes": 25557,
+      "line": "regent-seven-seas",
+      "depart_month": "2027-07",
+      "identity": {
+        "path": "/home/rich/devdata/nclh-repo-staging/allaboard-parquet/out/nclh-2026-09-28/partitioned/line=regent-seven-seas/depart_month=2027-07/part-0000.parquet",
+        "size_bytes": 25557,
+        "mtime_ns": 1790629167721923408,
+        "ctime_ns": 1790629167721923408,
+        "sha256": "8481b7996b4aa5659a9582c1639f9ef4e4157a571f0a0526aebac29e73db0e13"
+      },
+      "csv_rows": 2380,
+      "csv_canonical_sha256": "1fafd138fae429c61406c882cd5866c49e495872bf3192adc9c4f33528d12dab",
+      "parquet_rows": 2380,
+      "parquet_canonical_sha256": "1fafd138fae429c61406c882cd5866c49e495872bf3192adc9c4f33528d12dab"
+    },
+    {
+      "path": "line=regent-seven-seas/depart_month=2027-08/part-0000.parquet",
+      "rows": 2593,
+      "size_bytes": 27007,
+      "line": "regent-seven-seas",
+      "depart_month": "2027-08",
+      "identity": {
+        "path": "/home/rich/devdata/nclh-repo-staging/allaboard-parquet/out/nclh-2026-09-28/partitioned/line=regent-seven-seas/depart_month=2027-08/part-0000.parquet",
+        "size_bytes": 27007,
+        "mtime_ns": 1790629167722577363,
+        "ctime_ns": 1790629167722577363,
+        "sha256": "a5b83cc0111bf5ed06fe3c5f15db24b3fc372e0b83624bd87890375dd6b9a462"
+      },
+      "csv_rows": 2593,
+      "csv_canonical_sha256": "f2ec92a07d4314ac7d8894e2c45451c0099ca481ef73555b4324eb71ee1633e6",
+      "parquet_rows": 2593,
+      "parquet_canonical_sha256": "f2ec92a07d4314ac7d8894e2c45451c0099ca481ef73555b4324eb71ee1633e6"
+    },
+    {
+      "path": "line=regent-seven-seas/depart_month=2027-09/part-0000.parquet",
+      "rows": 2319,
+      "size_bytes": 24921,
+      "line": "regent-seven-seas",
+      "depart_month": "2027-09",
+      "identity": {
+        "path": "/home/rich/devdata/nclh-repo-staging/allaboard-parquet/out/nclh-2026-09-28/partitioned/line=regent-seven-seas/depart_month=2027-09/part-0000.parquet",
+        "size_bytes": 24921,
+        "mtime_ns": 1790629167723191324,
+        "ctime_ns": 1790629167723191324,
+        "sha256": "6688112069ada3a8a783cd8338836f23738059b990a714bb66d0f0a15a05a663"
+      },
+      "csv_rows": 2319,
+      "csv_canonical_sha256": "702ff0733afc441029ac24e5a52f68a839cde5aa5b644670a1bf04e2d2888360",
+      "parquet_rows": 2319,
+      "parquet_canonical_sha256": "702ff0733afc441029ac24e5a52f68a839cde5aa5b644670a1bf04e2d2888360"
+    },
+    {
+      "path": "line=regent-seven-seas/depart_month=2027-10/part-0000.parquet",
+      "rows": 2002,
+      "size_bytes": 21830,
+      "line": "regent-seven-seas",
+      "depart_month": "2027-10",
+      "identity": {
+        "path": "/home/rich/devdata/nclh-repo-staging/allaboard-parquet/out/nclh-2026-09-28/partitioned/line=regent-seven-seas/depart_month=2027-10/part-0000.parquet",
+        "size_bytes": 21830,
+        "mtime_ns": 1790629167723761720,
+        "ctime_ns": 1790629167723761720,
+        "sha256": "def32ebf138425fd5c6043ce3539a24541e6c971cc9ffad087f0e57fecefcd08"
+      },
+      "csv_rows": 2002,
+      "csv_canonical_sha256": "0f0ec8ec6de937a042330fa6f921cd08bb4a596bab8d1a2e25c6761453611eef",
+      "parquet_rows": 2002,
+      "parquet_canonical_sha256": "0f0ec8ec6de937a042330fa6f921cd08bb4a596bab8d1a2e25c6761453611eef"
+    },
+    {
+      "path": "line=regent-seven-seas/depart_month=2027-11/part-0000.parquet",
+      "rows": 2056,
+      "size_bytes": 23025,
+      "line": "regent-seven-seas",
+      "depart_month": "2027-11",
+      "identity": {
+        "path": "/home/rich/devdata/nclh-repo-staging/allaboard-parquet/out/nclh-2026-09-28/partitioned/line=regent-seven-seas/depart_month=2027-11/part-0000.parquet",
+        "size_bytes": 23025,
+        "mtime_ns": 1790629167724456437,
+        "ctime_ns": 1790629167724456437,
+        "sha256": "36d1b76586f33b8f3ae5bfddecd11593dca62a2ed1da0f7a131df30fa5742805"
+      },
+      "csv_rows": 2056,
+      "csv_canonical_sha256": "3e03dc3f4a6598658e277fe44775fed287c07a784233d3ee5b2c4d8dc82a9778",
+      "parquet_rows": 2056,
+      "parquet_canonical_sha256": "3e03dc3f4a6598658e277fe44775fed287c07a784233d3ee5b2c4d8dc82a9778"
+    },
+    {
+      "path": "line=regent-seven-seas/depart_month=2027-12/part-0000.parquet",
+      "rows": 1008,
+      "size_bytes": 13425,
+      "line": "regent-seven-seas",
+      "depart_month": "2027-12",
+      "identity": {
+        "path": "/home/rich/devdata/nclh-repo-staging/allaboard-parquet/out/nclh-2026-09-28/partitioned/line=regent-seven-seas/depart_month=2027-12/part-0000.parquet",
+        "size_bytes": 13425,
+        "mtime_ns": 1790629167724982784,
+        "ctime_ns": 1790629167724982784,
+        "sha256": "a1c37afaf4da5651949ca4a652011019f509b490b7c0a6399d239d89dfcfc735"
+      },
+      "csv_rows": 1008,
+      "csv_canonical_sha256": "412a7655ff7516bf1e4b4d2962cc7cde6fd5197bc4381830b6ce31c4312d7dc9",
+      "parquet_rows": 1008,
+      "parquet_canonical_sha256": "412a7655ff7516bf1e4b4d2962cc7cde6fd5197bc4381830b6ce31c4312d7dc9"
+    },
+    {
+      "path": "line=regent-seven-seas/depart_month=2028-01/part-0000.parquet",
+      "rows": 684,
+      "size_bytes": 10534,
+      "line": "regent-seven-seas",
+      "depart_month": "2028-01",
+      "identity": {
+        "path": "/home/rich/devdata/nclh-repo-staging/allaboard-parquet/out/nclh-2026-09-28/partitioned/line=regent-seven-seas/depart_month=2028-01/part-0000.parquet",
+        "size_bytes": 10534,
+        "mtime_ns": 1790629167725465478,
+        "ctime_ns": 1790629167725465478,
+        "sha256": "6842c5b8a957e5be5573e45d45bc3032d792544d2d5318f75f23c2fd7cf760a3"
+      },
+      "csv_rows": 684,
+      "csv_canonical_sha256": "92045e63f5e1f948521becf3f90cfb013b2a0e9de30a29bb2636212d675da1ba",
+      "parquet_rows": 684,
+      "parquet_canonical_sha256": "92045e63f5e1f948521becf3f90cfb013b2a0e9de30a29bb2636212d675da1ba"
+    },
+    {
+      "path": "line=regent-seven-seas/depart_month=2028-02/part-0000.parquet",
+      "rows": 298,
+      "size_bytes": 6890,
+      "line": "regent-seven-seas",
+      "depart_month": "2028-02",
+      "identity": {
+        "path": "/home/rich/devdata/nclh-repo-staging/allaboard-parquet/out/nclh-2026-09-28/partitioned/line=regent-seven-seas/depart_month=2028-02/part-0000.parquet",
+        "size_bytes": 6890,
+        "mtime_ns": 1790629167725905582,
+        "ctime_ns": 1790629167725905582,
+        "sha256": "3396a3ee50b893fbcd30e7396acb93b088560f8fe626f20c0f99efe4f446e932"
+      },
+      "csv_rows": 298,
+      "csv_canonical_sha256": "92097b03b9e6144c2b454082bc40bd344a5529020cd9400a4a3dccb7fedc2fd1",
+      "parquet_rows": 298,
+      "parquet_canonical_sha256": "92097b03b9e6144c2b454082bc40bd344a5529020cd9400a4a3dccb7fedc2fd1"
+    },
+    {
+      "path": "line=regent-seven-seas/depart_month=2028-03/part-0000.parquet",
+      "rows": 167,
+      "size_bytes": 5799,
+      "line": "regent-seven-seas",
+      "depart_month": "2028-03",
+      "identity": {
+        "path": "/home/rich/devdata/nclh-repo-staging/allaboard-parquet/out/nclh-2026-09-28/partitioned/line=regent-seven-seas/depart_month=2028-03/part-0000.parquet",
+        "size_bytes": 5799,
+        "mtime_ns": 1790629167726339353,
+        "ctime_ns": 1790629167726339353,
+        "sha256": "c1641604bd88b0faab585aefe8cac432baed7fec2c5af5f87a00052d1376dc60"
+      },
+      "csv_rows": 167,
+      "csv_canonical_sha256": "f8f9fbbdaa081a48a32c8ee8b568a32f9940ae032ac31e3d8ca93c223bdf3e57",
+      "parquet_rows": 167,
+      "parquet_canonical_sha256": "f8f9fbbdaa081a48a32c8ee8b568a32f9940ae032ac31e3d8ca93c223bdf3e57"
+    },
+    {
+      "path": "line=regent-seven-seas/depart_month=2028-04/part-0000.parquet",
+      "rows": 121,
+      "size_bytes": 5084,
+      "line": "regent-seven-seas",
+      "depart_month": "2028-04",
+      "identity": {
+        "path": "/home/rich/devdata/nclh-repo-staging/allaboard-parquet/out/nclh-2026-09-28/partitioned/line=regent-seven-seas/depart_month=2028-04/part-0000.parquet",
+        "size_bytes": 5084,
+        "mtime_ns": 1790629167726733221,
+        "ctime_ns": 1790629167726733221,
+        "sha256": "92898962953b3536eff0d1f6457222e8f7ae1427ef597834622beec341c08500"
+      },
+      "csv_rows": 121,
+      "csv_canonical_sha256": "f2de870231bbc1b9f43d875a40dde7b2f1eab6b197ba406adc960503728eed1f",
+      "parquet_rows": 121,
+      "parquet_canonical_sha256": "f2de870231bbc1b9f43d875a40dde7b2f1eab6b197ba406adc960503728eed1f"
+    },
+    {
+      "path": "line=regent-seven-seas/depart_month=2028-05/part-0000.parquet",
+      "rows": 120,
+      "size_bytes": 5119,
+      "line": "regent-seven-seas",
+      "depart_month": "2028-05",
+      "identity": {
+        "path": "/home/rich/devdata/nclh-repo-staging/allaboard-parquet/out/nclh-2026-09-28/partitioned/line=regent-seven-seas/depart_month=2028-05/part-0000.parquet",
+        "size_bytes": 5119,
+        "mtime_ns": 1790629167727160777,
+        "ctime_ns": 1790629167727160777,
+        "sha256": "1729afe4ffba29fec3689d337b36909e9cdb1cd8b9fc20deac785a00dc5ccc60"
+      },
+      "csv_rows": 120,
+      "csv_canonical_sha256": "99abe6b133e98bccf49aaf5d4b260106557b0c8d393355e45fa248ed01ac5fbc",
+      "parquet_rows": 120,
+      "parquet_canonical_sha256": "99abe6b133e98bccf49aaf5d4b260106557b0c8d393355e45fa248ed01ac5fbc"
+    },
+    {
+      "path": "line=regent-seven-seas/depart_month=2028-06/part-0000.parquet",
+      "rows": 154,
+      "size_bytes": 5379,
+      "line": "regent-seven-seas",
+      "depart_month": "2028-06",
+      "identity": {
+        "path": "/home/rich/devdata/nclh-repo-staging/allaboard-parquet/out/nclh-2026-09-28/partitioned/line=regent-seven-seas/depart_month=2028-06/part-0000.parquet",
+        "size_bytes": 5379,
+        "mtime_ns": 1790629167727601621,
+        "ctime_ns": 1790629167727601621,
+        "sha256": "8843d999441dea83000a0a2cbe77961d7a52f7cfbe374fc0e476c646680e9879"
+      },
+      "csv_rows": 154,
+      "csv_canonical_sha256": "1bf8b081acc24d643724327c5349c2e698850f9d0f79dcb5d6bc414110734465",
+      "parquet_rows": 154,
+      "parquet_canonical_sha256": "1bf8b081acc24d643724327c5349c2e698850f9d0f79dcb5d6bc414110734465"
+    },
+    {
+      "path": "line=regent-seven-seas/depart_month=2028-07/part-0000.parquet",
+      "rows": 154,
+      "size_bytes": 5371,
+      "line": "regent-seven-seas",
+      "depart_month": "2028-07",
+      "identity": {
+        "path": "/home/rich/devdata/nclh-repo-staging/allaboard-parquet/out/nclh-2026-09-28/partitioned/line=regent-seven-seas/depart_month=2028-07/part-0000.parquet",
+        "size_bytes": 5371,
+        "mtime_ns": 1790629167728861111,
+        "ctime_ns": 1790629167728861111,
+        "sha256": "c6eaf4da4dcac1615cada72f4c0180f4821ad722e31ff898734de661eeb5a924"
+      },
+      "csv_rows": 154,
+      "csv_canonical_sha256": "f21ef26323641353f22aaaf6c1d4cb700b8a790dfdc9ab68d4c0f65b5ab31848",
+      "parquet_rows": 154,
+      "parquet_canonical_sha256": "f21ef26323641353f22aaaf6c1d4cb700b8a790dfdc9ab68d4c0f65b5ab31848"
+    },
+    {
+      "path": "line=regent-seven-seas/depart_month=2028-08/part-0000.parquet",
+      "rows": 220,
+      "size_bytes": 6107,
+      "line": "regent-seven-seas",
+      "depart_month": "2028-08",
+      "identity": {
+        "path": "/home/rich/devdata/nclh-repo-staging/allaboard-parquet/out/nclh-2026-09-28/partitioned/line=regent-seven-seas/depart_month=2028-08/part-0000.parquet",
+        "size_bytes": 6107,
+        "mtime_ns": 1790629167729444337,
+        "ctime_ns": 1790629167729444337,
+        "sha256": "3194bd4b0284a710e6cb6a4aa6935e1472263e68e710eb0f9f58b6221abd0cfc"
+      },
+      "csv_rows": 220,
+      "csv_canonical_sha256": "772c06620557d0fb31cd83c26b2f442f4d3b20cf40a49ff38adf141eea574e20",
+      "parquet_rows": 220,
+      "parquet_canonical_sha256": "772c06620557d0fb31cd83c26b2f442f4d3b20cf40a49ff38adf141eea574e20"
+    },
+    {
+      "path": "line=regent-seven-seas/depart_month=2028-09/part-0000.parquet",
+      "rows": 121,
+      "size_bytes": 5028,
+      "line": "regent-seven-seas",
+      "depart_month": "2028-09",
+      "identity": {
+        "path": "/home/rich/devdata/nclh-repo-staging/allaboard-parquet/out/nclh-2026-09-28/partitioned/line=regent-seven-seas/depart_month=2028-09/part-0000.parquet",
+        "size_bytes": 5028,
+        "mtime_ns": 1790629167729867982,
+        "ctime_ns": 1790629167729867982,
+        "sha256": "0d3555fa8750bd6f430e30d81046353fd359b4dbb56a8f50ad746b0a597fdef0"
+      },
+      "csv_rows": 121,
+      "csv_canonical_sha256": "57e08a700d00e4bd3060fc3c846d1229f9fbbcbe953bddfae254918deb3a8dfa",
+      "parquet_rows": 121,
+      "parquet_canonical_sha256": "57e08a700d00e4bd3060fc3c846d1229f9fbbcbe953bddfae254918deb3a8dfa"
+    },
+    {
+      "path": "line=royal-caribbean/depart_month=2026-09/part-0000.parquet",
+      "rows": 2776,
+      "size_bytes": 17950,
+      "line": "royal-caribbean",
+      "depart_month": "2026-09",
+      "identity": {
+        "path": "/home/rich/devdata/nclh-repo-staging/allaboard-parquet/out/nclh-2026-09-28/partitioned/line=royal-caribbean/depart_month=2026-09/part-0000.parquet",
+        "size_bytes": 17950,
+        "mtime_ns": 1790629167730462267,
+        "ctime_ns": 1790629167730462267,
+        "sha256": "11b3c299b5479e3218b6e9640c556ca33e39260c3c182f9c012135afc2f0c028"
+      },
+      "csv_rows": 2776,
+      "csv_canonical_sha256": "3862c58a5ccbb48f1e080df11c86ce18234190be9c73281b432e0f09ec77eb0d",
+      "parquet_rows": 2776,
+      "parquet_canonical_sha256": "3862c58a5ccbb48f1e080df11c86ce18234190be9c73281b432e0f09ec77eb0d"
+    },
+    {
+      "path": "line=royal-caribbean/depart_month=2026-10/part-0000.parquet",
+      "rows": 2196,
+      "size_bytes": 16673,
+      "line": "royal-caribbean",
+      "depart_month": "2026-10",
+      "identity": {
+        "path": "/home/rich/devdata/nclh-repo-staging/allaboard-parquet/out/nclh-2026-09-28/partitioned/line=royal-caribbean/depart_month=2026-10/part-0000.parquet",
+        "size_bytes": 16673,
+        "mtime_ns": 1790629167730956728,
+        "ctime_ns": 1790629167730956728,
+        "sha256": "3cfa0d5df23b2589e97b0dcf462c1432863a805bb0b5cca3e69deccf0aed4304"
+      },
+      "csv_rows": 2196,
+      "csv_canonical_sha256": "e986e439f5333bbd1c0a1b95eb6ed0a02aef7af8b06ae8e615e08c383fc8fdcc",
+      "parquet_rows": 2196,
+      "parquet_canonical_sha256": "e986e439f5333bbd1c0a1b95eb6ed0a02aef7af8b06ae8e615e08c383fc8fdcc"
+    }
+  ],
+  "multiset_algorithm": "sum of SHA-256(canonical row) modulo 2^256, plus row count",
+  "canonical_encoding": "UTF-8 compact JSON array plus LF; empty equals null; original timestamp/price text",
+  "csv": {
+    "path": "/home/rich/devdata/allaboard-parser/out/nclh-2026-09-28/price_history.csv",
+    "size_bytes": 133192344,
+    "mtime_ns": 1790628647032119823,
+    "ctime_ns": 1790628647032119823,
+    "sha256": "9b6ad4ccd0c6a319fcc5e4795c125155b1b7acb24ebc3fdd3680b09cd9085f4e"
+  },
+  "part_sizes": {
+    "line=norwegian/depart_month=2026-09/part-0000.parquet": 245920,
+    "line=norwegian/depart_month=2026-10/part-0000.parquet": 303013,
+    "line=norwegian/depart_month=2026-11/part-0000.parquet": 398341,
+    "line=norwegian/depart_month=2026-12/part-0000.parquet": 386278,
+    "line=norwegian/depart_month=2027-01/part-0000.parquet": 371468,
+    "line=norwegian/depart_month=2027-02/part-0000.parquet": 302819,
+    "line=norwegian/depart_month=2027-03/part-0000.parquet": 346454,
+    "line=norwegian/depart_month=2027-04/part-0000.parquet": 226765,
+    "line=norwegian/depart_month=2027-05/part-0000.parquet": 367135,
+    "line=norwegian/depart_month=2027-06/part-0000.parquet": 367209,
+    "line=norwegian/depart_month=2027-07/part-0000.parquet": 382517,
+    "line=norwegian/depart_month=2027-08/part-0000.parquet": 375916,
+    "line=norwegian/depart_month=2027-09/part-0000.parquet": 305461,
+    "line=norwegian/depart_month=2027-10/part-0000.parquet": 274919,
+    "line=norwegian/depart_month=2027-11/part-0000.parquet": 209930,
+    "line=norwegian/depart_month=2027-12/part-0000.parquet": 177636,
+    "line=norwegian/depart_month=2028-01/part-0000.parquet": 118715,
+    "line=norwegian/depart_month=2028-02/part-0000.parquet": 61678,
+    "line=norwegian/depart_month=2028-03/part-0000.parquet": 24410,
+    "line=oceania/depart_month=2026-09/part-0000.parquet": 19701,
+    "line=oceania/depart_month=2026-10/part-0000.parquet": 29705,
+    "line=oceania/depart_month=2026-11/part-0000.parquet": 42231,
+    "line=oceania/depart_month=2026-12/part-0000.parquet": 47619,
+    "line=oceania/depart_month=2027-01/part-0000.parquet": 31464,
+    "line=oceania/depart_month=2027-02/part-0000.parquet": 27858,
+    "line=oceania/depart_month=2027-03/part-0000.parquet": 31469,
+    "line=oceania/depart_month=2027-04/part-0000.parquet": 33746,
+    "line=oceania/depart_month=2027-05/part-0000.parquet": 33819,
+    "line=oceania/depart_month=2027-06/part-0000.parquet": 40833,
+    "line=oceania/depart_month=2027-07/part-0000.parquet": 38207,
+    "line=oceania/depart_month=2027-08/part-0000.parquet": 40633,
+    "line=oceania/depart_month=2027-09/part-0000.parquet": 36956,
+    "line=oceania/depart_month=2027-10/part-0000.parquet": 40947,
+    "line=oceania/depart_month=2027-11/part-0000.parquet": 27693,
+    "line=oceania/depart_month=2027-12/part-0000.parquet": 14774,
+    "line=oceania/depart_month=2028-01/part-0000.parquet": 11599,
+    "line=oceania/depart_month=2028-02/part-0000.parquet": 12325,
+    "line=oceania/depart_month=2028-03/part-0000.parquet": 8381,
+    "line=oceania/depart_month=2028-04/part-0000.parquet": 5769,
+    "line=oceania/depart_month=2028-05/part-0000.parquet": 5620,
+    "line=oceania/depart_month=2028-06/part-0000.parquet": 5677,
+    "line=oceania/depart_month=2028-07/part-0000.parquet": 6091,
+    "line=oceania/depart_month=2028-08/part-0000.parquet": 6282,
+    "line=oceania/depart_month=2028-09/part-0000.parquet": 5388,
+    "line=regent-seven-seas/depart_month=2026-09/part-0000.parquet": 11294,
+    "line=regent-seven-seas/depart_month=2026-10/part-0000.parquet": 5120,
+    "line=regent-seven-seas/depart_month=2026-11/part-0000.parquet": 6155,
+    "line=regent-seven-seas/depart_month=2026-12/part-0000.parquet": 15362,
+    "line=regent-seven-seas/depart_month=2027-01/part-0000.parquet": 13966,
+    "line=regent-seven-seas/depart_month=2027-02/part-0000.parquet": 13582,
+    "line=regent-seven-seas/depart_month=2027-03/part-0000.parquet": 12040,
+    "line=regent-seven-seas/depart_month=2027-04/part-0000.parquet": 15053,
+    "line=regent-seven-seas/depart_month=2027-05/part-0000.parquet": 15916,
+    "line=regent-seven-seas/depart_month=2027-06/part-0000.parquet": 25163,
+    "line=regent-seven-seas/depart_month=2027-07/part-0000.parquet": 25557,
+    "line=regent-seven-seas/depart_month=2027-08/part-0000.parquet": 27007,
+    "line=regent-seven-seas/depart_month=2027-09/part-0000.parquet": 24921,
+    "line=regent-seven-seas/depart_month=2027-10/part-0000.parquet": 21830,
+    "line=regent-seven-seas/depart_month=2027-11/part-0000.parquet": 23025,
+    "line=regent-seven-seas/depart_month=2027-12/part-0000.parquet": 13425,
+    "line=regent-seven-seas/depart_month=2028-01/part-0000.parquet": 10534,
+    "line=regent-seven-seas/depart_month=2028-02/part-0000.parquet": 6890,
+    "line=regent-seven-seas/depart_month=2028-03/part-0000.parquet": 5799,
+    "line=regent-seven-seas/depart_month=2028-04/part-0000.parquet": 5084,
+    "line=regent-seven-seas/depart_month=2028-05/part-0000.parquet": 5119,
+    "line=regent-seven-seas/depart_month=2028-06/part-0000.parquet": 5379,
+    "line=regent-seven-seas/depart_month=2028-07/part-0000.parquet": 5371,
+    "line=regent-seven-seas/depart_month=2028-08/part-0000.parquet": 6107,
+    "line=regent-seven-seas/depart_month=2028-09/part-0000.parquet": 5028,
+    "line=royal-caribbean/depart_month=2026-09/part-0000.parquet": 17950,
+    "line=royal-caribbean/depart_month=2026-10/part-0000.parquet": 16673
+  },
+  "manifest": {
+    "path": "/home/rich/devdata/nclh-repo-staging/allaboard-parquet/out/nclh-2026-09-28/partitioned/manifest.json",
+    "size_bytes": 14849,
+    "mtime_ns": 1790629167662489427,
+    "ctime_ns": 1790629167662489427,
+    "sha256": "570c5f1c6246b1602e9acff4b8ac6434fd64dea2a516a871c7fbbdd16c826489"
+  },
+  "csv_rows": 1209317,
+  "csv_per_line_rows": {
+    "norwegian": 1068795,
+    "oceania": 112021,
+    "regent-seven-seas": 23529,
+    "royal-caribbean": 4972
+  },
+  "csv_per_month_rows": {
+    "2026-09": 54498,
+    "2026-10": 66832,
+    "2026-11": 87932,
+    "2026-12": 86478,
+    "2027-01": 83876,
+    "2027-02": 66314,
+    "2027-03": 76219,
+    "2027-04": 53083,
+    "2027-05": 82637,
+    "2027-06": 85827,
+    "2027-07": 88917,
+    "2027-08": 89469,
+    "2027-09": 73828,
+    "2027-10": 68026,
+    "2027-11": 53234,
+    "2027-12": 41329,
+    "2028-01": 27097,
+    "2028-02": 15278,
+    "2028-03": 5352,
+    "2028-04": 444,
+    "2028-05": 472,
+    "2028-06": 508,
+    "2028-07": 578,
+    "2028-08": 682,
+    "2028-09": 407
+  },
+  "csv_multiset_sha256_sum": "655f7523b887ce37395988bc71da17ff5c60babd1dad4df4d60bf71d6260d373",
+  "parquet_rows": 1209317,
+  "parquet_per_line_rows": {
+    "norwegian": 1068795,
+    "oceania": 112021,
+    "regent-seven-seas": 23529,
+    "royal-caribbean": 4972
+  },
+  "parquet_per_month_rows": {
+    "2026-09": 54498,
+    "2026-10": 66832,
+    "2026-11": 87932,
+    "2026-12": 86478,
+    "2027-01": 83876,
+    "2027-02": 66314,
+    "2027-03": 76219,
+    "2027-04": 53083,
+    "2027-05": 82637,
+    "2027-06": 85827,
+    "2027-07": 88917,
+    "2027-08": 89469,
+    "2027-09": 73828,
+    "2027-10": 68026,
+    "2027-11": 53234,
+    "2027-12": 41329,
+    "2028-01": 27097,
+    "2028-02": 15278,
+    "2028-03": 5352,
+    "2028-04": 444,
+    "2028-05": 472,
+    "2028-06": 508,
+    "2028-07": 578,
+    "2028-08": 682,
+    "2028-09": 407
+  },
+  "parquet_multiset_sha256_sum": "655f7523b887ce37395988bc71da17ff5c60babd1dad4df4d60bf71d6260d373",
+  "csv_canonical_sha256": "4be904f52439a31a00b6addd0ded8c8ee70063281163225972acb382bd233dcb",
+  "part_count": 71,
+  "total_bytes": 6210721,
+  "largest_part_bytes": 398341,
+  "seconds": 54.67513354308903,
+  "peak_rss_bytes": 330932224
+}

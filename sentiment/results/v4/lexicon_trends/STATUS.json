@@ -1,0 +1,9 @@
+{
+  "bootstrap_replicates_run": 0,
+  "decision_file": "../lexicon_validation/decision.json",
+  "decision_sha256": "5f96b30935ac1a118779fd1d89a6ff58e5aba7df6de80d36df6db728422a49d0",
+  "event_analysis_run": false,
+  "full_corpus_items_scored": 0,
+  "no_trend_claim": true,
+  "status": "skipped_frozen_validation_gate_failed"
+}

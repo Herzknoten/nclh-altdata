@@ -1,0 +1,21 @@
+level,parent,brand,sailings,observed_sailings,ships,cabin_units,cabin_types,embark_ports,caribbean_sailings,first_observed,last_observed,onboarding_sailings,onboarding_share,onboarding_unit_share,departure_years
+brand,Carnival Corporation,carnival,3902,3894,30,14244,balcony;inside;oceanview;suite,27,2762,2025-10-06,2026-09-12,2232,0.5731895223420647,0.15803145183937095,2025;2026;2027;2028
+brand,RCG,celebrity,1723,1721,15,5829,balcony;inside;oceanview;suite,42,730,2025-10-06,2026-09-12,708,0.41138872748402094,0.12214788128323897,2025;2026;2027;2028
+brand,RCG,celebrity-river,186,186,5,534,balcony;oceanview;suite,9,0,2026-07-08,2026-09-12,0,0.0,0.0,2027;2028
+brand,unassigned_outside_scope,disney,663,663,4,2640,balcony;inside;oceanview;suite,7,627,2025-12-23,2026-09-12,2,0.0030165912518853697,0.003409090909090909,2025;2026;2027;2028
+brand,Carnival Corporation,holland-america,1171,1171,10,4280,balcony;inside;oceanview;suite,31,155,2026-03-18,2026-09-12,0,0.0,0.0,2026;2027;2028
+brand,unassigned_outside_scope,msc,7222,7186,25,23949,balcony;inside;oceanview;suite,96,1256,2025-11-03,2026-09-12,3818,0.5313108822710827,0.160340724038582,2025;2026;2027;2028
+brand,NCLH,norwegian,2605,2601,19,10002,balcony;inside;oceanview;suite,40,1129,2025-10-06,2026-09-12,961,0.36947327950788156,0.09778044391121776,2025;2026;2027;2028
+brand,NCLH,oceania,306,306,9,1075,balcony;inside;oceanview;suite,43,49,2026-03-13,2026-09-12,0,0.0,0.0,2026;2027;2028
+brand,Carnival Corporation,princess,2469,2463,17,8246,balcony;inside;oceanview;suite,49,679,2025-10-21,2026-09-12,1103,0.4478278522127487,0.13606597138006307,2025;2026;2027;2028
+brand,NCLH,regent-seven-seas,180,180,7,180,suite,38,24,2026-03-13,2026-09-12,0,0.0,0.0,2026;2027;2028
+brand,RCG,royal-caribbean,4657,4644,31,17294,balcony;inside;oceanview;suite,37,3043,2025-10-06,2026-09-12,1920,0.4134366925064599,0.11223545738406383,2025;2026;2027;2028
+brand,Carnival Corporation,seabourn,316,316,6,685,balcony;oceanview;suite,41,16,2026-03-13,2026-09-12,0,0.0,0.0,2026;2027;2028
+brand,RCG,silversea,705,705,12,705,suite,69,53,2026-03-13,2026-09-12,0,0.0,0.0,2026;2027;2028
+brand,unassigned_outside_scope,viking-ocean,502,502,11,1001,balcony;suite,25,48,2026-03-13,2026-09-12,0,0.0,0.0,2026;2027;2028
+brand,unassigned_outside_scope,viking-river,1394,1394,15,4073,balcony;oceanview;suite,8,0,2026-07-08,2026-09-12,0,0.0,0.0,2026;2027;2028
+brand,unassigned_outside_scope,virgin-voyages,523,522,4,1843,balcony;inside;oceanview;suite,11,406,2025-10-21,2026-09-12,131,0.2509578544061303,0.0727075420510038,2025;2026;2027;2028
+brand,unassigned_outside_scope,windstar,677,677,8,1755,balcony;inside;oceanview;suite,45,72,2026-07-08,2026-09-12,0,0.0,0.0,2026;2027;2028
+parent,Carnival Corporation,,7858,7844,63,27455,balcony;inside;oceanview;suite,79,3612,2025-10-06,2026-09-12,3335,0.42516573176950534,0.12285558186122747,2025;2026;2027;2028
+parent,NCLH,,3091,3087,35,11257,balcony;inside;oceanview;suite,69,1202,2025-10-06,2026-09-12,961,0.31130547457078067,0.08687927511770453,2025;2026;2027;2028
+parent,RCG,,7271,7256,63,24362,balcony;inside;oceanview;suite,106,3826,2025-10-06,2026-09-12,2628,0.36218302094818083,0.10889910516377965,2025;2026;2027;2028

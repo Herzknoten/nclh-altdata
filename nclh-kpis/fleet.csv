@@ -1,0 +1,52 @@
+brand,ship,year_delivered_or_built,berths,gross_tons,status,expected_delivery,ship_class,contract_status,source_file,source_locator,notes
+Norwegian,Norwegian Aqua,2025,3550,156000,in service,,,,10K_2025-12-31.htm;10K_2024-12-31.htm,T166/R6;P223;T163,"Berths and gross tons use preliminary FY2024 newbuild class figures, mapped by roster footnotes; no FY2025 values disclosed."
+Norwegian,Norwegian Viva,2023,,,in service,,,,10K_2025-12-31.htm,T166/R7,Berths and gross tons not disclosed in FY2025/FY2024 HTML roster.
+Norwegian,Norwegian Prima,2022,,,in service,,,,10K_2025-12-31.htm,T166/R8,Berths and gross tons not disclosed in FY2025/FY2024 HTML roster.
+Norwegian,Norwegian Encore,2019,,,in service,,,,10K_2025-12-31.htm,T166/R9,Berths and gross tons not disclosed in FY2025/FY2024 HTML roster.
+Norwegian,Norwegian Bliss,2018,,,in service,,,,10K_2025-12-31.htm,T166/R10,Berths and gross tons not disclosed in FY2025/FY2024 HTML roster.
+Norwegian,Norwegian Joy,2017,,,in service,,,,10K_2025-12-31.htm,T166/R11,Berths and gross tons not disclosed in FY2025/FY2024 HTML roster.
+Norwegian,Norwegian Escape,2015,,,in service,,,,10K_2025-12-31.htm,T166/R12,Berths and gross tons not disclosed in FY2025/FY2024 HTML roster.
+Norwegian,Norwegian Getaway,2014,,,in service,,,,10K_2025-12-31.htm,T166/R13,Berths and gross tons not disclosed in FY2025/FY2024 HTML roster.
+Norwegian,Norwegian Breakaway,2013,,,in service,,,,10K_2025-12-31.htm,T166/R14,Berths and gross tons not disclosed in FY2025/FY2024 HTML roster.
+Norwegian,Norwegian Epic,2010,,,in service,,,,10K_2025-12-31.htm,T166/R15,Berths and gross tons not disclosed in FY2025/FY2024 HTML roster.
+Norwegian,Norwegian Gem,2007,,,in service,,,,10K_2025-12-31.htm,T166/R16,Berths and gross tons not disclosed in FY2025/FY2024 HTML roster.
+Norwegian,Norwegian Jade,2006,,,in service,,,,10K_2025-12-31.htm,T166/R17,Berths and gross tons not disclosed in FY2025/FY2024 HTML roster.
+Norwegian,Norwegian Pearl,2006,,,in service,,,,10K_2025-12-31.htm,T166/R18,Berths and gross tons not disclosed in FY2025/FY2024 HTML roster.
+Norwegian,Norwegian Jewel,2005,,,in service,,,,10K_2025-12-31.htm,T166/R19,Berths and gross tons not disclosed in FY2025/FY2024 HTML roster.
+Norwegian,Pride of America,2005,,,in service,,,,10K_2025-12-31.htm,T166/R20,Berths and gross tons not disclosed in FY2025/FY2024 HTML roster.
+Norwegian,Norwegian Dawn,2002,,,in service,,,,10K_2025-12-31.htm,T166/R21,Berths and gross tons not disclosed in FY2025/FY2024 HTML roster.
+Norwegian,Norwegian Star,2001,,,in service,,,,10K_2025-12-31.htm,T166/R22,Berths and gross tons not disclosed in FY2025/FY2024 HTML roster.
+Norwegian,Norwegian Sun,2001,,,in service,,,,10K_2025-12-31.htm,T166/R23,Berths and gross tons not disclosed in FY2025/FY2024 HTML roster.
+Norwegian,Norwegian Sky,1999,,,in service,,,,10K_2025-12-31.htm,T166/R24,Berths and gross tons not disclosed in FY2025/FY2024 HTML roster.
+Norwegian,Norwegian Spirit,1998,,,in service,,,,10K_2025-12-31.htm,T166/R25,Berths and gross tons not disclosed in FY2025/FY2024 HTML roster.
+Oceania,Oceania Allura,2025,1200,68000,in service,,,,10K_2025-12-31.htm;10K_2024-12-31.htm,T166/R28;P223;T163,"Berths and gross tons use preliminary FY2024 newbuild class figures, mapped by roster footnotes; no FY2025 values disclosed."
+Oceania,Oceania Vista,2023,,,in service,,,,10K_2025-12-31.htm,T166/R29,Berths and gross tons not disclosed in FY2025/FY2024 HTML roster.
+Oceania,Oceania Riviera,2012,,,in service,,,,10K_2025-12-31.htm,T166/R30,Berths and gross tons not disclosed in FY2025/FY2024 HTML roster.
+Oceania,Oceania Marina,2011,,,in service,,,,10K_2025-12-31.htm,T166/R31,Berths and gross tons not disclosed in FY2025/FY2024 HTML roster.
+Oceania,Oceania Nautica,2000,,,in service,,,,10K_2025-12-31.htm,T166/R32,Berths and gross tons not disclosed in FY2025/FY2024 HTML roster.
+Oceania,Oceania Sirena,1999,,,in service,,,,10K_2025-12-31.htm,T166/R33,Berths and gross tons not disclosed in FY2025/FY2024 HTML roster.
+Oceania,Oceania Regatta,1998,,,in service,,,,10K_2025-12-31.htm,T166/R34,Berths and gross tons not disclosed in FY2025/FY2024 HTML roster.
+Oceania,Oceania Insignia,1998,,,in service,,,,10K_2025-12-31.htm,T166/R35,Berths and gross tons not disclosed in FY2025/FY2024 HTML roster.
+Regent,Seven Seas Grandeur,2023,,,in service,,,,10K_2025-12-31.htm,T166/R38,Berths and gross tons not disclosed in FY2025/FY2024 HTML roster.
+Regent,Seven Seas Splendor,2020,,,in service,,,,10K_2025-12-31.htm,T166/R39,Berths and gross tons not disclosed in FY2025/FY2024 HTML roster.
+Regent,Seven Seas Explorer,2016,,,in service,,,,10K_2025-12-31.htm,T166/R40,Berths and gross tons not disclosed in FY2025/FY2024 HTML roster.
+Regent,Seven Seas Voyager,2003,,,in service,,,,10K_2025-12-31.htm,T166/R41,Berths and gross tons not disclosed in FY2025/FY2024 HTML roster.
+Regent,Seven Seas Mariner,2001,,,in service,,,,10K_2025-12-31.htm,T166/R42,Berths and gross tons not disclosed in FY2025/FY2024 HTML roster.
+Regent,Seven Seas Navigator,1999,,,in service,,,,10K_2025-12-31.htm,T166/R43,Berths and gross tons not disclosed in FY2025/FY2024 HTML roster.
+Norwegian,Norwegian Luna,,3565,154000,on order,2026,Prima Class 4,Contract effective / financed,10K_2025-12-31.htm,T890/R2,"Expected delivery, berths and gross tons preliminary and subject to change; unnamed ships distinguished by brand/class/year."
+Regent,Seven Seas Prestige,,822,77000,on order,2026,Prestige Class 1,Contract effective / financed,10K_2025-12-31.htm,T890/R3,"Expected delivery, berths and gross tons preliminary and subject to change; unnamed ships distinguished by brand/class/year."
+Norwegian,Norwegian Aura,,3880,170000,on order,2027,"Next Gen ""Methanol-Ready [fn(2)] "" [fn] Prima Class 5",Contract effective / financed,10K_2025-12-31.htm,T890/R4,"Expected delivery, berths and gross tons preliminary and subject to change; unnamed ships distinguished by brand/class/year."
+Oceania,Oceania Sonata,,1390,86000,on order,2027,Sonata Class 1,Contract effective / financed,10K_2025-12-31.htm,T890/R5,"Expected delivery, berths and gross tons preliminary and subject to change; unnamed ships distinguished by brand/class/year."
+Norwegian,To come,,3880,170000,on order,2028,"Next Gen ""Methanol-Ready [fn(2)] "" [fn] Prima Class 6",Contract effective / financed,10K_2025-12-31.htm,T890/R6,"Expected delivery, berths and gross tons preliminary and subject to change; unnamed ships distinguished by brand/class/year."
+Oceania,Oceania Arietta,,1390,86000,on order,2029,Sonata Class 2,Contract effective / financed,10K_2025-12-31.htm,T890/R7,"Expected delivery, berths and gross tons preliminary and subject to change; unnamed ships distinguished by brand/class/year."
+Norwegian,To come,,5000,227000,on order,2030,New Class 1,Contract effective / financed,10K_2025-12-31.htm,T890/R8,"Expected delivery, berths and gross tons preliminary and subject to change; unnamed ships distinguished by brand/class/year."
+Regent,To come,,822,77000,on order,2030,Prestige Class 2,Contract effective / financed,10K_2025-12-31.htm,T890/R9,"Expected delivery, berths and gross tons preliminary and subject to change; unnamed ships distinguished by brand/class/year."
+Oceania,To come,,1390,86000,on order,2032,Sonata Class 3,"Contract effective, but not yet financed",10K_2025-12-31.htm,T890/R10,"Expected delivery, berths and gross tons preliminary and subject to change; unnamed ships distinguished by brand/class/year."
+Norwegian,To come,,5000,227000,on order,2032,New Class 2,Contract effective / financed,10K_2025-12-31.htm,T890/R11,"Expected delivery, berths and gross tons preliminary and subject to change; unnamed ships distinguished by brand/class/year."
+Regent,To come,,822,77000,on order,2033,Prestige Class 3,Contract will be effective upon financing,10K_2025-12-31.htm,T890/R12,"Expected delivery, berths and gross tons preliminary and subject to change; unnamed ships distinguished by brand/class/year."
+Norwegian,To come,,5000,227000,on order,2034,New Class 3,Contract effective / financing is being negotiated,10K_2025-12-31.htm,T890/R13,"Expected delivery, berths and gross tons preliminary and subject to change; unnamed ships distinguished by brand/class/year."
+Oceania,To come,,1390,86000,on order,2035,Sonata Class 4,"Contract effective, but not yet financed",10K_2025-12-31.htm,T890/R14,"Expected delivery, berths and gross tons preliminary and subject to change; unnamed ships distinguished by brand/class/year."
+Norwegian,To come,,5000,227000,on order,2036,New Class 4,Contract effective / financing is being negotiated,10K_2025-12-31.htm,T890/R15,"Expected delivery, berths and gross tons preliminary and subject to change; unnamed ships distinguished by brand/class/year."
+Regent,To come,,822,77000,on order,2036,Prestige Class 4,Contract will be effective upon financing,10K_2025-12-31.htm,T890/R16,"Expected delivery, berths and gross tons preliminary and subject to change; unnamed ships distinguished by brand/class/year."
+Oceania,To come,,1390,86000,on order,2037,Sonata Class 5,Contract will be effective upon financing,10K_2025-12-31.htm,T890/R17,"Expected delivery, berths and gross tons preliminary and subject to change; unnamed ships distinguished by brand/class/year."
+Norwegian,To come,,5000,227000,on order,2037,New Class 5,Contract will be effective upon financing,10K_2025-12-31.htm,T890/R18,"Expected delivery, berths and gross tons preliminary and subject to change; unnamed ships distinguished by brand/class/year."

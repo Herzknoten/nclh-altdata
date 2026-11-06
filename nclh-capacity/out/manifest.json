@@ -1,0 +1,97 @@
+{
+  "files": [
+    {
+      "file": "capacity_by_brand_quarter.csv",
+      "sha256": "94a96803db6bba889cec7581e2d91bc769ee109581ee61b294e6ade71953105d"
+    },
+    {
+      "file": "capacity_by_region_month.csv",
+      "sha256": "db892211d34e3c571867b3cdfb13b42d338c2219ce182e6467441c9e8d38bcab"
+    },
+    {
+      "file": "capacity_by_region_quarter.csv",
+      "sha256": "effa38dae18a9076c2e3e519248cfb3cd375a69c6a7626e48d29598aaf6f6942"
+    },
+    {
+      "file": "coverage_validation.csv",
+      "sha256": "8a584e63a3f309681814fbca8c455f35702055e48c0f33cbfb31b22dfddfed43"
+    },
+    {
+      "file": "excluded_sailings.csv",
+      "sha256": "f9110906d393268af9f95bd4da3e58b664db1c05efaf73021868c880b26443bb"
+    },
+    {
+      "file": "input_manifest.csv",
+      "sha256": "7dc9cd756b3b3e8e72a90795daa485d0ffafbf62c5fb71d744a8570527c7e516"
+    },
+    {
+      "file": "overlapping_ship_days.csv",
+      "sha256": "6ab0472cb83965d5ff16f19b3334c06e1966ca25c055e850f75e4f5d0255142d"
+    },
+    {
+      "file": "port_region_mapping.csv",
+      "sha256": "60e4d57cae540fb90ad18a09db4b1d3f631e443e7d2dec1b1e9e29a7eb071371"
+    },
+    {
+      "file": "sailing_audit.csv",
+      "sha256": "e91e36cab468ea639e3ed0a69d96a9dc8fcb5d33f1e60f1bbe65c0dcc8a62e42"
+    },
+    {
+      "file": "ship_berths.csv",
+      "sha256": "0e26994eb153e0d064e6da5b053fe49807cbf032ad68948ca83aba808f00b28a"
+    },
+    {
+      "file": "shipday_calendar.csv",
+      "sha256": "53ae96f69e31dfa4007e6a05bf39adc00358ac148e9080fa64a9ee892d6d787c"
+    },
+    {
+      "file": "shipday_capacity_by_brand_quarter.csv",
+      "sha256": "688cd2da8dec59efb8eb8ad064c0aa3f9d4cb7c221240c8b25d393af73d72ff7"
+    },
+    {
+      "file": "shipday_capacity_by_region_month.csv",
+      "sha256": "c9f7c2ff9f4cf3ba666b45e1412fee68881c14888e389d6760df60e4e647fd95"
+    },
+    {
+      "file": "shipday_capacity_by_region_quarter.csv",
+      "sha256": "ff5806a894f3221ec4d8fee84ab9cacd9645a9e9a48d0ec033733e07b0d1f771"
+    },
+    {
+      "file": "shipday_conflicts.csv",
+      "sha256": "99448a945b76ace5ea350251896446f6f026d8347d1352677c971fa4c300a735"
+    },
+    {
+      "file": "shipday_coverage.csv",
+      "sha256": "c3f745b9caa91fd0faffe8e9507410a242046b2a980af1383d55721f6c809ed8"
+    },
+    {
+      "file": "shipday_excluded_packages.csv",
+      "sha256": "2fb39a4c26d2b842b42a519e8a0d79385ca78a03c62f9ba7fcf067102284a7f9"
+    },
+    {
+      "file": "shipday_gaps_by_ship_quarter.csv",
+      "sha256": "2322a2d736a79cd70b7c0fce11ccb674c206f6f0e22d6bd22c3a25ee2f4abe2b"
+    },
+    {
+      "file": "shipday_input_manifest.csv",
+      "sha256": "2a76f088b7e2175ee849f7bc551c186f706ecb4965b838073949212b168e22ad"
+    },
+    {
+      "file": "shipday_price_cohort_share.csv",
+      "sha256": "98bd0d43af8450f5e7111cda4a18b9b6aa8ed5319494e64176f519c7134d3da1"
+    },
+    {
+      "file": "shipday_sensitivity.csv",
+      "sha256": "e01c42e5f33ca8e44f1d0d8a2b15940779fcef2fdeb0e0f178147ce3ece20796"
+    },
+    {
+      "file": "shipday_unlisted_ships.csv",
+      "sha256": "ba2f35c50f4325a096b6bc3e4b7c6607a970d21f47d0e2ed1d4c5fc781e1ba40"
+    },
+    {
+      "file": "unmapped_ports.csv",
+      "sha256": "a78a0865fd8e3c9d72b2ef2a545b654b64e5a33d4e2151585bd36176b2b515dc"
+    }
+  ],
+  "generation_id": "77d3ce7e32bff6a95255aa11024a3e31c70f076663dd00805a49068edae1386f"
+}

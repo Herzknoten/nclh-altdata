@@ -1,0 +1,119 @@
+{
+  "input": "/home/rich/devdata/allaboard-parser/out/full-2026-09-14",
+  "verify_status": "PASS",
+  "observation_first": "2026-06-24",
+  "observation_last": "2026-09-12",
+  "process_count": 1,
+  "worker_count": 0,
+  "compute_threads": 1,
+  "cpu_affinity": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "diagnostics": {
+    "history_rows_read": 10760269,
+    "selected_line_rows_outside_horizon": 3932914,
+    "departure_day_or_later_excluded": 0,
+    "invalid_price_excluded": 0,
+    "extra_same_day_quotes_collapsed": 0,
+    "daily_unit_observations": 2706360,
+    "units_with_horizon_history": 42608
+  },
+  "sources": {
+    "/home/rich/devdata/allaboard-parser/out/full-2026-09-14/verify_report.json": "ac5d0e65ae2c5bef1e09a4dff6e26790d532d020df094571bcedb12953284995",
+    "/home/rich/devdata/allaboard-parser/out/full-2026-09-14/sailings.csv": "e7db6fe83e13ba6e34e5d3ebb96b2fe64e1a80903ce83eb20b8be9fdc1b40e46",
+    "/home/rich/devdata/allaboard-parser/out/full-2026-09-14/price_history.csv": "47a4ba5dc7b4b7afbbef513a5adaf51e581adb443a80c357e6c8d567de24d3a4",
+    "/home/rich/devdata/nclh-discount-web/report.md": "28028e7cd9fcd49a8e50ba4e0cc9bc690202113b6cceb2fb684dadd940c8dbc1",
+    "/home/rich/devdata/allaboard-parser/README.md": "741f9abd59e4d361db4b797dbfb7bd3b419d6a92f450ecced0adeef7c69e5179",
+    "/home/rich/devdata/nclh-2027-momentum/analyze.py": "e10699e09b6912e09d42396f34e20e917839a8d27427aa884202da3c4052081d",
+    "/home/rich/devdata/nclh-baseload/RESULTS.md": "3383fce939703201c2de17799979d80fffbd40be83f08ae02f20b27570bf7518",
+    "/home/rich/devdata/allaboard-accuracy/FIX-RESULTS.md": "c944afa0bc480c7390caa10d47a8367df831fb831673812c17a4e6dd212700b2",
+    "/home/rich/devdata/allaboard-accuracy-followup/RESULTS.md": "e2f6bece33ad00190853c68e396fcb12d24b8f024bc730c6c911ed6a4301373a"
+  },
+  "analysis_sha256": "0b52717aca951f9d63535057cbc1d56dfb890955d37d650c22e92b233bd0c979",
+  "python_version": "3.14.4 (main, Aug 20 2026, 10:41:58) [GCC 15.2.0]",
+  "outputs": {
+    "background_drift.csv": {
+      "bytes": 126113,
+      "sha256": "b6bfb8526e1575382f8a06e047f5797494c5ab90f01d6c453176585a47e87f48"
+    },
+    "clean_horizons.csv": {
+      "bytes": 37980,
+      "sha256": "5d2563953416915fe6830808b67d6fbcff676b9e0172a108d287242489c875b2"
+    },
+    "drift_units.csv": {
+      "bytes": 30295500,
+      "sha256": "83f54d429ce041361d08b8749a4a998d3c0ec1433129cbca5e6709b876e07c5d"
+    },
+    "event_baselines.csv": {
+      "bytes": 61431058,
+      "sha256": "1dbcdfad378d78a825c1d75a7aeea0097434c28a5b068713bc8aa1339b006d3d"
+    },
+    "event_daily.csv": {
+      "bytes": 7694072,
+      "sha256": "0bd8c286df9643d597fd8b257d4e6d5fda334abaac62fcfe635bc020b070faf8"
+    },
+    "event_peer_gaps.csv": {
+      "bytes": 5993519,
+      "sha256": "6460a8d0e78e435b448e40be0287b90cf5806cc5c34410b8380381b5bf64bcf0"
+    },
+    "events.csv": {
+      "bytes": 7958,
+      "sha256": "35028e8b7c945defb073ca88d764e99e450fb2f3d42662d95f502d568eef6e9d"
+    },
+    "outside_windows.csv": {
+      "bytes": 9787,
+      "sha256": "624c82abfc28172fa22e07361cf2c485ede73f9b76f4020837be8b575f87ed22"
+    },
+    "promotion_calendar.csv": {
+      "bytes": 10881,
+      "sha256": "af6122fa8c29e31343b07c9d28037005adedf4cdc792bcde4fdc7758e55b93e3"
+    },
+    "reversion.csv": {
+      "bytes": 9684738,
+      "sha256": "e2ccf2f668addf0ef1e13c440f35aab8fb605699c5c36da1f0bed82a3c64e606"
+    },
+    "reversion_outside_gaps.csv": {
+      "bytes": 1105876,
+      "sha256": "b36528df3d8000cceda48450acafc802b291e975e571f4861caf74e282e99cdc"
+    },
+    "reversion_peer_gaps.csv": {
+      "bytes": 2474866,
+      "sha256": "094ddbf382d1a01a64f5e8ae74e3f273e158aeedcf5cd0af00343105aaacb8c4"
+    },
+    "reversion_units.csv": {
+      "bytes": 246289713,
+      "sha256": "86b0d1b0f037cbcca5781b4d2f33175fd08bb4a930aee3290b8bcd397ad199e7"
+    },
+    "sale_daily.csv": {
+      "bytes": 1439232,
+      "sha256": "b2621a5bda15318d535312047e1a9eeb8a657f65c597ed13b80de628deaeb65a"
+    },
+    "sale_summary.csv": {
+      "bytes": 1109786,
+      "sha256": "2fe3cda1eaddb839eb1fd30a34c8c552d1cd8a517805fa0e89945bcfc7c3b65b"
+    },
+    "units.csv": {
+      "bytes": 10021031,
+      "sha256": "46c73662f66fdee706f30a422558e18d53cde79db6c865a5c0482ee6fc094139"
+    },
+    "wave_peer_gaps.csv": {
+      "bytes": 39608,
+      "sha256": "c91891ae9fffdf3de5f3edf5308eac82bf96a0e1701d9543c69c959e0de99cd1"
+    },
+    "wave_persistence.csv": {
+      "bytes": 108381,
+      "sha256": "c0b9b79006f0239b841749c0efa8b98fa7f036dc3997e34559e1679b5ce0ec3c"
+    },
+    "wave_units.csv": {
+      "bytes": 1617227,
+      "sha256": "e43dcdcf24c87c13a493084dea9b98602a7981088bf1899ac892c5d833ec73d9"
+    }
+  }
+}

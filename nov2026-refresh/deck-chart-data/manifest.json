@@ -1,0 +1,95 @@
+{
+  "asof": "2026-11-04",
+  "legacy_proof": false,
+  "groups": [
+    "appendix",
+    "chartb",
+    "long11",
+    "panel",
+    "premium",
+    "shipclass"
+  ],
+  "exports": {
+    "nclh_export": "/home/rich/devdata/allaboard-parser/out/nclh-2026-11-04",
+    "peers_export": "/home/rich/devdata/allaboard-parser/out/peers-2026-11-04",
+    "baseline_export": "/home/rich/devdata/allaboard-parser/out/full-2026-09-14",
+    "previous_nclh_export": "/home/rich/devdata/allaboard-parser/out/nclh-2026-09-28",
+    "previous_peers_export": "/home/rich/devdata/allaboard-parser/out/full-2026-09-28",
+    "anchor_nclh_export": "/home/rich/devdata/allaboard-parser/out/nclh-2026-10-20",
+    "anchor_peers_export": "/home/rich/devdata/allaboard-parser/out/peers-2026-10-20"
+  },
+  "company_scope": "supplied NCLH and peer exports only; not all lines",
+  "schema_note": "Legacy oct20/sep28 momentum column labels retained; oct20 means requested --asof. Fixed deck horizon through Dec2027.",
+  "source_files": {
+    "nclh_export": {
+      "price_history.csv": {
+        "bytes": 135164319,
+        "mtime_ns": 1793867930309964840
+      },
+      "sailings.csv": {
+        "bytes": 1164951,
+        "mtime_ns": 1793867930309964840
+      }
+    },
+    "peers_export": {
+      "price_history.csv": {
+        "bytes": 479143919,
+        "mtime_ns": 1793868205205502772
+      },
+      "sailings.csv": {
+        "bytes": 3184973,
+        "mtime_ns": 1793868205205502772
+      }
+    },
+    "baseline_export": {
+      "price_history.csv": {
+        "bytes": 1223612747,
+        "mtime_ns": 1789369425613793135
+      },
+      "sailings.csv": {
+        "bytes": 16292740,
+        "mtime_ns": 1789369425613793135
+      }
+    },
+    "previous_nclh_export": {
+      "price_history.csv": {
+        "bytes": 133192344,
+        "mtime_ns": 1790628647032119823
+      },
+      "sailings.csv": {
+        "bytes": 1346878,
+        "mtime_ns": 1790628647032119823
+      }
+    },
+    "previous_peers_export": {
+      "price_history.csv": {
+        "bytes": 1078663256,
+        "mtime_ns": 1790884020734705034
+      },
+      "sailings.csv": {
+        "bytes": 12193445,
+        "mtime_ns": 1790884020734705034
+      }
+    },
+    "anchor_nclh_export": {
+      "price_history.csv": {
+        "bytes": 106900282,
+        "mtime_ns": 1792518840805921238
+      },
+      "sailings.csv": {
+        "bytes": 811273,
+        "mtime_ns": 1792518840807921322
+      }
+    },
+    "anchor_peers_export": {
+      "price_history.csv": {
+        "bytes": 379153530,
+        "mtime_ns": 1792536451748879529
+      },
+      "sailings.csv": {
+        "bytes": 2386271,
+        "mtime_ns": 1792536451748879529
+      }
+    }
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "crawl": "2026-10-20",
+  "pages_directory": "/home/rich/devdata/allaboard/stage-nclh-1020/2026-10-20",
+  "pages_checked": 1864,
+  "pages_decoded": 1472,
+  "pages_undecodable": 392,
+  "pages_skipped_by_parser_that_verifier_can_decode": 0,
+  "unaccounted_undecodable_pages": 0,
+  "source_pages_after_snapshot": 0,
+  "manifest": "out/nclh-2026-10-20/page_manifest.jsonl",
+  "coverage": "manifest snapshot",
+  "tables": {
+    "sailings": {
+      "rows_matched": 1472,
+      "rows_missing_from_export": 0,
+      "rows_not_found_in_page": 0,
+      "value_mismatches": 0
+    },
+    "price_history": {
+      "rows_matched": 973938,
+      "rows_missing_from_export": 0,
+      "rows_not_found_in_page": 0,
+      "value_mismatches": 0
+    }
+  },
+  "rows_matched": 975410,
+  "rows_missing_from_export": 0,
+  "rows_not_found_in_page": 0,
+  "value_mismatches": 0,
+  "issue_count": 0,
+  "examples": {
+    "pages_undecodable": [
+      {
+        "page": "/home/rich/devdata/allaboard/stage-nclh-1020/2026-10-20/norwegian/bliss/2027-05-11-cmps9m4si1187dzj3ua8sbw3i.html.gz",
+        "reason": "expected one owned sailing panel, found 0",
+        "parser_skipped": true
+      },
+      {
+        "page": "/home/rich/devdata/allaboard/stage-nclh-1020/2026-10-20/norwegian/bliss/2027-05-18-cmps9m6aq11ardzj3bdapfctr.html.gz",
+        "reason": "expected one owned sailing panel, found 0",
+        "parser_skipped": true
+      },
+      {
+        "page": "/home/rich/devdata/allaboard/stage-nclh-1020/2026-10-20/norwegian/bliss/2027-05-25-cmps9m6i911badzj3yp04q2oy.html.gz",
+        "reason": "expected one owned sailing panel, found 0",
+        "parser_skipped": true
+      },
+      {
+        "page": "/home/rich/devdata/allaboard/stage-nclh-1020/2026-10-20/norwegian/bliss/2027-06-01-cmps9m6my11bndzj3u6cf8s3g.html.gz",
+        "reason": "expected one owned sailing panel, found 0",
+        "parser_skipped": true
+      },
+      {
+        "page": "/home/rich/devdata/allaboard/stage-nclh-1020/2026-10-20/norwegian/bliss/2027-06-08-cmps9m6p811btdzj3tu6kefwy.html.gz",
+        "reason": "expected one owned sailing panel, found 0",
+        "parser_skipped": true
+      },
+      {
+        "page": "/home/rich/devdata/allaboard/stage-nclh-1020/2026-10-20/norwegian/bliss/2027-06-15-cmps9m6nn11bodzj3l6bot6sn.html.gz",
+        "reason": "expected one owned sailing panel, found 0",
+        "parser_skipped": true
+      },
+      {
+        "page": "/home/rich/devdata/allaboard/stage-nclh-1020/2026-10-20/norwegian/bliss/2027-06-22-cmps9m6qw11bxdzj32hzi7no9.html.gz",
+        "reason": "expected one owned sailing panel, found 0",
+        "parser_skipped": true
+      },
+      {
+        "page": "/home/rich/devdata/allaboard/stage-nclh-1020/2026-10-20/norwegian/bliss/2027-06-29-cmps9m6ay11atdzj33q5qqgge.html.gz",
+        "reason": "expected one owned sailing panel, found 0",
+        "parser_skipped": true
+      },
+      {
+        "page": "/home/rich/devdata/allaboard/stage-nclh-1020/2026-10-20/norwegian/bliss/2027-07-06-cmps9m6d411aydzj37xlo0ivu.html.gz",
+        "reason": "expected one owned sailing panel, found 0",
+        "parser_skipped": true
+      },
+      {
+        "page": "/home/rich/devdata/allaboard/stage-nclh-1020/2026-10-20/norwegian/bliss/2027-07-13-cmps9m6hd11b9dzj3zi36n21m.html.gz",
+        "reason": "expected one owned sailing panel, found 0",
+        "parser_skipped": true
+      },
+      {
+        "page": "/home/rich/devdata/allaboard/stage-nclh-1020/2026-10-20/norwegian/bliss/2027-07-20-cmps9m6av11asdzj3wp11fldr.html.gz",
+        "reason": "expected one owned sailing panel, found 0",
+        "parser_skipped": true
+      },
+      {
+        "page": "/home/rich/devdata/allaboard/stage-nclh-1020/2026-10-20/norwegian/bliss/2027-07-27-cmps9m6ch11awdzj3zisbhsxo.html.gz",
+        "reason": "expected one owned sailing panel, found 0",
+        "parser_skipped": true
+      },
+      {
+        "page": "/home/rich/devdata/allaboard/stage-nclh-1020/2026-10-20/norwegian/bliss/2027-08-03-cmps9m6fp11b4dzj39bb4sr35.html.gz",
+        "reason": "expected one owned sailing panel, found 0",
+        "parser_skipped": true
+      },
+      {
+        "page": "/home/rich/devdata/allaboard/stage-nclh-1020/2026-10-20/norwegian/bliss/2027-08-10-cmps9m6k511bfdzj3fvin63l7.html.gz",
+        "reason": "expected one owned sailing panel, found 0",
+        "parser_skipped": true
+      },
+      {
+        "page": "/home/rich/devdata/allaboard/stage-nclh-1020/2026-10-20/norwegian/bliss/2027-08-17-cmps9m9aa11gddzj3gq5nvp93.html.gz",
+        "reason": "expected one owned sailing panel, found 0",
+        "parser_skipped": true
+      },
+      {
+        "page": "/home/rich/devdata/allaboard/stage-nclh-1020/2026-10-20/norwegian/bliss/2027-08-24-cmps9m9dz11gidzj31m42tjpw.html.gz",
+        "reason": "expected one owned sailing panel, found 0",
+        "parser_skipped": true
+      },
+      {
+        "page": "/home/rich/devdata/allaboard/stage-nclh-1020/2026-10-20/norwegian/bliss/2027-08-31-cmps9m9jr11gldzj3qveybz0f.html.gz",
+        "reason": "expected one owned sailing panel, found 0",
+        "parser_skipped": true
+      },
+      {
+        "page": "/home/rich/devdata/allaboard/stage-nclh-1020/2026-10-20/norwegian/bliss/2027-09-07-cmps9m9rp11gpdzj3yv0baeax.html.gz",
+        "reason": "expected one owned sailing panel, found 0",
+        "parser_skipped": true
+      },
+      {
+        "page": "/home/rich/devdata/allaboard/stage-nclh-1020/2026-10-20/norwegian/bliss/2027-10-17-cmps9m4ay1167dzj3j4wwl32s.html.gz",
+        "reason": "expected one owned sailing panel, found 0",
+        "parser_skipped": true
+      },
+      {
+        "page": "/home/rich/devdata/allaboard/stage-nclh-1020/2026-10-20/norwegian/breakaway/2026-11-20-cmprhbtc20g2yu2lfwi0ydd9e.html.gz",
+        "reason": "expected one owned sailing panel, found 0",
+        "parser_skipped": true
+      }
+    ]
+  },
+  "example_limit_per_category": 20,
+  "status": "PASS"
+}

@@ -1,0 +1,21 @@
+scope,lead_band,comparison,candidate_brand_pairs,supported_brand_pairs,summed_pair_days,mean_correlation,median_correlation
+all_regions,all_leads,within_parent,15,2,156,0.3174946877887289,0.3174946877887289
+all_regions,all_leads,across_parents,40,10,722,0.05053694742060656,0.0718194057452391
+all_regions,all_leads,Carnival Corporation,6,1,77,0.12625273738334516,0.12625273738334516
+all_regions,all_leads,NCLH,3,0,0,,
+all_regions,all_leads,RCG,6,1,79,0.5087366381941126,0.5087366381941126
+all_regions,241plus,within_parent,15,2,153,0.30390763185142344,0.30390763185142344
+all_regions,241plus,across_parents,40,7,467,0.03031730598794635,-0.057903287340756976
+all_regions,241plus,Carnival Corporation,6,1,77,0.11942646447080174,0.11942646447080174
+all_regions,241plus,NCLH,3,0,0,,
+all_regions,241plus,RCG,6,1,76,0.4883887992320451,0.4883887992320451
+caribbean_embark,all_leads,within_parent,15,2,154,0.2016876707432822,0.2016876707432822
+caribbean_embark,all_leads,across_parents,40,5,335,0.021180856304540974,0.05863611838959795
+caribbean_embark,all_leads,Carnival Corporation,6,1,77,-0.04318677167933358,-0.04318677167933358
+caribbean_embark,all_leads,NCLH,3,0,0,,
+caribbean_embark,all_leads,RCG,6,1,77,0.446562113165898,0.446562113165898
+caribbean_embark,241plus,within_parent,15,1,75,0.44234656043001236,0.44234656043001236
+caribbean_embark,241plus,across_parents,40,3,237,-0.07138687753540625,-0.062514997849805
+caribbean_embark,241plus,Carnival Corporation,6,0,0,,
+caribbean_embark,241plus,NCLH,3,0,0,,
+caribbean_embark,241plus,RCG,6,1,75,0.44234656043001236,0.44234656043001236

@@ -1,0 +1,52 @@
+{
+  "crawl": "2026-09-28",
+  "pages_directory": "/home/rich/devdata/allaboard/pages/2026-09-28",
+  "pages_checked": 21925,
+  "pages_decoded": 21922,
+  "pages_undecodable": 3,
+  "pages_skipped_by_parser_that_verifier_can_decode": 0,
+  "unaccounted_undecodable_pages": 0,
+  "source_pages_after_snapshot": 0,
+  "manifest": "out/full-2026-09-28/page_manifest.jsonl",
+  "coverage": "manifest snapshot",
+  "tables": {
+    "sailings": {
+      "rows_matched": 21922,
+      "rows_missing_from_export": 0,
+      "rows_not_found_in_page": 0,
+      "value_mismatches": 0
+    },
+    "price_history": {
+      "rows_matched": 9478625,
+      "rows_missing_from_export": 0,
+      "rows_not_found_in_page": 0,
+      "value_mismatches": 0
+    }
+  },
+  "rows_matched": 9500547,
+  "rows_missing_from_export": 0,
+  "rows_not_found_in_page": 0,
+  "value_mismatches": 0,
+  "issue_count": 0,
+  "examples": {
+    "pages_undecodable": [
+      {
+        "page": "/home/rich/devdata/allaboard/pages/2026-09-28/msc/world-asia/2027-10-31-cmtbqcrs70nd7hwew4l0znijx.html.gz",
+        "reason": "expected one owned sailing panel, found 0",
+        "parser_skipped": true
+      },
+      {
+        "page": "/home/rich/devdata/allaboard/pages/2026-09-28/norwegian/pearl/2027-02-12-cmofzlrwx4u6pa8ualnio4n61.html.gz",
+        "reason": "expected one owned sailing panel, found 0",
+        "parser_skipped": true
+      },
+      {
+        "page": "/home/rich/devdata/allaboard/pages/2026-09-28/royal-caribbean/oasis-of-the-seas/2027-02-01-cmj8kctfq0c4211zznpqj4xm8.html.gz",
+        "reason": "expected one owned sailing panel, found 0",
+        "parser_skipped": true
+      }
+    ]
+  },
+  "example_limit_per_category": 20,
+  "status": "PASS"
+}

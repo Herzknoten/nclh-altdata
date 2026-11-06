@@ -1,0 +1,141 @@
+gsc_pattern,topic,topic_pattern,mismatched_months,absolute_error,total
+great stirrup|stirrup cay|\bgsc\b,gsc,,0,0,2116
+great stirrup|stirrup cay|\bgsc\b,gsc_tender,\btender,0,0,428
+great stirrup|stirrup cay|\bgsc\b,gsc_tender,\btender(?:s|ing)?\b,10,13,415
+great stirrup|stirrup cay|\bgsc\b,gsc_tender,\btender(?:ing)?\b,18,58,370
+great stirrup|stirrup cay|\bgsc\b,gsc_tender,tender,9,21,449
+great stirrup|stirrup cay|\bgsc\b,gsc_tender,\btender\b,20,118,310
+great stirrup|stirrup cay|\bgsc\b,gsc_tender,\btender\w*,0,0,428
+great stirrup|stirrup cay|\bgsc\b,gsc_pier,\bpier\b|dock(ed|ing)? (at|directly)|walk off,0,0,288
+great stirrup|stirrup cay|\bgsc\b,gsc_pier,\bpiers?\b,16,59,229
+great stirrup|stirrup cay|\bgsc\b,gsc_pier,\bpier\b,17,60,228
+great stirrup|stirrup cay|\bgsc\b,gsc_pier,pier,16,59,229
+great stirrup|stirrup cay|\bgsc\b,gsc_pier,\b(?:piers?|docks?|docking)\b,18,114,402
+great stirrup|stirrup cay|\bgsc\b,gsc_pier,pier|dock,20,143,431
+great stirrup|stirrup cay|\bgsc\b,gsc_waterpark,water ?park|waterslide|slides\b|lagoon|heated pool|splash,0,0,151
+great stirrup|stirrup cay|\bgsc\b,gsc_waterpark,\bwater\s?park\b,20,61,90
+great stirrup|stirrup cay|\bgsc\b,gsc_waterpark,waterpark|water park,20,61,90
+great stirrup|stirrup cay|\bgsc\b,gsc_waterpark,\bwaterparks?\b,20,102,49
+great stirrup|stirrup cay|\bgsc\b,gsc_waterpark,waterpark,20,102,49
+great stirrup|stirrup cay|\bgsc\b,gsc_waterpark,\b(?:water\s?parks?|great tides)\b,20,60,91
+great stirrup|stirrup cay|\bgsc\b,gsc_waterpark,waterpark|water park|great tides,20,60,91
+\b(?:great stirrup cay|gsc)\b,gsc,,21,174,1942
+\b(?:great stirrup cay|gsc)\b,gsc_tender,\btender,13,35,393
+\b(?:great stirrup cay|gsc)\b,gsc_tender,\btender(?:s|ing)?\b,18,48,380
+\b(?:great stirrup cay|gsc)\b,gsc_tender,\btender(?:ing)?\b,20,87,341
+\b(?:great stirrup cay|gsc)\b,gsc_tender,tender,11,31,411
+\b(?:great stirrup cay|gsc)\b,gsc_tender,\btender\b,21,144,284
+\b(?:great stirrup cay|gsc)\b,gsc_tender,\btender\w*,13,35,393
+\b(?:great stirrup cay|gsc)\b,gsc_pier,\bpier\b|dock(ed|ing)? (at|directly)|walk off,8,11,277
+\b(?:great stirrup cay|gsc)\b,gsc_pier,\bpiers?\b,17,68,220
+\b(?:great stirrup cay|gsc)\b,gsc_pier,\bpier\b,18,69,219
+\b(?:great stirrup cay|gsc)\b,gsc_pier,pier,17,68,220
+\b(?:great stirrup cay|gsc)\b,gsc_pier,\b(?:piers?|docks?|docking)\b,18,102,388
+\b(?:great stirrup cay|gsc)\b,gsc_pier,pier|dock,19,128,416
+\b(?:great stirrup cay|gsc)\b,gsc_waterpark,water ?park|waterslide|slides\b|lagoon|heated pool|splash,8,15,136
+\b(?:great stirrup cay|gsc)\b,gsc_waterpark,\bwater\s?park\b,20,72,79
+\b(?:great stirrup cay|gsc)\b,gsc_waterpark,waterpark|water park,20,72,79
+\b(?:great stirrup cay|gsc)\b,gsc_waterpark,\bwaterparks?\b,20,107,44
+\b(?:great stirrup cay|gsc)\b,gsc_waterpark,waterpark,20,107,44
+\b(?:great stirrup cay|gsc)\b,gsc_waterpark,\b(?:water\s?parks?|great tides)\b,20,71,80
+\b(?:great stirrup cay|gsc)\b,gsc_waterpark,waterpark|water park|great tides,20,71,80
+great stirrup|\bgsc\b,gsc,,20,82,2034
+great stirrup|\bgsc\b,gsc_tender,\btender,9,20,408
+great stirrup|\bgsc\b,gsc_tender,\btender(?:s|ing)?\b,15,33,395
+great stirrup|\bgsc\b,gsc_tender,\btender(?:ing)?\b,18,73,355
+great stirrup|\bgsc\b,gsc_tender,tender,13,27,429
+great stirrup|\bgsc\b,gsc_tender,\btender\b,20,131,297
+great stirrup|\bgsc\b,gsc_tender,\btender\w*,9,20,408
+great stirrup|\bgsc\b,gsc_pier,\bpier\b|dock(ed|ing)? (at|directly)|walk off,4,4,284
+great stirrup|\bgsc\b,gsc_pier,\bpiers?\b,17,63,225
+great stirrup|\bgsc\b,gsc_pier,\bpier\b,18,64,224
+great stirrup|\bgsc\b,gsc_pier,pier,17,63,225
+great stirrup|\bgsc\b,gsc_pier,\b(?:piers?|docks?|docking)\b,18,109,397
+great stirrup|\bgsc\b,gsc_pier,pier|dock,20,138,426
+great stirrup|\bgsc\b,gsc_waterpark,water ?park|waterslide|slides\b|lagoon|heated pool|splash,5,8,143
+great stirrup|\bgsc\b,gsc_waterpark,\bwater\s?park\b,20,67,84
+great stirrup|\bgsc\b,gsc_waterpark,waterpark|water park,20,67,84
+great stirrup|\bgsc\b,gsc_waterpark,\bwaterparks?\b,20,105,46
+great stirrup|\bgsc\b,gsc_waterpark,waterpark,20,105,46
+great stirrup|\bgsc\b,gsc_waterpark,\b(?:water\s?parks?|great tides)\b,20,66,85
+great stirrup|\bgsc\b,gsc_waterpark,waterpark|water park|great tides,20,66,85
+\b(?:great stirrup|gsc)\b,gsc,,20,85,2031
+\b(?:great stirrup|gsc)\b,gsc_tender,\btender,9,20,408
+\b(?:great stirrup|gsc)\b,gsc_tender,\btender(?:s|ing)?\b,15,33,395
+\b(?:great stirrup|gsc)\b,gsc_tender,\btender(?:ing)?\b,18,73,355
+\b(?:great stirrup|gsc)\b,gsc_tender,tender,13,27,429
+\b(?:great stirrup|gsc)\b,gsc_tender,\btender\b,20,131,297
+\b(?:great stirrup|gsc)\b,gsc_tender,\btender\w*,9,20,408
+\b(?:great stirrup|gsc)\b,gsc_pier,\bpier\b|dock(ed|ing)? (at|directly)|walk off,4,4,284
+\b(?:great stirrup|gsc)\b,gsc_pier,\bpiers?\b,17,63,225
+\b(?:great stirrup|gsc)\b,gsc_pier,\bpier\b,18,64,224
+\b(?:great stirrup|gsc)\b,gsc_pier,pier,17,63,225
+\b(?:great stirrup|gsc)\b,gsc_pier,\b(?:piers?|docks?|docking)\b,18,109,397
+\b(?:great stirrup|gsc)\b,gsc_pier,pier|dock,20,138,426
+\b(?:great stirrup|gsc)\b,gsc_waterpark,water ?park|waterslide|slides\b|lagoon|heated pool|splash,5,8,143
+\b(?:great stirrup|gsc)\b,gsc_waterpark,\bwater\s?park\b,20,67,84
+\b(?:great stirrup|gsc)\b,gsc_waterpark,waterpark|water park,20,67,84
+\b(?:great stirrup|gsc)\b,gsc_waterpark,\bwaterparks?\b,20,105,46
+\b(?:great stirrup|gsc)\b,gsc_waterpark,waterpark,20,105,46
+\b(?:great stirrup|gsc)\b,gsc_waterpark,\b(?:water\s?parks?|great tides)\b,20,66,85
+\b(?:great stirrup|gsc)\b,gsc_waterpark,waterpark|water park|great tides,20,66,85
+great stirrup cay|\bgsc\b,gsc,,21,156,1960
+great stirrup cay|\bgsc\b,gsc_tender,\btender,12,33,395
+great stirrup cay|\bgsc\b,gsc_tender,\btender(?:s|ing)?\b,18,46,382
+great stirrup cay|\bgsc\b,gsc_tender,\btender(?:ing)?\b,20,85,343
+great stirrup cay|\bgsc\b,gsc_tender,tender,13,34,414
+great stirrup cay|\bgsc\b,gsc_tender,\btender\b,21,142,286
+great stirrup cay|\bgsc\b,gsc_tender,\btender\w*,12,33,395
+great stirrup cay|\bgsc\b,gsc_pier,\bpier\b|dock(ed|ing)? (at|directly)|walk off,6,8,280
+great stirrup cay|\bgsc\b,gsc_pier,\bpiers?\b,17,66,222
+great stirrup cay|\bgsc\b,gsc_pier,\bpier\b,18,67,221
+great stirrup cay|\bgsc\b,gsc_pier,pier,17,66,222
+great stirrup cay|\bgsc\b,gsc_pier,\b(?:piers?|docks?|docking)\b,18,105,391
+great stirrup cay|\bgsc\b,gsc_pier,pier|dock,19,131,419
+great stirrup cay|\bgsc\b,gsc_waterpark,water ?park|waterslide|slides\b|lagoon|heated pool|splash,7,14,137
+great stirrup cay|\bgsc\b,gsc_waterpark,\bwater\s?park\b,20,71,80
+great stirrup cay|\bgsc\b,gsc_waterpark,waterpark|water park,20,71,80
+great stirrup cay|\bgsc\b,gsc_waterpark,\bwaterparks?\b,20,107,44
+great stirrup cay|\bgsc\b,gsc_waterpark,waterpark,20,107,44
+great stirrup cay|\bgsc\b,gsc_waterpark,\b(?:water\s?parks?|great tides)\b,20,70,81
+great stirrup cay|\bgsc\b,gsc_waterpark,waterpark|water park|great tides,20,70,81
+great stirrup cay|gsc,gsc,,21,150,1966
+great stirrup cay|gsc,gsc_tender,\btender,13,34,396
+great stirrup cay|gsc,gsc_tender,\btender(?:s|ing)?\b,19,47,383
+great stirrup cay|gsc,gsc_tender,\btender(?:ing)?\b,20,84,344
+great stirrup cay|gsc,gsc_tender,tender,13,35,415
+great stirrup cay|gsc,gsc_tender,\btender\b,21,142,286
+great stirrup cay|gsc,gsc_tender,\btender\w*,13,34,396
+great stirrup cay|gsc,gsc_pier,\bpier\b|dock(ed|ing)? (at|directly)|walk off,6,8,280
+great stirrup cay|gsc,gsc_pier,\bpiers?\b,17,66,222
+great stirrup cay|gsc,gsc_pier,\bpier\b,18,67,221
+great stirrup cay|gsc,gsc_pier,pier,17,66,222
+great stirrup cay|gsc,gsc_pier,\b(?:piers?|docks?|docking)\b,18,107,393
+great stirrup cay|gsc,gsc_pier,pier|dock,19,133,421
+great stirrup cay|gsc,gsc_waterpark,water ?park|waterslide|slides\b|lagoon|heated pool|splash,7,14,137
+great stirrup cay|gsc,gsc_waterpark,\bwater\s?park\b,20,71,80
+great stirrup cay|gsc,gsc_waterpark,waterpark|water park,20,71,80
+great stirrup cay|gsc,gsc_waterpark,\bwaterparks?\b,20,107,44
+great stirrup cay|gsc,gsc_waterpark,waterpark,20,107,44
+great stirrup cay|gsc,gsc_waterpark,\b(?:water\s?parks?|great tides)\b,20,70,81
+great stirrup cay|gsc,gsc_waterpark,waterpark|water park|great tides,20,70,81
+great stirrup|gsc,gsc,,21,80,2040
+great stirrup|gsc,gsc_tender,\btender,10,21,409
+great stirrup|gsc,gsc_tender,\btender(?:s|ing)?\b,16,34,396
+great stirrup|gsc,gsc_tender,\btender(?:ing)?\b,18,72,356
+great stirrup|gsc,gsc_tender,tender,13,28,430
+great stirrup|gsc,gsc_tender,\btender\b,20,131,297
+great stirrup|gsc,gsc_tender,\btender\w*,10,21,409
+great stirrup|gsc,gsc_pier,\bpier\b|dock(ed|ing)? (at|directly)|walk off,4,4,284
+great stirrup|gsc,gsc_pier,\bpiers?\b,17,63,225
+great stirrup|gsc,gsc_pier,\bpier\b,18,64,224
+great stirrup|gsc,gsc_pier,pier,17,63,225
+great stirrup|gsc,gsc_pier,\b(?:piers?|docks?|docking)\b,18,111,399
+great stirrup|gsc,gsc_pier,pier|dock,20,140,428
+great stirrup|gsc,gsc_waterpark,water ?park|waterslide|slides\b|lagoon|heated pool|splash,5,8,143
+great stirrup|gsc,gsc_waterpark,\bwater\s?park\b,20,67,84
+great stirrup|gsc,gsc_waterpark,waterpark|water park,20,67,84
+great stirrup|gsc,gsc_waterpark,\bwaterparks?\b,20,105,46
+great stirrup|gsc,gsc_waterpark,waterpark,20,105,46
+great stirrup|gsc,gsc_waterpark,\b(?:water\s?parks?|great tides)\b,20,66,85
+great stirrup|gsc,gsc_waterpark,waterpark|water park|great tides,20,66,85

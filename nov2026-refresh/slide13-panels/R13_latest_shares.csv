@@ -1,0 +1,4 @@
+line,start,end,n_sailings,n_cut,share_cut_pct
+norwegian,2026-10-20,2026-11-04,102,16,15.6862745098
+royal-caribbean,2026-10-20,2026-11-04,227,85,37.4449339207
+carnival,2026-10-20,2026-11-04,182,40,21.978021978

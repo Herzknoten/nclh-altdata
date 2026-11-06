@@ -1,0 +1,221 @@
+{
+  "dimensions": "region_quarter_only",
+  "interpretation": "deployed capacity proxy, not realized passengers",
+  "missing_berth_ship_days": 0.0,
+  "placeholder_capacity_days": 2761190.0,
+  "sha256": "ff5806a894f3221ec4d8fee84ab9cacd9645a9e9a48d0ec033733e07b0d1f771",
+  "ship_adjustment_available": false,
+  "source": "/home/rich/devdata/nclh-capacity/out/shipday_capacity_by_region_quarter.csv",
+  "targets": [
+    {
+      "period": "2026Q3",
+      "region": "Alaska",
+      "share": 0.24705661952180918,
+      "ship": ""
+    },
+    {
+      "period": "2026Q3",
+      "region": "Caribbean/Bahamas/Gulf",
+      "share": 0.2317396178250817,
+      "ship": ""
+    },
+    {
+      "period": "2026Q3",
+      "region": "Europe",
+      "share": 0.25210187066489176,
+      "ship": ""
+    },
+    {
+      "period": "2026Q3",
+      "region": "Hawaii",
+      "share": 0.05519390518430969,
+      "ship": ""
+    },
+    {
+      "period": "2026Q3",
+      "region": "US Northeast/Bermuda/Canada",
+      "share": 0.1600772513624082,
+      "ship": ""
+    },
+    {
+      "period": "2026Q3",
+      "region": "other",
+      "share": 0.05383073544149946,
+      "ship": ""
+    },
+    {
+      "period": "2026Q4",
+      "region": "Alaska",
+      "share": 0.018250794959667003,
+      "ship": ""
+    },
+    {
+      "period": "2026Q4",
+      "region": "Caribbean/Bahamas/Gulf",
+      "share": 0.5673677034149583,
+      "ship": ""
+    },
+    {
+      "period": "2026Q4",
+      "region": "Europe",
+      "share": 0.13518579111529372,
+      "ship": ""
+    },
+    {
+      "period": "2026Q4",
+      "region": "Hawaii",
+      "share": 0.04565190744734627,
+      "ship": ""
+    },
+    {
+      "period": "2026Q4",
+      "region": "US Northeast/Bermuda/Canada",
+      "share": 0.05563370365605471,
+      "ship": ""
+    },
+    {
+      "period": "2026Q4",
+      "region": "other",
+      "share": 0.17177733633049252,
+      "ship": ""
+    },
+    {
+      "period": "2026Q4",
+      "region": "unmapped",
+      "share": 0.006132763076187476,
+      "ship": ""
+    },
+    {
+      "period": "2027Q1",
+      "region": "Caribbean/Bahamas/Gulf",
+      "share": 0.8094412948042903,
+      "ship": ""
+    },
+    {
+      "period": "2027Q1",
+      "region": "Hawaii",
+      "share": 0.03990085022031256,
+      "ship": ""
+    },
+    {
+      "period": "2027Q1",
+      "region": "US Northeast/Bermuda/Canada",
+      "share": 0.008945951525963135,
+      "ship": ""
+    },
+    {
+      "period": "2027Q1",
+      "region": "other",
+      "share": 0.141711903449434,
+      "ship": ""
+    },
+    {
+      "period": "2027Q2",
+      "region": "Alaska",
+      "share": 0.13701764694479596,
+      "ship": ""
+    },
+    {
+      "period": "2027Q2",
+      "region": "Caribbean/Bahamas/Gulf",
+      "share": 0.3775174300655682,
+      "ship": ""
+    },
+    {
+      "period": "2027Q2",
+      "region": "Europe",
+      "share": 0.1901910975923175,
+      "ship": ""
+    },
+    {
+      "period": "2027Q2",
+      "region": "Hawaii",
+      "share": 0.047352416343084805,
+      "ship": ""
+    },
+    {
+      "period": "2027Q2",
+      "region": "US Northeast/Bermuda/Canada",
+      "share": 0.17270881842821026,
+      "ship": ""
+    },
+    {
+      "period": "2027Q2",
+      "region": "other",
+      "share": 0.0752125906260233,
+      "ship": ""
+    },
+    {
+      "period": "2027Q3",
+      "region": "Alaska",
+      "share": 0.21404491731071662,
+      "ship": ""
+    },
+    {
+      "period": "2027Q3",
+      "region": "Caribbean/Bahamas/Gulf",
+      "share": 0.27694702146076794,
+      "ship": ""
+    },
+    {
+      "period": "2027Q3",
+      "region": "Europe",
+      "share": 0.2607000218916387,
+      "ship": ""
+    },
+    {
+      "period": "2027Q3",
+      "region": "Hawaii",
+      "share": 0.052161663950195364,
+      "ship": ""
+    },
+    {
+      "period": "2027Q3",
+      "region": "US Northeast/Bermuda/Canada",
+      "share": 0.17546264458731167,
+      "ship": ""
+    },
+    {
+      "period": "2027Q3",
+      "region": "other",
+      "share": 0.020683730799369707,
+      "ship": ""
+    },
+    {
+      "period": "2027Q4",
+      "region": "Alaska",
+      "share": 0.029461342313089292,
+      "ship": ""
+    },
+    {
+      "period": "2027Q4",
+      "region": "Caribbean/Bahamas/Gulf",
+      "share": 0.6241904040464613,
+      "ship": ""
+    },
+    {
+      "period": "2027Q4",
+      "region": "Europe",
+      "share": 0.10389252148251087,
+      "ship": ""
+    },
+    {
+      "period": "2027Q4",
+      "region": "Hawaii",
+      "share": 0.04319715008296654,
+      "ship": ""
+    },
+    {
+      "period": "2027Q4",
+      "region": "US Northeast/Bermuda/Canada",
+      "share": 0.06423262045429838,
+      "ship": ""
+    },
+    {
+      "period": "2027Q4",
+      "region": "other",
+      "share": 0.13502596162067365,
+      "ship": ""
+    }
+  ]
+}

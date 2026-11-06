@@ -1,0 +1,5 @@
+placekey,safegraph_place_id,location_name,naics_code,top_category,sub_category,street_address,city,state,MATCH_REASON
+225-222@8dj-mpw-pvz,sg:f6ffcb317bf63afb98b5e662a546567a,Norwegian Cruiseline,487210,"Scenic and Sightseeing Transportation, Water","Scenic and Sightseeing Transportation, Water",445 country vineyard dr,valrico,florida,brand_match;
+223-222@bp5-cq5-59f,sg:4681410c419e3236b69690633ae10158,Norwegian Cruise Line,488310,Support Activities for Water Transportation,Port and Harbor Operations,130 ala luina st,kahului,hawaii,brand_match;
+222-223@8fw-2z9-7nq,sg:0a83bb60ebbe37ce9a3eb4238f1d2473,Norwegian Cruise Line - Outbound Sales,483112,"Deep Sea, Coastal, and Great Lakes Water Transportation",Deep Sea Passenger Transportation,1600 sawgrass corporate pkwy ste 300,sunrise,florida,brand_match;
+zzy-223@8fv-zzy-zj9,sg:4a2557f40eaf4259ae663ae66c529da5,Norwegian Cruise Lines - Escape,483112,"Deep Sea, Coastal, and Great Lakes Water Transportation",Deep Sea Passenger Transportation,1509 n cruise blvd,miami,florida,brand_match;

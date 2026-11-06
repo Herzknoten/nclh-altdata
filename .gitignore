@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.codex-runs/
+*.log
+*.xlsx
+*.pdf
+CODEX_RESULT.md
+CODEX_PROGRESS.md

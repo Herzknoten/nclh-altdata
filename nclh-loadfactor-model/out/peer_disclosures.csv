@@ -1,0 +1,3 @@
+ticker,occupancy_pct,passenger_cruise_days,capacity_days,financial_csv_rows,last_quarter_end,source,status,reason,calendar_note
+RCL,,,,70,2026-06-30,/home/rich/devdata/sec/cruise_quarterly.csv:1,unavailable,No peer operating disclosure found in local HTML collection; financial CSV has only revenue and current deposits,No occupancy-price join possible
+CCL,,,,50,2026-05-31,/home/rich/devdata/sec/cruise_quarterly.csv:1,unavailable,No peer operating disclosure found in local HTML collection; financial CSV has only revenue and current deposits,Fiscal quarter ends differ from calendar quarters; no price-period join attempted

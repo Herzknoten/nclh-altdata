@@ -1,0 +1,2557 @@
+{
+  "format_version": 1,
+  "rows": 9478625,
+  "target_bytes": 20000000,
+  "max_part_bytes": 40000000,
+  "parts": [
+    {
+      "path": "line=carnival/depart_month=2026-09/part-0000.parquet",
+      "rows": 64462,
+      "size_bytes": 363450,
+      "line": "carnival",
+      "depart_month": "2026-09"
+    },
+    {
+      "path": "line=carnival/depart_month=2026-10/part-0000.parquet",
+      "rows": 101543,
+      "size_bytes": 560429,
+      "line": "carnival",
+      "depart_month": "2026-10"
+    },
+    {
+      "path": "line=carnival/depart_month=2026-11/part-0000.parquet",
+      "rows": 110581,
+      "size_bytes": 625414,
+      "line": "carnival",
+      "depart_month": "2026-11"
+    },
+    {
+      "path": "line=carnival/depart_month=2026-12/part-0000.parquet",
+      "rows": 106631,
+      "size_bytes": 601884,
+      "line": "carnival",
+      "depart_month": "2026-12"
+    },
+    {
+      "path": "line=carnival/depart_month=2027-01/part-0000.parquet",
+      "rows": 91247,
+      "size_bytes": 515484,
+      "line": "carnival",
+      "depart_month": "2027-01"
+    },
+    {
+      "path": "line=carnival/depart_month=2027-02/part-0000.parquet",
+      "rows": 83199,
+      "size_bytes": 465956,
+      "line": "carnival",
+      "depart_month": "2027-02"
+    },
+    {
+      "path": "line=carnival/depart_month=2027-03/part-0000.parquet",
+      "rows": 89317,
+      "size_bytes": 488295,
+      "line": "carnival",
+      "depart_month": "2027-03"
+    },
+    {
+      "path": "line=carnival/depart_month=2027-04/part-0000.parquet",
+      "rows": 80174,
+      "size_bytes": 437329,
+      "line": "carnival",
+      "depart_month": "2027-04"
+    },
+    {
+      "path": "line=carnival/depart_month=2027-05/part-0000.parquet",
+      "rows": 94329,
+      "size_bytes": 510914,
+      "line": "carnival",
+      "depart_month": "2027-05"
+    },
+    {
+      "path": "line=carnival/depart_month=2027-06/part-0000.parquet",
+      "rows": 87072,
+      "size_bytes": 457397,
+      "line": "carnival",
+      "depart_month": "2027-06"
+    },
+    {
+      "path": "line=carnival/depart_month=2027-07/part-0000.parquet",
+      "rows": 96597,
+      "size_bytes": 500592,
+      "line": "carnival",
+      "depart_month": "2027-07"
+    },
+    {
+      "path": "line=carnival/depart_month=2027-08/part-0000.parquet",
+      "rows": 92076,
+      "size_bytes": 475824,
+      "line": "carnival",
+      "depart_month": "2027-08"
+    },
+    {
+      "path": "line=carnival/depart_month=2027-09/part-0000.parquet",
+      "rows": 80723,
+      "size_bytes": 417203,
+      "line": "carnival",
+      "depart_month": "2027-09"
+    },
+    {
+      "path": "line=carnival/depart_month=2027-10/part-0000.parquet",
+      "rows": 85929,
+      "size_bytes": 444851,
+      "line": "carnival",
+      "depart_month": "2027-10"
+    },
+    {
+      "path": "line=carnival/depart_month=2027-11/part-0000.parquet",
+      "rows": 70524,
+      "size_bytes": 380959,
+      "line": "carnival",
+      "depart_month": "2027-11"
+    },
+    {
+      "path": "line=carnival/depart_month=2027-12/part-0000.parquet",
+      "rows": 60517,
+      "size_bytes": 330858,
+      "line": "carnival",
+      "depart_month": "2027-12"
+    },
+    {
+      "path": "line=carnival/depart_month=2028-01/part-0000.parquet",
+      "rows": 43761,
+      "size_bytes": 217127,
+      "line": "carnival",
+      "depart_month": "2028-01"
+    },
+    {
+      "path": "line=carnival/depart_month=2028-02/part-0000.parquet",
+      "rows": 23677,
+      "size_bytes": 117817,
+      "line": "carnival",
+      "depart_month": "2028-02"
+    },
+    {
+      "path": "line=carnival/depart_month=2028-03/part-0000.parquet",
+      "rows": 7828,
+      "size_bytes": 43236,
+      "line": "carnival",
+      "depart_month": "2028-03"
+    },
+    {
+      "path": "line=celebrity-river/depart_month=2027-08/part-0000.parquet",
+      "rows": 257,
+      "size_bytes": 5908,
+      "line": "celebrity-river",
+      "depart_month": "2027-08"
+    },
+    {
+      "path": "line=celebrity-river/depart_month=2027-09/part-0000.parquet",
+      "rows": 419,
+      "size_bytes": 6696,
+      "line": "celebrity-river",
+      "depart_month": "2027-09"
+    },
+    {
+      "path": "line=celebrity-river/depart_month=2027-10/part-0000.parquet",
+      "rows": 461,
+      "size_bytes": 7791,
+      "line": "celebrity-river",
+      "depart_month": "2027-10"
+    },
+    {
+      "path": "line=celebrity-river/depart_month=2027-11/part-0000.parquet",
+      "rows": 528,
+      "size_bytes": 8252,
+      "line": "celebrity-river",
+      "depart_month": "2027-11"
+    },
+    {
+      "path": "line=celebrity-river/depart_month=2027-12/part-0000.parquet",
+      "rows": 718,
+      "size_bytes": 9427,
+      "line": "celebrity-river",
+      "depart_month": "2027-12"
+    },
+    {
+      "path": "line=celebrity-river/depart_month=2028-03/part-0000.parquet",
+      "rows": 1467,
+      "size_bytes": 11061,
+      "line": "celebrity-river",
+      "depart_month": "2028-03"
+    },
+    {
+      "path": "line=celebrity-river/depart_month=2028-04/part-0000.parquet",
+      "rows": 2448,
+      "size_bytes": 15931,
+      "line": "celebrity-river",
+      "depart_month": "2028-04"
+    },
+    {
+      "path": "line=celebrity-river/depart_month=2028-05/part-0000.parquet",
+      "rows": 2839,
+      "size_bytes": 17896,
+      "line": "celebrity-river",
+      "depart_month": "2028-05"
+    },
+    {
+      "path": "line=celebrity-river/depart_month=2028-06/part-0000.parquet",
+      "rows": 3426,
+      "size_bytes": 20176,
+      "line": "celebrity-river",
+      "depart_month": "2028-06"
+    },
+    {
+      "path": "line=celebrity-river/depart_month=2028-07/part-0000.parquet",
+      "rows": 3675,
+      "size_bytes": 21712,
+      "line": "celebrity-river",
+      "depart_month": "2028-07"
+    },
+    {
+      "path": "line=celebrity-river/depart_month=2028-08/part-0000.parquet",
+      "rows": 4407,
+      "size_bytes": 23765,
+      "line": "celebrity-river",
+      "depart_month": "2028-08"
+    },
+    {
+      "path": "line=celebrity-river/depart_month=2028-09/part-0000.parquet",
+      "rows": 5067,
+      "size_bytes": 28028,
+      "line": "celebrity-river",
+      "depart_month": "2028-09"
+    },
+    {
+      "path": "line=celebrity-river/depart_month=2028-10/part-0000.parquet",
+      "rows": 4908,
+      "size_bytes": 26696,
+      "line": "celebrity-river",
+      "depart_month": "2028-10"
+    },
+    {
+      "path": "line=celebrity-river/depart_month=2028-11/part-0000.parquet",
+      "rows": 5394,
+      "size_bytes": 28812,
+      "line": "celebrity-river",
+      "depart_month": "2028-11"
+    },
+    {
+      "path": "line=celebrity-river/depart_month=2028-12/part-0000.parquet",
+      "rows": 6123,
+      "size_bytes": 32445,
+      "line": "celebrity-river",
+      "depart_month": "2028-12"
+    },
+    {
+      "path": "line=celebrity/depart_month=2026-09/part-0000.parquet",
+      "rows": 20340,
+      "size_bytes": 130233,
+      "line": "celebrity",
+      "depart_month": "2026-09"
+    },
+    {
+      "path": "line=celebrity/depart_month=2026-10/part-0000.parquet",
+      "rows": 31759,
+      "size_bytes": 201875,
+      "line": "celebrity",
+      "depart_month": "2026-10"
+    },
+    {
+      "path": "line=celebrity/depart_month=2026-11/part-0000.parquet",
+      "rows": 39367,
+      "size_bytes": 231626,
+      "line": "celebrity",
+      "depart_month": "2026-11"
+    },
+    {
+      "path": "line=celebrity/depart_month=2026-12/part-0000.parquet",
+      "rows": 38651,
+      "size_bytes": 235465,
+      "line": "celebrity",
+      "depart_month": "2026-12"
+    },
+    {
+      "path": "line=celebrity/depart_month=2027-01/part-0000.parquet",
+      "rows": 38131,
+      "size_bytes": 229580,
+      "line": "celebrity",
+      "depart_month": "2027-01"
+    },
+    {
+      "path": "line=celebrity/depart_month=2027-02/part-0000.parquet",
+      "rows": 23797,
+      "size_bytes": 152667,
+      "line": "celebrity",
+      "depart_month": "2027-02"
+    },
+    {
+      "path": "line=celebrity/depart_month=2027-03/part-0000.parquet",
+      "rows": 30226,
+      "size_bytes": 187385,
+      "line": "celebrity",
+      "depart_month": "2027-03"
+    },
+    {
+      "path": "line=celebrity/depart_month=2027-04/part-0000.parquet",
+      "rows": 26450,
+      "size_bytes": 165459,
+      "line": "celebrity",
+      "depart_month": "2027-04"
+    },
+    {
+      "path": "line=celebrity/depart_month=2027-05/part-0000.parquet",
+      "rows": 41992,
+      "size_bytes": 249088,
+      "line": "celebrity",
+      "depart_month": "2027-05"
+    },
+    {
+      "path": "line=celebrity/depart_month=2027-06/part-0000.parquet",
+      "rows": 37502,
+      "size_bytes": 221794,
+      "line": "celebrity",
+      "depart_month": "2027-06"
+    },
+    {
+      "path": "line=celebrity/depart_month=2027-07/part-0000.parquet",
+      "rows": 44189,
+      "size_bytes": 253668,
+      "line": "celebrity",
+      "depart_month": "2027-07"
+    },
+    {
+      "path": "line=celebrity/depart_month=2027-08/part-0000.parquet",
+      "rows": 42560,
+      "size_bytes": 240261,
+      "line": "celebrity",
+      "depart_month": "2027-08"
+    },
+    {
+      "path": "line=celebrity/depart_month=2027-09/part-0000.parquet",
+      "rows": 27771,
+      "size_bytes": 167821,
+      "line": "celebrity",
+      "depart_month": "2027-09"
+    },
+    {
+      "path": "line=celebrity/depart_month=2027-10/part-0000.parquet",
+      "rows": 25909,
+      "size_bytes": 158014,
+      "line": "celebrity",
+      "depart_month": "2027-10"
+    },
+    {
+      "path": "line=celebrity/depart_month=2027-11/part-0000.parquet",
+      "rows": 25206,
+      "size_bytes": 151236,
+      "line": "celebrity",
+      "depart_month": "2027-11"
+    },
+    {
+      "path": "line=celebrity/depart_month=2027-12/part-0000.parquet",
+      "rows": 21624,
+      "size_bytes": 129078,
+      "line": "celebrity",
+      "depart_month": "2027-12"
+    },
+    {
+      "path": "line=celebrity/depart_month=2028-01/part-0000.parquet",
+      "rows": 16366,
+      "size_bytes": 92546,
+      "line": "celebrity",
+      "depart_month": "2028-01"
+    },
+    {
+      "path": "line=celebrity/depart_month=2028-02/part-0000.parquet",
+      "rows": 7725,
+      "size_bytes": 46957,
+      "line": "celebrity",
+      "depart_month": "2028-02"
+    },
+    {
+      "path": "line=celebrity/depart_month=2028-03/part-0000.parquet",
+      "rows": 2757,
+      "size_bytes": 21546,
+      "line": "celebrity",
+      "depart_month": "2028-03"
+    },
+    {
+      "path": "line=disney/depart_month=2026-09/part-0000.parquet",
+      "rows": 14264,
+      "size_bytes": 59157,
+      "line": "disney",
+      "depart_month": "2026-09"
+    },
+    {
+      "path": "line=disney/depart_month=2026-10/part-0000.parquet",
+      "rows": 30176,
+      "size_bytes": 124729,
+      "line": "disney",
+      "depart_month": "2026-10"
+    },
+    {
+      "path": "line=disney/depart_month=2026-11/part-0000.parquet",
+      "rows": 30248,
+      "size_bytes": 122281,
+      "line": "disney",
+      "depart_month": "2026-11"
+    },
+    {
+      "path": "line=disney/depart_month=2026-12/part-0000.parquet",
+      "rows": 28340,
+      "size_bytes": 119362,
+      "line": "disney",
+      "depart_month": "2026-12"
+    },
+    {
+      "path": "line=disney/depart_month=2027-01/part-0000.parquet",
+      "rows": 26620,
+      "size_bytes": 110688,
+      "line": "disney",
+      "depart_month": "2027-01"
+    },
+    {
+      "path": "line=disney/depart_month=2027-02/part-0000.parquet",
+      "rows": 21643,
+      "size_bytes": 89837,
+      "line": "disney",
+      "depart_month": "2027-02"
+    },
+    {
+      "path": "line=disney/depart_month=2027-03/part-0000.parquet",
+      "rows": 22504,
+      "size_bytes": 90531,
+      "line": "disney",
+      "depart_month": "2027-03"
+    },
+    {
+      "path": "line=disney/depart_month=2027-04/part-0000.parquet",
+      "rows": 17221,
+      "size_bytes": 68568,
+      "line": "disney",
+      "depart_month": "2027-04"
+    },
+    {
+      "path": "line=disney/depart_month=2027-05/part-0000.parquet",
+      "rows": 15958,
+      "size_bytes": 59672,
+      "line": "disney",
+      "depart_month": "2027-05"
+    },
+    {
+      "path": "line=disney/depart_month=2027-06/part-0000.parquet",
+      "rows": 14078,
+      "size_bytes": 54659,
+      "line": "disney",
+      "depart_month": "2027-06"
+    },
+    {
+      "path": "line=disney/depart_month=2027-07/part-0000.parquet",
+      "rows": 15625,
+      "size_bytes": 62885,
+      "line": "disney",
+      "depart_month": "2027-07"
+    },
+    {
+      "path": "line=disney/depart_month=2027-08/part-0000.parquet",
+      "rows": 18404,
+      "size_bytes": 71845,
+      "line": "disney",
+      "depart_month": "2027-08"
+    },
+    {
+      "path": "line=disney/depart_month=2027-09/part-0000.parquet",
+      "rows": 7912,
+      "size_bytes": 33574,
+      "line": "disney",
+      "depart_month": "2027-09"
+    },
+    {
+      "path": "line=disney/depart_month=2027-10/part-0000.parquet",
+      "rows": 1790,
+      "size_bytes": 11580,
+      "line": "disney",
+      "depart_month": "2027-10"
+    },
+    {
+      "path": "line=disney/depart_month=2027-11/part-0000.parquet",
+      "rows": 1800,
+      "size_bytes": 11248,
+      "line": "disney",
+      "depart_month": "2027-11"
+    },
+    {
+      "path": "line=disney/depart_month=2027-12/part-0000.parquet",
+      "rows": 1796,
+      "size_bytes": 11236,
+      "line": "disney",
+      "depart_month": "2027-12"
+    },
+    {
+      "path": "line=disney/depart_month=2028-01/part-0000.parquet",
+      "rows": 2184,
+      "size_bytes": 12510,
+      "line": "disney",
+      "depart_month": "2028-01"
+    },
+    {
+      "path": "line=disney/depart_month=2028-02/part-0000.parquet",
+      "rows": 1868,
+      "size_bytes": 11332,
+      "line": "disney",
+      "depart_month": "2028-02"
+    },
+    {
+      "path": "line=disney/depart_month=2028-03/part-0000.parquet",
+      "rows": 1056,
+      "size_bytes": 8640,
+      "line": "disney",
+      "depart_month": "2028-03"
+    },
+    {
+      "path": "line=holland-america/depart_month=2026-09/part-0000.parquet",
+      "rows": 9334,
+      "size_bytes": 49310,
+      "line": "holland-america",
+      "depart_month": "2026-09"
+    },
+    {
+      "path": "line=holland-america/depart_month=2026-10/part-0000.parquet",
+      "rows": 8944,
+      "size_bytes": 43567,
+      "line": "holland-america",
+      "depart_month": "2026-10"
+    },
+    {
+      "path": "line=holland-america/depart_month=2026-11/part-0000.parquet",
+      "rows": 16906,
+      "size_bytes": 78424,
+      "line": "holland-america",
+      "depart_month": "2026-11"
+    },
+    {
+      "path": "line=holland-america/depart_month=2026-12/part-0000.parquet",
+      "rows": 22661,
+      "size_bytes": 109354,
+      "line": "holland-america",
+      "depart_month": "2026-12"
+    },
+    {
+      "path": "line=holland-america/depart_month=2027-01/part-0000.parquet",
+      "rows": 16931,
+      "size_bytes": 73161,
+      "line": "holland-america",
+      "depart_month": "2027-01"
+    },
+    {
+      "path": "line=holland-america/depart_month=2027-02/part-0000.parquet",
+      "rows": 11931,
+      "size_bytes": 53420,
+      "line": "holland-america",
+      "depart_month": "2027-02"
+    },
+    {
+      "path": "line=holland-america/depart_month=2027-03/part-0000.parquet",
+      "rows": 14531,
+      "size_bytes": 63151,
+      "line": "holland-america",
+      "depart_month": "2027-03"
+    },
+    {
+      "path": "line=holland-america/depart_month=2027-04/part-0000.parquet",
+      "rows": 15066,
+      "size_bytes": 66901,
+      "line": "holland-america",
+      "depart_month": "2027-04"
+    },
+    {
+      "path": "line=holland-america/depart_month=2027-05/part-0000.parquet",
+      "rows": 45522,
+      "size_bytes": 201716,
+      "line": "holland-america",
+      "depart_month": "2027-05"
+    },
+    {
+      "path": "line=holland-america/depart_month=2027-06/part-0000.parquet",
+      "rows": 48418,
+      "size_bytes": 231003,
+      "line": "holland-america",
+      "depart_month": "2027-06"
+    },
+    {
+      "path": "line=holland-america/depart_month=2027-07/part-0000.parquet",
+      "rows": 52966,
+      "size_bytes": 240884,
+      "line": "holland-america",
+      "depart_month": "2027-07"
+    },
+    {
+      "path": "line=holland-america/depart_month=2027-08/part-0000.parquet",
+      "rows": 46762,
+      "size_bytes": 219462,
+      "line": "holland-america",
+      "depart_month": "2027-08"
+    },
+    {
+      "path": "line=holland-america/depart_month=2027-09/part-0000.parquet",
+      "rows": 20559,
+      "size_bytes": 96457,
+      "line": "holland-america",
+      "depart_month": "2027-09"
+    },
+    {
+      "path": "line=holland-america/depart_month=2027-10/part-0000.parquet",
+      "rows": 13940,
+      "size_bytes": 61457,
+      "line": "holland-america",
+      "depart_month": "2027-10"
+    },
+    {
+      "path": "line=holland-america/depart_month=2027-11/part-0000.parquet",
+      "rows": 9848,
+      "size_bytes": 38362,
+      "line": "holland-america",
+      "depart_month": "2027-11"
+    },
+    {
+      "path": "line=holland-america/depart_month=2027-12/part-0000.parquet",
+      "rows": 10794,
+      "size_bytes": 42777,
+      "line": "holland-america",
+      "depart_month": "2027-12"
+    },
+    {
+      "path": "line=holland-america/depart_month=2028-01/part-0000.parquet",
+      "rows": 8503,
+      "size_bytes": 35086,
+      "line": "holland-america",
+      "depart_month": "2028-01"
+    },
+    {
+      "path": "line=holland-america/depart_month=2028-02/part-0000.parquet",
+      "rows": 4289,
+      "size_bytes": 21285,
+      "line": "holland-america",
+      "depart_month": "2028-02"
+    },
+    {
+      "path": "line=holland-america/depart_month=2028-03/part-0000.parquet",
+      "rows": 999,
+      "size_bytes": 8556,
+      "line": "holland-america",
+      "depart_month": "2028-03"
+    },
+    {
+      "path": "line=msc/depart_month=2026-09/part-0000.parquet",
+      "rows": 96627,
+      "size_bytes": 547057,
+      "line": "msc",
+      "depart_month": "2026-09"
+    },
+    {
+      "path": "line=msc/depart_month=2026-10/part-0000.parquet",
+      "rows": 174440,
+      "size_bytes": 952874,
+      "line": "msc",
+      "depart_month": "2026-10"
+    },
+    {
+      "path": "line=msc/depart_month=2026-11/part-0000.parquet",
+      "rows": 128142,
+      "size_bytes": 679412,
+      "line": "msc",
+      "depart_month": "2026-11"
+    },
+    {
+      "path": "line=msc/depart_month=2026-12/part-0000.parquet",
+      "rows": 143479,
+      "size_bytes": 755701,
+      "line": "msc",
+      "depart_month": "2026-12"
+    },
+    {
+      "path": "line=msc/depart_month=2027-01/part-0000.parquet",
+      "rows": 147634,
+      "size_bytes": 731014,
+      "line": "msc",
+      "depart_month": "2027-01"
+    },
+    {
+      "path": "line=msc/depart_month=2027-02/part-0000.parquet",
+      "rows": 125286,
+      "size_bytes": 624761,
+      "line": "msc",
+      "depart_month": "2027-02"
+    },
+    {
+      "path": "line=msc/depart_month=2027-03/part-0000.parquet",
+      "rows": 137651,
+      "size_bytes": 690082,
+      "line": "msc",
+      "depart_month": "2027-03"
+    },
+    {
+      "path": "line=msc/depart_month=2027-04/part-0000.parquet",
+      "rows": 128797,
+      "size_bytes": 691163,
+      "line": "msc",
+      "depart_month": "2027-04"
+    },
+    {
+      "path": "line=msc/depart_month=2027-05/part-0000.parquet",
+      "rows": 150874,
+      "size_bytes": 810455,
+      "line": "msc",
+      "depart_month": "2027-05"
+    },
+    {
+      "path": "line=msc/depart_month=2027-06/part-0000.parquet",
+      "rows": 137847,
+      "size_bytes": 745458,
+      "line": "msc",
+      "depart_month": "2027-06"
+    },
+    {
+      "path": "line=msc/depart_month=2027-07/part-0000.parquet",
+      "rows": 149119,
+      "size_bytes": 803188,
+      "line": "msc",
+      "depart_month": "2027-07"
+    },
+    {
+      "path": "line=msc/depart_month=2027-08/part-0000.parquet",
+      "rows": 146741,
+      "size_bytes": 784764,
+      "line": "msc",
+      "depart_month": "2027-08"
+    },
+    {
+      "path": "line=msc/depart_month=2027-09/part-0000.parquet",
+      "rows": 135183,
+      "size_bytes": 725461,
+      "line": "msc",
+      "depart_month": "2027-09"
+    },
+    {
+      "path": "line=msc/depart_month=2027-10/part-0000.parquet",
+      "rows": 137786,
+      "size_bytes": 722729,
+      "line": "msc",
+      "depart_month": "2027-10"
+    },
+    {
+      "path": "line=msc/depart_month=2027-11/part-0000.parquet",
+      "rows": 83359,
+      "size_bytes": 409090,
+      "line": "msc",
+      "depart_month": "2027-11"
+    },
+    {
+      "path": "line=msc/depart_month=2027-12/part-0000.parquet",
+      "rows": 74496,
+      "size_bytes": 351828,
+      "line": "msc",
+      "depart_month": "2027-12"
+    },
+    {
+      "path": "line=msc/depart_month=2028-01/part-0000.parquet",
+      "rows": 53534,
+      "size_bytes": 243006,
+      "line": "msc",
+      "depart_month": "2028-01"
+    },
+    {
+      "path": "line=msc/depart_month=2028-02/part-0000.parquet",
+      "rows": 34965,
+      "size_bytes": 160247,
+      "line": "msc",
+      "depart_month": "2028-02"
+    },
+    {
+      "path": "line=msc/depart_month=2028-03/part-0000.parquet",
+      "rows": 11990,
+      "size_bytes": 61421,
+      "line": "msc",
+      "depart_month": "2028-03"
+    },
+    {
+      "path": "line=norwegian/depart_month=2026-09/part-0000.parquet",
+      "rows": 47561,
+      "size_bytes": 245920,
+      "line": "norwegian",
+      "depart_month": "2026-09"
+    },
+    {
+      "path": "line=norwegian/depart_month=2026-10/part-0000.parquet",
+      "rows": 59382,
+      "size_bytes": 303013,
+      "line": "norwegian",
+      "depart_month": "2026-10"
+    },
+    {
+      "path": "line=norwegian/depart_month=2026-11/part-0000.parquet",
+      "rows": 80236,
+      "size_bytes": 398341,
+      "line": "norwegian",
+      "depart_month": "2026-11"
+    },
+    {
+      "path": "line=norwegian/depart_month=2026-12/part-0000.parquet",
+      "rows": 77192,
+      "size_bytes": 386278,
+      "line": "norwegian",
+      "depart_month": "2026-12"
+    },
+    {
+      "path": "line=norwegian/depart_month=2027-01/part-0000.parquet",
+      "rows": 77208,
+      "size_bytes": 371468,
+      "line": "norwegian",
+      "depart_month": "2027-01"
+    },
+    {
+      "path": "line=norwegian/depart_month=2027-02/part-0000.parquet",
+      "rows": 61046,
+      "size_bytes": 302819,
+      "line": "norwegian",
+      "depart_month": "2027-02"
+    },
+    {
+      "path": "line=norwegian/depart_month=2027-03/part-0000.parquet",
+      "rows": 69370,
+      "size_bytes": 346454,
+      "line": "norwegian",
+      "depart_month": "2027-03"
+    },
+    {
+      "path": "line=norwegian/depart_month=2027-04/part-0000.parquet",
+      "rows": 44959,
+      "size_bytes": 226765,
+      "line": "norwegian",
+      "depart_month": "2027-04"
+    },
+    {
+      "path": "line=norwegian/depart_month=2027-05/part-0000.parquet",
+      "rows": 74013,
+      "size_bytes": 367135,
+      "line": "norwegian",
+      "depart_month": "2027-05"
+    },
+    {
+      "path": "line=norwegian/depart_month=2027-06/part-0000.parquet",
+      "rows": 74610,
+      "size_bytes": 367209,
+      "line": "norwegian",
+      "depart_month": "2027-06"
+    },
+    {
+      "path": "line=norwegian/depart_month=2027-07/part-0000.parquet",
+      "rows": 77985,
+      "size_bytes": 382517,
+      "line": "norwegian",
+      "depart_month": "2027-07"
+    },
+    {
+      "path": "line=norwegian/depart_month=2027-08/part-0000.parquet",
+      "rows": 78795,
+      "size_bytes": 375916,
+      "line": "norwegian",
+      "depart_month": "2027-08"
+    },
+    {
+      "path": "line=norwegian/depart_month=2027-09/part-0000.parquet",
+      "rows": 63461,
+      "size_bytes": 305461,
+      "line": "norwegian",
+      "depart_month": "2027-09"
+    },
+    {
+      "path": "line=norwegian/depart_month=2027-10/part-0000.parquet",
+      "rows": 57380,
+      "size_bytes": 274919,
+      "line": "norwegian",
+      "depart_month": "2027-10"
+    },
+    {
+      "path": "line=norwegian/depart_month=2027-11/part-0000.parquet",
+      "rows": 45666,
+      "size_bytes": 209930,
+      "line": "norwegian",
+      "depart_month": "2027-11"
+    },
+    {
+      "path": "line=norwegian/depart_month=2027-12/part-0000.parquet",
+      "rows": 37597,
+      "size_bytes": 177636,
+      "line": "norwegian",
+      "depart_month": "2027-12"
+    },
+    {
+      "path": "line=norwegian/depart_month=2028-01/part-0000.parquet",
+      "rows": 24645,
+      "size_bytes": 118715,
+      "line": "norwegian",
+      "depart_month": "2028-01"
+    },
+    {
+      "path": "line=norwegian/depart_month=2028-02/part-0000.parquet",
+      "rows": 13346,
+      "size_bytes": 61678,
+      "line": "norwegian",
+      "depart_month": "2028-02"
+    },
+    {
+      "path": "line=norwegian/depart_month=2028-03/part-0000.parquet",
+      "rows": 4343,
+      "size_bytes": 24410,
+      "line": "norwegian",
+      "depart_month": "2028-03"
+    },
+    {
+      "path": "line=oceania/depart_month=2026-09/part-0000.parquet",
+      "rows": 3491,
+      "size_bytes": 19701,
+      "line": "oceania",
+      "depart_month": "2026-09"
+    },
+    {
+      "path": "line=oceania/depart_month=2026-10/part-0000.parquet",
+      "rows": 5153,
+      "size_bytes": 29705,
+      "line": "oceania",
+      "depart_month": "2026-10"
+    },
+    {
+      "path": "line=oceania/depart_month=2026-11/part-0000.parquet",
+      "rows": 7535,
+      "size_bytes": 42231,
+      "line": "oceania",
+      "depart_month": "2026-11"
+    },
+    {
+      "path": "line=oceania/depart_month=2026-12/part-0000.parquet",
+      "rows": 8194,
+      "size_bytes": 47619,
+      "line": "oceania",
+      "depart_month": "2026-12"
+    },
+    {
+      "path": "line=oceania/depart_month=2027-01/part-0000.parquet",
+      "rows": 5736,
+      "size_bytes": 31464,
+      "line": "oceania",
+      "depart_month": "2027-01"
+    },
+    {
+      "path": "line=oceania/depart_month=2027-02/part-0000.parquet",
+      "rows": 4356,
+      "size_bytes": 27858,
+      "line": "oceania",
+      "depart_month": "2027-02"
+    },
+    {
+      "path": "line=oceania/depart_month=2027-03/part-0000.parquet",
+      "rows": 6093,
+      "size_bytes": 31469,
+      "line": "oceania",
+      "depart_month": "2027-03"
+    },
+    {
+      "path": "line=oceania/depart_month=2027-04/part-0000.parquet",
+      "rows": 7071,
+      "size_bytes": 33746,
+      "line": "oceania",
+      "depart_month": "2027-04"
+    },
+    {
+      "path": "line=oceania/depart_month=2027-05/part-0000.parquet",
+      "rows": 7482,
+      "size_bytes": 33819,
+      "line": "oceania",
+      "depart_month": "2027-05"
+    },
+    {
+      "path": "line=oceania/depart_month=2027-06/part-0000.parquet",
+      "rows": 8904,
+      "size_bytes": 40833,
+      "line": "oceania",
+      "depart_month": "2027-06"
+    },
+    {
+      "path": "line=oceania/depart_month=2027-07/part-0000.parquet",
+      "rows": 8552,
+      "size_bytes": 38207,
+      "line": "oceania",
+      "depart_month": "2027-07"
+    },
+    {
+      "path": "line=oceania/depart_month=2027-08/part-0000.parquet",
+      "rows": 8081,
+      "size_bytes": 40633,
+      "line": "oceania",
+      "depart_month": "2027-08"
+    },
+    {
+      "path": "line=oceania/depart_month=2027-09/part-0000.parquet",
+      "rows": 8048,
+      "size_bytes": 36956,
+      "line": "oceania",
+      "depart_month": "2027-09"
+    },
+    {
+      "path": "line=oceania/depart_month=2027-10/part-0000.parquet",
+      "rows": 8644,
+      "size_bytes": 40947,
+      "line": "oceania",
+      "depart_month": "2027-10"
+    },
+    {
+      "path": "line=oceania/depart_month=2027-11/part-0000.parquet",
+      "rows": 5512,
+      "size_bytes": 27693,
+      "line": "oceania",
+      "depart_month": "2027-11"
+    },
+    {
+      "path": "line=oceania/depart_month=2027-12/part-0000.parquet",
+      "rows": 2724,
+      "size_bytes": 14774,
+      "line": "oceania",
+      "depart_month": "2027-12"
+    },
+    {
+      "path": "line=oceania/depart_month=2028-01/part-0000.parquet",
+      "rows": 1768,
+      "size_bytes": 11599,
+      "line": "oceania",
+      "depart_month": "2028-01"
+    },
+    {
+      "path": "line=oceania/depart_month=2028-02/part-0000.parquet",
+      "rows": 1634,
+      "size_bytes": 12325,
+      "line": "oceania",
+      "depart_month": "2028-02"
+    },
+    {
+      "path": "line=oceania/depart_month=2028-03/part-0000.parquet",
+      "rows": 842,
+      "size_bytes": 8381,
+      "line": "oceania",
+      "depart_month": "2028-03"
+    },
+    {
+      "path": "line=oceania/depart_month=2028-04/part-0000.parquet",
+      "rows": 323,
+      "size_bytes": 5769,
+      "line": "oceania",
+      "depart_month": "2028-04"
+    },
+    {
+      "path": "line=oceania/depart_month=2028-05/part-0000.parquet",
+      "rows": 352,
+      "size_bytes": 5620,
+      "line": "oceania",
+      "depart_month": "2028-05"
+    },
+    {
+      "path": "line=oceania/depart_month=2028-06/part-0000.parquet",
+      "rows": 354,
+      "size_bytes": 5677,
+      "line": "oceania",
+      "depart_month": "2028-06"
+    },
+    {
+      "path": "line=oceania/depart_month=2028-07/part-0000.parquet",
+      "rows": 424,
+      "size_bytes": 6091,
+      "line": "oceania",
+      "depart_month": "2028-07"
+    },
+    {
+      "path": "line=oceania/depart_month=2028-08/part-0000.parquet",
+      "rows": 462,
+      "size_bytes": 6282,
+      "line": "oceania",
+      "depart_month": "2028-08"
+    },
+    {
+      "path": "line=oceania/depart_month=2028-09/part-0000.parquet",
+      "rows": 286,
+      "size_bytes": 5388,
+      "line": "oceania",
+      "depart_month": "2028-09"
+    },
+    {
+      "path": "line=princess/depart_month=2026-09/part-0000.parquet",
+      "rows": 24176,
+      "size_bytes": 152043,
+      "line": "princess",
+      "depart_month": "2026-09"
+    },
+    {
+      "path": "line=princess/depart_month=2026-10/part-0000.parquet",
+      "rows": 32184,
+      "size_bytes": 193785,
+      "line": "princess",
+      "depart_month": "2026-10"
+    },
+    {
+      "path": "line=princess/depart_month=2026-11/part-0000.parquet",
+      "rows": 41518,
+      "size_bytes": 234954,
+      "line": "princess",
+      "depart_month": "2026-11"
+    },
+    {
+      "path": "line=princess/depart_month=2026-12/part-0000.parquet",
+      "rows": 40609,
+      "size_bytes": 224671,
+      "line": "princess",
+      "depart_month": "2026-12"
+    },
+    {
+      "path": "line=princess/depart_month=2027-01/part-0000.parquet",
+      "rows": 49375,
+      "size_bytes": 279426,
+      "line": "princess",
+      "depart_month": "2027-01"
+    },
+    {
+      "path": "line=princess/depart_month=2027-02/part-0000.parquet",
+      "rows": 38638,
+      "size_bytes": 221016,
+      "line": "princess",
+      "depart_month": "2027-02"
+    },
+    {
+      "path": "line=princess/depart_month=2027-03/part-0000.parquet",
+      "rows": 38902,
+      "size_bytes": 227189,
+      "line": "princess",
+      "depart_month": "2027-03"
+    },
+    {
+      "path": "line=princess/depart_month=2027-04/part-0000.parquet",
+      "rows": 25890,
+      "size_bytes": 157441,
+      "line": "princess",
+      "depart_month": "2027-04"
+    },
+    {
+      "path": "line=princess/depart_month=2027-05/part-0000.parquet",
+      "rows": 57405,
+      "size_bytes": 317088,
+      "line": "princess",
+      "depart_month": "2027-05"
+    },
+    {
+      "path": "line=princess/depart_month=2027-06/part-0000.parquet",
+      "rows": 61795,
+      "size_bytes": 343130,
+      "line": "princess",
+      "depart_month": "2027-06"
+    },
+    {
+      "path": "line=princess/depart_month=2027-07/part-0000.parquet",
+      "rows": 64905,
+      "size_bytes": 354322,
+      "line": "princess",
+      "depart_month": "2027-07"
+    },
+    {
+      "path": "line=princess/depart_month=2027-08/part-0000.parquet",
+      "rows": 55734,
+      "size_bytes": 302574,
+      "line": "princess",
+      "depart_month": "2027-08"
+    },
+    {
+      "path": "line=princess/depart_month=2027-09/part-0000.parquet",
+      "rows": 35643,
+      "size_bytes": 202526,
+      "line": "princess",
+      "depart_month": "2027-09"
+    },
+    {
+      "path": "line=princess/depart_month=2027-10/part-0000.parquet",
+      "rows": 27860,
+      "size_bytes": 165902,
+      "line": "princess",
+      "depart_month": "2027-10"
+    },
+    {
+      "path": "line=princess/depart_month=2027-11/part-0000.parquet",
+      "rows": 24864,
+      "size_bytes": 145152,
+      "line": "princess",
+      "depart_month": "2027-11"
+    },
+    {
+      "path": "line=princess/depart_month=2027-12/part-0000.parquet",
+      "rows": 23275,
+      "size_bytes": 135447,
+      "line": "princess",
+      "depart_month": "2027-12"
+    },
+    {
+      "path": "line=princess/depart_month=2028-01/part-0000.parquet",
+      "rows": 19751,
+      "size_bytes": 95997,
+      "line": "princess",
+      "depart_month": "2028-01"
+    },
+    {
+      "path": "line=princess/depart_month=2028-02/part-0000.parquet",
+      "rows": 7923,
+      "size_bytes": 38183,
+      "line": "princess",
+      "depart_month": "2028-02"
+    },
+    {
+      "path": "line=princess/depart_month=2028-03/part-0000.parquet",
+      "rows": 2817,
+      "size_bytes": 17383,
+      "line": "princess",
+      "depart_month": "2028-03"
+    },
+    {
+      "path": "line=regent-seven-seas/depart_month=2026-09/part-0000.parquet",
+      "rows": 670,
+      "size_bytes": 11294,
+      "line": "regent-seven-seas",
+      "depart_month": "2026-09"
+    },
+    {
+      "path": "line=regent-seven-seas/depart_month=2026-10/part-0000.parquet",
+      "rows": 101,
+      "size_bytes": 5120,
+      "line": "regent-seven-seas",
+      "depart_month": "2026-10"
+    },
+    {
+      "path": "line=regent-seven-seas/depart_month=2026-11/part-0000.parquet",
+      "rows": 161,
+      "size_bytes": 6155,
+      "line": "regent-seven-seas",
+      "depart_month": "2026-11"
+    },
+    {
+      "path": "line=regent-seven-seas/depart_month=2026-12/part-0000.parquet",
+      "rows": 1092,
+      "size_bytes": 15362,
+      "line": "regent-seven-seas",
+      "depart_month": "2026-12"
+    },
+    {
+      "path": "line=regent-seven-seas/depart_month=2027-01/part-0000.parquet",
+      "rows": 932,
+      "size_bytes": 13966,
+      "line": "regent-seven-seas",
+      "depart_month": "2027-01"
+    },
+    {
+      "path": "line=regent-seven-seas/depart_month=2027-02/part-0000.parquet",
+      "rows": 912,
+      "size_bytes": 13582,
+      "line": "regent-seven-seas",
+      "depart_month": "2027-02"
+    },
+    {
+      "path": "line=regent-seven-seas/depart_month=2027-03/part-0000.parquet",
+      "rows": 756,
+      "size_bytes": 12040,
+      "line": "regent-seven-seas",
+      "depart_month": "2027-03"
+    },
+    {
+      "path": "line=regent-seven-seas/depart_month=2027-04/part-0000.parquet",
+      "rows": 1053,
+      "size_bytes": 15053,
+      "line": "regent-seven-seas",
+      "depart_month": "2027-04"
+    },
+    {
+      "path": "line=regent-seven-seas/depart_month=2027-05/part-0000.parquet",
+      "rows": 1142,
+      "size_bytes": 15916,
+      "line": "regent-seven-seas",
+      "depart_month": "2027-05"
+    },
+    {
+      "path": "line=regent-seven-seas/depart_month=2027-06/part-0000.parquet",
+      "rows": 2313,
+      "size_bytes": 25163,
+      "line": "regent-seven-seas",
+      "depart_month": "2027-06"
+    },
+    {
+      "path": "line=regent-seven-seas/depart_month=2027-07/part-0000.parquet",
+      "rows": 2380,
+      "size_bytes": 25557,
+      "line": "regent-seven-seas",
+      "depart_month": "2027-07"
+    },
+    {
+      "path": "line=regent-seven-seas/depart_month=2027-08/part-0000.parquet",
+      "rows": 2593,
+      "size_bytes": 27007,
+      "line": "regent-seven-seas",
+      "depart_month": "2027-08"
+    },
+    {
+      "path": "line=regent-seven-seas/depart_month=2027-09/part-0000.parquet",
+      "rows": 2319,
+      "size_bytes": 24921,
+      "line": "regent-seven-seas",
+      "depart_month": "2027-09"
+    },
+    {
+      "path": "line=regent-seven-seas/depart_month=2027-10/part-0000.parquet",
+      "rows": 2002,
+      "size_bytes": 21830,
+      "line": "regent-seven-seas",
+      "depart_month": "2027-10"
+    },
+    {
+      "path": "line=regent-seven-seas/depart_month=2027-11/part-0000.parquet",
+      "rows": 2056,
+      "size_bytes": 23025,
+      "line": "regent-seven-seas",
+      "depart_month": "2027-11"
+    },
+    {
+      "path": "line=regent-seven-seas/depart_month=2027-12/part-0000.parquet",
+      "rows": 1008,
+      "size_bytes": 13425,
+      "line": "regent-seven-seas",
+      "depart_month": "2027-12"
+    },
+    {
+      "path": "line=regent-seven-seas/depart_month=2028-01/part-0000.parquet",
+      "rows": 684,
+      "size_bytes": 10534,
+      "line": "regent-seven-seas",
+      "depart_month": "2028-01"
+    },
+    {
+      "path": "line=regent-seven-seas/depart_month=2028-02/part-0000.parquet",
+      "rows": 298,
+      "size_bytes": 6890,
+      "line": "regent-seven-seas",
+      "depart_month": "2028-02"
+    },
+    {
+      "path": "line=regent-seven-seas/depart_month=2028-03/part-0000.parquet",
+      "rows": 167,
+      "size_bytes": 5799,
+      "line": "regent-seven-seas",
+      "depart_month": "2028-03"
+    },
+    {
+      "path": "line=regent-seven-seas/depart_month=2028-04/part-0000.parquet",
+      "rows": 121,
+      "size_bytes": 5084,
+      "line": "regent-seven-seas",
+      "depart_month": "2028-04"
+    },
+    {
+      "path": "line=regent-seven-seas/depart_month=2028-05/part-0000.parquet",
+      "rows": 120,
+      "size_bytes": 5119,
+      "line": "regent-seven-seas",
+      "depart_month": "2028-05"
+    },
+    {
+      "path": "line=regent-seven-seas/depart_month=2028-06/part-0000.parquet",
+      "rows": 154,
+      "size_bytes": 5379,
+      "line": "regent-seven-seas",
+      "depart_month": "2028-06"
+    },
+    {
+      "path": "line=regent-seven-seas/depart_month=2028-07/part-0000.parquet",
+      "rows": 154,
+      "size_bytes": 5371,
+      "line": "regent-seven-seas",
+      "depart_month": "2028-07"
+    },
+    {
+      "path": "line=regent-seven-seas/depart_month=2028-08/part-0000.parquet",
+      "rows": 220,
+      "size_bytes": 6107,
+      "line": "regent-seven-seas",
+      "depart_month": "2028-08"
+    },
+    {
+      "path": "line=regent-seven-seas/depart_month=2028-09/part-0000.parquet",
+      "rows": 121,
+      "size_bytes": 5028,
+      "line": "regent-seven-seas",
+      "depart_month": "2028-09"
+    },
+    {
+      "path": "line=royal-caribbean/depart_month=2026-09/part-0000.parquet",
+      "rows": 88167,
+      "size_bytes": 494036,
+      "line": "royal-caribbean",
+      "depart_month": "2026-09"
+    },
+    {
+      "path": "line=royal-caribbean/depart_month=2026-10/part-0000.parquet",
+      "rows": 142129,
+      "size_bytes": 772268,
+      "line": "royal-caribbean",
+      "depart_month": "2026-10"
+    },
+    {
+      "path": "line=royal-caribbean/depart_month=2026-11/part-0000.parquet",
+      "rows": 146962,
+      "size_bytes": 791655,
+      "line": "royal-caribbean",
+      "depart_month": "2026-11"
+    },
+    {
+      "path": "line=royal-caribbean/depart_month=2026-12/part-0000.parquet",
+      "rows": 128060,
+      "size_bytes": 692295,
+      "line": "royal-caribbean",
+      "depart_month": "2026-12"
+    },
+    {
+      "path": "line=royal-caribbean/depart_month=2027-01/part-0000.parquet",
+      "rows": 136812,
+      "size_bytes": 740547,
+      "line": "royal-caribbean",
+      "depart_month": "2027-01"
+    },
+    {
+      "path": "line=royal-caribbean/depart_month=2027-02/part-0000.parquet",
+      "rows": 115407,
+      "size_bytes": 625361,
+      "line": "royal-caribbean",
+      "depart_month": "2027-02"
+    },
+    {
+      "path": "line=royal-caribbean/depart_month=2027-03/part-0000.parquet",
+      "rows": 118242,
+      "size_bytes": 641576,
+      "line": "royal-caribbean",
+      "depart_month": "2027-03"
+    },
+    {
+      "path": "line=royal-caribbean/depart_month=2027-04/part-0000.parquet",
+      "rows": 101954,
+      "size_bytes": 545642,
+      "line": "royal-caribbean",
+      "depart_month": "2027-04"
+    },
+    {
+      "path": "line=royal-caribbean/depart_month=2027-05/part-0000.parquet",
+      "rows": 102068,
+      "size_bytes": 547040,
+      "line": "royal-caribbean",
+      "depart_month": "2027-05"
+    },
+    {
+      "path": "line=royal-caribbean/depart_month=2027-06/part-0000.parquet",
+      "rows": 95770,
+      "size_bytes": 509744,
+      "line": "royal-caribbean",
+      "depart_month": "2027-06"
+    },
+    {
+      "path": "line=royal-caribbean/depart_month=2027-07/part-0000.parquet",
+      "rows": 108671,
+      "size_bytes": 562757,
+      "line": "royal-caribbean",
+      "depart_month": "2027-07"
+    },
+    {
+      "path": "line=royal-caribbean/depart_month=2027-08/part-0000.parquet",
+      "rows": 108567,
+      "size_bytes": 561598,
+      "line": "royal-caribbean",
+      "depart_month": "2027-08"
+    },
+    {
+      "path": "line=royal-caribbean/depart_month=2027-09/part-0000.parquet",
+      "rows": 97919,
+      "size_bytes": 500076,
+      "line": "royal-caribbean",
+      "depart_month": "2027-09"
+    },
+    {
+      "path": "line=royal-caribbean/depart_month=2027-10/part-0000.parquet",
+      "rows": 96668,
+      "size_bytes": 493023,
+      "line": "royal-caribbean",
+      "depart_month": "2027-10"
+    },
+    {
+      "path": "line=royal-caribbean/depart_month=2027-11/part-0000.parquet",
+      "rows": 75853,
+      "size_bytes": 386648,
+      "line": "royal-caribbean",
+      "depart_month": "2027-11"
+    },
+    {
+      "path": "line=royal-caribbean/depart_month=2027-12/part-0000.parquet",
+      "rows": 70766,
+      "size_bytes": 368456,
+      "line": "royal-caribbean",
+      "depart_month": "2027-12"
+    },
+    {
+      "path": "line=royal-caribbean/depart_month=2028-01/part-0000.parquet",
+      "rows": 50600,
+      "size_bytes": 262995,
+      "line": "royal-caribbean",
+      "depart_month": "2028-01"
+    },
+    {
+      "path": "line=royal-caribbean/depart_month=2028-02/part-0000.parquet",
+      "rows": 26439,
+      "size_bytes": 135648,
+      "line": "royal-caribbean",
+      "depart_month": "2028-02"
+    },
+    {
+      "path": "line=royal-caribbean/depart_month=2028-03/part-0000.parquet",
+      "rows": 8651,
+      "size_bytes": 49981,
+      "line": "royal-caribbean",
+      "depart_month": "2028-03"
+    },
+    {
+      "path": "line=seabourn/depart_month=2026-09/part-0000.parquet",
+      "rows": 2317,
+      "size_bytes": 19831,
+      "line": "seabourn",
+      "depart_month": "2026-09"
+    },
+    {
+      "path": "line=seabourn/depart_month=2026-10/part-0000.parquet",
+      "rows": 3622,
+      "size_bytes": 26993,
+      "line": "seabourn",
+      "depart_month": "2026-10"
+    },
+    {
+      "path": "line=seabourn/depart_month=2026-11/part-0000.parquet",
+      "rows": 3736,
+      "size_bytes": 28776,
+      "line": "seabourn",
+      "depart_month": "2026-11"
+    },
+    {
+      "path": "line=seabourn/depart_month=2026-12/part-0000.parquet",
+      "rows": 5030,
+      "size_bytes": 36991,
+      "line": "seabourn",
+      "depart_month": "2026-12"
+    },
+    {
+      "path": "line=seabourn/depart_month=2027-01/part-0000.parquet",
+      "rows": 4368,
+      "size_bytes": 32894,
+      "line": "seabourn",
+      "depart_month": "2027-01"
+    },
+    {
+      "path": "line=seabourn/depart_month=2027-02/part-0000.parquet",
+      "rows": 4048,
+      "size_bytes": 30751,
+      "line": "seabourn",
+      "depart_month": "2027-02"
+    },
+    {
+      "path": "line=seabourn/depart_month=2027-03/part-0000.parquet",
+      "rows": 4723,
+      "size_bytes": 36109,
+      "line": "seabourn",
+      "depart_month": "2027-03"
+    },
+    {
+      "path": "line=seabourn/depart_month=2027-04/part-0000.parquet",
+      "rows": 2238,
+      "size_bytes": 19738,
+      "line": "seabourn",
+      "depart_month": "2027-04"
+    },
+    {
+      "path": "line=seabourn/depart_month=2027-05/part-0000.parquet",
+      "rows": 4932,
+      "size_bytes": 36816,
+      "line": "seabourn",
+      "depart_month": "2027-05"
+    },
+    {
+      "path": "line=seabourn/depart_month=2027-06/part-0000.parquet",
+      "rows": 4431,
+      "size_bytes": 33326,
+      "line": "seabourn",
+      "depart_month": "2027-06"
+    },
+    {
+      "path": "line=seabourn/depart_month=2027-07/part-0000.parquet",
+      "rows": 4408,
+      "size_bytes": 33858,
+      "line": "seabourn",
+      "depart_month": "2027-07"
+    },
+    {
+      "path": "line=seabourn/depart_month=2027-08/part-0000.parquet",
+      "rows": 4559,
+      "size_bytes": 34204,
+      "line": "seabourn",
+      "depart_month": "2027-08"
+    },
+    {
+      "path": "line=seabourn/depart_month=2027-09/part-0000.parquet",
+      "rows": 3185,
+      "size_bytes": 25236,
+      "line": "seabourn",
+      "depart_month": "2027-09"
+    },
+    {
+      "path": "line=seabourn/depart_month=2027-10/part-0000.parquet",
+      "rows": 3644,
+      "size_bytes": 27297,
+      "line": "seabourn",
+      "depart_month": "2027-10"
+    },
+    {
+      "path": "line=seabourn/depart_month=2027-11/part-0000.parquet",
+      "rows": 2723,
+      "size_bytes": 21749,
+      "line": "seabourn",
+      "depart_month": "2027-11"
+    },
+    {
+      "path": "line=seabourn/depart_month=2027-12/part-0000.parquet",
+      "rows": 3154,
+      "size_bytes": 23720,
+      "line": "seabourn",
+      "depart_month": "2027-12"
+    },
+    {
+      "path": "line=seabourn/depart_month=2028-01/part-0000.parquet",
+      "rows": 1848,
+      "size_bytes": 16334,
+      "line": "seabourn",
+      "depart_month": "2028-01"
+    },
+    {
+      "path": "line=seabourn/depart_month=2028-02/part-0000.parquet",
+      "rows": 798,
+      "size_bytes": 9310,
+      "line": "seabourn",
+      "depart_month": "2028-02"
+    },
+    {
+      "path": "line=seabourn/depart_month=2028-03/part-0000.parquet",
+      "rows": 362,
+      "size_bytes": 6710,
+      "line": "seabourn",
+      "depart_month": "2028-03"
+    },
+    {
+      "path": "line=seabourn/depart_month=2028-04/part-0000.parquet",
+      "rows": 224,
+      "size_bytes": 5417,
+      "line": "seabourn",
+      "depart_month": "2028-04"
+    },
+    {
+      "path": "line=seabourn/depart_month=2028-05/part-0000.parquet",
+      "rows": 586,
+      "size_bytes": 7957,
+      "line": "seabourn",
+      "depart_month": "2028-05"
+    },
+    {
+      "path": "line=seabourn/depart_month=2028-06/part-0000.parquet",
+      "rows": 498,
+      "size_bytes": 7397,
+      "line": "seabourn",
+      "depart_month": "2028-06"
+    },
+    {
+      "path": "line=seabourn/depart_month=2028-07/part-0000.parquet",
+      "rows": 444,
+      "size_bytes": 7131,
+      "line": "seabourn",
+      "depart_month": "2028-07"
+    },
+    {
+      "path": "line=seabourn/depart_month=2028-08/part-0000.parquet",
+      "rows": 484,
+      "size_bytes": 7160,
+      "line": "seabourn",
+      "depart_month": "2028-08"
+    },
+    {
+      "path": "line=seabourn/depart_month=2028-09/part-0000.parquet",
+      "rows": 388,
+      "size_bytes": 6830,
+      "line": "seabourn",
+      "depart_month": "2028-09"
+    },
+    {
+      "path": "line=silversea/depart_month=2026-09/part-0000.parquet",
+      "rows": 1310,
+      "size_bytes": 19492,
+      "line": "silversea",
+      "depart_month": "2026-09"
+    },
+    {
+      "path": "line=silversea/depart_month=2026-10/part-0000.parquet",
+      "rows": 3115,
+      "size_bytes": 36313,
+      "line": "silversea",
+      "depart_month": "2026-10"
+    },
+    {
+      "path": "line=silversea/depart_month=2026-11/part-0000.parquet",
+      "rows": 4486,
+      "size_bytes": 49714,
+      "line": "silversea",
+      "depart_month": "2026-11"
+    },
+    {
+      "path": "line=silversea/depart_month=2026-12/part-0000.parquet",
+      "rows": 4168,
+      "size_bytes": 47603,
+      "line": "silversea",
+      "depart_month": "2026-12"
+    },
+    {
+      "path": "line=silversea/depart_month=2027-01/part-0000.parquet",
+      "rows": 4063,
+      "size_bytes": 45003,
+      "line": "silversea",
+      "depart_month": "2027-01"
+    },
+    {
+      "path": "line=silversea/depart_month=2027-02/part-0000.parquet",
+      "rows": 3971,
+      "size_bytes": 43905,
+      "line": "silversea",
+      "depart_month": "2027-02"
+    },
+    {
+      "path": "line=silversea/depart_month=2027-03/part-0000.parquet",
+      "rows": 3138,
+      "size_bytes": 36900,
+      "line": "silversea",
+      "depart_month": "2027-03"
+    },
+    {
+      "path": "line=silversea/depart_month=2027-04/part-0000.parquet",
+      "rows": 2884,
+      "size_bytes": 32873,
+      "line": "silversea",
+      "depart_month": "2027-04"
+    },
+    {
+      "path": "line=silversea/depart_month=2027-05/part-0000.parquet",
+      "rows": 4077,
+      "size_bytes": 43605,
+      "line": "silversea",
+      "depart_month": "2027-05"
+    },
+    {
+      "path": "line=silversea/depart_month=2027-06/part-0000.parquet",
+      "rows": 4798,
+      "size_bytes": 51816,
+      "line": "silversea",
+      "depart_month": "2027-06"
+    },
+    {
+      "path": "line=silversea/depart_month=2027-07/part-0000.parquet",
+      "rows": 5720,
+      "size_bytes": 60655,
+      "line": "silversea",
+      "depart_month": "2027-07"
+    },
+    {
+      "path": "line=silversea/depart_month=2027-08/part-0000.parquet",
+      "rows": 4424,
+      "size_bytes": 47295,
+      "line": "silversea",
+      "depart_month": "2027-08"
+    },
+    {
+      "path": "line=silversea/depart_month=2027-09/part-0000.parquet",
+      "rows": 4499,
+      "size_bytes": 48936,
+      "line": "silversea",
+      "depart_month": "2027-09"
+    },
+    {
+      "path": "line=silversea/depart_month=2027-10/part-0000.parquet",
+      "rows": 4439,
+      "size_bytes": 47506,
+      "line": "silversea",
+      "depart_month": "2027-10"
+    },
+    {
+      "path": "line=silversea/depart_month=2027-11/part-0000.parquet",
+      "rows": 4002,
+      "size_bytes": 42140,
+      "line": "silversea",
+      "depart_month": "2027-11"
+    },
+    {
+      "path": "line=silversea/depart_month=2027-12/part-0000.parquet",
+      "rows": 3967,
+      "size_bytes": 41913,
+      "line": "silversea",
+      "depart_month": "2027-12"
+    },
+    {
+      "path": "line=silversea/depart_month=2028-01/part-0000.parquet",
+      "rows": 2354,
+      "size_bytes": 26345,
+      "line": "silversea",
+      "depart_month": "2028-01"
+    },
+    {
+      "path": "line=silversea/depart_month=2028-02/part-0000.parquet",
+      "rows": 1340,
+      "size_bytes": 17414,
+      "line": "silversea",
+      "depart_month": "2028-02"
+    },
+    {
+      "path": "line=silversea/depart_month=2028-03/part-0000.parquet",
+      "rows": 346,
+      "size_bytes": 8044,
+      "line": "silversea",
+      "depart_month": "2028-03"
+    },
+    {
+      "path": "line=silversea/depart_month=2028-04/part-0000.parquet",
+      "rows": 342,
+      "size_bytes": 7564,
+      "line": "silversea",
+      "depart_month": "2028-04"
+    },
+    {
+      "path": "line=silversea/depart_month=2028-05/part-0000.parquet",
+      "rows": 360,
+      "size_bytes": 7819,
+      "line": "silversea",
+      "depart_month": "2028-05"
+    },
+    {
+      "path": "line=silversea/depart_month=2028-06/part-0000.parquet",
+      "rows": 404,
+      "size_bytes": 8177,
+      "line": "silversea",
+      "depart_month": "2028-06"
+    },
+    {
+      "path": "line=silversea/depart_month=2028-07/part-0000.parquet",
+      "rows": 467,
+      "size_bytes": 8691,
+      "line": "silversea",
+      "depart_month": "2028-07"
+    },
+    {
+      "path": "line=silversea/depart_month=2028-08/part-0000.parquet",
+      "rows": 444,
+      "size_bytes": 8498,
+      "line": "silversea",
+      "depart_month": "2028-08"
+    },
+    {
+      "path": "line=silversea/depart_month=2028-09/part-0000.parquet",
+      "rows": 281,
+      "size_bytes": 7015,
+      "line": "silversea",
+      "depart_month": "2028-09"
+    },
+    {
+      "path": "line=viking-ocean/depart_month=2026-09/part-0000.parquet",
+      "rows": 3037,
+      "size_bytes": 27562,
+      "line": "viking-ocean",
+      "depart_month": "2026-09"
+    },
+    {
+      "path": "line=viking-ocean/depart_month=2026-10/part-0000.parquet",
+      "rows": 6803,
+      "size_bytes": 53994,
+      "line": "viking-ocean",
+      "depart_month": "2026-10"
+    },
+    {
+      "path": "line=viking-ocean/depart_month=2026-11/part-0000.parquet",
+      "rows": 10929,
+      "size_bytes": 81515,
+      "line": "viking-ocean",
+      "depart_month": "2026-11"
+    },
+    {
+      "path": "line=viking-ocean/depart_month=2026-12/part-0000.parquet",
+      "rows": 9257,
+      "size_bytes": 67966,
+      "line": "viking-ocean",
+      "depart_month": "2026-12"
+    },
+    {
+      "path": "line=viking-ocean/depart_month=2027-01/part-0000.parquet",
+      "rows": 9665,
+      "size_bytes": 71834,
+      "line": "viking-ocean",
+      "depart_month": "2027-01"
+    },
+    {
+      "path": "line=viking-ocean/depart_month=2027-02/part-0000.parquet",
+      "rows": 10407,
+      "size_bytes": 76950,
+      "line": "viking-ocean",
+      "depart_month": "2027-02"
+    },
+    {
+      "path": "line=viking-ocean/depart_month=2027-03/part-0000.parquet",
+      "rows": 12437,
+      "size_bytes": 88913,
+      "line": "viking-ocean",
+      "depart_month": "2027-03"
+    },
+    {
+      "path": "line=viking-ocean/depart_month=2027-04/part-0000.parquet",
+      "rows": 9014,
+      "size_bytes": 64854,
+      "line": "viking-ocean",
+      "depart_month": "2027-04"
+    },
+    {
+      "path": "line=viking-ocean/depart_month=2027-05/part-0000.parquet",
+      "rows": 7732,
+      "size_bytes": 55489,
+      "line": "viking-ocean",
+      "depart_month": "2027-05"
+    },
+    {
+      "path": "line=viking-ocean/depart_month=2027-06/part-0000.parquet",
+      "rows": 5813,
+      "size_bytes": 43932,
+      "line": "viking-ocean",
+      "depart_month": "2027-06"
+    },
+    {
+      "path": "line=viking-ocean/depart_month=2027-07/part-0000.parquet",
+      "rows": 6548,
+      "size_bytes": 49233,
+      "line": "viking-ocean",
+      "depart_month": "2027-07"
+    },
+    {
+      "path": "line=viking-ocean/depart_month=2027-08/part-0000.parquet",
+      "rows": 6636,
+      "size_bytes": 49675,
+      "line": "viking-ocean",
+      "depart_month": "2027-08"
+    },
+    {
+      "path": "line=viking-ocean/depart_month=2027-09/part-0000.parquet",
+      "rows": 6841,
+      "size_bytes": 50286,
+      "line": "viking-ocean",
+      "depart_month": "2027-09"
+    },
+    {
+      "path": "line=viking-ocean/depart_month=2027-10/part-0000.parquet",
+      "rows": 7526,
+      "size_bytes": 54539,
+      "line": "viking-ocean",
+      "depart_month": "2027-10"
+    },
+    {
+      "path": "line=viking-ocean/depart_month=2027-11/part-0000.parquet",
+      "rows": 9610,
+      "size_bytes": 69463,
+      "line": "viking-ocean",
+      "depart_month": "2027-11"
+    },
+    {
+      "path": "line=viking-ocean/depart_month=2027-12/part-0000.parquet",
+      "rows": 8146,
+      "size_bytes": 57904,
+      "line": "viking-ocean",
+      "depart_month": "2027-12"
+    },
+    {
+      "path": "line=viking-ocean/depart_month=2028-01/part-0000.parquet",
+      "rows": 4256,
+      "size_bytes": 33070,
+      "line": "viking-ocean",
+      "depart_month": "2028-01"
+    },
+    {
+      "path": "line=viking-ocean/depart_month=2028-02/part-0000.parquet",
+      "rows": 1982,
+      "size_bytes": 17658,
+      "line": "viking-ocean",
+      "depart_month": "2028-02"
+    },
+    {
+      "path": "line=viking-ocean/depart_month=2028-03/part-0000.parquet",
+      "rows": 1348,
+      "size_bytes": 14040,
+      "line": "viking-ocean",
+      "depart_month": "2028-03"
+    },
+    {
+      "path": "line=viking-ocean/depart_month=2028-04/part-0000.parquet",
+      "rows": 888,
+      "size_bytes": 10267,
+      "line": "viking-ocean",
+      "depart_month": "2028-04"
+    },
+    {
+      "path": "line=viking-ocean/depart_month=2028-05/part-0000.parquet",
+      "rows": 816,
+      "size_bytes": 9784,
+      "line": "viking-ocean",
+      "depart_month": "2028-05"
+    },
+    {
+      "path": "line=viking-ocean/depart_month=2028-06/part-0000.parquet",
+      "rows": 720,
+      "size_bytes": 9023,
+      "line": "viking-ocean",
+      "depart_month": "2028-06"
+    },
+    {
+      "path": "line=viking-ocean/depart_month=2028-07/part-0000.parquet",
+      "rows": 888,
+      "size_bytes": 10150,
+      "line": "viking-ocean",
+      "depart_month": "2028-07"
+    },
+    {
+      "path": "line=viking-ocean/depart_month=2028-08/part-0000.parquet",
+      "rows": 600,
+      "size_bytes": 8202,
+      "line": "viking-ocean",
+      "depart_month": "2028-08"
+    },
+    {
+      "path": "line=viking-ocean/depart_month=2028-09/part-0000.parquet",
+      "rows": 873,
+      "size_bytes": 10563,
+      "line": "viking-ocean",
+      "depart_month": "2028-09"
+    },
+    {
+      "path": "line=viking-river/depart_month=2026-09/part-0000.parquet",
+      "rows": 3449,
+      "size_bytes": 25309,
+      "line": "viking-river",
+      "depart_month": "2026-09"
+    },
+    {
+      "path": "line=viking-river/depart_month=2026-10/part-0000.parquet",
+      "rows": 4969,
+      "size_bytes": 32361,
+      "line": "viking-river",
+      "depart_month": "2026-10"
+    },
+    {
+      "path": "line=viking-river/depart_month=2026-11/part-0000.parquet",
+      "rows": 6130,
+      "size_bytes": 39107,
+      "line": "viking-river",
+      "depart_month": "2026-11"
+    },
+    {
+      "path": "line=viking-river/depart_month=2026-12/part-0000.parquet",
+      "rows": 6866,
+      "size_bytes": 43170,
+      "line": "viking-river",
+      "depart_month": "2026-12"
+    },
+    {
+      "path": "line=viking-river/depart_month=2027-01/part-0000.parquet",
+      "rows": 5190,
+      "size_bytes": 30692,
+      "line": "viking-river",
+      "depart_month": "2027-01"
+    },
+    {
+      "path": "line=viking-river/depart_month=2027-02/part-0000.parquet",
+      "rows": 4338,
+      "size_bytes": 27604,
+      "line": "viking-river",
+      "depart_month": "2027-02"
+    },
+    {
+      "path": "line=viking-river/depart_month=2027-03/part-0000.parquet",
+      "rows": 11758,
+      "size_bytes": 73714,
+      "line": "viking-river",
+      "depart_month": "2027-03"
+    },
+    {
+      "path": "line=viking-river/depart_month=2027-04/part-0000.parquet",
+      "rows": 14722,
+      "size_bytes": 89665,
+      "line": "viking-river",
+      "depart_month": "2027-04"
+    },
+    {
+      "path": "line=viking-river/depart_month=2027-05/part-0000.parquet",
+      "rows": 16704,
+      "size_bytes": 93554,
+      "line": "viking-river",
+      "depart_month": "2027-05"
+    },
+    {
+      "path": "line=viking-river/depart_month=2027-06/part-0000.parquet",
+      "rows": 13512,
+      "size_bytes": 80731,
+      "line": "viking-river",
+      "depart_month": "2027-06"
+    },
+    {
+      "path": "line=viking-river/depart_month=2027-07/part-0000.parquet",
+      "rows": 9207,
+      "size_bytes": 52668,
+      "line": "viking-river",
+      "depart_month": "2027-07"
+    },
+    {
+      "path": "line=viking-river/depart_month=2027-08/part-0000.parquet",
+      "rows": 14295,
+      "size_bytes": 82173,
+      "line": "viking-river",
+      "depart_month": "2027-08"
+    },
+    {
+      "path": "line=viking-river/depart_month=2027-09/part-0000.parquet",
+      "rows": 15434,
+      "size_bytes": 86634,
+      "line": "viking-river",
+      "depart_month": "2027-09"
+    },
+    {
+      "path": "line=viking-river/depart_month=2027-10/part-0000.parquet",
+      "rows": 17259,
+      "size_bytes": 92633,
+      "line": "viking-river",
+      "depart_month": "2027-10"
+    },
+    {
+      "path": "line=viking-river/depart_month=2027-11/part-0000.parquet",
+      "rows": 12858,
+      "size_bytes": 74865,
+      "line": "viking-river",
+      "depart_month": "2027-11"
+    },
+    {
+      "path": "line=viking-river/depart_month=2027-12/part-0000.parquet",
+      "rows": 8295,
+      "size_bytes": 45819,
+      "line": "viking-river",
+      "depart_month": "2027-12"
+    },
+    {
+      "path": "line=viking-river/depart_month=2028-01/part-0000.parquet",
+      "rows": 5715,
+      "size_bytes": 28885,
+      "line": "viking-river",
+      "depart_month": "2028-01"
+    },
+    {
+      "path": "line=viking-river/depart_month=2028-02/part-0000.parquet",
+      "rows": 5214,
+      "size_bytes": 26943,
+      "line": "viking-river",
+      "depart_month": "2028-02"
+    },
+    {
+      "path": "line=viking-river/depart_month=2028-03/part-0000.parquet",
+      "rows": 11796,
+      "size_bytes": 65159,
+      "line": "viking-river",
+      "depart_month": "2028-03"
+    },
+    {
+      "path": "line=viking-river/depart_month=2028-04/part-0000.parquet",
+      "rows": 17071,
+      "size_bytes": 91340,
+      "line": "viking-river",
+      "depart_month": "2028-04"
+    },
+    {
+      "path": "line=viking-river/depart_month=2028-05/part-0000.parquet",
+      "rows": 16882,
+      "size_bytes": 92550,
+      "line": "viking-river",
+      "depart_month": "2028-05"
+    },
+    {
+      "path": "line=viking-river/depart_month=2028-06/part-0000.parquet",
+      "rows": 11757,
+      "size_bytes": 64791,
+      "line": "viking-river",
+      "depart_month": "2028-06"
+    },
+    {
+      "path": "line=viking-river/depart_month=2028-07/part-0000.parquet",
+      "rows": 9741,
+      "size_bytes": 51864,
+      "line": "viking-river",
+      "depart_month": "2028-07"
+    },
+    {
+      "path": "line=viking-river/depart_month=2028-08/part-0000.parquet",
+      "rows": 11793,
+      "size_bytes": 62572,
+      "line": "viking-river",
+      "depart_month": "2028-08"
+    },
+    {
+      "path": "line=viking-river/depart_month=2028-09/part-0000.parquet",
+      "rows": 15656,
+      "size_bytes": 79863,
+      "line": "viking-river",
+      "depart_month": "2028-09"
+    },
+    {
+      "path": "line=viking-river/depart_month=2028-10/part-0000.parquet",
+      "rows": 17856,
+      "size_bytes": 84741,
+      "line": "viking-river",
+      "depart_month": "2028-10"
+    },
+    {
+      "path": "line=viking-river/depart_month=2028-11/part-0000.parquet",
+      "rows": 14679,
+      "size_bytes": 74184,
+      "line": "viking-river",
+      "depart_month": "2028-11"
+    },
+    {
+      "path": "line=viking-river/depart_month=2028-12/part-0000.parquet",
+      "rows": 8915,
+      "size_bytes": 45887,
+      "line": "viking-river",
+      "depart_month": "2028-12"
+    },
+    {
+      "path": "line=virgin-voyages/depart_month=2026-09/part-0000.parquet",
+      "rows": 7879,
+      "size_bytes": 35523,
+      "line": "virgin-voyages",
+      "depart_month": "2026-09"
+    },
+    {
+      "path": "line=virgin-voyages/depart_month=2026-10/part-0000.parquet",
+      "rows": 15725,
+      "size_bytes": 67687,
+      "line": "virgin-voyages",
+      "depart_month": "2026-10"
+    },
+    {
+      "path": "line=virgin-voyages/depart_month=2026-11/part-0000.parquet",
+      "rows": 16322,
+      "size_bytes": 68941,
+      "line": "virgin-voyages",
+      "depart_month": "2026-11"
+    },
+    {
+      "path": "line=virgin-voyages/depart_month=2026-12/part-0000.parquet",
+      "rows": 15225,
+      "size_bytes": 63935,
+      "line": "virgin-voyages",
+      "depart_month": "2026-12"
+    },
+    {
+      "path": "line=virgin-voyages/depart_month=2027-01/part-0000.parquet",
+      "rows": 15783,
+      "size_bytes": 66839,
+      "line": "virgin-voyages",
+      "depart_month": "2027-01"
+    },
+    {
+      "path": "line=virgin-voyages/depart_month=2027-02/part-0000.parquet",
+      "rows": 10945,
+      "size_bytes": 52268,
+      "line": "virgin-voyages",
+      "depart_month": "2027-02"
+    },
+    {
+      "path": "line=virgin-voyages/depart_month=2027-03/part-0000.parquet",
+      "rows": 11562,
+      "size_bytes": 50223,
+      "line": "virgin-voyages",
+      "depart_month": "2027-03"
+    },
+    {
+      "path": "line=virgin-voyages/depart_month=2027-04/part-0000.parquet",
+      "rows": 10393,
+      "size_bytes": 49302,
+      "line": "virgin-voyages",
+      "depart_month": "2027-04"
+    },
+    {
+      "path": "line=virgin-voyages/depart_month=2027-05/part-0000.parquet",
+      "rows": 7556,
+      "size_bytes": 35638,
+      "line": "virgin-voyages",
+      "depart_month": "2027-05"
+    },
+    {
+      "path": "line=virgin-voyages/depart_month=2027-06/part-0000.parquet",
+      "rows": 6855,
+      "size_bytes": 32173,
+      "line": "virgin-voyages",
+      "depart_month": "2027-06"
+    },
+    {
+      "path": "line=virgin-voyages/depart_month=2027-07/part-0000.parquet",
+      "rows": 8288,
+      "size_bytes": 37717,
+      "line": "virgin-voyages",
+      "depart_month": "2027-07"
+    },
+    {
+      "path": "line=virgin-voyages/depart_month=2027-08/part-0000.parquet",
+      "rows": 6014,
+      "size_bytes": 29288,
+      "line": "virgin-voyages",
+      "depart_month": "2027-08"
+    },
+    {
+      "path": "line=virgin-voyages/depart_month=2027-09/part-0000.parquet",
+      "rows": 6230,
+      "size_bytes": 28167,
+      "line": "virgin-voyages",
+      "depart_month": "2027-09"
+    },
+    {
+      "path": "line=virgin-voyages/depart_month=2027-10/part-0000.parquet",
+      "rows": 9560,
+      "size_bytes": 42247,
+      "line": "virgin-voyages",
+      "depart_month": "2027-10"
+    },
+    {
+      "path": "line=virgin-voyages/depart_month=2027-11/part-0000.parquet",
+      "rows": 8405,
+      "size_bytes": 38093,
+      "line": "virgin-voyages",
+      "depart_month": "2027-11"
+    },
+    {
+      "path": "line=virgin-voyages/depart_month=2027-12/part-0000.parquet",
+      "rows": 5691,
+      "size_bytes": 25994,
+      "line": "virgin-voyages",
+      "depart_month": "2027-12"
+    },
+    {
+      "path": "line=virgin-voyages/depart_month=2028-01/part-0000.parquet",
+      "rows": 6437,
+      "size_bytes": 28338,
+      "line": "virgin-voyages",
+      "depart_month": "2028-01"
+    },
+    {
+      "path": "line=virgin-voyages/depart_month=2028-02/part-0000.parquet",
+      "rows": 2995,
+      "size_bytes": 16232,
+      "line": "virgin-voyages",
+      "depart_month": "2028-02"
+    },
+    {
+      "path": "line=virgin-voyages/depart_month=2028-03/part-0000.parquet",
+      "rows": 793,
+      "size_bytes": 7698,
+      "line": "virgin-voyages",
+      "depart_month": "2028-03"
+    },
+    {
+      "path": "line=windstar/depart_month=2026-09/part-0000.parquet",
+      "rows": 1169,
+      "size_bytes": 15180,
+      "line": "windstar",
+      "depart_month": "2026-09"
+    },
+    {
+      "path": "line=windstar/depart_month=2026-10/part-0000.parquet",
+      "rows": 3889,
+      "size_bytes": 38507,
+      "line": "windstar",
+      "depart_month": "2026-10"
+    },
+    {
+      "path": "line=windstar/depart_month=2026-11/part-0000.parquet",
+      "rows": 4806,
+      "size_bytes": 39622,
+      "line": "windstar",
+      "depart_month": "2026-11"
+    },
+    {
+      "path": "line=windstar/depart_month=2026-12/part-0000.parquet",
+      "rows": 6102,
+      "size_bytes": 51514,
+      "line": "windstar",
+      "depart_month": "2026-12"
+    },
+    {
+      "path": "line=windstar/depart_month=2027-01/part-0000.parquet",
+      "rows": 7739,
+      "size_bytes": 63241,
+      "line": "windstar",
+      "depart_month": "2027-01"
+    },
+    {
+      "path": "line=windstar/depart_month=2027-02/part-0000.parquet",
+      "rows": 4001,
+      "size_bytes": 35347,
+      "line": "windstar",
+      "depart_month": "2027-02"
+    },
+    {
+      "path": "line=windstar/depart_month=2027-03/part-0000.parquet",
+      "rows": 6014,
+      "size_bytes": 49376,
+      "line": "windstar",
+      "depart_month": "2027-03"
+    },
+    {
+      "path": "line=windstar/depart_month=2027-04/part-0000.parquet",
+      "rows": 6443,
+      "size_bytes": 51981,
+      "line": "windstar",
+      "depart_month": "2027-04"
+    },
+    {
+      "path": "line=windstar/depart_month=2027-05/part-0000.parquet",
+      "rows": 6467,
+      "size_bytes": 53178,
+      "line": "windstar",
+      "depart_month": "2027-05"
+    },
+    {
+      "path": "line=windstar/depart_month=2027-06/part-0000.parquet",
+      "rows": 5024,
+      "size_bytes": 42044,
+      "line": "windstar",
+      "depart_month": "2027-06"
+    },
+    {
+      "path": "line=windstar/depart_month=2027-07/part-0000.parquet",
+      "rows": 5178,
+      "size_bytes": 43853,
+      "line": "windstar",
+      "depart_month": "2027-07"
+    },
+    {
+      "path": "line=windstar/depart_month=2027-08/part-0000.parquet",
+      "rows": 6343,
+      "size_bytes": 50844,
+      "line": "windstar",
+      "depart_month": "2027-08"
+    },
+    {
+      "path": "line=windstar/depart_month=2027-09/part-0000.parquet",
+      "rows": 5543,
+      "size_bytes": 45885,
+      "line": "windstar",
+      "depart_month": "2027-09"
+    },
+    {
+      "path": "line=windstar/depart_month=2027-10/part-0000.parquet",
+      "rows": 6277,
+      "size_bytes": 50963,
+      "line": "windstar",
+      "depart_month": "2027-10"
+    },
+    {
+      "path": "line=windstar/depart_month=2027-11/part-0000.parquet",
+      "rows": 8663,
+      "size_bytes": 62680,
+      "line": "windstar",
+      "depart_month": "2027-11"
+    },
+    {
+      "path": "line=windstar/depart_month=2027-12/part-0000.parquet",
+      "rows": 7103,
+      "size_bytes": 53341,
+      "line": "windstar",
+      "depart_month": "2027-12"
+    },
+    {
+      "path": "line=windstar/depart_month=2028-01/part-0000.parquet",
+      "rows": 9117,
+      "size_bytes": 61083,
+      "line": "windstar",
+      "depart_month": "2028-01"
+    },
+    {
+      "path": "line=windstar/depart_month=2028-02/part-0000.parquet",
+      "rows": 4358,
+      "size_bytes": 33302,
+      "line": "windstar",
+      "depart_month": "2028-02"
+    },
+    {
+      "path": "line=windstar/depart_month=2028-03/part-0000.parquet",
+      "rows": 1818,
+      "size_bytes": 16375,
+      "line": "windstar",
+      "depart_month": "2028-03"
+    },
+    {
+      "path": "line=windstar/depart_month=2028-04/part-0000.parquet",
+      "rows": 1352,
+      "size_bytes": 12538,
+      "line": "windstar",
+      "depart_month": "2028-04"
+    },
+    {
+      "path": "line=windstar/depart_month=2028-05/part-0000.parquet",
+      "rows": 1129,
+      "size_bytes": 11493,
+      "line": "windstar",
+      "depart_month": "2028-05"
+    },
+    {
+      "path": "line=windstar/depart_month=2028-06/part-0000.parquet",
+      "rows": 1035,
+      "size_bytes": 10861,
+      "line": "windstar",
+      "depart_month": "2028-06"
+    },
+    {
+      "path": "line=windstar/depart_month=2028-07/part-0000.parquet",
+      "rows": 1174,
+      "size_bytes": 11706,
+      "line": "windstar",
+      "depart_month": "2028-07"
+    },
+    {
+      "path": "line=windstar/depart_month=2028-08/part-0000.parquet",
+      "rows": 1104,
+      "size_bytes": 11572,
+      "line": "windstar",
+      "depart_month": "2028-08"
+    },
+    {
+      "path": "line=windstar/depart_month=2028-09/part-0000.parquet",
+      "rows": 836,
+      "size_bytes": 9730,
+      "line": "windstar",
+      "depart_month": "2028-09"
+    }
+  ],
+  "schema_base64": "/////5gCAAAQAAAAAAAKAAwABgAFAAgACgAAAAABBAAMAAAACAAIAAAABAAIAAAABAAAAAsAAAA0AgAA+AEAAMwBAACQAQAAVAEAAAwBAADgAAAArAAAAGgAAAA0AAAABAAAAAj+//8AAAEFEAAAABwAAAAEAAAAAAAAAAkAAABwcmljZV9yYXcAAAD4/f//NP7//wAAAQUQAAAAIAAAAAQAAAAAAAAADgAAAHNjcmFwZWRfYXRfcmF3AAAo/v//ZP7//wAAAQIQAAAAKAAAAAQAAAAAAAAAFQAAAGRheXNfYmVmb3JlX2RlcGFydHVyZQAAADT///8AAAABIAAAAKT+//8AAAECEAAAABgAAAAEAAAAAAAAAAUAAABwcmljZQAAAGT///8AAAABIAAAANT+//8AAAEFEAAAABgAAAAEAAAAAAAAAAUAAABjYWJpbgAAAMD+///8/v//AAABChAAAAAkAAAABAAAAAAAAAAKAAAAc2NyYXBlZF9hdAAACAAMAAYACAAIAAAAAAABAAQAAAADAAAAVVRDAED///8AAAECEAAAACAAAAAEAAAAAAAAAAYAAABuaWdodHMAAAgADAAIAAcACAAAAAAAAAEQAAAAeP///wAAAQgQAAAAJAAAAAQAAAAAAAAACwAAAGRlcGFydF9kYXRlAAAABgAIAAYABgAAAAAAAACw////AAABBRAAAAAYAAAABAAAAAAAAAAEAAAAc2hpcAAAAACc////2P///wAAAQUQAAAAGAAAAAQAAAAAAAAABAAAAGxpbmUAAAAAxP///xAAFAAIAAYABwAMAAAAEAAQAAAAAAABBRAAAAAgAAAABAAAAAAAAAAKAAAAc2FpbGluZ19pZAAABAAEAAQAAAAAAAAA"
+}

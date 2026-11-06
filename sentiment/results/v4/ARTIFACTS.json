@@ -1,0 +1,131 @@
+{
+  "files": [
+    {
+      "bytes": 70529,
+      "path": "METHOD.md",
+      "sha256": "8d225a9db8da23dd0ab5e122b5c5eba86720f30f5815cd7b8463f1ec1bdc127b"
+    },
+    {
+      "bytes": 9950,
+      "path": "RUN_REPORT.md",
+      "sha256": "80209e1eeaa72072aacea34d0590239bdc4d6ab6fa62c903511b1f8dc6e7ded2"
+    },
+    {
+      "bytes": 2783,
+      "path": "TRENDS.md",
+      "sha256": "5ba40316a313740e364caf86fb2b616bb61a33c1fe5d96010b1ae825a9e7def0"
+    },
+    {
+      "bytes": 14206,
+      "path": "bin/audit_stage1_packet.py",
+      "sha256": "29217ec72d9ad87679904089c93cf633c9efedd3c231ffa4767a9ecda87d7e34"
+    },
+    {
+      "bytes": 2204,
+      "path": "bin/freeze_stage1.py",
+      "sha256": "af102ca742e389e6675222ca62d36799f83eaad5aa5312e631b16656279c33d2"
+    },
+    {
+      "bytes": 19359,
+      "path": "bin/make_stage1_sample.py",
+      "sha256": "2bdfb2043d86e53abffbb0b15298cb8452d9e61ad42e4eb11797dc8d46730f5e"
+    },
+    {
+      "bytes": 7728,
+      "path": "bin/stage1_spec.py",
+      "sha256": "936af614b4e7c967abfc1ac8240fcd29b7f30af2caa5cb943005a75a9d3481bc"
+    },
+    {
+      "bytes": 14973,
+      "path": "bin/validate_lexicon.py",
+      "sha256": "c33d673bcc15f7da1e6794b62cc50cbb837cc85560a9eafc2fd2cf5d2264df8e"
+    },
+    {
+      "bytes": 2499,
+      "path": "checks/stage1_acceptance.json",
+      "sha256": "4840e445cbdc35d703682d6652cfd327dfae1db05d77bc473c60a5550b149a48"
+    },
+    {
+      "bytes": 326,
+      "path": "results/v4/lexicon_trends/STATUS.json",
+      "sha256": "c09605cd2831036bf09b02505ec379890797a040f59cba47b5facb6653dc5d15"
+    },
+    {
+      "bytes": 645301,
+      "path": "results/v4/lexicon_validation/calibration_deciles.csv",
+      "sha256": "e8c6541eff6e170260aa83938524f71a61eb7d494d3e9817129d490497ee16b0"
+    },
+    {
+      "bytes": 391894,
+      "path": "results/v4/lexicon_validation/confusions.csv",
+      "sha256": "0b4603f257f01e6b967bde089d8017e6d805dc12c607ae604dd0c9d3a7fd4211"
+    },
+    {
+      "bytes": 7436,
+      "path": "results/v4/lexicon_validation/decision.json",
+      "sha256": "5f96b30935ac1a118779fd1d89a6ff58e5aba7df6de80d36df6db728422a49d0"
+    },
+    {
+      "bytes": 306224,
+      "path": "results/v4/lexicon_validation/dispositions.csv",
+      "sha256": "a762e886179d8d4ba7800d2aed28fc05264dff16df44ee6abc3e66bd5efe4116"
+    },
+    {
+      "bytes": 11424,
+      "path": "results/v4/lexicon_validation/gates.csv",
+      "sha256": "663d34f07540a3a143bee1ffd84d6516475e3854f9528014605563b91ce50667"
+    },
+    {
+      "bytes": 225399,
+      "path": "results/v4/lexicon_validation/metrics.csv",
+      "sha256": "267ebc252c0ca6840d752467539dda00acb400f59c22a60d7eeadc5fc3421cba"
+    },
+    {
+      "bytes": 2547774,
+      "path": "results/v4/lexicon_validation/private/paired_scores.jsonl",
+      "sha256": "a07d26138f468d34abce698554ba7f26dcc98e1554742dc36e69553fabaebc6c"
+    },
+    {
+      "bytes": 58401,
+      "path": "results/v4/protocol/METHOD-v3-before-stage1.md",
+      "sha256": "2f617e982e4ceeaee7f5767a50310e12b8753ebf6b9bfda71f71658d48c222cb"
+    },
+    {
+      "bytes": 9957,
+      "path": "results/v4/protocol/RUN_REPORT-model-stage.md",
+      "sha256": "1902512495c16d1d63235569efd9fd51308461de0a8f73cf817fbc90dfad9705"
+    },
+    {
+      "bytes": 328213,
+      "path": "results/v4/protocol/frozen_quotas.json",
+      "sha256": "37ad9fa2055a19e62f1bf0404cb4191a4297423809a0c22e2c9aea00c6d6e27c"
+    },
+    {
+      "bytes": 10879,
+      "path": "results/v4/protocol/historical_artifact_hashes.json",
+      "sha256": "21257130012b191aa5041a9e9230d5d4cb5d6dd6363a62940ef3fa434540f4db"
+    },
+    {
+      "bytes": 436,
+      "path": "results/v4/protocol/method_amendment.json",
+      "sha256": "fc39c3e7fe580fc539f94219644b9a6c85aa9efe75f4df88785c7b5d4340f8f9"
+    },
+    {
+      "bytes": 10142,
+      "path": "results/v4/protocol/stage1_plan.json",
+      "sha256": "8d5923138e170f0bff9e8549ac6e514b527c1ea25fbcb06258e817fd688e7bd9"
+    },
+    {
+      "bytes": 4453,
+      "path": "sample/v4/private/packet_manifest.json",
+      "sha256": "6823aa74318f519b9ea1d8185746f9ddc422c8c77d302248fdb9217a57c07c07"
+    },
+    {
+      "bytes": 5967,
+      "path": "tests/test_stage1.py",
+      "sha256": "34f923561e931eb95cf737792214cc3bafdb6df7589cbab8076daad6978a3a11"
+    }
+  ],
+  "new_labels_generated": false,
+  "status": "completed_A_and_C_B_skipped_by_frozen_gate"
+}

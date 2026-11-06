@@ -1,0 +1,23 @@
+{
+  "H1_arm_targets": 12000,
+  "author_replicates": 2000,
+  "available_series_intervals": 338,
+  "bootstrap_seed": 20261002,
+  "capacity_adjusted_points": 0,
+  "code_sha256": {
+    "bin/analyze_model_labels.py": "dee17912e6a966ccea2ad99caaad8a96322810605cf19b8b8d8451556e1f9f6a",
+    "bin/analyze_stage1_labels.py": "e6677221f297a328224b7e60e85cccdb2f412aeb990568cf2c89e86c0b7082ea",
+    "bin/selection_adjust.py": "590caf193b637e5fea005d7a867398d059df1fa44b1c142392f242e5cd790370"
+  },
+  "completed_utc": "2026-10-02T11:42:31.282833+00:00",
+  "human_gold_count": 0,
+  "method_sha256": "8d225a9db8da23dd0ab5e122b5c5eba86720f30f5815cd7b8463f1ec1bdc127b",
+  "pilot_targets": 1800,
+  "prepared_rows": 228482,
+  "root_thread_replicates": 2000,
+  "stage1_targets": 15000,
+  "status": "completed_diagnostic_tier",
+  "tier": "model-labelled, unvalidated; human confirmation pending",
+  "topic_arm_targets": 3000,
+  "total_unique_targets": 16800
+}

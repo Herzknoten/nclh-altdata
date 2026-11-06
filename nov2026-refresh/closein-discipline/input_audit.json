@@ -1,0 +1,68 @@
+[
+  {
+    "export": "/home/rich/devdata/allaboard-parser/out/full-2026-09-14",
+    "path": "/home/rich/devdata/allaboard-parser/out/full-2026-09-14/price_history.csv",
+    "bytes": 1223612747,
+    "mtime_ns": 1789369425613793135,
+    "selected_rows": 5201665,
+    "invalid_identity_cabin": 185377,
+    "invalid_price_time_metadata": 8669,
+    "kept_rows": 5007619,
+    "reader": "verified_parquet_projection"
+  },
+  {
+    "export": "/home/rich/devdata/allaboard-parser/out/full-2026-09-28",
+    "path": "/home/rich/devdata/allaboard-parser/out/full-2026-09-28/price_history.csv",
+    "bytes": 1078663256,
+    "mtime_ns": 1790884020734705034,
+    "selected_rows": 4358687,
+    "invalid_identity_cabin": 196784,
+    "invalid_price_time_metadata": 0,
+    "kept_rows": 4161903,
+    "reader": "csv_usecols_chunks_200000"
+  },
+  {
+    "export": "/home/rich/devdata/allaboard-parser/out/nclh-2026-10-20",
+    "path": "/home/rich/devdata/allaboard-parser/out/nclh-2026-10-20/price_history.csv",
+    "bytes": 106900282,
+    "mtime_ns": 1792518840805921238,
+    "selected_rows": 835683,
+    "invalid_identity_cabin": 188,
+    "invalid_price_time_metadata": 0,
+    "kept_rows": 835495,
+    "reader": "csv_usecols_chunks_200000"
+  },
+  {
+    "export": "/home/rich/devdata/allaboard-parser/out/peers-2026-10-20",
+    "path": "/home/rich/devdata/allaboard-parser/out/peers-2026-10-20/price_history.csv",
+    "bytes": 379153530,
+    "mtime_ns": 1792536451748879529,
+    "selected_rows": 3185974,
+    "invalid_identity_cabin": 0,
+    "invalid_price_time_metadata": 0,
+    "kept_rows": 3185974,
+    "reader": "csv_usecols_chunks_200000"
+  },
+  {
+    "export": "/home/rich/devdata/allaboard-parser/out/nclh-2026-11-04",
+    "path": "/home/rich/devdata/allaboard-parser/out/nclh-2026-11-04/price_history.csv",
+    "bytes": 135164319,
+    "mtime_ns": 1793867930309964840,
+    "selected_rows": 1054374,
+    "invalid_identity_cabin": 248,
+    "invalid_price_time_metadata": 0,
+    "kept_rows": 1054126,
+    "reader": "csv_usecols_chunks_200000"
+  },
+  {
+    "export": "/home/rich/devdata/allaboard-parser/out/peers-2026-11-04",
+    "path": "/home/rich/devdata/allaboard-parser/out/peers-2026-11-04/price_history.csv",
+    "bytes": 479143919,
+    "mtime_ns": 1793868205205502772,
+    "selected_rows": 4025327,
+    "invalid_identity_cabin": 0,
+    "invalid_price_time_metadata": 0,
+    "kept_rows": 4025327,
+    "reader": "csv_usecols_chunks_200000"
+  }
+]

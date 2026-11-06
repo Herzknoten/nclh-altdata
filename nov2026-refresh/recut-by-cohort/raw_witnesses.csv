@@ -1,0 +1,13 @@
+line,ship,sailing_id,cabin,depart_date,scraped_at,quote_date,price,raw_row,source,role,cut_price,first_price,unit_recut,unit_rel,raw_readback_matches
+carnival,adventure,2027-05-25-cmrz1iljw0og512amebay43oa,oceanview,2027-05-25,2026-07-24T14:33:18.835Z,2026-07-24,120.0,8654,full-2026-09-14,first_ask,107.0,120.0,False,120.5607476635514,True
+carnival,adventure,2027-05-25-cmrz1iljw0og512amebay43oa,oceanview,2027-05-25,2026-08-05T19:15:08.138Z,2026-08-05,107.0,8702,full-2026-09-14,first_cut,107.0,120.0,False,120.5607476635514,True
+carnival,adventure,2027-05-25-cmrz1iljw0og512amebay43oa,oceanview,2027-05-25,2026-08-06T19:15:58.993Z,2026-08-06,107.0,8706,full-2026-09-14,minimum_90,107.0,120.0,False,120.5607476635514,True
+carnival,adventure,2027-05-25-cmrz1iljw0og512amebay43oa,oceanview,2027-05-25,2026-10-31T19:14:56.113Z,2026-10-31,129.0,11062,peers-2026-11-04,endpoint,107.0,120.0,False,120.5607476635514,True
+norwegian,aqua,2026-09-03-cmjir7mba03eq5xfj66pvi7xj,inside,2026-09-03,2025-12-23T15:42:51.184Z,2025-12-23,190.0,5590687,full-2026-09-14,first_ask,180.0,190.0,True,88.88888888888889,True
+norwegian,aqua,2026-09-03-cmjir7mba03eq5xfj66pvi7xj,inside,2026-09-03,2025-12-30T17:14:08.667Z,2025-12-30,180.0,5590715,full-2026-09-14,first_cut,180.0,190.0,True,88.88888888888889,True
+norwegian,aqua,2026-09-03-cmjir7mba03eq5xfj66pvi7xj,inside,2026-09-03,2026-03-22T16:20:54.652Z,2026-03-22,159.0,5591035,full-2026-09-14,minimum_90,180.0,190.0,True,88.88888888888889,True
+norwegian,aqua,2026-09-03-cmjir7mba03eq5xfj66pvi7xj,inside,2026-09-03,2026-03-27T16:38:12.832Z,2026-03-27,160.0,5591055,full-2026-09-14,endpoint,180.0,190.0,True,88.88888888888889,True
+royal-caribbean,adventure-of-the-seas,2026-09-12-cmhi1y05u06376v7069aa72hh,balcony,2026-09-12,2025-11-02T18:36:07.427Z,2025-11-02,145.0,7755776,full-2026-09-14,first_ask,127.0,145.0,True,148.8188976377953,True
+royal-caribbean,adventure-of-the-seas,2026-09-12-cmhi1y05u06376v7069aa72hh,balcony,2026-09-12,2025-12-23T15:37:04.817Z,2025-12-23,127.0,7755812,full-2026-09-14,first_cut,127.0,145.0,True,148.8188976377953,True
+royal-caribbean,adventure-of-the-seas,2026-09-12-cmhi1y05u06376v7069aa72hh,balcony,2026-09-12,2026-01-10T17:17:04.126Z,2026-01-10,114.0,7755884,full-2026-09-14,minimum_90,127.0,145.0,True,148.8188976377953,True
+royal-caribbean,adventure-of-the-seas,2026-09-12-cmhi1y05u06376v7069aa72hh,balcony,2026-09-12,2026-03-20T22:33:48.096Z,2026-03-20,189.0,7756156,full-2026-09-14,endpoint,127.0,145.0,True,148.8188976377953,True

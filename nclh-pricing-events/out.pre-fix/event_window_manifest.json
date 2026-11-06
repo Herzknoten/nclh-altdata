@@ -1,0 +1,90 @@
+{
+  "status": "complete",
+  "tool": "event_window",
+  "parameters": {
+    "export": "/home/rich/devdata/allaboard-parser/out/claude-check",
+    "out": "/home/rich/devdata/nclh-pricing-events/out",
+    "daily_aggregation": "median",
+    "min_lead_days": 0,
+    "parse_statuses": "ok,warning",
+    "start_date": null,
+    "end_date": null,
+    "lead_bucket_upper_bounds": [
+      30,
+      90,
+      180,
+      365,
+      730
+    ],
+    "change_dates": [
+      "2026-04-01",
+      "2026-05-04",
+      "2026-07-30"
+    ],
+    "placebo_dates": null,
+    "window_days": 14,
+    "min_side_days": 1,
+    "min_event_n": 1,
+    "min_pair_coverage": 0,
+    "min_placebo_dates": 1,
+    "placebo_exclusion_days": 0,
+    "percentile_tie_tolerance": 1e-12,
+    "percentile_tie_rule": "midrank"
+  },
+  "rules": {
+    "identity": "line,ship,sailing_id,cabin",
+    "timestamp_date": "own_calendar_date_no_timezone_conversion",
+    "duplicate_policy": "collapse_identical_timestamp_prices_fail_conflicts",
+    "metadata_policy": "fail_missing_or_conflicting_identity_date_nights_lead",
+    "missing_policy": "no_interpolation_or_carry_forward",
+    "coverage_universe": "four_schema_cabin_slots_per_included_sailing_not_availability",
+    "threshold_comparison": "inclusive_decimal",
+    "calendar_bounds": "explicit_bounds_else_global_raw_history_span",
+    "price_policy": "exclude_nonpositive_or_nonfinite",
+    "event_day_policy": "exclude",
+    "side_price_selection": "nearest_observed_day",
+    "event_statistic": "median_individual_log_price_change",
+    "placebo_match": "same_line_departure_quarter_event_lead_bucket_cabin"
+  },
+  "export": "/home/rich/devdata/allaboard-parser/out/claude-check",
+  "input_sha256": {
+    "sailings.csv": "ae5d77fa097e9a5d80c69574d6da2124fe0d984ea72919848b80f8fd1882f981",
+    "price_history.csv": "895db83625f4a253576520926e9b1e45533520cb114ce78a2d345755103eb3b7"
+  },
+  "input_counts": {
+    "sailing_rows": 678,
+    "sailing_rows_warning": 269,
+    "sailing_rows_ok": 409,
+    "history_rows": 262608,
+    "usable_unique_history_rows": 262247,
+    "dropped_lead": 361,
+    "included_sailings": 678,
+    "schema_cabin_slots": 2712,
+    "observed_sailing_cabins": 2348,
+    "daily_observations": 262247,
+    "lines": 1
+  },
+  "calendar_start": "2025-10-06",
+  "calendar_end": "2026-09-12",
+  "lines": [
+    "norwegian"
+  ],
+  "control_status": "no_control_line",
+  "outputs": {
+    "event_summary.csv": {
+      "rows": 604,
+      "sha256": "6c7db0213b857ac5bceeecd5744543f20fe4c2c4c56bfbbf114ec25c1f850f70"
+    },
+    "event_pairs.csv": {
+      "rows": 11789,
+      "sha256": "8c600c4e19c67f06834e33ae32d0da4c2e7326e55b28c9fab9e770da84fe1cf1"
+    },
+    "event_coverage.csv": {
+      "rows": 13,
+      "sha256": "3858be94408ef151dde576bcf6aa72beb315b367b9c3b1f702120c9085195530"
+    }
+  },
+  "excluded_placebo_dates": [
+    "2026-04-01"
+  ]
+}

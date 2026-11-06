@@ -1,0 +1,50 @@
+{
+  "crawl": "2026-09-12",
+  "pages_directory": "/home/rich/devdata/allaboard/pages/2026-09-12",
+  "pages_checked": 481,
+  "pages_decoded": 481,
+  "pages_undecodable": 0,
+  "pages_skipped_by_parser_that_verifier_can_decode": 0,
+  "unaccounted_undecodable_pages": 0,
+  "source_pages_after_snapshot": 53,
+  "manifest": "out/2026-09-12/page_manifest.jsonl",
+  "coverage": "manifest snapshot",
+  "previous_export": {
+    "sailings": {
+      "previous_rows": 284,
+      "unchanged_rows": 284,
+      "changed_rows": 0,
+      "removed_rows": 0,
+      "added_rows": 197
+    },
+    "price_history": {
+      "previous_rows": 94276,
+      "unchanged_rows": 94276,
+      "changed_rows": 0,
+      "removed_rows": 0,
+      "added_rows": 89640
+    }
+  },
+  "tables": {
+    "sailings": {
+      "rows_matched": 481,
+      "rows_missing_from_export": 0,
+      "rows_not_found_in_page": 0,
+      "value_mismatches": 0
+    },
+    "price_history": {
+      "rows_matched": 183916,
+      "rows_missing_from_export": 0,
+      "rows_not_found_in_page": 0,
+      "value_mismatches": 0
+    }
+  },
+  "rows_matched": 184397,
+  "rows_missing_from_export": 0,
+  "rows_not_found_in_page": 0,
+  "value_mismatches": 0,
+  "issue_count": 0,
+  "examples": {},
+  "example_limit_per_category": 20,
+  "status": "PASS"
+}

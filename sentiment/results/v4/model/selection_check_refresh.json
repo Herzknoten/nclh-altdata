@@ -1,0 +1,16 @@
+{
+  "base_execution_sha256": "1cf3fdc37332afd6972fdd8526bbe95cb9699758b475c93a55cb6d7d1848d55d",
+  "code_sha256": "07468f9e9a86c65103c6e2c9171b29eaf8627217ea98d9792eb015382ecb77e2",
+  "completed_utc": "2026-10-02T11:58:32.989574+00:00",
+  "decision_sheet_sha256": "393a54bed58fbf185ad1b80b5ab994fff22e5ab72d97ecb5bff668a5e7360bc8",
+  "method_sha256": "8d225a9db8da23dd0ab5e122b5c5eba86720f30f5815cd7b8463f1ec1bdc127b",
+  "model_points_or_sampling_intervals_changed": false,
+  "reasons": [
+    "invalid or unknown-scope empty objects stay potential candidates",
+    "required H1 selection checks use corresponding H1 arm/frame",
+    "unknown-identity stresses are required only when source-domain candidates include unknown identities",
+    "review4 F1: restore mandatory worst-case uncertainty rows for every applicable analysis-set/rater/claim"
+  ],
+  "thresholds_or_estimands_changed": false,
+  "worst_case_sensitivity_rows": 27
+}

@@ -1,0 +1,282 @@
+date,line,ship,arrive,depart,passengers
+2026-11-05,Carnival Cruises,Carnival Sunrise,0800,1530,2984
+2026-11-05,Royal Caribbean Cruises,Freedom Of The Seas,0600,1630,3634
+2026-11-05,Cunard Line,Queen Elizabeth,,,2080
+2026-11-05,Virgin Voyages,Scarlet Lady,0630,1700,2860
+2026-11-06,MSC Cruises,MSC Seaside,0700,1600,4132
+2026-11-06,Norwegian Cruise Line,Norwegian Joy,,,3776
+2026-11-06,Norwegian Cruise Line,Norwegian Sun,0700,1600,1936
+2026-11-06,Royal Caribbean Cruises,Wonder Of The Seas,0600,1630,5734
+2026-11-07,AIDA,AIDAdiva,0600,,2030
+2026-11-07,Carnival Cruises,Carnival Horizon,0800,1530,3974
+2026-11-07,Royal Caribbean Cruises,Icon Of The Seas,0600,1630,5610
+2026-11-07,MSC Cruises,MSC World America,0700,1700,5252
+2026-11-07,Norwegian Cruise Line,Norwegian Jewel,,,2368
+2026-11-07,Norwegian Cruise Line,Norwegian Luna,0700,1600,3570
+2026-11-07,Silversea Cruises,Silver Shadow,0700,1800,388
+2026-11-08,AIDA,AIDAdiva,,2000,2030
+2026-11-08,Royal Caribbean Cruises,Allure Of The Seas,0600,1600,5400
+2026-11-08,Carnival Cruises,Carnival Celebration,0800,1530,5374
+2026-11-08,Carnival Cruises,Carnival Magic,0800,1530,3690
+2026-11-08,Celebrity Cruises,Celebrity Xcel,0500,1600,3260
+2026-11-08,Explora Journeys,Explora III,0800,1700,926
+2026-11-08,Royal Caribbean Cruises,Independence Of The Seas,0500,1600,3858
+2026-11-08,Norwegian Cruise Line,Norwegian Aqua,0700,1600,3571
+2026-11-08,Virgin Voyages,Resilient Lady,0630,1700,2700
+2026-11-09,Carnival Cruises,Carnival Sunrise,0800,1530,2984
+2026-11-09,MSC Cruises,MSC Seaside,0700,1600,4132
+2026-11-09,Virgin Voyages,Scarlet Lady,0630,1700,2860
+2026-11-09,Regent Seven Seas Cruises,Seven Seas Mariner,0700,1700,700
+2026-11-09,Royal Caribbean Cruises,Wonder Of The Seas,0630,,5734
+2026-11-11,MSC Cruises,MSC Meraviglia,0700,1600,4488
+2026-11-11,Norwegian Cruise Line,Norwegian Jewel,,,2368
+2026-11-11,Norwegian Cruise Line,Norwegian Joy,,,3776
+2026-11-11,Oceania Cruises,Oceania Vista,0800,1600,1200
+2026-11-11,Holland America Line,Zuiderdam,0700,1600,1964
+2026-11-12,MSC Cruises,MSC Poesia,0700,1700,2446
+2026-11-13,Carnival Cruises,Carnival Conquest,0800,1530,2980
+2026-11-13,MSC Cruises,MSC Grandiosa,0800,1800,4880
+2026-11-13,MSC Cruises,MSC Seaside,0700,1600,4132
+2026-11-13,Seabourn,Seabourn Ovation,0700,,600
+2026-11-14,Carnival Cruises,Carnival Magic,0800,1530,3690
+2026-11-14,Carnival Cruises,Carnival Sunrise,0800,1530,2984
+2026-11-14,Royal Caribbean Cruises,Freedom Of The Seas,0600,1630,3634
+2026-11-14,Royal Caribbean Cruises,Icon Of The Seas,0600,1630,5610
+2026-11-14,MSC Cruises,MSC World America,0700,1630,5252
+2026-11-14,Norwegian Cruise Line,Norwegian Luna,0700,1600,3570
+2026-11-14,Virgin Voyages,Scarlet Lady,0630,1700,2860
+2026-11-15,Royal Caribbean Cruises,Allure Of The Seas,0600,1600,5400
+2026-11-15,Virgin Voyages,Brilliant Lady,0630,1700,2700
+2026-11-15,Carnival Cruises,Carnival Celebration,0800,1530,5374
+2026-11-15,Carnival Cruises,Carnival Horizon,0800,1530,3974
+2026-11-15,Celebrity Cruises,Celebrity Xcel,0700,1600,3260
+2026-11-15,Royal Caribbean Cruises,Independence Of The Seas,0600,1600,3858
+2026-11-15,MSC Cruises,MSC Meraviglia,0700,1600,4488
+2026-11-15,Norwegian Cruise Line,Norwegian Aqua,0700,1600,3571
+2026-11-15,Norwegian Cruise Line,Norwegian Jewel,,,2368
+2026-11-15,Regent Seven Seas Cruises,Seven Seas Splendor,0700,1700,750
+2026-11-16,Carnival Cruises,Carnival Conquest,0800,1530,2980
+2026-11-16,MSC Cruises,MSC Seaside,0700,1600,4132
+2026-11-16,Norwegian Cruise Line,Norwegian Joy,,1600,3776
+2026-11-16,Virgin Voyages,Resilient Lady,0630,1700,2700
+2026-11-16,Royal Caribbean Cruises,Wonder Of The Seas,,1630,5734
+2026-11-17,Explora Journeys,Explora I,0800,1700,920
+2026-11-17,Cunard Line,Queen Elizabeth,,,2080
+2026-11-18,Norwegian Cruise Line,Norwegian Sun,0700,1600,1936
+2026-11-18,Silversea Cruises,Silver Shadow,0700,1800,388
+2026-11-19,Carnival Cruises,Carnival Sunrise,0800,1530,2984
+2026-11-19,Royal Caribbean Cruises,Freedom Of The Seas,0600,1630,3634
+2026-11-19,Norwegian Cruise Line,Norwegian Jewel,,,2368
+2026-11-19,Virgin Voyages,Scarlet Lady,0630,1700,2860
+2026-11-20,Carnival Cruises,Carnival Conquest,0800,1530,2980
+2026-11-20,MSC Cruises,MSC Seaside,0700,1600,4132
+2026-11-20,Norwegian Cruise Line,Norwegian Joy,0700,1600,3776
+2026-11-20,Seabourn,Seabourn Ovation,,1600,600
+2026-11-20,Royal Caribbean Cruises,Wonder Of The Seas,0600,1630,5734
+2026-11-21,Carnival Cruises,Carnival Horizon,0800,1530,3974
+2026-11-21,Celebrity Cruises,Celebrity Xcel,0700,1600,3260
+2026-11-21,Royal Caribbean Cruises,Icon Of The Seas,0600,1630,5610
+2026-11-21,MSC Cruises,MSC Meraviglia,0700,1600,4488
+2026-11-21,MSC Cruises,MSC World America,0700,1700,5252
+2026-11-21,Norwegian Cruise Line,Norwegian Luna,0700,1600,3570
+2026-11-21,Holland America Line,Zuiderdam,0700,1600,1964
+2026-11-22,Royal Caribbean Cruises,Allure Of The Seas,0600,1600,5400
+2026-11-22,Carnival Cruises,Carnival Celebration,0800,1530,5374
+2026-11-22,Carnival Cruises,Carnival Magic,0800,1530,3690
+2026-11-22,Explora Journeys,Explora III,0800,1700,926
+2026-11-22,Royal Caribbean Cruises,Independence Of The Seas,0600,1600,3858
+2026-11-22,MSC Cruises,MSC Poesia,0700,1700,2446
+2026-11-22,Norwegian Cruise Line,Norwegian Aqua,0700,1600,3571
+2026-11-22,Virgin Voyages,Resilient Lady,0630,,2700
+2026-11-22,Seabourn,Seabourn Quest,0700,1600,450
+2026-11-22,Regent Seven Seas Cruises,Seven Seas Grandeur,0700,1700,746
+2026-11-23,Carnival Cruises,Carnival Conquest,0800,1530,2980
+2026-11-23,Carnival Cruises,Carnival Sunrise,0800,1530,2984
+2026-11-23,MSC Cruises,MSC Seaside,0700,1600,4132
+2026-11-23,Norwegian Cruise Line,Norwegian Jewel,,1600,2368
+2026-11-23,Norwegian Cruise Line,Norwegian Joy,0700,1600,3776
+2026-11-23,Virgin Voyages,Scarlet Lady,0630,1700,2860
+2026-11-23,Royal Caribbean Cruises,Wonder Of The Seas,0630,1630,5734
+2026-11-24,Oceania Cruises,Oceania Insignia,0700,1700,684
+2026-11-25,Virgin Voyages,Brilliant Lady,0630,1700,2700
+2026-11-25,Explora Journeys,Explora I,0800,1700,920
+2026-11-25,Oceania Cruises,Oceania Vista,0800,1600,1200
+2026-11-26,Cunard Line,Queen Elizabeth,,,2080
+2026-11-27,Carnival Cruises,Carnival Conquest,0800,1530,2980
+2026-11-27,MSC Cruises,MSC Seaside,0700,1600,4132
+2026-11-27,Norwegian Cruise Line,Norwegian Joy,0700,1600,3776
+2026-11-27,Royal Caribbean Cruises,Wonder Of The Seas,0600,1630,5734
+2026-11-28,Carnival Cruises,Carnival Magic,0800,1530,3690
+2026-11-28,Celebrity Cruises,Celebrity Xcel,0700,1600,3260
+2026-11-28,Royal Caribbean Cruises,Freedom Of The Seas,0600,1630,3634
+2026-11-28,Royal Caribbean Cruises,Icon Of The Seas,0600,1630,5610
+2026-11-28,MSC Cruises,MSC World America,0700,1800,5252
+2026-11-28,Norwegian Cruise Line,Norwegian Jewel,0700,1600,2368
+2026-11-28,Norwegian Cruise Line,Norwegian Luna,0700,1600,3570
+2026-11-28,Virgin Voyages,Scarlet Lady,0630,1700,2860
+2026-11-28,Holland America Line,Zuiderdam,0700,1600,1964
+2026-11-29,Royal Caribbean Cruises,Allure Of The Seas,0600,1600,5400
+2026-11-29,Carnival Cruises,Carnival Celebration,0800,1530,5374
+2026-11-29,Carnival Cruises,Carnival Horizon,0800,1530,3974
+2026-11-29,Carnival Cruises,Carnival Sunrise,0800,1800,2984
+2026-11-29,Royal Caribbean Cruises,Independence Of The Seas,0600,1600,3858
+2026-11-29,MSC Cruises,MSC Meraviglia,0700,1600,4488
+2026-11-29,Norwegian Cruise Line,Norwegian Aqua,0700,1600,3571
+2026-11-29,Norwegian Cruise Line,Norwegian Sun,0700,1600,1936
+2026-11-29,Virgin Voyages,Resilient Lady,,1700,2700
+2026-11-29,Regent Seven Seas Cruises,Seven Seas Grandeur,0700,1700,746
+2026-11-30,Virgin Voyages,Brilliant Lady,0630,1700,2700
+2026-11-30,Carnival Cruises,Carnival Conquest,0800,,2980
+2026-11-30,MSC Cruises,MSC Seaside,0700,1600,4132
+2026-11-30,Norwegian Cruise Line,Norwegian Joy,0700,1600,3776
+2026-11-30,Silversea Cruises,Silver Shadow,0700,0000,388
+2026-11-30,Royal Caribbean Cruises,Wonder Of The Seas,0630,1630,5734
+2026-12-01,Regent Seven Seas Cruises,Seven Seas Mariner,0600,1900,700
+2026-12-02,Oceania Cruises,Oceania Allura,0800,1600,1200
+2026-12-03,Carnival Cruises,Carnival Sunrise,0800,1530,2984
+2026-12-03,Royal Caribbean Cruises,Freedom Of The Seas,0600,1630,3634
+2026-12-03,MSC Cruises,MSC Poesia,0700,1700,2446
+2026-12-03,Virgin Voyages,Scarlet Lady,0630,1700,2860
+2026-12-04,MSC Cruises,MSC Seaside,0700,1600,4132
+2026-12-04,Norwegian Cruise Line,Norwegian Joy,0700,,3776
+2026-12-04,Norwegian Cruise Line,Norwegian Star,0700,1600,2348
+2026-12-04,Royal Caribbean Cruises,Wonder Of The Seas,0600,1630,5734
+2026-12-05,Carnival Cruises,Carnival Horizon,0800,1530,3974
+2026-12-05,Explora Journeys,Explora I,0800,1700,920
+2026-12-05,Royal Caribbean Cruises,Icon Of The Seas,0600,1630,5610
+2026-12-05,MSC Cruises,MSC Meraviglia,0700,1600,4488
+2026-12-05,MSC Cruises,MSC World America,0700,1700,5252
+2026-12-05,Norwegian Cruise Line,Norwegian Luna,0700,1600,3570
+2026-12-05,Virgin Voyages,Resilient Lady,0630,1700,2700
+2026-12-05,Holland America Line,Zuiderdam,0700,1600,1964
+2026-12-06,Royal Caribbean Cruises,Allure Of The Seas,0600,1600,5400
+2026-12-06,Carnival Cruises,Carnival Celebration,0800,1530,5374
+2026-12-06,Carnival Cruises,Carnival Magic,0800,1530,3690
+2026-12-06,Celebrity Cruises,Celebrity Xcel,0700,1600,3260
+2026-12-06,Explora Journeys,Explora III,0800,1700,926
+2026-12-06,Royal Caribbean Cruises,Independence Of The Seas,0600,1600,3858
+2026-12-06,Norwegian Cruise Line,Norwegian Aqua,0700,1600,3571
+2026-12-06,Seabourn,Seabourn Quest,0700,1600,450
+2026-12-07,Carnival Cruises,Carnival Sunrise,0800,1530,2984
+2026-12-07,MSC Cruises,MSC Seaside,0700,1600,4132
+2026-12-07,Oceania Cruises,Oceania Vista,0800,1600,1200
+2026-12-07,Virgin Voyages,Scarlet Lady,0630,1700,2860
+2026-12-07,Royal Caribbean Cruises,Wonder Of The Seas,0630,1630,5734
+2026-12-08,Norwegian Cruise Line,Norwegian Jewel,0700,1600,2368
+2026-12-08,Cunard Line,Queen Elizabeth,,,2080
+2026-12-09,Regent Seven Seas Cruises,Seven Seas Grandeur,0700,1700,746
+2026-12-10,Virgin Voyages,Brilliant Lady,0630,1700,2700
+2026-12-10,Norwegian Cruise Line,Norwegian Sun,0700,1600,1936
+2026-12-10,Oceania Cruises,Oceania Marina,0800,1700,1258
+2026-12-10,Silversea Cruises,Silver Shadow,0700,1800,388
+2026-12-11,Carnival Cruises,Carnival Conquest,,1530,2980
+2026-12-11,MSC Cruises,MSC Seaside,0700,1600,4132
+2026-12-11,Norwegian Cruise Line,Norwegian Joy,,1600,3776
+2026-12-11,Silversea Cruises,Silver Ray,0800,0000,728
+2026-12-11,Royal Caribbean Cruises,Wonder Of The Seas,0600,1630,5734
+2026-12-12,Carnival Cruises,Carnival Magic,0800,1530,3690
+2026-12-12,Carnival Cruises,Carnival Sunrise,0800,1530,2984
+2026-12-12,Royal Caribbean Cruises,Freedom Of The Seas,0600,1630,3634
+2026-12-12,Royal Caribbean Cruises,Icon Of The Seas,0600,1630,5610
+2026-12-12,MSC Cruises,MSC World America,0700,1630,5252
+2026-12-12,Norwegian Cruise Line,Norwegian Luna,0700,1600,3570
+2026-12-12,Oceania Cruises,Oceania Allura,0800,1600,1200
+2026-12-12,Virgin Voyages,Scarlet Lady,0630,1700,2860
+2026-12-12,Holland America Line,Zuiderdam,0700,1600,1964
+2026-12-13,Royal Caribbean Cruises,Allure Of The Seas,0600,1600,5400
+2026-12-13,Carnival Cruises,Carnival Celebration,0800,1530,5374
+2026-12-13,Carnival Cruises,Carnival Horizon,0800,1530,3974
+2026-12-13,Celebrity Cruises,Celebrity Xcel,0700,1600,3260
+2026-12-13,Explora Journeys,Explora I,0800,1700,920
+2026-12-13,Royal Caribbean Cruises,Independence Of The Seas,0600,1600,3858
+2026-12-13,MSC Cruises,MSC Meraviglia,0700,1600,4488
+2026-12-13,MSC Cruises,MSC Poesia,0700,1700,2446
+2026-12-13,Norwegian Cruise Line,Norwegian Aqua,0700,1600,3571
+2026-12-13,Virgin Voyages,Resilient Lady,0630,1700,2700
+2026-12-14,Virgin Voyages,Brilliant Lady,0630,1700,2700
+2026-12-14,Carnival Cruises,Carnival Conquest,0800,1530,2980
+2026-12-14,MSC Cruises,MSC Seaside,0700,1600,4132
+2026-12-14,Norwegian Cruise Line,Norwegian Joy,0700,1600,3776
+2026-12-14,Oceania Cruises,Oceania Vista,0800,1600,1200
+2026-12-14,Royal Caribbean Cruises,Wonder Of The Seas,0630,1630,5734
+2026-12-17,Azamara Cruises,Azamara Quest,0600,,698
+2026-12-17,Carnival Cruises,Carnival Sunrise,0800,1530,2984
+2026-12-17,Royal Caribbean Cruises,Freedom Of The Seas,0600,1630,3634
+2026-12-17,Cunard Line,Queen Elizabeth,,,2080
+2026-12-17,Virgin Voyages,Scarlet Lady,0630,1700,2860
+2026-12-18,Azamara Cruises,Azamara Quest,,1700,698
+2026-12-18,Carnival Cruises,Carnival Conquest,0800,1530,2980
+2026-12-18,Carnival Cruises,Carnival Magic,0800,1530,3690
+2026-12-18,MSC Cruises,MSC Seaside,0700,1600,4132
+2026-12-18,Norwegian Cruise Line,Norwegian Jewel,0700,1600,2368
+2026-12-18,Norwegian Cruise Line,Norwegian Joy,0700,1600,3776
+2026-12-18,Royal Caribbean Cruises,Wonder Of The Seas,0600,1630,5734
+2026-12-19,Carnival Cruises,Carnival Horizon,0800,1530,3974
+2026-12-19,Royal Caribbean Cruises,Icon Of The Seas,0600,1630,5610
+2026-12-19,MSC Cruises,MSC Meraviglia,0700,1600,4488
+2026-12-19,MSC Cruises,MSC World America,0700,1700,5252
+2026-12-19,Norwegian Cruise Line,Norwegian Luna,0700,1600,3570
+2026-12-19,Oceania Cruises,Oceania Insignia,0800,1700,684
+2026-12-19,Virgin Voyages,Resilient Lady,0630,1700,2700
+2026-12-19,Regent Seven Seas Cruises,Seven Seas Grandeur,0700,1700,746
+2026-12-19,Holland America Line,Zuiderdam,0700,1600,1964
+2026-12-20,Royal Caribbean Cruises,Allure Of The Seas,0600,1600,5400
+2026-12-20,Carnival Cruises,Carnival Celebration,0800,1530,5374
+2026-12-20,Celebrity Cruises,Celebrity Xcel,0700,1600,3260
+2026-12-20,Hapag Lloyd,Europa,0700,2400,408
+2026-12-20,Explora Journeys,Explora III,0800,1700,926
+2026-12-20,Royal Caribbean Cruises,Independence Of The Seas,0600,1600,3858
+2026-12-20,Norwegian Cruise Line,Norwegian Aqua,0700,1600,3571
+2026-12-20,Seabourn,Seabourn Quest,0700,1600,450
+2026-12-21,Carnival Cruises,Carnival Conquest,0800,1530,2980
+2026-12-21,Carnival Cruises,Carnival Sunrise,0800,1530,2984
+2026-12-21,Royal Caribbean Cruises,Freedom Of The Seas,0600,1630,3634
+2026-12-21,MSC Cruises,MSC Seaside,0700,1600,4132
+2026-12-21,Norwegian Cruise Line,Norwegian Sun,0700,1600,1936
+2026-12-21,Oceania Cruises,Oceania Allura,0800,1600,1200
+2026-12-21,Oceania Cruises,Oceania Vista,0800,1600,1200
+2026-12-21,Virgin Voyages,Scarlet Lady,0630,1700,2860
+2026-12-21,Silversea Cruises,Silver Dawn,0700,1900,596
+2026-12-21,Royal Caribbean Cruises,Wonder Of The Seas,0630,1630,5734
+2026-12-22,Norwegian Cruise Line,Norwegian Joy,0700,1600,3776
+2026-12-22,Oceania Cruises,Oceania Marina,0800,1700,1258
+2026-12-22,Silversea Cruises,Silver Ray,0800,0000,728
+2026-12-23,Virgin Voyages,Brilliant Lady,0630,1700,2700
+2026-12-23,MSC Cruises,MSC Poesia,0700,1700,2446
+2026-12-23,Norwegian Cruise Line,Norwegian Jewel,0700,1600,2368
+2026-12-24,Carnival Cruises,Carnival Conquest,0800,1530,2980
+2026-12-24,Royal Caribbean Cruises,Wonder Of The Seas,0630,1630,5734
+2026-12-26,Carnival Cruises,Carnival Magic,0800,1530,3690
+2026-12-26,Carnival Cruises,Carnival Sunrise,0800,1530,2984
+2026-12-26,Royal Caribbean Cruises,Freedom Of The Seas,0600,1630,3634
+2026-12-26,Royal Caribbean Cruises,Icon Of The Seas,0600,1630,5610
+2026-12-26,MSC Cruises,MSC World America,0700,1630,5252
+2026-12-26,Norwegian Cruise Line,Norwegian Joy,0700,1600,3776
+2026-12-26,Norwegian Cruise Line,Norwegian Luna,0700,1600,3570
+2026-12-26,Virgin Voyages,Scarlet Lady,0630,1700,2860
+2026-12-26,Holland America Line,Zuiderdam,0700,1800,1964
+2026-12-27,Royal Caribbean Cruises,Allure Of The Seas,0600,1600,5400
+2026-12-27,Carnival Cruises,Carnival Celebration,0800,1530,5374
+2026-12-27,Carnival Cruises,Carnival Horizon,0800,1530,3974
+2026-12-27,Celebrity Cruises,Celebrity Xcel,0700,1600,3260
+2026-12-27,Explora Journeys,Explora I,0800,1700,920
+2026-12-27,Royal Caribbean Cruises,Independence Of The Seas,0600,1600,3858
+2026-12-27,MSC Cruises,MSC Meraviglia,0700,1600,4488
+2026-12-27,Norwegian Cruise Line,Norwegian Aqua,0700,1600,3571
+2026-12-27,Virgin Voyages,Resilient Lady,0630,1700,2700
+2026-12-27,Regent Seven Seas Cruises,Seven Seas Prestige,0700,,822
+2026-12-28,Virgin Voyages,Brilliant Lady,0630,1700,2700
+2026-12-28,Carnival Cruises,Carnival Conquest,0800,1530,2980
+2026-12-28,MSC Cruises,MSC Seaside,0700,1600,4132
+2026-12-28,Oceania Cruises,Oceania Allura,0700,1600,1200
+2026-12-28,Oceania Cruises,Oceania Vista,0800,1600,1200
+2026-12-28,Regent Seven Seas Cruises,Seven Seas Prestige,,1700,822
+2026-12-28,Royal Caribbean Cruises,Wonder Of The Seas,0600,1630,5734
+2026-12-29,Cunard Line,Queen Elizabeth,,,2080
+2026-12-29,Regent Seven Seas Cruises,Seven Seas Grandeur,0700,1700,746
+2026-12-30,Carnival Cruises,Carnival Sunrise,0800,1530,2984
+2026-12-30,Virgin Voyages,Scarlet Lady,0630,1700,2860
+2026-12-31,Carnival Cruises,Carnival Conquest,0800,1530,2980
+2026-12-31,Royal Caribbean Cruises,Freedom Of The Seas,0600,1630,3634
+2026-12-31,Norwegian Cruise Line,Norwegian Joy,0700,1600,3776
+2026-12-31,Royal Caribbean Cruises,Wonder Of The Seas,0600,1630,5734

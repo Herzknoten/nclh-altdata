@@ -1,0 +1,241 @@
+kind,context_id,region,lead_band,cohort,baseline_date,baseline_in_promotion,horizon,target,followup_promo_days,clean_followup,status,norwegian_units,norwegian_median_ratio,norwegian_below_95_units,norwegian_below_95_share_pct,peers_units,peers_median_ratio,peers_below_95_units,peers_below_95_share_pct
+wave,2026-08-10,caribbean,0-90,wave_cutters,2026-08-09,0,14,2026-08-24,8,0,promotion-free target,25,0.8424657534246576,24,96.0,78,0.9697780307342061,32,41.02564102564103
+wave,2026-08-10,caribbean,91-240,wave_cutters,2026-08-09,0,14,2026-08-24,8,0,promotion-free target,123,0.8609271523178808,100,81.30081300813008,167,0.9513888888888888,82,49.10179640718563
+wave,2026-08-10,caribbean,241-365,wave_cutters,2026-08-09,0,14,2026-08-24,8,0,promotion-free target,171,0.7039473684210527,170,99.41520467836257,34,1.0,14,41.1764705882353
+wave,2026-08-10,caribbean,366+,wave_cutters,2026-08-09,0,14,2026-08-24,8,0,promotion-free target,242,0.7247041616806276,242,100.0,9,0.9707241910631741,4,44.44444444444444
+wave,2026-08-10,caribbean,all,wave_cutters,2026-08-09,0,14,2026-08-24,8,0,promotion-free target,561,0.7285714285714285,536,95.54367201426025,288,0.9597608274078863,132,45.833333333333336
+wave,2026-08-10,all_region,0-90,wave_cutters,2026-08-09,0,14,2026-08-24,8,0,promotion-free target,61,0.8673469387755102,48,78.68852459016394,123,0.9672131147540983,56,45.52845528455285
+wave,2026-08-10,all_region,91-240,wave_cutters,2026-08-09,0,14,2026-08-24,8,0,promotion-free target,133,0.8785714285714286,101,75.93984962406014,217,0.9575757575757575,100,46.08294930875576
+wave,2026-08-10,all_region,241-365,wave_cutters,2026-08-09,0,14,2026-08-24,8,0,promotion-free target,171,0.7039473684210527,170,99.41520467836257,117,0.9421052631578948,65,55.55555555555556
+wave,2026-08-10,all_region,366+,wave_cutters,2026-08-09,0,14,2026-08-24,8,0,promotion-free target,283,0.7298850574712644,282,99.64664310954063,102,0.9345238095238095,77,75.49019607843137
+wave,2026-08-10,all_region,all,wave_cutters,2026-08-09,0,14,2026-08-24,8,0,promotion-free target,648,0.7407375643224701,601,92.74691358024691,559,0.9459459459459459,298,53.30948121645796
+wave,2026-08-12,caribbean,0-90,wave_cutters,2026-08-11,1,7,2026-08-19,6,0,promotion-free target,73,0.8833333333333333,62,84.93150684931507,136,0.9366399082568808,73,53.6764705882353
+wave,2026-08-12,caribbean,91-240,wave_cutters,2026-08-11,1,7,2026-08-19,6,0,promotion-free target,150,0.8402036048064085,124,82.66666666666667,226,0.9582242582897034,109,48.230088495575224
+wave,2026-08-12,caribbean,241-365,wave_cutters,2026-08-11,1,7,2026-08-19,6,0,promotion-free target,62,0.840353982300885,56,90.3225806451613,74,0.9343555878896412,54,72.97297297297297
+wave,2026-08-12,caribbean,366+,wave_cutters,2026-08-11,1,7,2026-08-19,6,0,promotion-free target,137,0.88,137,100.0,65,0.8898305084745762,51,78.46153846153847
+wave,2026-08-12,caribbean,all,wave_cutters,2026-08-11,1,7,2026-08-19,6,0,promotion-free target,422,0.8704457341007056,379,89.81042654028435,501,0.9387755102040817,287,57.28542914171657
+wave,2026-08-12,all_region,0-90,wave_cutters,2026-08-11,1,7,2026-08-19,6,0,promotion-free target,126,0.8777777777777778,103,81.74603174603175,218,0.9312035158891143,120,55.04587155963303
+wave,2026-08-12,all_region,91-240,wave_cutters,2026-08-11,1,7,2026-08-19,6,0,promotion-free target,176,0.8565375302663438,143,81.25,321,0.9688473520249221,146,45.482866043613704
+wave,2026-08-12,all_region,241-365,wave_cutters,2026-08-11,1,7,2026-08-19,6,0,promotion-free target,73,0.8529411764705882,67,91.78082191780823,157,0.9372549019607843,108,68.78980891719745
+wave,2026-08-12,all_region,366+,wave_cutters,2026-08-11,1,7,2026-08-19,6,0,promotion-free target,139,0.8798076923076923,139,100.0,139,0.9298245614035088,95,68.34532374100719
+wave,2026-08-12,all_region,all,wave_cutters,2026-08-11,1,7,2026-08-19,6,0,promotion-free target,514,0.8729833546734955,452,87.93774319066148,835,0.9415204678362573,469,56.16766467065868
+wave,2026-08-29,caribbean,0-90,wave_cutters,2026-08-28,1,14,2026-09-12,12,0,promotion-free target,68,0.9050433966690125,52,76.47058823529412,84,0.9405706885026738,43,51.19047619047619
+wave,2026-08-29,caribbean,91-240,wave_cutters,2026-08-28,1,14,2026-09-12,12,0,promotion-free target,222,0.8257747276071883,197,88.73873873873873,304,0.9339563862928348,174,57.23684210526316
+wave,2026-08-29,caribbean,241-365,wave_cutters,2026-08-28,1,14,2026-09-12,12,0,promotion-free target,13,1.0,6,46.15384615384615,45,0.9097222222222222,32,71.11111111111111
+wave,2026-08-29,caribbean,366+,wave_cutters,2026-08-28,1,14,2026-09-12,12,0,promotion-free target,4,0.9492753623188406,3,75.0,454,0.8792524878500347,415,91.40969162995594
+wave,2026-08-29,caribbean,all,wave_cutters,2026-08-28,1,14,2026-09-12,12,0,promotion-free target,307,0.8645833333333334,258,84.03908794788273,887,0.9041916167664671,664,74.85907553551297
+wave,2026-08-29,all_region,0-90,wave_cutters,2026-08-28,1,14,2026-09-12,12,0,promotion-free target,124,0.8906810035842294,94,75.80645161290323,140,0.9532897128316975,68,48.57142857142857
+wave,2026-08-29,all_region,91-240,wave_cutters,2026-08-28,1,14,2026-09-12,12,0,promotion-free target,283,0.8490566037735849,241,85.15901060070671,439,0.941747572815534,239,54.441913439635535
+wave,2026-08-29,all_region,241-365,wave_cutters,2026-08-28,1,14,2026-09-12,12,0,promotion-free target,22,0.9409571701057742,12,54.54545454545455,130,0.9493099398032594,66,50.76923076923077
+wave,2026-08-29,all_region,366+,wave_cutters,2026-08-28,1,14,2026-09-12,12,0,promotion-free target,4,0.9492753623188406,3,75.0,907,0.8858447488584474,813,89.6361631753032
+wave,2026-08-29,all_region,all,wave_cutters,2026-08-28,1,14,2026-09-12,12,0,promotion-free target,433,0.868421052631579,350,80.83140877598153,1616,0.9065084381093256,1186,73.39108910891089
+sale,semi_annual,caribbean,0-90,discounted_at_end,2026-07-07,0,3,2026-07-19,0,1,promotion-free target,17,0.946236559139785,9,52.94117647058823,259,0.89,190,73.35907335907336
+sale,semi_annual,caribbean,0-90,discounted_at_end,2026-07-07,0,7,2026-07-23,0,1,promotion-free target,17,0.9615384615384616,8,47.05882352941177,251,0.9224806201550387,145,57.76892430278885
+sale,semi_annual,caribbean,0-90,discounted_at_end,2026-07-07,0,14,2026-07-30,0,1,promotion-free target,17,0.9253731343283582,10,58.8235294117647,234,0.9729265619291194,107,45.72649572649573
+sale,semi_annual,caribbean,91-240,discounted_at_end,2026-07-07,0,3,2026-07-19,0,1,promotion-free target,211,0.8866666666666667,170,80.56872037914692,480,0.9128975780566093,339,70.625
+sale,semi_annual,caribbean,91-240,discounted_at_end,2026-07-07,0,7,2026-07-23,0,1,promotion-free target,216,0.8881064162754304,165,76.38888888888889,481,0.9399141630901288,263,54.67775467775468
+sale,semi_annual,caribbean,91-240,discounted_at_end,2026-07-07,0,14,2026-07-30,0,1,promotion-free target,216,0.8771748969124007,172,79.62962962962963,482,0.9546389824167603,227,47.095435684647306
+sale,semi_annual,caribbean,241-365,discounted_at_end,2026-07-07,0,3,2026-07-19,0,1,promotion-free target,65,0.8923076923076924,55,84.61538461538461,140,0.9327350878515949,114,81.42857142857143
+sale,semi_annual,caribbean,241-365,discounted_at_end,2026-07-07,0,7,2026-07-23,0,1,promotion-free target,65,0.8758620689655172,54,83.07692307692308,147,0.9408866995073891,91,61.904761904761905
+sale,semi_annual,caribbean,241-365,discounted_at_end,2026-07-07,0,14,2026-07-30,0,1,promotion-free target,65,0.8923076923076924,56,86.15384615384616,147,0.9408866995073891,83,56.46258503401361
+sale,semi_annual,caribbean,366+,discounted_at_end,2026-07-07,0,3,2026-07-19,0,1,promotion-free target,51,0.9213483146067416,50,98.03921568627452,64,0.9288041707396546,57,89.0625
+sale,semi_annual,caribbean,366+,discounted_at_end,2026-07-07,0,7,2026-07-23,0,1,promotion-free target,51,0.9209486166007905,50,98.03921568627452,79,0.9281045751633987,69,87.34177215189874
+sale,semi_annual,caribbean,366+,discounted_at_end,2026-07-07,0,14,2026-07-30,0,1,promotion-free target,51,0.9134615384615384,50,98.03921568627452,79,0.9313725490196079,50,63.29113924050633
+sale,semi_annual,caribbean,all,discounted_at_end,2026-07-07,0,3,2026-07-19,0,1,promotion-free target,344,0.8959404657385343,284,82.55813953488372,943,0.9166666666666666,700,74.23117709437965
+sale,semi_annual,caribbean,all,discounted_at_end,2026-07-07,0,7,2026-07-23,0,1,promotion-free target,349,0.8944099378881988,277,79.36962750716333,958,0.9360851063829787,568,59.2901878914405
+sale,semi_annual,caribbean,all,discounted_at_end,2026-07-07,0,14,2026-07-30,0,1,promotion-free target,349,0.8879310344827587,288,82.52148997134671,942,0.9512528801843319,467,49.575371549893845
+sale,semi_annual,all_region,0-90,discounted_at_end,2026-07-07,0,3,2026-07-19,0,1,promotion-free target,81,0.9147727272727273,55,67.90123456790124,430,0.8908097367113761,316,73.48837209302326
+sale,semi_annual,all_region,0-90,discounted_at_end,2026-07-07,0,7,2026-07-23,0,1,promotion-free target,81,0.9247311827956989,51,62.96296296296296,414,0.918735477559007,248,59.90338164251208
+sale,semi_annual,all_region,0-90,discounted_at_end,2026-07-07,0,14,2026-07-30,0,1,promotion-free target,76,0.9034201321414691,52,68.42105263157895,391,0.9540229885057471,190,48.593350383631716
+sale,semi_annual,all_region,91-240,discounted_at_end,2026-07-07,0,3,2026-07-19,0,1,promotion-free target,275,0.9029411764705882,207,75.27272727272727,648,0.906704746362029,476,73.45679012345678
+sale,semi_annual,all_region,91-240,discounted_at_end,2026-07-07,0,7,2026-07-23,0,1,promotion-free target,280,0.8949661629739502,205,73.21428571428571,649,0.9311926605504587,375,57.78120184899846
+sale,semi_annual,all_region,91-240,discounted_at_end,2026-07-07,0,14,2026-07-30,0,1,promotion-free target,280,0.8878157846210585,219,78.21428571428571,645,0.9456521739130435,331,51.31782945736434
+sale,semi_annual,all_region,241-365,discounted_at_end,2026-07-07,0,3,2026-07-19,0,1,promotion-free target,194,0.9095436865572526,179,92.26804123711341,405,0.9285714285714286,318,78.51851851851852
+sale,semi_annual,all_region,241-365,discounted_at_end,2026-07-07,0,7,2026-07-23,0,1,promotion-free target,194,0.9016442540956602,180,92.78350515463917,410,0.9333333333333333,295,71.95121951219512
+sale,semi_annual,all_region,241-365,discounted_at_end,2026-07-07,0,14,2026-07-30,0,1,promotion-free target,194,0.9015266667406331,179,92.26804123711341,404,0.9383532723434201,249,61.633663366336634
+sale,semi_annual,all_region,366+,discounted_at_end,2026-07-07,0,3,2026-07-19,0,1,promotion-free target,154,0.9199131861961733,147,95.45454545454545,423,0.9166666666666666,362,85.57919621749409
+sale,semi_annual,all_region,366+,discounted_at_end,2026-07-07,0,7,2026-07-23,0,1,promotion-free target,154,0.915994623655914,146,94.8051948051948,438,0.9138064342622785,393,89.72602739726027
+sale,semi_annual,all_region,366+,discounted_at_end,2026-07-07,0,14,2026-07-30,0,1,promotion-free target,154,0.9166399820679496,145,94.15584415584415,433,0.9256965944272446,313,72.2863741339492
+sale,semi_annual,all_region,all,discounted_at_end,2026-07-07,0,3,2026-07-19,0,1,promotion-free target,704,0.9122773777946191,588,83.52272727272727,1906,0.9142857142857143,1472,77.22980062959077
+sale,semi_annual,all_region,all,discounted_at_end,2026-07-07,0,7,2026-07-23,0,1,promotion-free target,709,0.9047619047619048,582,82.08744710860367,1911,0.9245283018867925,1311,68.60282574568289
+sale,semi_annual,all_region,all,discounted_at_end,2026-07-07,0,14,2026-07-30,0,1,promotion-free target,704,0.9044642857142857,595,84.51704545454545,1873,0.9367088607594937,1083,57.821676454885214
+sale,weekend_flash,caribbean,0-90,discounted_at_end,2026-07-30,0,3,2026-08-06,0,1,promotion-free target,27,0.9669421487603306,11,40.74074074074074,199,0.9243697478991597,123,61.80904522613066
+sale,weekend_flash,caribbean,91-240,discounted_at_end,2026-07-30,0,3,2026-08-06,0,1,promotion-free target,61,0.9725274725274725,22,36.0655737704918,777,0.9833333333333333,270,34.74903474903475
+sale,weekend_flash,caribbean,241-365,discounted_at_end,2026-07-30,0,3,2026-08-06,0,1,promotion-free target,14,1.0,0,0.0,286,1.0,84,29.37062937062937
+sale,weekend_flash,caribbean,366+,discounted_at_end,2026-07-30,0,3,2026-08-06,0,1,promotion-free target,3,1.0,0,0.0,1742,0.9048949188613993,1265,72.61768082663605
+sale,weekend_flash,caribbean,all,discounted_at_end,2026-07-30,0,3,2026-08-06,0,1,promotion-free target,105,1.0,33,31.428571428571427,3004,0.9341628287988442,1742,57.98934753661784
+sale,weekend_flash,all_region,0-90,discounted_at_end,2026-07-30,0,3,2026-08-06,0,1,promotion-free target,92,0.9178947368421053,60,65.21739130434783,331,0.9236111111111112,199,60.120845921450154
+sale,weekend_flash,all_region,91-240,discounted_at_end,2026-07-30,0,3,2026-08-06,0,1,promotion-free target,106,0.9547008547008548,51,48.113207547169814,1035,0.9761904761904762,385,37.19806763285024
+sale,weekend_flash,all_region,241-365,discounted_at_end,2026-07-30,0,3,2026-08-06,0,1,promotion-free target,25,1.0,6,24.0,967,0.9848484848484849,344,35.57394002068252
+sale,weekend_flash,all_region,366+,discounted_at_end,2026-07-30,0,3,2026-08-06,0,1,promotion-free target,38,0.9171328671328671,31,81.57894736842105,2982,0.9131063990436041,2121,71.12676056338029
+sale,weekend_flash,all_region,all,discounted_at_end,2026-07-30,0,3,2026-08-06,0,1,promotion-free target,261,0.9405940594059405,148,56.70498084291188,5315,0.9375,3049,57.365945437441205
+sale,end_summer,caribbean,0-90,discounted_at_end,2026-08-10,1,3,2026-08-21,0,1,promotion-free target,109,0.8584070796460177,101,92.66055045871559,460,0.8920964317512499,331,71.95652173913044
+sale,end_summer,caribbean,0-90,discounted_at_end,2026-08-10,1,7,2026-08-25,0,1,promotion-free target,104,0.8249087591240876,97,93.26923076923077,423,0.8888888888888888,292,69.03073286052009
+sale,end_summer,caribbean,91-240,discounted_at_end,2026-08-10,1,3,2026-08-21,0,1,promotion-free target,280,0.8938561438561439,218,77.85714285714286,703,0.9387755102040817,407,57.89473684210526
+sale,end_summer,caribbean,91-240,discounted_at_end,2026-08-10,1,7,2026-08-25,0,1,promotion-free target,280,0.891656662665066,221,78.92857142857143,697,0.9235294117647059,470,67.43185078909613
+sale,end_summer,caribbean,241-365,discounted_at_end,2026-08-10,1,3,2026-08-21,0,1,promotion-free target,72,0.8743932038834952,58,80.55555555555556,131,0.9339622641509434,84,64.12213740458016
+sale,end_summer,caribbean,241-365,discounted_at_end,2026-08-10,1,7,2026-08-25,0,1,promotion-free target,72,0.843382728666326,60,83.33333333333333,131,0.9075144508670521,104,79.38931297709924
+sale,end_summer,caribbean,366+,discounted_at_end,2026-08-10,1,3,2026-08-21,0,1,promotion-free target,256,0.8795496120608086,244,95.3125,70,0.9464285714285714,45,64.28571428571429
+sale,end_summer,caribbean,366+,discounted_at_end,2026-08-10,1,7,2026-08-25,0,1,promotion-free target,256,0.8795496120608086,244,95.3125,70,0.9403868930122384,48,68.57142857142857
+sale,end_summer,caribbean,all,discounted_at_end,2026-08-10,1,3,2026-08-21,0,1,promotion-free target,717,0.8795180722891566,621,86.61087866108787,1364,0.9298245614035088,867,63.56304985337243
+sale,end_summer,caribbean,all,discounted_at_end,2026-08-10,1,7,2026-08-25,0,1,promotion-free target,712,0.8738679937994616,622,87.35955056179775,1321,0.9176470588235294,914,69.19000757002271
+sale,end_summer,all_region,0-90,discounted_at_end,2026-08-10,1,3,2026-08-21,0,1,promotion-free target,263,0.8777777777777778,225,85.55133079847909,639,0.8928571428571429,456,71.36150234741784
+sale,end_summer,all_region,0-90,discounted_at_end,2026-08-10,1,7,2026-08-25,0,1,promotion-free target,252,0.8682902119700748,198,78.57142857142857,591,0.8980582524271845,395,66.83587140439933
+sale,end_summer,all_region,91-240,discounted_at_end,2026-08-10,1,3,2026-08-21,0,1,promotion-free target,374,0.9032469232783451,302,80.74866310160428,993,0.9302325581395349,621,62.53776435045317
+sale,end_summer,all_region,91-240,discounted_at_end,2026-08-10,1,7,2026-08-25,0,1,promotion-free target,374,0.893302449361786,305,81.55080213903743,980,0.9203722002635046,662,67.55102040816327
+sale,end_summer,all_region,241-365,discounted_at_end,2026-08-10,1,3,2026-08-21,0,1,promotion-free target,126,0.908947970268725,109,86.5079365079365,391,0.9342105263157895,252,64.45012787723785
+sale,end_summer,all_region,241-365,discounted_at_end,2026-08-10,1,7,2026-08-25,0,1,promotion-free target,126,0.8964791427477995,111,88.0952380952381,377,0.9245283018867925,263,69.76127320954907
+sale,end_summer,all_region,366+,discounted_at_end,2026-08-10,1,3,2026-08-21,0,1,promotion-free target,314,0.8787878787878788,302,96.17834394904459,278,0.9319584736251403,193,69.42446043165468
+sale,end_summer,all_region,366+,discounted_at_end,2026-08-10,1,7,2026-08-25,0,1,promotion-free target,314,0.8787878787878788,302,96.17834394904459,264,0.9318181818181818,171,64.77272727272727
+sale,end_summer,all_region,all,discounted_at_end,2026-08-10,1,3,2026-08-21,0,1,promotion-free target,1077,0.8868778280542986,938,87.09377901578459,2301,0.9264705882352942,1522,66.1451542807475
+sale,end_summer,all_region,all,discounted_at_end,2026-08-10,1,7,2026-08-25,0,1,promotion-free target,1066,0.8833844580777096,916,85.92870544090056,2212,0.9202388242498469,1491,67.40506329113924
+sale,end_summer_aug10,caribbean,0-90,discounted_at_end,2026-08-09,0,3,2026-08-21,0,1,promotion-free target,112,0.865127487562189,97,86.60714285714286,442,0.8928571428571429,315,71.26696832579185
+sale,end_summer_aug10,caribbean,0-90,discounted_at_end,2026-08-09,0,7,2026-08-25,0,1,promotion-free target,108,0.8245709212862498,100,92.5925925925926,402,0.8866822429906542,279,69.40298507462687
+sale,end_summer_aug10,caribbean,91-240,discounted_at_end,2026-08-09,0,3,2026-08-21,0,1,promotion-free target,341,0.863849765258216,286,83.87096774193549,722,0.9376179245283018,423,58.58725761772853
+sale,end_summer_aug10,caribbean,91-240,discounted_at_end,2026-08-09,0,7,2026-08-25,0,1,promotion-free target,341,0.8557692307692307,294,86.21700879765396,717,0.9245283018867925,473,65.96931659693166
+sale,end_summer_aug10,caribbean,241-365,discounted_at_end,2026-08-09,0,3,2026-08-21,0,1,promotion-free target,230,0.7431693989071039,223,96.95652173913044,128,0.9326284232701345,85,66.40625
+sale,end_summer_aug10,caribbean,241-365,discounted_at_end,2026-08-09,0,7,2026-08-25,0,1,promotion-free target,230,0.7313245105545225,225,97.82608695652173,128,0.9089296392266295,100,78.125
+sale,end_summer_aug10,caribbean,366+,discounted_at_end,2026-08-09,0,3,2026-08-21,0,1,promotion-free target,494,0.835488032498902,486,98.38056680161944,61,0.946236559139785,41,67.21311475409836
+sale,end_summer_aug10,caribbean,366+,discounted_at_end,2026-08-09,0,7,2026-08-25,0,1,promotion-free target,494,0.835488032498902,486,98.38056680161944,61,0.941747572815534,39,63.9344262295082
+sale,end_summer_aug10,caribbean,all,discounted_at_end,2026-08-09,0,3,2026-08-21,0,1,promotion-free target,1177,0.8300395256916996,1092,92.77824978759558,1353,0.9266666666666666,864,63.85809312638581
+sale,end_summer_aug10,caribbean,all,discounted_at_end,2026-08-09,0,7,2026-08-25,0,1,promotion-free target,1173,0.8172043010752689,1105,94.20289855072464,1308,0.9182480009547679,891,68.11926605504587
+sale,end_summer_aug10,all_region,0-90,discounted_at_end,2026-08-09,0,3,2026-08-21,0,1,promotion-free target,245,0.8809523809523809,198,80.81632653061224,627,0.8930817610062893,446,71.1323763955343
+sale,end_summer_aug10,all_region,0-90,discounted_at_end,2026-08-09,0,7,2026-08-25,0,1,promotion-free target,237,0.86,187,78.90295358649789,576,0.8973049882825578,388,67.36111111111111
+sale,end_summer_aug10,all_region,91-240,discounted_at_end,2026-08-09,0,3,2026-08-21,0,1,promotion-free target,435,0.8913043478260869,362,83.2183908045977,1022,0.93,643,62.91585127201566
+sale,end_summer_aug10,all_region,91-240,discounted_at_end,2026-08-09,0,7,2026-08-25,0,1,promotion-free target,435,0.8821989528795812,377,86.66666666666667,1011,0.9213483146067416,673,66.5677546983185
+sale,end_summer_aug10,all_region,241-365,discounted_at_end,2026-08-09,0,3,2026-08-21,0,1,promotion-free target,282,0.7730061349693251,272,96.45390070921985,440,0.9311334289813487,297,67.5
+sale,end_summer_aug10,all_region,241-365,discounted_at_end,2026-08-09,0,7,2026-08-25,0,1,promotion-free target,282,0.7631179860479224,274,97.16312056737588,427,0.9252336448598131,296,69.3208430913349
+sale,end_summer_aug10,all_region,366+,discounted_at_end,2026-08-09,0,3,2026-08-21,0,1,promotion-free target,593,0.84,585,98.65092748735245,348,0.9296875,261,75.0
+sale,end_summer_aug10,all_region,366+,discounted_at_end,2026-08-09,0,7,2026-08-25,0,1,promotion-free target,593,0.84,584,98.4822934232715,334,0.9415346270251024,203,60.778443113772454
+sale,end_summer_aug10,all_region,all,discounted_at_end,2026-08-09,0,3,2026-08-21,0,1,promotion-free target,1555,0.8520408163265306,1417,91.12540192926045,2437,0.9253731343283582,1647,67.58309396799343
+sale,end_summer_aug10,all_region,all,discounted_at_end,2026-08-09,0,7,2026-08-25,0,1,promotion-free target,1547,0.8416666666666667,1422,91.91984486102133,2348,0.9246231155778895,1560,66.43952299829643
+sale,flash_48h,caribbean,0-90,discounted_at_end,2026-08-25,0,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,flash_48h,caribbean,91-240,discounted_at_end,2026-08-25,0,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,flash_48h,caribbean,241-365,discounted_at_end,2026-08-25,0,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,flash_48h,caribbean,366+,discounted_at_end,2026-08-25,0,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,flash_48h,caribbean,all,discounted_at_end,2026-08-25,0,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,flash_48h,all_region,0-90,discounted_at_end,2026-08-25,0,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,flash_48h,all_region,91-240,discounted_at_end,2026-08-25,0,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,flash_48h,all_region,241-365,discounted_at_end,2026-08-25,0,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,flash_48h,all_region,366+,discounted_at_end,2026-08-25,0,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,flash_48h,all_region,all,discounted_at_end,2026-08-25,0,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,labor_aug31,caribbean,0-90,discounted_at_end,2026-08-27,1,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,labor_aug31,caribbean,91-240,discounted_at_end,2026-08-27,1,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,labor_aug31,caribbean,241-365,discounted_at_end,2026-08-27,1,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,labor_aug31,caribbean,366+,discounted_at_end,2026-08-27,1,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,labor_aug31,caribbean,all,discounted_at_end,2026-08-27,1,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,labor_aug31,all_region,0-90,discounted_at_end,2026-08-27,1,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,labor_aug31,all_region,91-240,discounted_at_end,2026-08-27,1,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,labor_aug31,all_region,241-365,discounted_at_end,2026-08-27,1,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,labor_aug31,all_region,366+,discounted_at_end,2026-08-27,1,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,labor_aug31,all_region,all,discounted_at_end,2026-08-27,1,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,labor_sep02,caribbean,0-90,discounted_at_end,2026-08-27,1,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,labor_sep02,caribbean,91-240,discounted_at_end,2026-08-27,1,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,labor_sep02,caribbean,241-365,discounted_at_end,2026-08-27,1,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,labor_sep02,caribbean,366+,discounted_at_end,2026-08-27,1,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,labor_sep02,caribbean,all,discounted_at_end,2026-08-27,1,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,labor_sep02,all_region,0-90,discounted_at_end,2026-08-27,1,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,labor_sep02,all_region,91-240,discounted_at_end,2026-08-27,1,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,labor_sep02,all_region,241-365,discounted_at_end,2026-08-27,1,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,labor_sep02,all_region,366+,discounted_at_end,2026-08-27,1,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,labor_sep02,all_region,all,discounted_at_end,2026-08-27,1,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,labor_sep07,caribbean,0-90,discounted_at_end,2026-08-27,1,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,labor_sep07,caribbean,91-240,discounted_at_end,2026-08-27,1,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,labor_sep07,caribbean,241-365,discounted_at_end,2026-08-27,1,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,labor_sep07,caribbean,366+,discounted_at_end,2026-08-27,1,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,labor_sep07,caribbean,all,discounted_at_end,2026-08-27,1,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,labor_sep07,all_region,0-90,discounted_at_end,2026-08-27,1,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,labor_sep07,all_region,91-240,discounted_at_end,2026-08-27,1,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,labor_sep07,all_region,241-365,discounted_at_end,2026-08-27,1,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,labor_sep07,all_region,366+,discounted_at_end,2026-08-27,1,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,labor_sep07,all_region,all,discounted_at_end,2026-08-27,1,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,labor_sep10,caribbean,0-90,discounted_at_end,2026-08-27,1,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,labor_sep10,caribbean,91-240,discounted_at_end,2026-08-27,1,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,labor_sep10,caribbean,241-365,discounted_at_end,2026-08-27,1,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,labor_sep10,caribbean,366+,discounted_at_end,2026-08-27,1,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,labor_sep10,caribbean,all,discounted_at_end,2026-08-27,1,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,labor_sep10,all_region,0-90,discounted_at_end,2026-08-27,1,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,labor_sep10,all_region,91-240,discounted_at_end,2026-08-27,1,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,labor_sep10,all_region,241-365,discounted_at_end,2026-08-27,1,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,labor_sep10,all_region,366+,discounted_at_end,2026-08-27,1,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,labor_sep10,all_region,all,discounted_at_end,2026-08-27,1,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,labor_aug31_preflash,caribbean,0-90,discounted_at_end,2026-08-25,0,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,labor_aug31_preflash,caribbean,91-240,discounted_at_end,2026-08-25,0,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,labor_aug31_preflash,caribbean,241-365,discounted_at_end,2026-08-25,0,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,labor_aug31_preflash,caribbean,366+,discounted_at_end,2026-08-25,0,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,labor_aug31_preflash,caribbean,all,discounted_at_end,2026-08-25,0,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,labor_aug31_preflash,all_region,0-90,discounted_at_end,2026-08-25,0,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,labor_aug31_preflash,all_region,91-240,discounted_at_end,2026-08-25,0,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,labor_aug31_preflash,all_region,241-365,discounted_at_end,2026-08-25,0,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,labor_aug31_preflash,all_region,366+,discounted_at_end,2026-08-25,0,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,labor_aug31_preflash,all_region,all,discounted_at_end,2026-08-25,0,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,flash_labor_aug31,caribbean,0-90,discounted_at_end,2026-08-25,0,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,flash_labor_aug31,caribbean,91-240,discounted_at_end,2026-08-25,0,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,flash_labor_aug31,caribbean,241-365,discounted_at_end,2026-08-25,0,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,flash_labor_aug31,caribbean,366+,discounted_at_end,2026-08-25,0,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,flash_labor_aug31,caribbean,all,discounted_at_end,2026-08-25,0,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,flash_labor_aug31,all_region,0-90,discounted_at_end,2026-08-25,0,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,flash_labor_aug31,all_region,91-240,discounted_at_end,2026-08-25,0,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,flash_labor_aug31,all_region,241-365,discounted_at_end,2026-08-25,0,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,flash_labor_aug31,all_region,366+,discounted_at_end,2026-08-25,0,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,flash_labor_aug31,all_region,all,discounted_at_end,2026-08-25,0,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,labor_sep02_preflash,caribbean,0-90,discounted_at_end,2026-08-25,0,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,labor_sep02_preflash,caribbean,91-240,discounted_at_end,2026-08-25,0,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,labor_sep02_preflash,caribbean,241-365,discounted_at_end,2026-08-25,0,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,labor_sep02_preflash,caribbean,366+,discounted_at_end,2026-08-25,0,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,labor_sep02_preflash,caribbean,all,discounted_at_end,2026-08-25,0,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,labor_sep02_preflash,all_region,0-90,discounted_at_end,2026-08-25,0,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,labor_sep02_preflash,all_region,91-240,discounted_at_end,2026-08-25,0,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,labor_sep02_preflash,all_region,241-365,discounted_at_end,2026-08-25,0,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,labor_sep02_preflash,all_region,366+,discounted_at_end,2026-08-25,0,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,labor_sep02_preflash,all_region,all,discounted_at_end,2026-08-25,0,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,flash_labor_sep02,caribbean,0-90,discounted_at_end,2026-08-25,0,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,flash_labor_sep02,caribbean,91-240,discounted_at_end,2026-08-25,0,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,flash_labor_sep02,caribbean,241-365,discounted_at_end,2026-08-25,0,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,flash_labor_sep02,caribbean,366+,discounted_at_end,2026-08-25,0,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,flash_labor_sep02,caribbean,all,discounted_at_end,2026-08-25,0,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,flash_labor_sep02,all_region,0-90,discounted_at_end,2026-08-25,0,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,flash_labor_sep02,all_region,91-240,discounted_at_end,2026-08-25,0,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,flash_labor_sep02,all_region,241-365,discounted_at_end,2026-08-25,0,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,flash_labor_sep02,all_region,366+,discounted_at_end,2026-08-25,0,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,flash_labor_sep02,all_region,all,discounted_at_end,2026-08-25,0,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,labor_sep07_preflash,caribbean,0-90,discounted_at_end,2026-08-25,0,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,labor_sep07_preflash,caribbean,91-240,discounted_at_end,2026-08-25,0,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,labor_sep07_preflash,caribbean,241-365,discounted_at_end,2026-08-25,0,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,labor_sep07_preflash,caribbean,366+,discounted_at_end,2026-08-25,0,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,labor_sep07_preflash,caribbean,all,discounted_at_end,2026-08-25,0,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,labor_sep07_preflash,all_region,0-90,discounted_at_end,2026-08-25,0,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,labor_sep07_preflash,all_region,91-240,discounted_at_end,2026-08-25,0,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,labor_sep07_preflash,all_region,241-365,discounted_at_end,2026-08-25,0,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,labor_sep07_preflash,all_region,366+,discounted_at_end,2026-08-25,0,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,labor_sep07_preflash,all_region,all,discounted_at_end,2026-08-25,0,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,flash_labor_sep07,caribbean,0-90,discounted_at_end,2026-08-25,0,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,flash_labor_sep07,caribbean,91-240,discounted_at_end,2026-08-25,0,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,flash_labor_sep07,caribbean,241-365,discounted_at_end,2026-08-25,0,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,flash_labor_sep07,caribbean,366+,discounted_at_end,2026-08-25,0,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,flash_labor_sep07,caribbean,all,discounted_at_end,2026-08-25,0,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,flash_labor_sep07,all_region,0-90,discounted_at_end,2026-08-25,0,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,flash_labor_sep07,all_region,91-240,discounted_at_end,2026-08-25,0,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,flash_labor_sep07,all_region,241-365,discounted_at_end,2026-08-25,0,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,flash_labor_sep07,all_region,366+,discounted_at_end,2026-08-25,0,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,flash_labor_sep07,all_region,all,discounted_at_end,2026-08-25,0,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,labor_sep10_preflash,caribbean,0-90,discounted_at_end,2026-08-25,0,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,labor_sep10_preflash,caribbean,91-240,discounted_at_end,2026-08-25,0,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,labor_sep10_preflash,caribbean,241-365,discounted_at_end,2026-08-25,0,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,labor_sep10_preflash,caribbean,366+,discounted_at_end,2026-08-25,0,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,labor_sep10_preflash,caribbean,all,discounted_at_end,2026-08-25,0,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,labor_sep10_preflash,all_region,0-90,discounted_at_end,2026-08-25,0,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,labor_sep10_preflash,all_region,91-240,discounted_at_end,2026-08-25,0,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,labor_sep10_preflash,all_region,241-365,discounted_at_end,2026-08-25,0,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,labor_sep10_preflash,all_region,366+,discounted_at_end,2026-08-25,0,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,labor_sep10_preflash,all_region,all,discounted_at_end,2026-08-25,0,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,flash_labor_sep10,caribbean,0-90,discounted_at_end,2026-08-25,0,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,flash_labor_sep10,caribbean,91-240,discounted_at_end,2026-08-25,0,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,flash_labor_sep10,caribbean,241-365,discounted_at_end,2026-08-25,0,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,flash_labor_sep10,caribbean,366+,discounted_at_end,2026-08-25,0,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,flash_labor_sep10,caribbean,all,discounted_at_end,2026-08-25,0,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,flash_labor_sep10,all_region,0-90,discounted_at_end,2026-08-25,0,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,flash_labor_sep10,all_region,91-240,discounted_at_end,2026-08-25,0,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,flash_labor_sep10,all_region,241-365,discounted_at_end,2026-08-25,0,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,flash_labor_sep10,all_region,366+,discounted_at_end,2026-08-25,0,,,,,no promotion-free requested target within panel,,,,,,,,
+sale,flash_labor_sep10,all_region,all,discounted_at_end,2026-08-25,0,,,,,no promotion-free requested target within panel,,,,,,,,

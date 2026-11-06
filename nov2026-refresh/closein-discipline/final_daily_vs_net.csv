@@ -1,0 +1,7 @@
+line,population,endpoint_sailings,sailings_with_any_adjacent_pair,sailings_with_any_cabin_daily_cut_ge5,net_fixed_basket_cut_ge5,any_daily_cut_share_of_endpoint_sample_pct
+norwegian,all,1291,1291,577,95,44.6940356313
+royal-caribbean,all,2775,2775,1779,442,64.1081081081
+carnival,all,2428,2427,933,240,38.4266886326
+norwegian,0-120,251,251,228,39,90.8366533865
+royal-caribbean,0-120,538,538,466,149,86.6171003717
+carnival,0-120,432,431,379,60,87.7314814815

@@ -1,0 +1,8 @@
+input,sha256,csv_records
+/home/rich/devdata/allaboard-parser/out/nclh-2026-09-12/sailings.csv,37442f6ed9509bf2c9b15376c6f1e3752c6cc28d24e027af96c39fd077a17f08,3092
+/home/rich/devdata/fleet-cabins/cabin_counts.csv,c8f332e8b5a6114bec6a6440f6e351476cece9c232a7fa2a267d04402f87703b,108
+/home/rich/devdata/alphasense/nclh/consensus/fleet_cabins.csv,5496ee4b2c2771f9ef068114bf799a60d63dd79b2e8ac28fb542bcaa66d7d835,39
+/home/rich/devdata/nclh-kpis/fleet.csv,0f6e5a10594bb90fc05dff50f5d57d837abe9bda81705255b759a6151a3f15a6,51
+/home/rich/devdata/nclh-kpis/quarterly_kpis.csv,4128f1959210d93de7c21cae5cf69e1e34f2c5bbd41eb57fc37970132a094b1c,20
+/home/rich/devdata/nclh-kpis/guidance.csv,8ff8de69322d760f3d129624cb4ec0dc905e4da85ee33688cd5f120524b2ac10,1256
+/home/rich/devdata/nclh-capacity/out/ship_berths.csv,0e26994eb153e0d064e6da5b053fe49807cbf032ad68948ca83aba808f00b28a,35

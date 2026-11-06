@@ -1,0 +1,17 @@
+norwegian products 16 median 2027/2026 ratio 0.679
+    inside products 4 median ratio 0.722 sailings 26/27 10 11
+    oceanview products 4 median ratio 0.665 sailings 26/27 10 11
+    balcony products 4 median ratio 0.648 sailings 26/27 10 11
+    suite products 4 median ratio 0.633 sailings 26/27 10 11
+royal-caribbean products 74 median 2027/2026 ratio 1.13
+    inside products 26 median ratio 1.139 sailings 26/27 81 62
+    oceanview products 16 median ratio 1.131 sailings 26/27 55 39
+    balcony products 16 median ratio 1.136 sailings 26/27 55 39
+    suite products 16 median ratio 1.081 sailings 26/27 55 39
+carnival products 51 median 2027/2026 ratio 0.964
+    inside products 24 median ratio 0.958 sailings 26/27 61 61
+    oceanview products 9 median ratio 0.971 sailings 26/27 28 18
+    balcony products 9 median ratio 0.958 sailings 26/27 28 18
+    suite products 9 median ratio 0.982 sailings 26/27 28 18
+
+[exited with code 0]

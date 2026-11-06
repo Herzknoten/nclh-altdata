@@ -1,0 +1,13 @@
+{
+  "analysis_status": "lexicon, unvalidated",
+  "authors_missing": 218,
+  "counts": {
+    "eligible": 834395,
+    "empty_or_deleted_text": 24616,
+    "identity_regime:hmac_sha256_v1:871ff3b66d5db2a8": 834395,
+    "known_bot_items": 14951,
+    "physical_lines": 873962
+  },
+  "interpretation": "subreddit text tone, not brand attribution or customer satisfaction",
+  "lexicon_version": "small-lexicon-v1"
+}

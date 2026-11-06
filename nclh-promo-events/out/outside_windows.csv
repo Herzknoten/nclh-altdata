@@ -1,0 +1,53 @@
+window_id,comparison,sale_id,horizon,duration,start,end,baseline_date,sale_end_distance_days,followup_promo_mask,rule
+outside_2d_1,outside,,,2,2026-06-25,2026-06-26,2026-06-24,,,"earliest nonoverlapping block and pre-day outside conservative union, within each duration"
+outside_2d_2,outside,,,2,2026-06-27,2026-06-28,2026-06-26,,,"earliest nonoverlapping block and pre-day outside conservative union, within each duration"
+outside_2d_3,outside,,,2,2026-06-29,2026-06-30,2026-06-28,,,"earliest nonoverlapping block and pre-day outside conservative union, within each duration"
+outside_2d_4,outside,,,2,2026-07-01,2026-07-02,2026-06-30,,,"earliest nonoverlapping block and pre-day outside conservative union, within each duration"
+outside_2d_5,outside,,,2,2026-07-03,2026-07-04,2026-07-02,,,"earliest nonoverlapping block and pre-day outside conservative union, within each duration"
+outside_2d_6,outside,,,2,2026-07-05,2026-07-06,2026-07-04,,,"earliest nonoverlapping block and pre-day outside conservative union, within each duration"
+outside_2d_7,outside,,,2,2026-07-18,2026-07-19,2026-07-17,,,"earliest nonoverlapping block and pre-day outside conservative union, within each duration"
+outside_2d_8,outside,,,2,2026-07-20,2026-07-21,2026-07-19,,,"earliest nonoverlapping block and pre-day outside conservative union, within each duration"
+outside_2d_9,outside,,,2,2026-07-22,2026-07-23,2026-07-21,,,"earliest nonoverlapping block and pre-day outside conservative union, within each duration"
+outside_2d_10,outside,,,2,2026-07-24,2026-07-25,2026-07-23,,,"earliest nonoverlapping block and pre-day outside conservative union, within each duration"
+outside_2d_11,outside,,,2,2026-07-26,2026-07-27,2026-07-25,,,"earliest nonoverlapping block and pre-day outside conservative union, within each duration"
+outside_2d_12,outside,,,2,2026-07-28,2026-07-29,2026-07-27,,,"earliest nonoverlapping block and pre-day outside conservative union, within each duration"
+outside_2d_13,outside,,,2,2026-08-05,2026-08-06,2026-08-04,,,"earliest nonoverlapping block and pre-day outside conservative union, within each duration"
+outside_2d_14,outside,,,2,2026-08-07,2026-08-08,2026-08-06,,,"earliest nonoverlapping block and pre-day outside conservative union, within each duration"
+outside_2d_15,outside,,,2,2026-08-20,2026-08-21,2026-08-19,,,"earliest nonoverlapping block and pre-day outside conservative union, within each duration"
+outside_2d_16,outside,,,2,2026-08-22,2026-08-23,2026-08-21,,,"earliest nonoverlapping block and pre-day outside conservative union, within each duration"
+outside_2d_17,outside,,,2,2026-08-24,2026-08-25,2026-08-23,,,"earliest nonoverlapping block and pre-day outside conservative union, within each duration"
+outside_4d_1,outside,,,4,2026-06-25,2026-06-28,2026-06-24,,,"earliest nonoverlapping block and pre-day outside conservative union, within each duration"
+outside_4d_2,outside,,,4,2026-06-29,2026-07-02,2026-06-28,,,"earliest nonoverlapping block and pre-day outside conservative union, within each duration"
+outside_4d_3,outside,,,4,2026-07-03,2026-07-06,2026-07-02,,,"earliest nonoverlapping block and pre-day outside conservative union, within each duration"
+outside_4d_4,outside,,,4,2026-07-18,2026-07-21,2026-07-17,,,"earliest nonoverlapping block and pre-day outside conservative union, within each duration"
+outside_4d_5,outside,,,4,2026-07-22,2026-07-25,2026-07-21,,,"earliest nonoverlapping block and pre-day outside conservative union, within each duration"
+outside_4d_6,outside,,,4,2026-07-26,2026-07-29,2026-07-25,,,"earliest nonoverlapping block and pre-day outside conservative union, within each duration"
+outside_4d_7,outside,,,4,2026-08-05,2026-08-08,2026-08-04,,,"earliest nonoverlapping block and pre-day outside conservative union, within each duration"
+outside_4d_8,outside,,,4,2026-08-20,2026-08-23,2026-08-19,,,"earliest nonoverlapping block and pre-day outside conservative union, within each duration"
+outside_6d_1,outside,,,6,2026-06-25,2026-06-30,2026-06-24,,,"earliest nonoverlapping block and pre-day outside conservative union, within each duration"
+outside_6d_2,outside,,,6,2026-07-01,2026-07-06,2026-06-30,,,"earliest nonoverlapping block and pre-day outside conservative union, within each duration"
+outside_6d_3,outside,,,6,2026-07-18,2026-07-23,2026-07-17,,,"earliest nonoverlapping block and pre-day outside conservative union, within each duration"
+outside_6d_4,outside,,,6,2026-07-24,2026-07-29,2026-07-23,,,"earliest nonoverlapping block and pre-day outside conservative union, within each duration"
+outside_6d_5,outside,,,6,2026-08-20,2026-08-25,2026-08-19,,,"earliest nonoverlapping block and pre-day outside conservative union, within each duration"
+outside_8d_1,outside,,,8,2026-06-25,2026-07-02,2026-06-24,,,"earliest nonoverlapping block and pre-day outside conservative union, within each duration"
+outside_8d_2,outside,,,8,2026-07-18,2026-07-25,2026-07-17,,,"earliest nonoverlapping block and pre-day outside conservative union, within each duration"
+outside_9d_1,outside,,,9,2026-06-25,2026-07-03,2026-06-24,,,"earliest nonoverlapping block and pre-day outside conservative union, within each duration"
+outside_9d_2,outside,,,9,2026-07-18,2026-07-26,2026-07-17,,,"earliest nonoverlapping block and pre-day outside conservative union, within each duration"
+outside_11d_1,outside,,,11,2026-06-25,2026-07-05,2026-06-24,,,"earliest nonoverlapping block and pre-day outside conservative union, within each duration"
+outside_11d_2,outside,,,11,2026-07-18,2026-07-28,2026-07-17,,,"earliest nonoverlapping block and pre-day outside conservative union, within each duration"
+outside_13d_1,outside,,,13,2026-06-25,2026-07-07,2026-06-24,,,"earliest nonoverlapping block and pre-day outside conservative union, within each duration"
+outside_13d_2,outside,,,13,2026-07-18,2026-07-30,2026-07-17,,,"earliest nonoverlapping block and pre-day outside conservative union, within each duration"
+matched_semi_annual_3d_1,outside_matched,semi_annual,3,9,2026-06-26,2026-07-04,2026-06-25,-12,000,nearest disjoint blocks; end dates within 21 days; clean baseline/window; equal baseline lag; exact post-end promotion mask; same unit frozen lead band at both starts
+matched_semi_annual_3d_2,outside_matched,semi_annual,3,9,2026-07-18,2026-07-26,2026-07-17,10,000,nearest disjoint blocks; end dates within 21 days; clean baseline/window; equal baseline lag; exact post-end promotion mask; same unit frozen lead band at both starts
+matched_weekend_flash_3d_1,outside_matched,weekend_flash,3,4,2026-07-20,2026-07-23,2026-07-19,-11,000,nearest disjoint blocks; end dates within 21 days; clean baseline/window; equal baseline lag; exact post-end promotion mask; same unit frozen lead band at both starts
+matched_weekend_flash_3d_2,outside_matched,weekend_flash,3,4,2026-07-24,2026-07-27,2026-07-23,-7,000,nearest disjoint blocks; end dates within 21 days; clean baseline/window; equal baseline lag; exact post-end promotion mask; same unit frozen lead band at both starts
+matched_weekend_flash_7d_1,outside_matched,weekend_flash,7,4,2026-07-21,2026-07-24,2026-07-20,-10,0000001,nearest disjoint blocks; end dates within 21 days; clean baseline/window; equal baseline lag; exact post-end promotion mask; same unit frozen lead band at both starts
+matched_flash_48h_3d_1,outside_matched,flash_48h,3,2,2026-08-08,2026-08-09,2026-08-07,-18,111,nearest disjoint blocks; end dates within 21 days; clean baseline/window; equal baseline lag; exact post-end promotion mask; same unit frozen lead band at both starts
+matched_flash_48h_3d_2,outside_matched,flash_48h,3,2,2026-08-24,2026-08-25,2026-08-23,-2,111,nearest disjoint blocks; end dates within 21 days; clean baseline/window; equal baseline lag; exact post-end promotion mask; same unit frozen lead band at both starts
+matched_flash_48h_7d_1,outside_matched,flash_48h,7,2,2026-08-08,2026-08-09,2026-08-07,-18,1111111,nearest disjoint blocks; end dates within 21 days; clean baseline/window; equal baseline lag; exact post-end promotion mask; same unit frozen lead band at both starts
+matched_flash_48h_7d_2,outside_matched,flash_48h,7,2,2026-08-24,2026-08-25,2026-08-23,-2,1111111,nearest disjoint blocks; end dates within 21 days; clean baseline/window; equal baseline lag; exact post-end promotion mask; same unit frozen lead band at both starts
+matched_flash_48h_14d_1,outside_matched,flash_48h,14,2,2026-08-24,2026-08-25,2026-08-23,-2,11111111111111,nearest disjoint blocks; end dates within 21 days; clean baseline/window; equal baseline lag; exact post-end promotion mask; same unit frozen lead band at both starts
+matched_labor_aug31_preflash_3d_1,outside_matched,labor_aug31_preflash,3,4,2026-08-22,2026-08-25,2026-08-19,-6,111,nearest disjoint blocks; end dates within 21 days; clean baseline/window; equal baseline lag; exact post-end promotion mask; same unit frozen lead band at both starts
+matched_labor_aug31_preflash_7d_1,outside_matched,labor_aug31_preflash,7,4,2026-08-22,2026-08-25,2026-08-19,-6,1111111,nearest disjoint blocks; end dates within 21 days; clean baseline/window; equal baseline lag; exact post-end promotion mask; same unit frozen lead band at both starts
+matched_flash_labor_aug31_3d_1,outside_matched,flash_labor_aug31,3,6,2026-08-20,2026-08-25,2026-08-19,-6,111,nearest disjoint blocks; end dates within 21 days; clean baseline/window; equal baseline lag; exact post-end promotion mask; same unit frozen lead band at both starts
+matched_flash_labor_aug31_7d_1,outside_matched,flash_labor_aug31,7,6,2026-08-20,2026-08-25,2026-08-19,-6,1111111,nearest disjoint blocks; end dates within 21 days; clean baseline/window; equal baseline lag; exact post-end promotion mask; same unit frozen lead band at both starts

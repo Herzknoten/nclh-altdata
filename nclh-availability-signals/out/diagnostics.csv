@@ -1,0 +1,15 @@
+metric,value
+after_asof_rows,0
+after_crawl_label_rows,9758
+included_history_rows,6637001
+invalid_price_rows,0
+other_line_history_rows,4120995
+postdeparture_rows,2273
+sailings_without_history_rows,0
+selected_line_history_rows,6639274
+selected_sailings,15356
+source_first_date_ordinal,739530
+source_last_date_ordinal,739872
+within_day_conflicting_cabin_days,0
+within_day_duplicate_cabin_rows,0
+zero_price_rows,0

@@ -1,0 +1,4 @@
+command,exit_code,log
+/home/rich/devdata/venv-nclh-ivy/bin/python -B refresh.py,0,out/analysis.log
+/home/rich/devdata/venv-nclh-ivy/bin/python -B make_charts.py,0,out/charts.log
+PYTHONPYCACHEPREFIX=out/pycache /home/rich/devdata/venv-nclh-ivy/bin/python -m py_compile refresh.py make_charts.py,0,out/compile.log

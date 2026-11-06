@@ -1,0 +1,129 @@
+{
+  "H1_margin_points": 10,
+  "H1_periods": [
+    "2025Q3",
+    "2026Q3"
+  ],
+  "balance_threshold_points": 10,
+  "brand_filter": "Explicit home-brand only, identical in primary and every content stratum",
+  "capacity_gates": {
+    "maximum_author_weight": 0.1,
+    "minimum_cell_authors": 20,
+    "minimum_cell_kish": 20,
+    "minimum_overall_authors": 50,
+    "minimum_overall_kish": 40
+  },
+  "classification_error_rule": "METHOD section 5: n_g=0 implies M_g=N_g, including model-ineligible records",
+  "codebook_sha256": "897902fb3fe1a30895a79b484b310e4383ff8eb11408095fc90c080c833ef139",
+  "composition_equivalence_points": [
+    -10,
+    10
+  ],
+  "consensus": "Field equality on mutually unique same-topic exact own-evaluation-anchor links. Ambiguous/unmatched objects unresolved; no overlap matching.",
+  "cpu_workers": 1,
+  "display_intervals": "99.5% conditional sampling separate from 99% error-inclusive full bounds",
+  "endpoint_specs": {
+    "H2": {
+      "author_period": "2026Q3",
+      "community": "NCL",
+      "date_basis": "item_posting_timestamp_in_UTC",
+      "domain": "core_cut_tradeoff",
+      "end_exclusive_utc": "2026-10-01T00:00:00+00:00",
+      "other_windows": "exploratory_only",
+      "pooled_cut_codes": [
+        "cut_breakfast",
+        "cut_mdr",
+        "cut_turndown",
+        "cut_entertainment",
+        "cut_fas",
+        "cut_dining_cancel",
+        "cut_air",
+        "cut_show_reservations",
+        "cut_drink_vat",
+        "cut_drink_gratuity",
+        "cut_tides_food",
+        "cut_casino"
+      ],
+      "start_inclusive_utc": "2026-07-01T00:00:00+00:00",
+      "validation_scope": "all_sampled_NCL_records_in_2026Q3_including_model_ineligible"
+    },
+    "H3": {
+      "author_period": "2026Q3",
+      "community": "NCL",
+      "date_basis": "item_posting_timestamp_in_UTC",
+      "domain": "gsc",
+      "end_exclusive_utc": "2026-10-01T00:00:00+00:00",
+      "great_tides_included": false,
+      "other_windows": "exploratory_only",
+      "pooled_facilities": [
+        "general_island",
+        "access",
+        "pier",
+        "tender",
+        "beach",
+        "pool",
+        "food",
+        "crowding",
+        "missed_call"
+      ],
+      "start_inclusive_utc": "2026-07-01T00:00:00+00:00",
+      "validation_scope": "all_sampled_NCL_records_in_2026Q3_including_model_ineligible"
+    },
+    "H4": {
+      "author_period": "2026Q3",
+      "community": "NCL",
+      "date_basis": "item_posting_timestamp_in_UTC",
+      "domain": "fas",
+      "end_exclusive_utc": "2026-10-01T00:00:00+00:00",
+      "more_at_sea_included": false,
+      "other_windows": "exploratory_only",
+      "package_family": "free_at_sea",
+      "package_versions": "all_explicitly_identified_versions_pooled",
+      "start_inclusive_utc": "2026-07-01T00:00:00+00:00",
+      "unresolved_versions_included": false,
+      "validation_scope": "all_sampled_NCL_records_in_2026Q3_including_model_ineligible"
+    }
+  },
+  "event_endpoints": "exclusive ISO end dates; spring exposed requires explicitly 2-5 nights",
+  "events": {
+    "spring": [
+      "03-27",
+      "04-24",
+      "05-02",
+      "05-30"
+    ],
+    "summer": [
+      "07-02",
+      "07-30",
+      "08-11",
+      "09-08"
+    ]
+  },
+  "exploratory_topics": "All fixed taxonomy families: NCL Q3 2026 completed-experience balance; monthly entire snapshot, never confirmatory",
+  "human_gold_records": 0,
+  "maximum_missing_bootstrap_fraction": 0.05,
+  "method_sha256": "2f617e982e4ceeaee7f5767a50310e12b8753ebf6b9bfda71f71658d48c222cb",
+  "minimum_interval_authors": 20,
+  "pretrend_equivalence_points_per_quarter": [
+    -5,
+    5
+  ],
+  "region_crosswalk": "Exact existing target labels only; no new inferred alias/ship mapping",
+  "replicates": 2000,
+  "sampling_quantiles": [
+    0.0025,
+    0.9975
+  ],
+  "seed": 20261002,
+  "tier": "model-labelled, unvalidated; human confirmation pending",
+  "unknown_opening_dates": [
+    "Free at Sea rollout",
+    "GSC/Great Tides milestones"
+  ],
+  "verdict_order": [
+    "foundational_failure_or_missing_primary:not_estimable",
+    "all_required_support:support",
+    "all_required_adverse:adverse_evidence",
+    "otherwise:inconclusive"
+  ]
+}

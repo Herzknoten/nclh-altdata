@@ -1,0 +1,47 @@
+{
+  "selected": {
+    "gsc": "great stirrup|stirrup cay|\\bgsc\\b",
+    "gsc_tender": "\\btender",
+    "gsc_pier": "\\bpier\\b|dock(ed|ing)? (at|directly)|walk off",
+    "gsc_waterpark": "water ?park|waterslide|slides\\b|lagoon|heated pool|splash"
+  },
+  "scope": "old corpus only",
+  "exact_source_syntax_recovered": true,
+  "candidate_patterns": {
+    "gsc": [
+      "great stirrup|stirrup cay|\\bgsc\\b",
+      "\\b(?:great stirrup cay|gsc)\\b",
+      "great stirrup|\\bgsc\\b",
+      "\\b(?:great stirrup|gsc)\\b",
+      "great stirrup cay|\\bgsc\\b",
+      "great stirrup cay|gsc",
+      "great stirrup|gsc"
+    ],
+    "gsc_tender": [
+      "\\btender",
+      "\\btender(?:s|ing)?\\b",
+      "\\btender(?:ing)?\\b",
+      "tender",
+      "\\btender\\b",
+      "\\btender\\w*"
+    ],
+    "gsc_pier": [
+      "\\bpier\\b|dock(ed|ing)? (at|directly)|walk off",
+      "\\bpiers?\\b",
+      "\\bpier\\b",
+      "pier",
+      "\\b(?:piers?|docks?|docking)\\b",
+      "pier|dock"
+    ],
+    "gsc_waterpark": [
+      "water ?park|waterslide|slides\\b|lagoon|heated pool|splash",
+      "\\bwater\\s?park\\b",
+      "waterpark|water park",
+      "\\bwaterparks?\\b",
+      "waterpark",
+      "\\b(?:water\\s?parks?|great tides)\\b",
+      "waterpark|water park|great tides"
+    ]
+  },
+  "source": "out/original_n4_producer.txt; original assistant command at transcript line 3367"
+}

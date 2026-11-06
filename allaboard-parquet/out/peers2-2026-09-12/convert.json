@@ -1,0 +1,20 @@
+{
+  "csv": "/home/rich/devdata/allaboard-parser/out/peers2-2026-09-12/price_history.csv",
+  "parquet": "/home/rich/devdata/allaboard-parquet/out/peers2-2026-09-12/price_history.parquet",
+  "rows": 4395588,
+  "row_groups": 5,
+  "row_group_size": 1000000,
+  "price_profile": {
+    "rows": 4395588,
+    "blank_prices": 0,
+    "non_integer_prices": 0,
+    "minimum": "29",
+    "maximum": "3963",
+    "price_type": "int32"
+  },
+  "csv_bytes": 507447859,
+  "parquet_bytes": 22017790,
+  "seconds": 10.609374611987732,
+  "peak_rss_bytes": 627269632,
+  "csv_to_parquet_ratio": 23.047174988952115
+}

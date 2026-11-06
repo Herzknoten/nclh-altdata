@@ -1,0 +1,4 @@
+quarter,quarter_end,source_release_date,advance_ticket_sales_musd,deposit_yoy_pct,deposit_source,use
+2025Q4,2025-12-31,2026-03-02,3200.593,3.046687,../nclh-kpis/quarterly_kpis.csv:19,descriptive_corporate_dollar_balance_not_bookings_on_hand
+2026Q1,2026-03-31,2026-05-04,3718.873,-1.153111,../nclh-kpis/quarterly_kpis.csv:20,descriptive_corporate_dollar_balance_not_bookings_on_hand
+2026Q2,2026-06-30,2026-07-30,3651.201,-4.762251,../nclh-kpis/quarterly_kpis.csv:21,descriptive_corporate_dollar_balance_not_bookings_on_hand

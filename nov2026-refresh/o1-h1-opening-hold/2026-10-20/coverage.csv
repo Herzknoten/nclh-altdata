@@ -1,0 +1,51 @@
+test,cohort,region,line,target_metadata_sailings,current_export_sailings,fresh_target_sailings,eligible_fresh_targets,fresh_targets_below_300_only,eligible_cabins,sailing_matched_eligible_targets,matched_sailings,matched_ships,matched_cabin_pairs,coverage_pct,target_departure_months,matched_departure_months,status,status_detail,no_sailing_match_cabins,no_comparator_cabin_history_cabins,comparator_lead_below_300_cabins,lead_gap_over_45_cabins,fresh_start_sailings,fresh_end_sailings
+O1,2028,all,norwegian,211,0,0,0,0,0,0,0,0,0,,2028-01|2028-02|2028-03,,no targets,no fresh target observations at cutoff,0,0,0,0,,
+O1,2028,all,royal-caribbean,475,0,0,0,0,0,0,0,0,0,,2028-01|2028-02|2028-03,,no targets,no fresh target observations at cutoff,0,0,0,0,,
+O1,2028,all,carnival,415,0,0,0,0,0,0,0,0,0,,2028-01|2028-02|2028-03,,no targets,no fresh target observations at cutoff,0,0,0,0,,
+O1,2028,all,oceania,108,0,0,0,0,0,0,0,0,0,,2028-01|2028-02|2028-03|2028-04|2028-05|2028-06|2028-07|2028-08|2028-09,,no targets,no fresh target observations at cutoff,0,0,0,0,,
+O1,2028,all,regent-seven-seas,112,0,0,0,0,0,0,0,0,0,,2028-01|2028-02|2028-03|2028-04|2028-05|2028-06|2028-07|2028-08|2028-09,,no targets,no fresh target observations at cutoff,0,0,0,0,,
+O1,2028,Caribbean,norwegian,175,0,0,0,0,0,0,0,0,0,,2028-01|2028-02|2028-03,,no targets,no fresh target observations at cutoff,0,0,0,0,,
+O1,2028,Caribbean,royal-caribbean,388,0,0,0,0,0,0,0,0,0,,2028-01|2028-02|2028-03,,no targets,no fresh target observations at cutoff,0,0,0,0,,
+O1,2028,Caribbean,carnival,256,0,0,0,0,0,0,0,0,0,,2028-01|2028-02|2028-03,,no targets,no fresh target observations at cutoff,0,0,0,0,,
+O1,2028,Caribbean,oceania,14,0,0,0,0,0,0,0,0,0,,2028-01|2028-02|2028-03,,no targets,no fresh target observations at cutoff,0,0,0,0,,
+O1,2028,Caribbean,regent-seven-seas,14,0,0,0,0,0,0,0,0,0,,2028-01|2028-02|2028-03,,no targets,no fresh target observations at cutoff,0,0,0,0,,
+O1,2027Q4,all,norwegian,220,220,218,218,0,870,87,16,3,64,7.339449541,2027-10|2027-11|2027-12,2027-10|2027-11|2027-12,observed,,524,3,173,106,,
+O1,2027Q4,all,royal-caribbean,487,487,486,486,0,1944,212,82,9,328,16.87242798,2027-10|2027-11|2027-12,2027-10|2027-11|2027-12,observed,,1096,0,243,277,,
+O1,2027Q4,all,carnival,441,441,441,441,0,1764,196,42,5,168,9.523809524,2027-10|2027-11|2027-12,2027-10|2027-11|2027-12,observed,,980,0,416,200,,
+O1,2027Q4,all,oceania,45,45,45,45,0,146,1,0,0,0,0,2027-10|2027-11|2027-12,,no matched pairs,no accepted near-lead cabin pairs,142,0,4,0,,
+O1,2027Q4,all,regent-seven-seas,47,47,47,47,0,47,1,0,0,0,0,2027-10|2027-11|2027-12,,no matched pairs,no accepted near-lead cabin pairs,46,0,1,0,,
+O1,2027Q4,Caribbean,norwegian,146,146,146,146,0,584,43,7,2,28,4.794520548,2027-10|2027-11|2027-12,2027-11|2027-12,observed,,412,1,65,78,,
+O1,2027Q4,Caribbean,royal-caribbean,352,352,352,352,0,1408,168,59,6,236,16.76136364,2027-10|2027-11|2027-12,2027-10|2027-11|2027-12,observed,,736,0,174,262,,
+O1,2027Q4,Caribbean,carnival,255,255,255,255,0,1020,97,26,4,104,10.19607843,2027-10|2027-11|2027-12,2027-10|2027-11,observed,,632,0,192,92,,
+O1,2027Q4,Caribbean,oceania,8,8,8,8,0,30,0,0,0,0,0,2027-11|2027-12,,no matched pairs,no accepted near-lead cabin pairs,30,0,0,0,,
+O1,2027Q4,Caribbean,regent-seven-seas,9,9,9,9,0,9,1,0,0,0,0,2027-11|2027-12,,no matched pairs,no accepted near-lead cabin pairs,8,0,1,0,,
+O1,2027Q3,all,norwegian,247,247,239,119,120,474,57,11,3,44,9.243697479,2027-07|2027-08|2027-09,2027-08|2027-09,observed,,248,2,180,0,,
+O1,2027Q3,all,royal-caribbean,516,516,505,253,252,1012,125,55,10,219,21.73913043,2027-07|2027-08|2027-09,2027-08|2027-09,observed,,512,2,279,0,,
+O1,2027Q3,all,carnival,440,440,439,206,233,824,92,20,4,80,9.708737864,2027-07|2027-08|2027-09,2027-08|2027-09,observed,,456,15,273,0,,
+O1,2027Q3,all,oceania,58,58,55,32,23,110,5,0,0,0,0,2027-07|2027-08|2027-09,,no matched pairs,no accepted near-lead cabin pairs,94,0,16,0,,
+O1,2027Q3,all,regent-seven-seas,53,53,51,26,25,26,2,0,0,0,0,2027-07|2027-08|2027-09,,no matched pairs,no accepted near-lead cabin pairs,24,0,2,0,,
+O1,2027Q3,Caribbean,norwegian,72,72,72,36,36,144,13,0,0,0,0,2027-07|2027-08|2027-09,,no matched pairs,no accepted near-lead cabin pairs,92,0,52,0,,
+O1,2027Q3,Caribbean,royal-caribbean,250,250,250,123,127,492,77,30,5,120,24.3902439,2027-07|2027-08|2027-09,2027-08|2027-09,observed,,184,0,188,0,,
+O1,2027Q3,Caribbean,carnival,220,220,220,98,122,392,41,9,2,36,9.183673469,2027-07|2027-08|2027-09,2027-08|2027-09,observed,,228,0,128,0,,
+O1,2027Q3,Caribbean,oceania,0,0,0,0,0,0,0,0,0,0,,,,no targets,no fresh target observations at cutoff,0,0,0,0,,
+O1,2027Q3,Caribbean,regent-seven-seas,0,0,0,0,0,0,0,0,0,0,,,,no targets,no fresh target observations at cutoff,0,0,0,0,,
+H1,new_Oct2027_Dec2028,all,norwegian,431,220,,,,,,218,19,870,50.5800464,,2027-10|2027-11|2027-12,observed,,,,,,219,218
+H1,new_Oct2027_Dec2028,all,royal-caribbean,962,487,,,,,,477,31,1908,49.58419958,,2027-10|2027-11|2027-12,observed,,,,,,479,484
+H1,new_Oct2027_Dec2028,all,carnival,856,441,,,,,,441,30,1764,51.51869159,,2027-10|2027-11|2027-12,observed,,,,,,441,441
+H1,new_Oct2027_Dec2028,all,oceania,153,45,,,,,,43,8,140,28.10457516,,2027-10|2027-11|2027-12,observed,,,,,,43,45
+H1,new_Oct2027_Dec2028,all,regent-seven-seas,159,47,,,,,,47,7,47,29.55974843,,2027-10|2027-11|2027-12,observed,,,,,,47,47
+H1,old_JanJun2027,all,norwegian,451,449,,,,,,445,19,1771,98.66962306,,2027-01|2027-02|2027-03|2027-04|2027-05|2027-06,observed,,,,,,448,446
+H1,old_JanJun2027,all,royal-caribbean,947,946,,,,,,923,30,3691,97.4656811,,2027-01|2027-02|2027-03|2027-04|2027-05|2027-06,observed,,,,,,928,934
+H1,old_JanJun2027,all,carnival,816,816,,,,,,807,30,3227,98.89705882,,2027-01|2027-02|2027-03|2027-04|2027-05|2027-06,observed,,,,,,809,811
+H1,old_JanJun2027,all,oceania,84,84,,,,,,73,7,267,86.9047619,,2027-01|2027-02|2027-03|2027-04|2027-05|2027-06,observed,,,,,,79,76
+H1,old_JanJun2027,all,regent-seven-seas,59,59,,,,,,49,7,49,83.05084746,,2027-01|2027-02|2027-03|2027-04|2027-05|2027-06,observed,,,,,,56,49
+H1,2027Q4,all,norwegian,220,220,,,,,,218,19,870,99.09090909,,2027-10|2027-11|2027-12,observed,,,,,,219,218
+H1,2027Q4,all,royal-caribbean,487,487,,,,,,477,31,1908,97.94661191,,2027-10|2027-11|2027-12,observed,,,,,,479,484
+H1,2027Q4,all,carnival,441,441,,,,,,441,30,1764,100,,2027-10|2027-11|2027-12,observed,,,,,,441,441
+H1,2027Q4,all,oceania,45,45,,,,,,43,8,140,95.55555556,,2027-10|2027-11|2027-12,observed,,,,,,43,45
+H1,2027Q4,all,regent-seven-seas,47,47,,,,,,47,7,47,100,,2027-10|2027-11|2027-12,observed,,,,,,47,47
+H1,2028,all,norwegian,211,0,,,,,,0,0,0,0,,,no fresh endpoint pairs,,,,,,0,0
+H1,2028,all,royal-caribbean,475,0,,,,,,0,0,0,0,,,no fresh endpoint pairs,,,,,,0,0
+H1,2028,all,carnival,415,0,,,,,,0,0,0,0,,,no fresh endpoint pairs,,,,,,0,0
+H1,2028,all,oceania,108,0,,,,,,0,0,0,0,,,no fresh endpoint pairs,,,,,,0,0
+H1,2028,all,regent-seven-seas,112,0,,,,,,0,0,0,0,,,no fresh endpoint pairs,,,,,,0,0

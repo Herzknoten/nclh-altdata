@@ -1,0 +1,75 @@
+P0: Exhibit 99.2
+P1: Revisions to Previously Issued Quarterly Financial Statements (Unaudited)
+P2: Together with its consolidated subsidiaries, Norwegian Cruise Line Holdings Ltd. is referred to in this exhibit as the “Company” and “we”.
+P3: The Company has identified certain errors in its Consolidated Balance Sheets as of March 31, 2021, June 30, 2021 and September 30, 2021 and Consolidated Statements of Cash Flows for the respective periods then ended. Based on their nature, certain amounts shown as cash and cash equivalents should have been classified as short-term investments. Short-term investments include investments with maturities of three to 12 months which are stated at cost and present insignificant risk of changes in value. We have determined that these errors were not material to the previously issued interim financial statements for the periods ended March 31, 2021, June 30, 2021 and September 30, 2021.
+P4: The impact of these changes to our previously reported Consolidated Balance Sheets and Consolidated Statements of Cash Flows as of and for the three, six and nine month periods ended March 31, 2021, June 30, 2021 and September 30, 2021, respectively, is as follows (in thousands):
+P5: ​
+T6:
+  R0: ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​
+  R1: ​ | ​ | As of March 31, 2021
+  R2: ​ | ​ | Previously | ​ | ​ | ​ | ​ | As
+  R3: ​ |  | Reported |  | Adjustments |  | Revised
+  R4: Current assets |  | ​ |  |  | ​ |  |  | ​ | 
+  R5: Cash and cash equivalents | ​ | $ | 3,508,033 | ​ | $ | (205,000) | ​ | $ | 3,303,033
+  R6: Short-term investments | ​ |  | — | ​ |  | 205,000 | ​ |  | 205,000
+P7: ​
+T8:
+  R0: ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​
+  R1: ​ | ​ | Three months ended March 31, 2021
+  R2: ​ | ​ | Previously | ​ | ​ | ​ | ​ | As
+  R3: ​ |  | Reported |  | Adjustments |  | Revised
+  R4: Cash flows from investing activities |  | ​ |  |  | ​ |  |  | ​ | 
+  R5: Purchases of short-term investments | ​ | $ | — | ​ | $ | (205,000) | ​ | $ | (205,000)
+  R6: Net cash used in investing activities | ​ |  | (138,266) | ​ |  | (205,000) | ​ |  | (343,266)
+  R7: ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​
+  R8: Net increase (decrease) in cash and cash equivalents | ​ |  | 207,551 | ​ |  | (205,000) | ​ |  | 2,551
+  R9: Cash and cash equivalents at end of period | ​ |  | 3,508,033 | ​ |  | (205,000) | ​ |  | 3,303,033
+P9: ​
+T10:
+  R0: ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​
+  R1: ​ | ​ | As of June 30, 2021
+  R2: ​ | ​ | Previously | ​ | ​ | ​ | ​ | As
+  R3: ​ |  | Reported |  | Adjustments |  | Revised
+  R4: Current assets |  | ​ |  |  | ​ |  |  | ​ | 
+  R5: Cash and cash equivalents | ​ | $ | 2,750,140 | ​ | $ | (385,000) | ​ | $ | 2,365,140
+  R6: Short-term investments | ​ |  | — | ​ |  | 385,000 | ​ |  | 385,000
+P11: ​
+T12:
+  R0: ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​
+  R1: ​ | ​ | Six months ended June 30, 2021
+  R2: ​ | ​ | Previously | ​ | ​ | ​ | ​ | As
+  R3: ​ |  | Reported |  | Adjustments |  | Revised
+  R4: Cash flows from investing activities |  | ​ |  |  | ​ |  |  | ​ | 
+  R5: Purchases of short-term investments | ​ | $ | — | ​ | $ | (385,000) | ​ | $ | (385,000)
+  R6: Net cash used in investing activities | ​ |  | (315,215) | ​ |  | (385,000) | ​ |  | (700,215)
+  R7: ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​
+  R8: Net increase (decrease) in cash and cash equivalents | ​ |  | (550,342) | ​ |  | (385,000) | ​ |  | (935,342)
+  R9: Cash and cash equivalents at end of period | ​ |  | 2,750,140 | ​ |  | (385,000) | ​ |  | 2,365,140
+P13: ​
+P14: ​
+P15: ​
+P16: ​
+T17:
+  R0: ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​
+  R1: ​ | ​ | As of September 30, 2021
+  R2: ​ | ​ | Previously | ​ | ​ | ​ | ​ | As
+  R3: ​ |  | Reported |  | Adjustments |  | Revised
+  R4: Current assets |  | ​ |  |  | ​ |  |  | ​ | 
+  R5: Cash and cash equivalents | ​ | $ | 1,934,816 | ​ | $ | (565,000) | ​ | $ | 1,369,816
+  R6: Short-term investments | ​ |  | — | ​ |  | 565,000 | ​ |  | 565,000
+P18: ​
+T19:
+  R0: ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​
+  R1: ​ |  | Nine months ended September 30, 2021
+  R2: ​ | ​ | Previously | ​ | ​ | ​ | ​ | As
+  R3: ​ |  | Reported |  | Adjustments |  | Revised
+  R4: Cash flows from investing activities |  | ​ |  |  | ​ |  |  | ​ | 
+  R5: Purchases of short-term investments | ​ | $ | — | ​ | $ | (770,000) | ​ | $ | (770,000)
+  R6: Proceeds from maturities of short-term investments | ​ |  | — | ​ |  | 205,000 | ​ |  | 205,000
+  R7: Net cash used in investing activities | ​ |  | (542,971) | ​ |  | (565,000) | ​ |  | (1,107,971)
+  R8: ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​
+  R9: Net increase (decrease) in cash and cash equivalents | ​ |  | (1,365,666) | ​ |  | (565,000) | ​ |  | (1,930,666)
+  R10: Cash and cash equivalents at end of period | ​ |  | 1,934,816 | ​ |  | (565,000) | ​ |  | 1,369,816
+P20: ​
+P21: We will revise the historical Consolidated Statements of Cash Flows for the March 31, 2021, June 30, 2021 and September 30, 2021 periods presented in previously issued financial statements in the Company’s future Form 10-Q filings to reflect the impact of the revisions.
+P22: ​

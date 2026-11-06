@@ -1,0 +1,142 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="590" viewBox="0 0 1100 590" role="img" aria-labelledby="title desc">
+<title id="title">Price-history observations by month: analysis lines</title>
+<desc id="desc">n = 6,769,344 rows; 15,842 sailings; 7 lines (all named in LINE_ORDER). Aggregate counts from allaboard-parquet/out/full-2026-09-14/partitioned.</desc>
+<rect x="0.00" y="0.00" width="1100.00" height="590.00" fill="#f8fafc"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="30.00" y="40.00" font-size="26" text-anchor="start" fill="#172033" font-weight="700">Price-history observations by month: analysis lines</text>
+<text x="30.00" y="69.00" font-size="15" text-anchor="start" fill="#172033" >n = 6,769,344 rows; 15,842 sailings; 7 lines (all named in LINE_ORDER)</text>
+<line x1="100.00" y1="97.00" x2="125.00" y2="97.00" stroke="#1d4ed8" stroke-width="3"/>
+<text x="133.00" y="102.00" font-size="14" text-anchor="start" fill="#172033" >Norwegian</text>
+<line x1="340.00" y1="97.00" x2="365.00" y2="97.00" stroke="#b91c1c" stroke-width="3"/>
+<text x="373.00" y="102.00" font-size="14" text-anchor="start" fill="#172033" >Royal Caribbean</text>
+<line x1="580.00" y1="97.00" x2="605.00" y2="97.00" stroke="#047857" stroke-width="3"/>
+<text x="613.00" y="102.00" font-size="14" text-anchor="start" fill="#172033" >Carnival</text>
+<line x1="820.00" y1="97.00" x2="845.00" y2="97.00" stroke="#9333ea" stroke-width="3"/>
+<text x="853.00" y="102.00" font-size="14" text-anchor="start" fill="#172033" >Celebrity</text>
+<line x1="100.00" y1="127.00" x2="125.00" y2="127.00" stroke="#b45309" stroke-width="3"/>
+<text x="133.00" y="132.00" font-size="14" text-anchor="start" fill="#172033" >Princess</text>
+<line x1="340.00" y1="127.00" x2="365.00" y2="127.00" stroke="#0e7490" stroke-width="3"/>
+<text x="373.00" y="132.00" font-size="14" text-anchor="start" fill="#172033" >Oceania</text>
+<line x1="580.00" y1="127.00" x2="605.00" y2="127.00" stroke="#374151" stroke-width="3"/>
+<text x="613.00" y="132.00" font-size="14" text-anchor="start" fill="#172033" >Regent Seven Seas</text>
+<line x1="100.00" y1="425.00" x2="1055.00" y2="425.00" stroke="#cbd5e1" />
+<text x="88.00" y="430.00" font-size="14" text-anchor="end" fill="#172033" >0</text>
+<line x1="100.00" y1="374.40" x2="1055.00" y2="374.40" stroke="#cbd5e1" />
+<text x="88.00" y="379.40" font-size="14" text-anchor="end" fill="#172033" >80k</text>
+<line x1="100.00" y1="323.80" x2="1055.00" y2="323.80" stroke="#cbd5e1" />
+<text x="88.00" y="328.80" font-size="14" text-anchor="end" fill="#172033" >160k</text>
+<line x1="100.00" y1="273.20" x2="1055.00" y2="273.20" stroke="#cbd5e1" />
+<text x="88.00" y="278.20" font-size="14" text-anchor="end" fill="#172033" >240k</text>
+<line x1="100.00" y1="222.60" x2="1055.00" y2="222.60" stroke="#cbd5e1" />
+<text x="88.00" y="227.60" font-size="14" text-anchor="end" fill="#172033" >320k</text>
+<line x1="100.00" y1="172.00" x2="1055.00" y2="172.00" stroke="#cbd5e1" />
+<text x="88.00" y="177.00" font-size="14" text-anchor="end" fill="#172033" >400k</text>
+<text x="100.00" y="449.00" font-size="13" text-anchor="middle" fill="#172033" >2025-10</text>
+<text x="186.82" y="449.00" font-size="13" text-anchor="middle" fill="#172033" >2025-11</text>
+<text x="273.64" y="449.00" font-size="13" text-anchor="middle" fill="#172033" >2025-12</text>
+<text x="360.45" y="449.00" font-size="13" text-anchor="middle" fill="#172033" >2026-01</text>
+<text x="447.27" y="449.00" font-size="13" text-anchor="middle" fill="#172033" >2026-02</text>
+<text x="534.09" y="449.00" font-size="13" text-anchor="middle" fill="#172033" >2026-03</text>
+<text x="620.91" y="449.00" font-size="13" text-anchor="middle" fill="#172033" >2026-04</text>
+<text x="707.73" y="449.00" font-size="13" text-anchor="middle" fill="#172033" >2026-05</text>
+<text x="794.55" y="449.00" font-size="13" text-anchor="middle" fill="#172033" >2026-06</text>
+<text x="881.36" y="449.00" font-size="13" text-anchor="middle" fill="#172033" >2026-07</text>
+<text x="968.18" y="449.00" font-size="13" text-anchor="middle" fill="#172033" >2026-08</text>
+<text x="1055.00" y="449.00" font-size="13" text-anchor="middle" fill="#172033" >2026-09</text>
+<polyline points="100.00,416.76 186.82,404.86 273.64,391.54 360.45,375.39 447.27,384.77 534.09,379.29 620.91,339.23 707.73,327.82 794.55,303.42 881.36,301.53 968.18,299.05 1055.00,376.07" fill="none" stroke="#1d4ed8" stroke-width="3"/>
+<circle cx="100.00" cy="416.76" r="3" fill="#1d4ed8"/>
+<circle cx="186.82" cy="404.86" r="3" fill="#1d4ed8"/>
+<circle cx="273.64" cy="391.54" r="3" fill="#1d4ed8"/>
+<circle cx="360.45" cy="375.39" r="3" fill="#1d4ed8"/>
+<circle cx="447.27" cy="384.77" r="3" fill="#1d4ed8"/>
+<circle cx="534.09" cy="379.29" r="3" fill="#1d4ed8"/>
+<circle cx="620.91" cy="339.23" r="3" fill="#1d4ed8"/>
+<circle cx="707.73" cy="327.82" r="3" fill="#1d4ed8"/>
+<circle cx="794.55" cy="303.42" r="3" fill="#1d4ed8"/>
+<circle cx="881.36" cy="301.53" r="3" fill="#1d4ed8"/>
+<circle cx="968.18" cy="299.05" r="3" fill="#1d4ed8"/>
+<circle cx="1055.00" cy="376.07" r="3" fill="#1d4ed8"/>
+<polyline points="100.00,409.15 186.82,367.37 273.64,345.37 360.45,320.41 447.27,346.90 534.09,341.97 620.91,282.59 707.73,268.74 794.55,234.52 881.36,225.26 968.18,212.31 1055.00,338.61" fill="none" stroke="#b91c1c" stroke-width="3"/>
+<circle cx="100.00" cy="409.15" r="3" fill="#b91c1c"/>
+<circle cx="186.82" cy="367.37" r="3" fill="#b91c1c"/>
+<circle cx="273.64" cy="345.37" r="3" fill="#b91c1c"/>
+<circle cx="360.45" cy="320.41" r="3" fill="#b91c1c"/>
+<circle cx="447.27" cy="346.90" r="3" fill="#b91c1c"/>
+<circle cx="534.09" cy="341.97" r="3" fill="#b91c1c"/>
+<circle cx="620.91" cy="282.59" r="3" fill="#b91c1c"/>
+<circle cx="707.73" cy="268.74" r="3" fill="#b91c1c"/>
+<circle cx="794.55" cy="234.52" r="3" fill="#b91c1c"/>
+<circle cx="881.36" cy="225.26" r="3" fill="#b91c1c"/>
+<circle cx="968.18" cy="212.31" r="3" fill="#b91c1c"/>
+<circle cx="1055.00" cy="338.61" r="3" fill="#b91c1c"/>
+<polyline points="100.00,414.70 186.82,383.19 273.64,362.45 360.45,350.82 447.27,374.78 534.09,375.44 620.91,301.69 707.73,297.23 794.55,291.68 881.36,274.89 968.18,241.41 1055.00,348.70" fill="none" stroke="#047857" stroke-width="3"/>
+<circle cx="100.00" cy="414.70" r="3" fill="#047857"/>
+<circle cx="186.82" cy="383.19" r="3" fill="#047857"/>
+<circle cx="273.64" cy="362.45" r="3" fill="#047857"/>
+<circle cx="360.45" cy="350.82" r="3" fill="#047857"/>
+<circle cx="447.27" cy="374.78" r="3" fill="#047857"/>
+<circle cx="534.09" cy="375.44" r="3" fill="#047857"/>
+<circle cx="620.91" cy="301.69" r="3" fill="#047857"/>
+<circle cx="707.73" cy="297.23" r="3" fill="#047857"/>
+<circle cx="794.55" cy="291.68" r="3" fill="#047857"/>
+<circle cx="881.36" cy="274.89" r="3" fill="#047857"/>
+<circle cx="968.18" cy="241.41" r="3" fill="#047857"/>
+<circle cx="1055.00" cy="348.70" r="3" fill="#047857"/>
+<polyline points="100.00,419.89 186.82,406.31 273.64,401.06 360.45,401.73 447.27,408.56 534.09,403.90 620.91,385.10 707.73,376.32 794.55,362.57 881.36,360.52 968.18,359.10 1055.00,397.30" fill="none" stroke="#9333ea" stroke-width="3"/>
+<circle cx="100.00" cy="419.89" r="3" fill="#9333ea"/>
+<circle cx="186.82" cy="406.31" r="3" fill="#9333ea"/>
+<circle cx="273.64" cy="401.06" r="3" fill="#9333ea"/>
+<circle cx="360.45" cy="401.73" r="3" fill="#9333ea"/>
+<circle cx="447.27" cy="408.56" r="3" fill="#9333ea"/>
+<circle cx="534.09" cy="403.90" r="3" fill="#9333ea"/>
+<circle cx="620.91" cy="385.10" r="3" fill="#9333ea"/>
+<circle cx="707.73" cy="376.32" r="3" fill="#9333ea"/>
+<circle cx="794.55" cy="362.57" r="3" fill="#9333ea"/>
+<circle cx="881.36" cy="360.52" r="3" fill="#9333ea"/>
+<circle cx="968.18" cy="359.10" r="3" fill="#9333ea"/>
+<circle cx="1055.00" cy="397.30" r="3" fill="#9333ea"/>
+<polyline points="100.00,423.24 186.82,418.19 273.64,400.62 360.45,390.34 447.27,402.16 534.09,399.50 620.91,384.23 707.73,379.51 794.55,351.75 881.36,341.19 968.18,331.56 1055.00,386.04" fill="none" stroke="#b45309" stroke-width="3"/>
+<circle cx="100.00" cy="423.24" r="3" fill="#b45309"/>
+<circle cx="186.82" cy="418.19" r="3" fill="#b45309"/>
+<circle cx="273.64" cy="400.62" r="3" fill="#b45309"/>
+<circle cx="360.45" cy="390.34" r="3" fill="#b45309"/>
+<circle cx="447.27" cy="402.16" r="3" fill="#b45309"/>
+<circle cx="534.09" cy="399.50" r="3" fill="#b45309"/>
+<circle cx="620.91" cy="384.23" r="3" fill="#b45309"/>
+<circle cx="707.73" cy="379.51" r="3" fill="#b45309"/>
+<circle cx="794.55" cy="351.75" r="3" fill="#b45309"/>
+<circle cx="881.36" cy="341.19" r="3" fill="#b45309"/>
+<circle cx="968.18" cy="331.56" r="3" fill="#b45309"/>
+<circle cx="1055.00" cy="386.04" r="3" fill="#b45309"/>
+<polyline points="100.00,425.00 186.82,425.00 273.64,425.00 360.45,425.00 447.27,425.00 534.09,421.44 620.91,416.23 707.73,414.12 794.55,410.56 881.36,410.74 968.18,411.51 1055.00,419.61" fill="none" stroke="#0e7490" stroke-width="3" stroke-dasharray="7 4"/>
+<circle cx="100.00" cy="425.00" r="3" fill="#0e7490"/>
+<circle cx="186.82" cy="425.00" r="3" fill="#0e7490"/>
+<circle cx="273.64" cy="425.00" r="3" fill="#0e7490"/>
+<circle cx="360.45" cy="425.00" r="3" fill="#0e7490"/>
+<circle cx="447.27" cy="425.00" r="3" fill="#0e7490"/>
+<circle cx="534.09" cy="421.44" r="3" fill="#0e7490"/>
+<circle cx="620.91" cy="416.23" r="3" fill="#0e7490"/>
+<circle cx="707.73" cy="414.12" r="3" fill="#0e7490"/>
+<circle cx="794.55" cy="410.56" r="3" fill="#0e7490"/>
+<circle cx="881.36" cy="410.74" r="3" fill="#0e7490"/>
+<circle cx="968.18" cy="411.51" r="3" fill="#0e7490"/>
+<circle cx="1055.00" cy="419.61" r="3" fill="#0e7490"/>
+<polyline points="100.00,425.00 186.82,425.00 273.64,425.00 360.45,425.00 447.27,425.00 534.09,424.47 620.91,423.33 707.73,423.24 794.55,422.95 881.36,422.78 968.18,422.71 1055.00,424.06" fill="none" stroke="#374151" stroke-width="3" stroke-dasharray="7 4"/>
+<circle cx="100.00" cy="425.00" r="3" fill="#374151"/>
+<circle cx="186.82" cy="425.00" r="3" fill="#374151"/>
+<circle cx="273.64" cy="425.00" r="3" fill="#374151"/>
+<circle cx="360.45" cy="425.00" r="3" fill="#374151"/>
+<circle cx="447.27" cy="425.00" r="3" fill="#374151"/>
+<circle cx="534.09" cy="424.47" r="3" fill="#374151"/>
+<circle cx="620.91" cy="423.33" r="3" fill="#374151"/>
+<circle cx="707.73" cy="423.24" r="3" fill="#374151"/>
+<circle cx="794.55" cy="422.95" r="3" fill="#374151"/>
+<circle cx="881.36" cy="422.78" r="3" fill="#374151"/>
+<circle cx="968.18" cy="422.71" r="3" fill="#374151"/>
+<circle cx="1055.00" cy="424.06" r="3" fill="#374151"/>
+<text x="580.00" y="492.00" font-size="16" text-anchor="middle" fill="#172033" >Observation month (UTC; partial first and last months)</text>
+<text x="24.00" y="300.00" font-size="16" text-anchor="middle" fill="#172033" transform="rotate(-90 24 300)">Cabin-price observations (rows)</text>
+<text x="100.00" y="522.00" font-size="13" text-anchor="start" fill="#172033" >History timestamps from the site, not dates on which this team fetched pages.</text>
+<line x1="30.00" y1="538.00" x2="1070.00" y2="538.00" stroke="#cbd5e1" />
+<text x="30.00" y="565.00" font-size="13" text-anchor="start" fill="#172033" >Source: allaboard-parquet/out/full-2026-09-14/partitioned/*.parquet (recursive)</text>
+</g></svg>

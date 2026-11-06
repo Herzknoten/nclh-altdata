@@ -1,0 +1,104 @@
+{
+  "verdict": "PASS",
+  "summary": "Created all requested CSVs and rerunnable extraction scripts from 20 quarterly releases and five 10-Ks, including 1256 guidance entries and four comparative EPS changes. All 84 validation checks passed; source gaps and precision differences are documented.",
+  "units": [
+    {
+      "id": "U1",
+      "status": "done",
+      "files": [
+        "quarterly_kpis.csv:1-21",
+        "restatements.csv:1-5",
+        "bin/filing_html.py:1-90",
+        "bin/extract.py:1-178",
+        "bin/supplemental.py:1-56"
+      ],
+      "note": "Advance ticket sales consistently uses the current balance-sheet line, excluding the long-term portion."
+    },
+    {
+      "id": "U2",
+      "status": "done",
+      "files": [
+        "guidance.csv:1-1257",
+        "bin/guidance.py:1-186",
+        "bin/build_narrative_specs.py:1-135",
+        "bin/narrative_guidance.json:1-2102"
+      ],
+      "note": ""
+    },
+    {
+      "id": "U3",
+      "status": "done",
+      "files": [
+        "fleet.csv:1-52",
+        "fleet_by_year.csv:1-21",
+        "bin/fleet.py:1-69"
+      ],
+      "note": "34 in-service ships and 17 orders. Undisclosed capacities remain blank; Aqua/Allura use preliminary FY2024 class capacities."
+    },
+    {
+      "id": "U4",
+      "status": "done",
+      "files": [
+        "sources.md:1-475",
+        "provenance.csv:1-663",
+        "release_manifest.csv:1-21",
+        "bin/document.py:1-90"
+      ],
+      "note": "Memory candidates: sensitivity footnote periods; split FY2023 fleet roster; current versus total ticket deposits. Listed in sources.md and result.md."
+    },
+    {
+      "id": "U5",
+      "status": "done",
+      "files": [
+        "bin/validate.py:1-110",
+        "validation.csv:1-85",
+        "validation.json:1-597",
+        "logs/validation.log:1-34"
+      ],
+      "note": "All requested checks ran. No test suites run, as instructed."
+    }
+  ],
+  "tests": {
+    "command": "python bin/validate.py",
+    "exit_code": 0,
+    "passed": 84,
+    "failed": 0,
+    "output_tail": "PASS 2021Q3 occupancy: PCD/CD*100=57.411563; stated=57.4; delta=0.011563pp; expected absolute difference <=0.2 percentage points\nPASS 2021Q4 occupancy: PCD/CD*100=51.441548; stated=51.4; delta=0.041548pp; expected absolute difference <=0.2 percentage points\nPASS 2022Q1 occupancy: PCD/CD*100=47.994512; stated=48; delta=0.005488pp; expected absolute difference <=0.2 percentage points\nPASS 2022Q2 occupancy: PCD/CD*100=64.648023; stated=64.6; delta=0.048023pp; expected absolute difference <=0.2 percentage points\nPASS 2022Q3 occupancy: PCD/CD*100=81.486000; stated=81.5; delta=0.014000pp; expected absolute difference <=0.2 percentage points\nPASS 2022Q4 occupancy: PCD/CD*100=86.555641; stated=86.6; delta=0.044359pp; expected absolute difference <=0.2 percentage points\nPASS 2023Q1 occupancy: PCD/CD*100=101.506016; stated=101.5; delta=0.006016pp; expected absolute difference <=0.2 percentage points\nPASS 2023Q2 occupancy: PCD/CD*100=104.869363; stated=104.9; delta=0.030637pp; expected absolute difference <=0.2 percentage points\nPASS 2023Q3 occupancy: PCD/CD*100=106.115595; stated=106.1; delta=0.015595pp; expected absolute difference <=0.2 percentage points\nPASS 2023Q4 occupancy: PCD/CD*100=99.205665; stated=99.2; delta=0.005665pp; expected absolute difference <=0.2 percentage points\nPASS 2024Q1 occupancy: PCD/CD*100=104.645682; stated=104.6; delta=0.045682pp; expected absolute difference <=0.2 percentage points\nPASS 2024Q2 occupancy: PCD/CD*100=105.947805; stated=105.9; delta=0.047805pp; expected absolute difference <=0.2 percentage points\nPASS 2024Q3 occupancy: PCD/CD*100=108.086289; stated=108.1; delta=0.013711pp; expected absolute difference <=0.2 percentage points\nPASS 2024Q4 occupancy: PCD/CD*100=100.813929; stated=100.8; delta=0.013929pp; expected absolute difference <=0.2 percentage points\nPASS 2025Q1 occupancy: PCD/CD*100=101.520552; stated=101.5; delta=0.020552pp; expected absolute difference <=0.2 percentage points\nPASS 2025Q2 occupancy: PCD/CD*100=103.908069; stated=103.9; delta=0.008069pp; expected absolute difference <=0.2 percentage points\nPASS 2025Q3 occupancy: PCD/CD*100=106.396645; stated=106.4; delta=0.003355pp; expected absolute difference <=0.2 percentage points\nPASS 2025Q4 occupancy: PCD/CD*100=101.772327; stated=101.8; delta=0.027673pp; expected absolute difference <=0.2 percentage points\nPASS 2026Q1 occupancy: PCD/CD*100=103.778479; stated=103.8; delta=0.021521pp; expected absolute difference <=0.2 percentage points\nPASS 2026Q1 revenue components: 1542.321+788.9=2331.221; expected 2331.221\nPASS 2026Q2 occupancy: PCD/CD*100=102.370564; stated=102.4; delta=0.029436pp; expected absolute difference <=0.2 percentage points\nPASS 2026Q2 revenue components: 1729.838+910.706=2640.544; expected 2640.544\nPASS 2026Q2 capacity_days: 6589740; expected 6589740\nPASS 2026Q2 passenger_cruise_days: 6745954; expected 6745954\nPASS 2026Q2 fuel_metric_tons_thousands: 247; expected 247\nPASS 2026Q2 fuel_price_per_ton_net_hedges_usd: 888; expected 888\nPASS 2026Q1 fuel_metric_tons_thousands: 259; expected 259\nPASS 2026Q1 fuel_price_per_ton_net_hedges_usd: 651; expected 651\nPASS 2026Q2 fuel expense rounded headline: exact=219.384m; rounded=219m; raw difference=0.384m; expected 219m, rounded to nearest million\nPASS FY2025 revenue rounded checkpoint: exact sum=9827.592m; raw difference=-0.408m; expected 9828m, rounded to nearest million\nPASS FY2025 sum versus 10-K: 9827.592; expected 9827.592\nPASS FY2025 sum versus full-year release: 9827.592; expected 9827.592\nPASS FY2025 fleet count: 34; expected 34\nRESULT: 84 passed, 0 failed; maximum occupancy delta 0.048023 percentage points."
+  },
+  "verification": [
+    {
+      "command": "python bin/filing_html.py",
+      "exit_code": 0
+    },
+    {
+      "command": "python bin/build_narrative_specs.py",
+      "exit_code": 0
+    },
+    {
+      "command": "python bin/extract.py",
+      "exit_code": 0
+    },
+    {
+      "command": "python bin/document.py",
+      "exit_code": 0
+    },
+    {
+      "command": "python -m py_compile bin/filing_html.py bin/extract.py bin/guidance.py bin/supplemental.py bin/build_narrative_specs.py bin/fleet.py bin/document.py bin/validate.py",
+      "exit_code": 0
+    },
+    {
+      "command": "python -m py_compile bin/document.py",
+      "exit_code": 0
+    }
+  ],
+  "deviations": [
+    "Brand ship counts are counted from each 10-K roster because separate brand totals are not stated; company Total rows were added for reconciliation."
+  ],
+  "not_done": [
+    "Fleet gaps: 32 of 34 in-service ships lack berths/gross tons in FY2025/FY2024; all 15 brand-year berth totals are unstated. Those cells remain blank (sources.md).",
+    "Own-release gaps: actual fuel tons before 2023Q3, Q1 2023 passengers carried, 2021Q3 liquidity and other undisclosed KPIs remain blank; sources.md lists every missing field/quarter.",
+    "Precision differences retained: Q2 2026 fuel expense $219.384m versus rounded $219m (+$0.384m); FY2025 revenue $9,827.592m versus rounded $9,828m (-$0.408m). Both match at whole-million precision; the revenue sum exactly matches the 10-K.",
+    "Q3 2022 fuel expense: income statement $186.984m versus release narrative $186.9m, a $0.084m difference. The CSV retains the statement value (8K_2022-11-08_exh_991.htm, Fuel row and P27)."
+  ],
+  "contract_touched": false
+}

@@ -1,0 +1,8 @@
+file,brand_name,period,field,old,new,difference,numeric_change_at_source_precision
+card_customers_quarterly.csv,CARNIVAL CRUISE LINES,2025Q1,spend,61969403.04,61969403.05,0.009999997913837433,True
+card_customers_quarterly.csv,CARNIVAL CRUISE LINES,2026Q1,ya_spend,61969403.04,61969403.05,0.009999997913837433,True
+card_customers_quarterly.csv,ROYAL CARIBBEAN CRUISE,2024Q3,spend,48443431.18,48443431.17,-0.009999997913837433,True
+wealth_customers_q2_2026.csv,MSC CRUISES,2026Q2,"Less than or equal to $50,000",0.0,2106.0,2106.0,True
+wealth_customers_q2_2026.csv,REGENT SEVEN SEAS CRUISES,2026Q2,"$50,001-$100,000",0.0,,,True
+age_customers_q2_2026.csv,CARNIVAL CRUISE LINES,2026Q2,55-64,0.0,6702.0,6702.0,True
+age_customers_q2_2026.csv,MSC CRUISES,2026Q2,Unknown,0.0,3054.0,3054.0,True

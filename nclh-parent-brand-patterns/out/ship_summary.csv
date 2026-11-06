@@ -1,0 +1,23 @@
+scope,parent,brand,exported_ships,eligible_ships,detected_ships,eligible_fleet_share,detected_eligible_share,first_detected,last_detected,date_distribution
+all_regions,NCLH,norwegian,19,18,0,0.9473684210526315,0.0,,,
+all_regions,NCLH,oceania,9,7,0,0.7777777777777778,0.0,,,
+all_regions,NCLH,regent-seven-seas,7,4,0,0.5714285714285714,0.0,,,
+all_regions,RCG,royal-caribbean,31,31,0,1.0,0.0,,,
+all_regions,RCG,celebrity,15,14,0,0.9333333333333333,0.0,,,
+all_regions,RCG,silversea,12,11,0,0.9166666666666666,0.0,,,
+all_regions,RCG,celebrity-river,5,5,0,1.0,0.0,,,
+all_regions,Carnival Corporation,carnival,30,30,0,1.0,0.0,,,
+all_regions,Carnival Corporation,princess,17,17,0,1.0,0.0,,,
+all_regions,Carnival Corporation,holland-america,10,10,0,1.0,0.0,,,
+all_regions,Carnival Corporation,seabourn,6,5,1,0.8333333333333334,0.2,2026-07-08,2026-07-08,2026-07-08:1
+caribbean_embark,NCLH,norwegian,17,13,0,0.7647058823529411,0.0,,,
+caribbean_embark,NCLH,oceania,7,2,0,0.2857142857142857,,,,
+caribbean_embark,NCLH,regent-seven-seas,4,0,0,0.0,,,,
+caribbean_embark,RCG,royal-caribbean,24,24,0,1.0,0.0,,,
+caribbean_embark,RCG,celebrity,10,8,0,0.8,0.0,,,
+caribbean_embark,RCG,silversea,6,0,0,0.0,,,,
+caribbean_embark,RCG,celebrity-river,0,0,0,,,,,
+caribbean_embark,Carnival Corporation,carnival,24,23,0,0.9583333333333334,0.0,,,
+caribbean_embark,Carnival Corporation,princess,13,9,0,0.6923076923076923,0.0,,,
+caribbean_embark,Carnival Corporation,holland-america,8,5,0,0.625,0.0,,,
+caribbean_embark,Carnival Corporation,seabourn,3,1,1,0.3333333333333333,,2026-07-08,2026-07-08,2026-07-08:1

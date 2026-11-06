@@ -1,0 +1,5 @@
+lead_days,family,complete,verdict,available_month_classification,norwegian_change_pp,royal_change_pp,carnival_change_pp,norwegian_excess_royal_pp,norwegian_excess_carnival_pp,norwegian_specific_hurdle,industry_wide_hurdle,artifact_hurdle,norwegian_rise_removed_fraction,royal_rise_removed_fraction,carnival_rise_removed_fraction
+300,kit,False,not estimable,Norwegian-specific,23.002805531139515,-5.30149372676653,-26.58995310980862,28.304299257906045,49.592758640948134,True,False,False,0.0,0.0,0.0
+300,span,False,not estimable,Norwegian-specific,24.430270203334764,-7.744899467337447,-25.55881530458135,32.17516967067221,49.989085507916116,True,False,False,0.0748707916908189,0.0027832606731601484,-0.1641902239332249
+420,kit,True,Norwegian-specific,Norwegian-specific,31.834120002045015,10.61991039234153,1.491916875455491,21.214209609703484,30.342203126589524,True,False,False,0.0,0.0,0.0
+420,span,True,Norwegian-specific,Norwegian-specific,30.86117902326456,11.092617688515736,4.097585889743543,19.768561334748824,26.76359313352102,True,False,False,0.005258692810781618,0.08642276338741495,0.4114284243805556

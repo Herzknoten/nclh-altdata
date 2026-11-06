@@ -1,0 +1,21 @@
+fiscal_year,brand,berths,ship_count,source_file,source_locator,method
+2021,Norwegian,,17,10K_2021-12-31.htm,T198,Count of ships listed by brand with built/delivered year <= FY end; brand berths not stated.
+2021,Oceania,,6,10K_2021-12-31.htm,T198,Count of ships listed by brand with built/delivered year <= FY end; brand berths not stated.
+2021,Regent,,5,10K_2021-12-31.htm,T198,Count of ships listed by brand with built/delivered year <= FY end; brand berths not stated.
+2021,Total,59150,28,10K_2021-12-31.htm,P157,Explicit company total; berths approximate.
+2022,Norwegian,,18,10K_2022-12-31.htm,T208,Count of ships listed by brand with built/delivered year <= FY end; brand berths not stated.
+2022,Oceania,,6,10K_2022-12-31.htm,T208,Count of ships listed by brand with built/delivered year <= FY end; brand berths not stated.
+2022,Regent,,5,10K_2022-12-31.htm,T208,Count of ships listed by brand with built/delivered year <= FY end; brand berths not stated.
+2022,Total,62000,29,10K_2022-12-31.htm,P159,Explicit company total; berths approximate.
+2023,Norwegian,,19,10K_2023-12-31.htm,T191 + T194,Count of ships listed by brand with built/delivered year <= FY end; brand berths not stated.
+2023,Oceania,,7,10K_2023-12-31.htm,T191 + T194,Count of ships listed by brand with built/delivered year <= FY end; brand berths not stated.
+2023,Regent,,6,10K_2023-12-31.htm,T191 + T194,Count of ships listed by brand with built/delivered year <= FY end; brand berths not stated.
+2023,Total,66500,32,10K_2023-12-31.htm,P160,Explicit company total; berths approximate.
+2024,Norwegian,,19,10K_2024-12-31.htm,T163,Count of ships listed by brand with built/delivered year <= FY end; brand berths not stated.
+2024,Oceania,,7,10K_2024-12-31.htm,T163,Count of ships listed by brand with built/delivered year <= FY end; brand berths not stated.
+2024,Regent,,6,10K_2024-12-31.htm,T163,Count of ships listed by brand with built/delivered year <= FY end; brand berths not stated.
+2024,Total,66500,32,10K_2024-12-31.htm,P153,Explicit company total; berths approximate.
+2025,Norwegian,,20,10K_2025-12-31.htm,T166,Count of ships listed by brand with built/delivered year <= FY end; brand berths not stated.
+2025,Oceania,,8,10K_2025-12-31.htm,T166,Count of ships listed by brand with built/delivered year <= FY end; brand berths not stated.
+2025,Regent,,6,10K_2025-12-31.htm,T166,Count of ships listed by brand with built/delivered year <= FY end; brand berths not stated.
+2025,Total,71400,34,10K_2025-12-31.htm,P156,Explicit company total; berths approximate.

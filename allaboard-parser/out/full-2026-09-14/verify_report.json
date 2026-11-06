@@ -1,0 +1,42 @@
+{
+  "crawl": "2026-09-12",
+  "pages_directory": "/home/rich/devdata/allaboard/pages/2026-09-12",
+  "pages_checked": 29202,
+  "pages_decoded": 29201,
+  "pages_undecodable": 1,
+  "pages_skipped_by_parser_that_verifier_can_decode": 0,
+  "unaccounted_undecodable_pages": 0,
+  "source_pages_after_snapshot": 0,
+  "manifest": "/home/rich/devdata/allaboard-parser/out/full-2026-09-14/page_manifest.jsonl",
+  "coverage": "manifest snapshot",
+  "tables": {
+    "sailings": {
+      "rows_matched": 29201,
+      "rows_missing_from_export": 0,
+      "rows_not_found_in_page": 0,
+      "value_mismatches": 0
+    },
+    "price_history": {
+      "rows_matched": 10760269,
+      "rows_missing_from_export": 0,
+      "rows_not_found_in_page": 0,
+      "value_mismatches": 0
+    }
+  },
+  "rows_matched": 10789470,
+  "rows_missing_from_export": 0,
+  "rows_not_found_in_page": 0,
+  "value_mismatches": 0,
+  "issue_count": 0,
+  "examples": {
+    "pages_undecodable": [
+      {
+        "page": "/home/rich/devdata/allaboard/pages/2026-09-12/norwegian/luna/2026-11-28-cmjir7aut03cb5xfjolsnpg9q.html.gz",
+        "reason": "expected one owned sailing panel, found 0",
+        "parser_skipped": true
+      }
+    ]
+  },
+  "example_limit_per_category": 20,
+  "status": "PASS"
+}

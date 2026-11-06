@@ -1,0 +1,136 @@
+{
+  "status": "complete",
+  "tool": "broad_cuts",
+  "parameters": {
+    "export": "/home/rich/devdata/allaboard-parser/out/nclh-2026-09-12",
+    "out": "/home/rich/devdata/nclh-pricing-events/out-nclh-full",
+    "daily_aggregation": "median",
+    "min_lead_days": 0,
+    "parse_statuses": "ok,warning",
+    "start_date": null,
+    "end_date": null,
+    "max_gap_days": 3,
+    "cut_pct": "0.05",
+    "broad_share": "0.20",
+    "min_n": 30,
+    "rolling_days": 30,
+    "dominance_share": "0.50",
+    "lead_buckets": [
+      30,
+      90,
+      180,
+      365
+    ],
+    "reference_mix": "pooled",
+    "min_bucket_n": 10,
+    "min_covered_weight": "0.6"
+  },
+  "rules": {
+    "identity": "line,ship,sailing_id,cabin",
+    "timestamp_date": "own_calendar_date_no_timezone_conversion",
+    "duplicate_policy": "collapse_identical_timestamp_prices_fail_conflicts",
+    "metadata_policy": "fail_missing_or_conflicting_identity_date_nights_lead",
+    "missing_policy": "no_interpolation_or_carry_forward",
+    "coverage_universe": "four_schema_cabin_slots_per_included_sailing_not_availability",
+    "threshold_comparison": "inclusive_decimal",
+    "calendar_bounds": "explicit_bounds_else_global_raw_history_span",
+    "price_policy": "exclude_nonpositive_or_nonfinite",
+    "prior_selection": "nearest_strictly_prior_daily_observation",
+    "cut_depth_population": "threshold_qualifying_cuts_only",
+    "rolling_alignment": "trailing_including_current_day",
+    "top_category_selection": "most_cuts_then_lexicographic_name;none_when_no_cuts",
+    "top_category_exclusion": "remove_all_eligible_pairs_and_reapply_min_n",
+    "lead_bucket_date": "later_observation_own_calendar_date",
+    "pooled_reference_population": "all_eligible_pairs_in_selected_panel_separately_by_line",
+    "explicit_reference_weights": "bucket_order_nonnegative_relative_weights_normalized_per_line",
+    "standardized_arithmetic": "exact_rational_weights_shares_and_thresholds;float_output",
+    "standardized_support": "positive_reference_weight_and_bucket_n_at_least_min_bucket_n",
+    "standardized_coverage": "supported_reference_weight_fraction;inclusive_minimum;zero_support_blank",
+    "standardized_flag_min_n": "all_eligible_pairs_in_full_or_residual_population",
+    "standardized_top_ship_exclusion": "same_raw_top_ship_and_fixed_full_panel_reference;recheck_bucket_n_and_coverage",
+    "period_standardized_median": "equal_weight_nonblank_daily_shares;includes_below_min_n",
+    "period_weight_coverage": "all_paired_days_with_defined_reference_including_suppressed_shares",
+    "breakdown_calendar": "all_roster_ships_and_schema_cabins_on_line_raw_history_dates",
+    "persistence_selection": "next_retained_daily_observation_without_gap_limit",
+    "cut_persisted_next": "next_price_at_or_below_cut_price",
+    "cut_threshold_persisted_next": "next_price_at_or_below_pre_cut_price_times_one_minus_cut_pct",
+    "rebounded_to_pre_cut_next": "next_price_at_or_above_pre_cut_price"
+  },
+  "export": "/home/rich/devdata/allaboard-parser/out/nclh-2026-09-12",
+  "input_sha256": {
+    "sailings.csv": "37442f6ed9509bf2c9b15376c6f1e3752c6cc28d24e027af96c39fd077a17f08",
+    "price_history.csv": "04440e4a83b016f7be3caff4dda679ce849b60df166bb4d1d0aece9a7b3a4fac"
+  },
+  "input_counts": {
+    "sailing_rows": 3092,
+    "sailing_rows_warning": 1040,
+    "sailing_rows_ok": 2052,
+    "history_rows": 1395981,
+    "usable_unique_history_rows": 1395616,
+    "dropped_lead": 365,
+    "included_sailings": 3092,
+    "schema_cabin_slots": 12368,
+    "observed_sailing_cabins": 11262,
+    "daily_observations": 1395616,
+    "lines": 4
+  },
+  "calendar_start": "2025-10-06",
+  "calendar_end": "2026-09-12",
+  "lines": [
+    "norwegian",
+    "oceania",
+    "regent-seven-seas",
+    "royal-caribbean"
+  ],
+  "control_status": "other_lines_present_not_validated_controls",
+  "outputs": {
+    "daily_cuts.csv": {
+      "rows": 1368,
+      "sha256": "ddfb1baec0879afaca43ae3142dea167d4519e8eb161c1a0bc66bd95f768ebcb"
+    },
+    "broad_cut_events.csv": {
+      "rows": 3,
+      "sha256": "5eef0f22fbdecfcb68a02f85a834e08c3fa6e75b65139680058bc12d58c61090"
+    },
+    "broad_cut_events_without_top_ship.csv": {
+      "rows": 2,
+      "sha256": "58d3793c54af8921ea5d9e322b6e62ba4aad393477530bce7be184433240805d"
+    },
+    "standardized_broad_cut_events.csv": {
+      "rows": 2,
+      "sha256": "58d3793c54af8921ea5d9e322b6e62ba4aad393477530bce7be184433240805d"
+    },
+    "standardized_broad_cut_events_without_top_ship.csv": {
+      "rows": 2,
+      "sha256": "58d3793c54af8921ea5d9e322b6e62ba4aad393477530bce7be184433240805d"
+    },
+    "daily_cuts_by_lead_bucket.csv": {
+      "rows": 6840,
+      "sha256": "f4c7920e6c403d816a246b99673058b69115384417cfbffa91d818ad07e4e819"
+    },
+    "lead_reference_mix.csv": {
+      "rows": 20,
+      "sha256": "03ae7b15b66ff2115e2d655bee1ff7aa19da215c1729605da60bed8c13028c0b"
+    },
+    "daily_cuts_by_ship.csv": {
+      "rows": 9650,
+      "sha256": "53a718f251cb3585e49b1519d94ae8e339cd25596a8fb05d2ae07f564479c4ad"
+    },
+    "daily_cuts_by_cabin.csv": {
+      "rows": 3696,
+      "sha256": "9530e7fe18d2e83c839f167725cb209902a3a9db982b715409fa80dcbbbcfe28"
+    },
+    "cut_persistence.csv": {
+      "rows": 49491,
+      "sha256": "80c53c6b73cb439cb2eb5afcf7b53d7a19e675af27264c27fc9ae7feec19c372"
+    },
+    "rolling_cut_counts.csv": {
+      "rows": 1368,
+      "sha256": "644b6e5b898b2685425520374bc0173c716806b9df0cd8bd6dbc914c9797c480"
+    },
+    "monthly_cut_counts.csv": {
+      "rows": 48,
+      "sha256": "bdc74e96a6148ee933bd56d6d1bfcc7ca03328442af46d1a889b6ad8a19c03c6"
+    }
+  }
+}

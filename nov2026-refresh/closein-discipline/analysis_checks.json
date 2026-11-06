@@ -1,0 +1,9 @@
+{
+  "daily_key_unique": true,
+  "positive_daily_prices": true,
+  "all_sailings_after_window": true,
+  "endpoint_age_at_most_3": true,
+  "at_least_one_cabin": true,
+  "sailing_window_unique": true,
+  "H1_published_reconciled": true
+}

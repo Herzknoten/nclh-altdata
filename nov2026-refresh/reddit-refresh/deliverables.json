@@ -1,0 +1,162 @@
+[
+  {
+    "path": "RESULTS.md",
+    "bytes": 20492,
+    "sha256": "9f956f9a79436ff9f42385b0079dcb826e61def54c5206b7631a801ef6140cc9"
+  },
+  {
+    "path": "result.md",
+    "bytes": 3993,
+    "sha256": "c4abcd76edb40d3aeaa8b2979940cdcb9e9664ad4737c8ec0f995686cc551b19"
+  },
+  {
+    "path": "METHOD.md",
+    "bytes": 6195,
+    "sha256": "06780b78370a2f9fd04399659b6996eaf95c9e15edc1a40fc321e1f5895fc705"
+  },
+  {
+    "path": "charts/1_conversation_volume.png",
+    "bytes": 273583,
+    "sha256": "e2855454c27651bbe9e298fc226e3978cfdde6e8954171627fa1a5f78be2b161"
+  },
+  {
+    "path": "charts/3_community_activity.png",
+    "bytes": 230511,
+    "sha256": "1a1f991eac5e87afe8c88b08b5d15448ad17131455cdb5b7e5ca577555ce7393"
+  },
+  {
+    "path": "charts/N4_gsc_tendering_to_waterpark.png",
+    "bytes": 194177,
+    "sha256": "94e4b6a3d9d408e2fb33d41d603fbb40d1f1cf1b77179573ef377f1d3affbb25"
+  },
+  {
+    "path": "charts/N6_gsc_after_opening.png",
+    "bytes": 364430,
+    "sha256": "bbad82038cba1877e7953dcff8be0e3faa11744e6d68a28fa6e5a7f44dc65d13"
+  },
+  {
+    "path": "bin/reconstruct_n4.py",
+    "bytes": 4335,
+    "sha256": "fe46962d5ec283cc8b5afcf432a4522cdec1d83680c718b7538045bcf47e1b68"
+  },
+  {
+    "path": "bin/extend_reddit.py",
+    "bytes": 18324,
+    "sha256": "63d6c71b48d20a86515afd0667d5c2e60ca24ad42ed07cb5850ddd5d008a4fc2"
+  },
+  {
+    "path": "bin/render_charts.py",
+    "bytes": 10671,
+    "sha256": "f81f19c91b014ca90f754e21a41b65deccb1b9cd27182e2309f668cb70f93607"
+  },
+  {
+    "path": "bin/build_report.py",
+    "bytes": 18394,
+    "sha256": "f0d02b5829c41df1d59e8bec290977004ced453551bfa0a00b02dccc0a07eebe"
+  },
+  {
+    "path": "bin/verify_outputs.py",
+    "bytes": 5879,
+    "sha256": "571529a2ba60fc6a84ab1a0988d3c97d87541c8c3c11ba7cbf042ec18d08d2b9"
+  },
+  {
+    "path": "out/activity_monthly.csv",
+    "bytes": 6901,
+    "sha256": "e2ea50cb36e0d91bd403807e5b81b1ced5dc36fb39495d4d81ffec1338c64617"
+  },
+  {
+    "path": "out/gsc_event_windows.csv",
+    "bytes": 3167,
+    "sha256": "6eba261c8bd0b88b41c4cf84d2576338211e64d2bad9a51fa819b2dbd40c82c6"
+  },
+  {
+    "path": "out/gsc_monthly.csv",
+    "bytes": 6767,
+    "sha256": "509daedb0e61a7296b3f7cd3e0078f689e835207bd93bd09e3d195bbce2e84a6"
+  },
+  {
+    "path": "out/gsc_topics_monthly.csv",
+    "bytes": 861,
+    "sha256": "4330bdbbda2d8276ced3971222b95778ac40a8b2e0ea7f1980995bd932bd74cc"
+  },
+  {
+    "path": "out/gsc_topics_november_partial.csv",
+    "bytes": 156,
+    "sha256": "4da6680298ded344167497ce436be2dd5ed57d8458600affdbb86b3cf7de7401"
+  },
+  {
+    "path": "out/monthly_counts.csv",
+    "bytes": 22203,
+    "sha256": "e2cdc0d2feb16b75a01c557321636a8e1761c5cfacdf2bdde7d1a37484c8fa2c"
+  },
+  {
+    "path": "out/n4_chart_data.csv",
+    "bytes": 4084,
+    "sha256": "0ffea48a21690b6d46d2c88bb2beba31116d5a2ffa4cbe39cc7885e6f27cc61d"
+  },
+  {
+    "path": "out/n4_initial_candidates.csv",
+    "bytes": 6379,
+    "sha256": "8f75fd1f168016ed61ef63f1c391142d48843faa44fc30a74e5ffe600211c398"
+  },
+  {
+    "path": "out/n4_reconstruction_candidates.csv",
+    "bytes": 9361,
+    "sha256": "d7589a0453e55184c68deec9c40329344c8ea16cf4f215ebdd8cc94af9ce697d"
+  },
+  {
+    "path": "out/premium_monthly.csv",
+    "bytes": 15836,
+    "sha256": "9b972d6275f3f1a9022d54d2d7eaf9d39df5e7fa13dc3ca2c999ed2edc6e4b49"
+  },
+  {
+    "path": "out/premium_yoy.csv",
+    "bytes": 17461,
+    "sha256": "ff259d60835bc01744db407c15b348434c7bc482f137b0e2f08b0ce0d216e7e3"
+  },
+  {
+    "path": "out/reddit_daily_counts.csv",
+    "bytes": 16249,
+    "sha256": "ee007b527659cf36e43ef456faeb7ac13b479d90cf081372ec6a0919c13606ef"
+  },
+  {
+    "path": "out/reproduction_checks.csv",
+    "bytes": 280974,
+    "sha256": "b52427f20cf6b888856265cc1f0e188c9d3a185abf7fc7ef558d175e2373310b"
+  },
+  {
+    "path": "out/reproduction_summary.csv",
+    "bytes": 154,
+    "sha256": "83ab0e4abf532852c84abb2df4a34e40a2a1757f3ba11371cfe35993bf86e41b"
+  },
+  {
+    "path": "out/source_audit.csv",
+    "bytes": 2956,
+    "sha256": "95b885c1ee7b59ee95e495c0ca87f96cb2f69c621a4d5b691d32ffefb31f8274"
+  },
+  {
+    "path": "out/keyword_spec.json",
+    "bytes": 1289,
+    "sha256": "272bd7262ce7658489d895eed6d8a109438a41b4490ea68e6ceda2216a97637a"
+  },
+  {
+    "path": "out/n4_reconstruction.json",
+    "bytes": 1377,
+    "sha256": "e8369c9fa9a4e093e3f88ebcba346850b4686bbda6ba1bb73115fd18d976a6db"
+  },
+  {
+    "path": "out/provenance.json",
+    "bytes": 10892,
+    "sha256": "032884daaae2ffa27f3c6f3b2e7abeee05fca158212804fbb34aeb72909b24fa"
+  },
+  {
+    "path": "out/verification.json",
+    "bytes": 7131,
+    "sha256": "802153c74e4c8d98f0f0f9a98edabb48b2672ccfea63f4605195af501c5cfeb2"
+  },
+  {
+    "path": "out/original_n4_producer.txt",
+    "bytes": 1987,
+    "sha256": "2fc8234d03b1f77381b9eb116f66a9479ae92567a89e01beead311e7e56968c5"
+  }
+]

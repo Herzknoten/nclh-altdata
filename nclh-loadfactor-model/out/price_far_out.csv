@@ -1,0 +1,5 @@
+scope,line,departure_quarter,lead_comparison,median_change_pct,candidate_units,units,sailings,median_ratio,share_cut_gt_5pct,median_earlier_days,median_later_days,median_earlier_lead,median_later_lead,input_source
+all_region,norwegian,2027Q1,241+,-2.941176470588236,1038,351,88,0.9705882352941176,0.39316239316239315,93.0,18.0,310.0,250.0,/home/rich/devdata/nclh-baseload/out/far_out.csv:176
+all_region,norwegian,2027Q2,241+,-2.219485495347562,1236,1190,305,0.9778051450465244,0.28319327731092436,81.0,71.0,361.0,289.5,/home/rich/devdata/nclh-baseload/out/far_out.csv:179
+all_region,norwegian,2027Q3,241+,-1.5909090909090873,1427,1387,353,0.9840909090909091,0.21052631578947367,77.0,72.0,444.0,372.5,/home/rich/devdata/nclh-baseload/out/far_out.csv:182
+all_region,norwegian,2027Q4,241+,0.0,1088,1012,260,1.0,0.21146245059288538,40.0,72.0,528.0,466.5,/home/rich/devdata/nclh-baseload/out/far_out.csv:185

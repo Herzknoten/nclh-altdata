@@ -1,0 +1,50 @@
+[
+  {
+    "export": "/home/rich/devdata/allaboard-parser/out/full-2026-09-14",
+    "selected_rows": 5271219,
+    "invalid_identity_or_cabin": 185377,
+    "invalid_price_timestamp_or_identity_fields": 6582,
+    "kept_rows": 5079260,
+    "source_cutoff": "2026-09-12",
+    "path": "/home/rich/devdata/allaboard-parser/out/full-2026-09-14/price_history.csv",
+    "bytes": 1223612747,
+    "mtime_ns": 1789369425613793135,
+    "reader": "verified_parquet_projection"
+  },
+  {
+    "export": "/home/rich/devdata/allaboard-parser/out/full-2026-09-28",
+    "selected_rows": 4494237,
+    "invalid_identity_or_cabin": 196784,
+    "invalid_price_timestamp_or_identity_fields": 0,
+    "kept_rows": 4297453,
+    "source_cutoff": "2026-09-28",
+    "path": "/home/rich/devdata/allaboard-parser/out/full-2026-09-28/price_history.csv",
+    "bytes": 1078663256,
+    "mtime_ns": 1790884020734705034,
+    "reader": "csv_usecols_chunks_200000"
+  },
+  {
+    "export": "/home/rich/devdata/allaboard-parser/out/nclh-2026-10-20",
+    "selected_rows": 973938,
+    "invalid_identity_or_cabin": 188,
+    "invalid_price_timestamp_or_identity_fields": 0,
+    "kept_rows": 973750,
+    "source_cutoff": "2026-10-20",
+    "path": "/home/rich/devdata/allaboard-parser/out/nclh-2026-10-20/price_history.csv",
+    "bytes": 106900282,
+    "mtime_ns": 1792518840805921238,
+    "reader": "csv_usecols_chunks_200000"
+  },
+  {
+    "export": "/home/rich/devdata/allaboard-parser/out/peers-2026-10-20",
+    "selected_rows": 3185974,
+    "invalid_identity_or_cabin": 0,
+    "invalid_price_timestamp_or_identity_fields": 0,
+    "kept_rows": 3185974,
+    "source_cutoff": "2026-10-20",
+    "path": "/home/rich/devdata/allaboard-parser/out/peers-2026-10-20/price_history.csv",
+    "bytes": 379153530,
+    "mtime_ns": 1792536451748879529,
+    "reader": "csv_usecols_chunks_200000"
+  }
+]

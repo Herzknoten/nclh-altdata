@@ -1,0 +1,12 @@
+parent,brand,present_signatures,strength,calendar21_units,pre_post_units,persistence_units,eligible_ships,detected_ships,opening_pairs,supported_late_months,supported_sister_correlations,main_caveat
+NCLH,norwegian,14d_endpoint_persistence;2026_late_markdown,weak,3524,4008,1461,18,0,33,3,0,Opening comparison: 2 ships; no same-month support; first seen is not launch
+NCLH,oceania,14d_endpoint_persistence,weak,370,453,46,7,0,0,3,0,No supported opening-to-opening comparison; asking-price signatures only
+NCLH,regent-seven-seas,14d_endpoint_persistence,weak,85,92,18,4,0,0,0,0,No supported opening-to-opening comparison; asking-price signatures only
+RCG,royal-caribbean,14d_endpoint_persistence,weak,4800,5789,4274,31,0,88,3,1,Opening comparison: 2 ships; no same-month support; first seen is not launch
+RCG,celebrity,14d_endpoint_persistence,weak,1775,2092,2035,14,0,0,3,1,No supported opening-to-opening comparison; asking-price signatures only
+RCG,silversea,no_rule_met,no_rule_met,255,291,253,11,0,18,3,0,Opening comparison: 2 ships; no same-month support; first seen is not launch
+RCG,celebrity-river,14d_endpoint_persistence,weak,499,0,27,5,0,0,0,0,Sparse river inventory; parent affiliation inferred from export label
+Carnival Corporation,carnival,14d_endpoint_persistence,weak,3546,4548,1323,30,0,44,3,0,Opening comparison: 1 ships; no same-month support; first seen is not launch
+Carnival Corporation,princess,14d_endpoint_persistence,weak,2390,2487,2370,17,0,0,3,1,No supported opening-to-opening comparison; asking-price signatures only
+Carnival Corporation,holland-america,14d_endpoint_persistence,weak,1785,1801,433,10,0,0,3,1,No supported opening-to-opening comparison; asking-price signatures only
+Carnival Corporation,seabourn,14d_endpoint_persistence;sustained_ship_steps;2026_late_markdown,weak,225,249,134,5,1,0,2,0,No supported opening-to-opening comparison; asking-price signatures only

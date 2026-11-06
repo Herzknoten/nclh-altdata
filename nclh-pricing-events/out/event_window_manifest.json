@@ -1,0 +1,95 @@
+{
+  "status": "complete",
+  "tool": "event_window",
+  "parameters": {
+    "export": "/home/rich/devdata/allaboard-parser/out/claude-check",
+    "out": "/home/rich/devdata/nclh-pricing-events/out",
+    "daily_aggregation": "median",
+    "min_lead_days": 0,
+    "parse_statuses": "ok,warning",
+    "start_date": null,
+    "end_date": null,
+    "lead_bucket_upper_bounds": [
+      30,
+      90,
+      180,
+      365,
+      730
+    ],
+    "change_dates": [
+      "2026-04-01",
+      "2026-05-04",
+      "2026-07-30"
+    ],
+    "placebo_dates": null,
+    "window_days": 14,
+    "min_side_days": 1,
+    "min_event_n": 1,
+    "min_pair_coverage": 0,
+    "min_cohort_pairs": 10,
+    "min_placebo_dates": 5,
+    "exclusion_days": 14,
+    "percentile_tie_tolerance": 1e-12,
+    "percentile_tie_rule": "midrank"
+  },
+  "rules": {
+    "identity": "line,ship,sailing_id,cabin",
+    "timestamp_date": "own_calendar_date_no_timezone_conversion",
+    "duplicate_policy": "collapse_identical_timestamp_prices_fail_conflicts",
+    "metadata_policy": "fail_missing_or_conflicting_identity_date_nights_lead",
+    "missing_policy": "no_interpolation_or_carry_forward",
+    "coverage_universe": "four_schema_cabin_slots_per_included_sailing_not_availability",
+    "threshold_comparison": "inclusive_decimal",
+    "calendar_bounds": "explicit_bounds_else_global_raw_history_span",
+    "price_policy": "exclude_nonpositive_or_nonfinite",
+    "event_day_policy": "exclude",
+    "side_price_selection": "nearest_observed_day",
+    "event_statistic": "median_individual_log_price_change",
+    "placebo_match": "same_line_departure_quarter_event_lead_bucket_cabin",
+    "placebo_interval_exclusion": "entire_date_if_any_selected_closed_interval_contains_target",
+    "placebo_date_weight": "equal_weight_for_eligible_cohort_medians"
+  },
+  "export": "/home/rich/devdata/allaboard-parser/out/claude-check",
+  "input_sha256": {
+    "sailings.csv": "ae5d77fa097e9a5d80c69574d6da2124fe0d984ea72919848b80f8fd1882f981",
+    "price_history.csv": "895db83625f4a253576520926e9b1e45533520cb114ce78a2d345755103eb3b7"
+  },
+  "input_counts": {
+    "sailing_rows": 678,
+    "sailing_rows_warning": 269,
+    "sailing_rows_ok": 409,
+    "history_rows": 262608,
+    "usable_unique_history_rows": 262247,
+    "dropped_lead": 361,
+    "included_sailings": 678,
+    "schema_cabin_slots": 2712,
+    "observed_sailing_cabins": 2348,
+    "daily_observations": 262247,
+    "lines": 1
+  },
+  "calendar_start": "2025-10-06",
+  "calendar_end": "2026-09-12",
+  "lines": [
+    "norwegian"
+  ],
+  "control_status": "no_control_line",
+  "outputs": {
+    "event_summary.csv": {
+      "rows": 512,
+      "sha256": "f02e1f409ec496e29c4e36da5146b75c790c47ff5543e2f52ed95af8caf88a4d"
+    },
+    "event_pairs.csv": {
+      "rows": 9047,
+      "sha256": "2689f2552f7c6537628f0c536e036933db2f5b496ad504814eb00e016f9ed1ed"
+    },
+    "event_coverage.csv": {
+      "rows": 11,
+      "sha256": "ff28ef56cde75ab2a86b2fc294b54138d65b18fb7967bd8cc1d377b45b9d5651"
+    }
+  },
+  "excluded_placebo_dates": [
+    "2026-04-01",
+    "2026-05-01",
+    "2026-08-01"
+  ]
+}
